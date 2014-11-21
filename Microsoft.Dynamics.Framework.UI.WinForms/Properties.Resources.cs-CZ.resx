@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MenuItem_Additional" xml:space="preserve">
+    <value>&amp;Další</value>
+  </data>
+  <data name="ReportViewer_ExportMenuItemText" xml:space="preserve">
+    <value>Uložit jako...</value>
+  </data>
+  <data name="ReportViewer_RefreshButtonToolTip" xml:space="preserve">
+    <value>Aktualizovat</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonText" xml:space="preserve">
+    <value>Další</value>
+  </data>
+  <data name="ReportViewer_SelectAll" xml:space="preserve">
+    <value>(Vybrat vše)</value>
+  </data>
+  <data name="BusinessChartSaveAsCompressedBitmapFilter" xml:space="preserve">
+    <value>Komprimovaný rastrový obrázek</value>
+  </data>
+  <data name="Exception_ImageFileSaveError" xml:space="preserve">
+    <value>Při pokusu o uložení souboru došlo k chybě.</value>
+  </data>
+  <data name="AcsErrorPageTitle" xml:space="preserve">
+    <value>Nelze se přihlásit, protože služby řízení přístupu webové stránky nefungují správně</value>
+  </data>
+  <data name="ReportViewer_PasswordPrompt" xml:space="preserve">
+    <value>Heslo:</value>
+  </data>
+  <data name="AcsErrorPageIssue1" xml:space="preserve">
+    <value>Připojení k Internetu bylo ztraceno.</value>
+  </data>
+  <data name="ReportViewer_PageOf" xml:space="preserve">
+    <value>z</value>
+  </data>
+  <data name="ReportViewer_ExportButtonToolTip" xml:space="preserve">
+    <value>Uložit jako...</value>
+  </data>
+  <data name="ReportViewer_PrintMenuItemText" xml:space="preserve">
+    <value>Tisk</value>
+  </data>
+  <data name="ReportViewer_ZoomToPageWidth" xml:space="preserve">
+    <value>Šířka stránky</value>
+  </data>
+  <data name="ReportViewer_Runtime_Not_Installed" xml:space="preserve">
+    <value>{0} nebyl nainstalován. Obraťte se na správce systému.</value>
+  </data>
+  <data name="ReportViewer_DocumentMapButtonToolTip" xml:space="preserve">
+    <value>Zobrazení nebo skrytí rozvržení dokumentu</value>
+  </data>
+  <data name="ReportViewer_PrintLayoutButtonToolTip" xml:space="preserve">
+    <value>Rozložení při tisku</value>
+  </data>
+  <data name="Outlook_ConnectionState_Connecting" xml:space="preserve">
+    <value>Připojení k {0}...</value>
+  </data>
+  <data name="ReportViewer_ViewReportButtonToolTip" xml:space="preserve">
+    <value>Zobrazit zprávu</value>
+  </data>
+  <data name="LookupSetDefaultColumnActionName" xml:space="preserve">
+    <value>Nastavit jako výchozí sloupec filtru</value>
+  </data>
+  <data name="MenuItem_Typical" xml:space="preserve">
+    <value>&amp;Typická</value>
+  </data>
+  <data name="AcsSignInCancelMessage" xml:space="preserve">
+    <value>Jste si jisti, že chcete zrušit přihlášení?</value>
+  </data>
+  <data name="ReportViewer_SaveAs_Excel_Filter" xml:space="preserve">
+    <value>{0} Sešitu</value>
+  </data>
+  <data name="ReportViewer_SearchTextBoxToolTip" xml:space="preserve">
+    <value>Hledaný Text</value>
+  </data>
+  <data name="Outlook_Calendar" xml:space="preserve">
+    <value>Kalendář</value>
+  </data>
+  <data name="OneNote_EmptyPage" xml:space="preserve">
+    <value>Prázdná stránka</value>
+  </data>
+  <data name="ReportViewer_FindButtonText" xml:space="preserve">
+    <value>Najít</value>
+  </data>
+  <data name="AccessibleActionClick" xml:space="preserve">
+    <value>Klepněte na tlačítko</value>
+  </data>
+  <data name="Outlook_Open" xml:space="preserve">
+    <value>Otevřené</value>
+  </data>
+  <data name="MissingControl_LibraryNotFound" xml:space="preserve">
+    <value>Nelze nalézt jeden nebo více závislostí pro ovládací prvek {0}.</value>
+  </data>
+  <data name="BusinessChartPrintPageError" xml:space="preserve">
+    <value>Chyba při tisku grafu</value>
+  </data>
+  <data name="ControlAddIn_WrongDataType" xml:space="preserve">
+    <value>Ovládací prvek add-in pro {0}"očekává, že typ dat .NET {1}. Změňte ovládací prvek na stránce vázat na data tohoto typu.</value>
+  </data>
+  <data name="FormPanel_ToolTipTitle" xml:space="preserve">
+    <value>Výsledky ověření</value>
+  </data>
+  <data name="OneNote_ErrorNavigating" xml:space="preserve">
+    <value>Nelze nalézt aplikaci OneNote obsah. Zkontrolujte umístění a oprávnění pro pracovní složky aplikace OneNote.</value>
+  </data>
+  <data name="ProgressNotificationForm_Canceling" xml:space="preserve">
+    <value>Zrušení</value>
+  </data>
+  <data name="ReportViewer_StopMenuItemText" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="OneNote_ErrorCommunicating" xml:space="preserve">
+    <value>Nelze komunikovat s pracovní složku aplikace OneNote. Zkontrolujte umístění a oprávnění pro pracovní složky aplikace OneNote.</value>
+  </data>
+  <data name="ExceptionAcsUriIsInvalid" xml:space="preserve">
+    <value>Adresa určená pro službu řízení přístupu není platná ({0})</value>
+  </data>
+  <data name="OneNote_LinkTo" xml:space="preserve">
+    <value>Odkaz na {0}</value>
+  </data>
+  <data name="BusinessChartPrintPagePreview" xml:space="preserve">
+    <value>Náhled tisku...</value>
+  </data>
+  <data name="MissingControl_Error" xml:space="preserve">
+    <value>Chyba řízení</value>
+  </data>
+  <data name="ControlAddIn_NoJavaScript" xml:space="preserve">
+    <value>Ovládací prvek add-in pro {0}"nelze zobrazit, protože není zapnut jazyk JavaScript.</value>
+  </data>
+  <data name="ReportViewer_FalseValueText" xml:space="preserve">
+    <value>NEPRAVDA</value>
+  </data>
+  <data name="MissingControl_Details" xml:space="preserve">
+    <value>Podrobnosti: {0}</value>
+  </data>
+  <data name="ReportViewer_TrueValueText" xml:space="preserve">
+    <value>Pravda</value>
+  </data>
+  <data name="AcsSignInCancelButton" xml:space="preserve">
+    <value>Zrušit přihlášení</value>
+  </data>
+  <data name="Clipboard_Copy_ExternalError" xml:space="preserve">
+    <value>Nelze kopírovat text do schránky, protože je používán jiným programem.</value>
+  </data>
+  <data name="ReportViewer_BackButtonToolTip" xml:space="preserve">
+    <value>Zpět k nadřazené sestavě</value>
+  </data>
+  <data name="Exception_Clipboard_Operation_Did_Not_Succed" xml:space="preserve">
+    <value>Požadovaná operace se schránkou se nezdařila. K tomu může dojít, když se do schránky je používán jiným procesem.</value>
+  </data>
+  <data name="Outlook_OutlookIsNotInstalled" xml:space="preserve">
+    <value>Nelze se připojit k {0} nebo {0} není nainstalován.</value>
+  </data>
+  <data name="ReportViewer_PrintLayoutMenuItemText" xml:space="preserve">
+    <value>Náhled před tiskem</value>
+  </data>
+  <data name="Image_ActionCopy" xml:space="preserve">
+    <value>&amp;Kopírovat</value>
+  </data>
+  <data name="MenuItem_SelectAll" xml:space="preserve">
+    <value>Vybrat Vše</value>
+  </data>
+  <data name="MenuItem_Essential" xml:space="preserve">
+    <value>&amp;Základní</value>
+  </data>
+  <data name="Message_Running_Out_Of_Resources" xml:space="preserve">
+    <value>{0} se blíží vyčerpání systémových prostředků.  Chcete-li zabránit možné ztrátě neuložených dat, zavřete všechna okna nepoužívané {0} nyní.</value>
+  </data>
+  <data name="Image_ActionSave" xml:space="preserve">
+    <value>Uložit obrázek &amp;jako...</value>
+  </data>
+  <data name="MenuItem_More_Menu" xml:space="preserve">
+    <value>&amp;Více...</value>
+  </data>
+  <data name="Exception_ImageFileTooLarge" xml:space="preserve">
+    <value>Zadaný soubor je příliš velký.</value>
+  </data>
+  <data name="Outlook_ConnectionState_ConnectionFailed" xml:space="preserve">
+    <value>Připojení k {0} se nezdařilo.</value>
+  </data>
+  <data name="ReportViewer_ParameterAreaButtonToolTip" xml:space="preserve">
+    <value>Parametry oblast</value>
+  </data>
+  <data name="ReportViewer_UserNamePrompt" xml:space="preserve">
+    <value>Uživatelské jméno:</value>
+  </data>
+  <data name="ImageControl_Load_AllFiles_Filter" xml:space="preserve">
+    <value>Všechny soubory</value>
+  </data>
+  <data name="GridHeader_ChooseHeight" xml:space="preserve">
+    <value>Vyberte &amp;výšku záhlaví</value>
+  </data>
+  <data name="ReportViewer_StopButtonToolTip" xml:space="preserve">
+    <value>Zastaví vykreslování</value>
+  </data>
+  <data name="OneNote_WarningVersionCaption" xml:space="preserve">
+    <value>Byl nalezen nekompatibilní verze Microsoft OneNote Interop.</value>
+  </data>
+  <data name="ProgressNotificationForm_Cancel" xml:space="preserve">
+    <value>Storno</value>
+  </data>
+  <data name="ReportViewer_PageSetupMenuItemText" xml:space="preserve">
+    <value>Vzhled stránky</value>
+  </data>
+  <data name="ReportViewer_ChangeCredentialsText" xml:space="preserve">
+    <value>Změnit pověření</value>
+  </data>
+  <data name="OneNote_WarningVersion" xml:space="preserve">
+    <value>Nelze se připojit k Microsoft OneNote, protože sestavení nekompatibilní interoperability nebyl nalezen. Pro integraci s aplikací OneNote, musí mít alespoň Microsoft Office 2010, verze 14.0.4763.1000, nainstalované v počítači. Ověřte, zda máte správnou verzi sady Microsoft Office.</value>
+  </data>
+  <data name="ControlAddIn_Error" xml:space="preserve">
+    <value>Chyba ovládacího prvku Add-in</value>
+  </data>
+  <data name="BusinessChartResetZoom" xml:space="preserve">
+    <value>Vynulovat Lupu</value>
+  </data>
+  <data name="Filter_FiniteEditorPicker_SelectAValue" xml:space="preserve">
+    <value>Vyberte hodnotu</value>
+  </data>
+  <data name="ReportViewer_ProgressText" xml:space="preserve">
+    <value>Probíhá generování sestavy.</value>
+  </data>
+  <data name="ReportViewer_ZoomMenuItemText" xml:space="preserve">
+    <value>Lupa</value>
+  </data>
+  <data name="MenuItem_Cut" xml:space="preserve">
+    <value>Vyjmo&amp;ut</value>
+  </data>
+  <data name="ReportViewer_LastPageButtonToolTip" xml:space="preserve">
+    <value>Poslední stránka</value>
+  </data>
+  <data name="ControlAddIn_CreationError" xml:space="preserve">
+    <value>Došlo k chybě při vytváření aplikace řízení pro {0}. Chybová zpráva: {1}</value>
+  </data>
+  <data name="ReportViewer_TextNotFound" xml:space="preserve">
+    <value>Nelze najít výsledky, které odpovídají zadaným kritériím hledání.</value>
+  </data>
+  <data name="OneNote_EmptyPageContent" xml:space="preserve">
+    <value>Není v současné době Poznámka pro vybranou entitu.</value>
+  </data>
+  <data name="Outlook_CreateNewTask" xml:space="preserve">
+    <value>Vytvořit nový úkol</value>
+  </data>
+  <data name="MenuItem_Undo" xml:space="preserve">
+    <value>&amp;Zpět</value>
+  </data>
+  <data name="ReportViewer_FindButtonToolTip" xml:space="preserve">
+    <value>Najít</value>
+  </data>
+  <data name="AcsErrorPageHeader" xml:space="preserve">
+    <value>Služby řízení přístupu webové stránky nefunguje správně</value>
+  </data>
+  <data name="Exception_ImageFileLoadError" xml:space="preserve">
+    <value>Došlo k chybě při pokusu otevřít zadaný soubor.</value>
+  </data>
+  <data name="ReportViewer_PreviousPageButtonToolTip" xml:space="preserve">
+    <value>Předchozí stránka</value>
+  </data>
+  <data name="Unknown_Control_Message" xml:space="preserve">
+    <value>Nelze nalézt ovládací adaptér pro namapování logické kontroly {0}.</value>
+  </data>
+  <data name="OneNote_Empty" xml:space="preserve">
+    <value>Prázdný</value>
+  </data>
+  <data name="Outlook_None" xml:space="preserve">
+    <value>Žádný</value>
+  </data>
+  <data name="ReportViewer_DocumentMapMenuItemText" xml:space="preserve">
+    <value>Rozvržení dokumentu</value>
+  </data>
+  <data name="Image_ActionLoad" xml:space="preserve">
+    <value>Vy&amp;brat obrázek...</value>
+  </data>
+  <data name="ControlAddIn_LibraryNotFound" xml:space="preserve">
+    <value>Nelze nalézt doplněk knihovny ovládacích prvků pro {0}".</value>
+  </data>
+  <data name="MenuItem_Paste" xml:space="preserve">
+    <value>&amp;Vložit</value>
+  </data>
+  <data name="ReportViewer_SelectAValue" xml:space="preserve">
+    <value>&lt;Vyberte hodnotu&gt;</value>
+  </data>
+  <data name="MissingControl_InstallRequired" xml:space="preserve">
+    <value>Ujistěte se, že závislostí aplikací jsou nainstalovány a potom nainstalujte aplikaci znovu.</value>
+  </data>
+  <data name="ReportViewer_NullCheckBoxToolTip" xml:space="preserve">
+    <value>Nastavit parametr na hodnotu Null</value>
+  </data>
+  <data name="MenuItem_ImportanceLevel" xml:space="preserve">
+    <value>&amp;Požadovaná důležitost</value>
+  </data>
+  <data name="Summary_Tooltip" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="GridHeader_HeightTitle" xml:space="preserve">
+    <value>Počet řádků v záhlaví</value>
+  </data>
+  <data name="OneNote_PressToCreate" xml:space="preserve">
+    <value>Chcete-li vytvořit novou poznámku, použijte akci OneNote (Alt + F7) v {0}.</value>
+  </data>
+  <data name="ReportViewer_ZoomToWholePage" xml:space="preserve">
+    <value>Celá stránka</value>
+  </data>
+  <data name="GridHeader_HeightFormat" xml:space="preserve">
+    <value>&amp;{0}</value>
+  </data>
+  <data name="ControlAddIn_UnsupportedDataType" xml:space="preserve">
+    <value>Ovládací prvek add-in pro {0}"očekává, datový typ .NET {1}. Tento datový typ není podporovaný datový typ ovládacího doplňku.</value>
+  </data>
+  <data name="BusinessChartPrintPage" xml:space="preserve">
+    <value>Tisk...</value>
+  </data>
+  <data name="ActionBarTabButton_DefaultAction" xml:space="preserve">
+    <value>Spínač</value>
+  </data>
+  <data name="OneNote_ErrorServerExecution" xml:space="preserve">
+    <value>Nelze se připojit k Microsoft OneNote. Aplikace OneNote musí začít sama jednou, aby tuto práci. Ujistěte se, že nepoužíváte systém Microsoft Dynamics NAV nebo OneNote jako správce. Zavřete všechny instance aplikace OneNote. Odešlete stránku nebo záznamu aplikace OneNote znovu.</value>
+  </data>
+  <data name="ReportViewer_SaveAs_PDF_Filter" xml:space="preserve">
+    <value>Soubory Adobe PDF</value>
+  </data>
+  <data name="DefaultActionWrapper_DefaultAction_Caption" xml:space="preserve">
+    <value>Výchozí akce</value>
+  </data>
+  <data name="ReportViewer_FirstPageButtonToolTip" xml:space="preserve">
+    <value>První stránka</value>
+  </data>
+  <data name="ControlAddIn_NotSupported" xml:space="preserve">
+    <value>Ovládací prvek add-in pro {0}, není podporována.</value>
+  </data>
+  <data name="Outlook_CreateNewAppointment" xml:space="preserve">
+    <value>Vytvořit novou událost</value>
+  </data>
+  <data name="Outlook_CreateNewMail" xml:space="preserve">
+    <value>Vytvořit novou e-mailovou zprávu</value>
+  </data>
+  <data name="BusinessChartSaveAsBitmapFilter" xml:space="preserve">
+    <value>Rastrový obrázek</value>
+  </data>
+  <data name="ReportViewer_BackMenuItemText" xml:space="preserve">
+    <value>Nadřazená sestava</value>
+  </data>
+  <data name="Image_ActionDelete" xml:space="preserve">
+    <value>&amp;Odstranit</value>
+  </data>
+  <data name="ControlAddIn_NotSupportedInDesignMode" xml:space="preserve">
+    <value>Přidat do ovládacího prvku není zobrazeno v návrháři.</value>
+  </data>
+  <data name="DefaultBrowserIsNotInstalled" xml:space="preserve">
+    <value>Není nainstalován internetový prohlížeč.</value>
+  </data>
+  <data name="ControlAddIn_InitializationError" xml:space="preserve">
+    <value>Došlo k chybě při inicializaci ovládací prvek přidat do "{0}". Chybová zpráva: {1}.</value>
+  </data>
+  <data name="Outlook_AllDay" xml:space="preserve">
+    <value>Celý den</value>
+  </data>
+  <data name="ReportViewer_NextPageButtonToolTip" xml:space="preserve">
+    <value>Další stránka</value>
+  </data>
+  <data name="AcsSignInCancelTitle" xml:space="preserve">
+    <value>Zrušit přihlášení</value>
+  </data>
+  <data name="Image_ActionShow" xml:space="preserve">
+    <value>&amp;Zobrazit obrázek</value>
+  </data>
+  <data name="ReportViewer_CurrentPageTextBoxToolTip" xml:space="preserve">
+    <value>Aktuální stránka</value>
+  </data>
+  <data name="Outlook_CreateNewMeetingRequest" xml:space="preserve">
+    <value>Vytvořit novou žádost o schůzku</value>
+  </data>
+  <data name="Filter_StringEditor_EnterAValue" xml:space="preserve">
+    <value>Zadejte hodnotu.</value>
+  </data>
+  <data name="ReportViewer_RefreshMenuItemText" xml:space="preserve">
+    <value>Aktualizovat</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonToolTip" xml:space="preserve">
+    <value>Hledat další</value>
+  </data>
+  <data name="ReportViewer_NullCheckBoxText" xml:space="preserve">
+    <value>Null</value>
+  </data>
+  <data name="ReportViewer_TotalPagesToolTip" xml:space="preserve">
+    <value>Celkový počet stránek</value>
+  </data>
+  <data name="Outlook_More" xml:space="preserve">
+    <value>Více...</value>
+  </data>
+  <data name="BusinessChartSaveAsSaveErrorCaption" xml:space="preserve">
+    <value>Chyba při ukládání</value>
+  </data>
+  <data name="Outlook_Today" xml:space="preserve">
+    <value>Dnes</value>
+  </data>
+  <data name="OneNote_Section_NotFound" xml:space="preserve">
+    <value>Nelze najít aplikaci OneNote sekce "{0}" v poznámkovém bloku, který se nachází v "{1}".</value>
+  </data>
+  <data name="Outlook_Tasks" xml:space="preserve">
+    <value>Úkoly</value>
+  </data>
+  <data name="BusinessChartCopy" xml:space="preserve">
+    <value>&amp;Kopírovat</value>
+  </data>
+  <data name="AcsErrorPageIssueHeader" xml:space="preserve">
+    <value>Tento problém může být způsoben řadu otázek, včetně:</value>
+  </data>
+  <data name="ReportViewer_NullValueText" xml:space="preserve">
+    <value>NULL</value>
+  </data>
+  <data name="Outlook_ConnectionState_ConnectionLost" xml:space="preserve">
+    <value>Připojení k {0} bylo ztraceno.</value>
+  </data>
+  <data name="ReportViewer_ZoomControlToolTip" xml:space="preserve">
+    <value>Lupa</value>
+  </data>
+  <data name="GridHeader_HeightApplyToAll" xml:space="preserve">
+    <value>&amp;Platí pro všechny seznamy</value>
+  </data>
+  <data name="BusinessChartSaveAs" xml:space="preserve">
+    <value>&amp;Uložit obrázek jako...</value>
+  </data>
+  <data name="FormPanel_ToolTipCount" xml:space="preserve">
+    <value>({0} {1})</value>
+  </data>
+  <data name="FormPanel_ToolTipFooter" xml:space="preserve">
+    <value>Stisknutím klávesy F1 Nápovědu</value>
+  </data>
+  <data name="AcsErrorPageAddress" xml:space="preserve">
+    <value>Adresa:</value>
+  </data>
+  <data name="Outlook_OutlookInbox" xml:space="preserve">
+    <value>Pošta</value>
+  </data>
+  <data name="MenuItem_Delete" xml:space="preserve">
+    <value>&amp;Odstranit</value>
+  </data>
+  <data name="ImageControl_Load_Image_Filter" xml:space="preserve">
+    <value>Obrazové soubory</value>
+  </data>
+  <data name="AcsErrorPageIssue2" xml:space="preserve">
+    <value>Stránka je dočasně nedostupná.</value>
+  </data>
+  <data name="OneNote_ErrorCreatingContent" xml:space="preserve">
+    <value>Aplikace OneNote nemůže vytvořit obsah. Zkontrolujte umístění a oprávnění pro pracovní složky aplikace OneNote.</value>
+  </data>
+  <data name="GridHeader_HeightApplyToAllConfirm" xml:space="preserve">
+    <value>Se chystáte použít výšky záhlaví sloupce {0} řádků všech seznamů v aplikaci. Přejete si pokračovat?</value>
+  </data>
+  <data name="ReportViewer_NoMoreMatches" xml:space="preserve">
+    <value>Nebyly nalezeny žádné další shody.</value>
+  </data>
+  <data name="BusinessChartSaveAsErrorText" xml:space="preserve">
+    <value>Při ukládání obrázku došlo k chybě. Byla vrácena následující zpráva: "{0}" Ujistěte se, že máte oprávnění k zápisu do složky, kde je obrázek uložen. Je-li se přepsat existující soubor, ujistěte se, že je zapisovatelný.</value>
+  </data>
+  <data name="OneNote_FileOrNoteBookDoesNotExists" xml:space="preserve">
+    <value>Nebyl nalezen soubor nebo notebook. Zkontrolujte umístění, kde jsou uloženy soubory aplikace OneNote a notebooky.</value>
+  </data>
+  <data name="MenuItem_Copy" xml:space="preserve">
+    <value>&amp;Kopírovat</value>
+  </data>
+  <data name="ReportViewer_ViewReportButtonText" xml:space="preserve">
+    <value>Zobrazit zprávu</value>
+  </data>
+  <data name="Unknown_Control_Caption" xml:space="preserve">
+    <value>{0} Neznámý.</value>
+  </data>
+  <data name="Message_Selection_Invalid" xml:space="preserve">
+    <value>Výběr není platný.</value>
+  </data>
+  <data name="Outlook_ConnectionState_Disconnected" xml:space="preserve">
+    <value>Nepřipojeno k {0}.</value>
+  </data>
+  <data name="ReportViewer_PageSetupButtonToolTip" xml:space="preserve">
+    <value>Vzhled stránky</value>
+  </data>
+  <data name="AcsErrorPageIssue3" xml:space="preserve">
+    <value>Skriptování je zakázáno pro webové stránky.</value>
+  </data>
+  <data name="ReportViewer_SaveAs_Title" xml:space="preserve">
+    <value>Uložit sestavu jako...</value>
+  </data>
+  <data name="ReportViewer_PrintButtonToolTip" xml:space="preserve">
+    <value>Tisk</value>
+  </data>
+  <data name="BusinessChartPrintPageSetup" xml:space="preserve">
+    <value>Nastavení tisku...</value>
+  </data>
+  <data name="Strip_Separator" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="ProgressNotificationForm_HeaderFormatWhenTimer" xml:space="preserve">
+    <value>{0} ({1})</value>
+  </data>
+  <data name="ToolTip_Caption_Synopsis" xml:space="preserve">
+    <value>{0}
+
+{1}</value>
+  </data>
+  <data name="ToolTip_Caption_Shortcut" xml:space="preserve">
+    <value>{0} ({1})</value>
+  </data>
+  <data name="ToolTip_Caption_Shortcut_Synopsis" xml:space="preserve">
+    <value>{0} ({1})
+
+{2}</value>
+  </data>
+  <data name="Format_Control_Caption" xml:space="preserve">
+    <value>{0}:</value>
+  </data>
+  <data name="Ellipsis" xml:space="preserve">
+    <value>...</value>
+  </data>
+</root>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?include ..\Globals.wxi?>
+<?include ..\Locals.wxi?>
+<?define ProductFolderName = "Web Client"?>
+<?define ProductName="$(var.ModuleLanguage) Module for Microsoft Dynamics NAV Web Server Components"?>
+<?define ProductDescription="Installs the $(var.ModuleLanguage) Language files for Microsoft Dynamics NAV Web Server Components."?>
+<?define ProductCode="$(var.ProductCodePrefix)-$(var.CountryRegion)-C5A96D838CDE"?>
+<?define UpgradeCode="$(var.UpgradeCodePrefix)-$(var.CountryRegion)-AAF817AE7B73"?>
+
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi"
+     xmlns:util="http://schemas.microsoft.com/wix/UtilExtension">
+  <Product Id="$(var.ProductCode)"
+           Name="$(var.ProductName)"
+           Language="1033"
+           Version="$(var.BuildVersion)"
+           Manufacturer="$(var.Manufacturer)"
+           UpgradeCode="$(var.UpgradeCode)">
+    <Package Manufacturer="$(var.Manufacturer)"
+             Description="$(var.ProductName)"
+             Comments="$(var.ProductDescription)"
+             InstallerVersion="200"
+             Compressed="no"
+             Platform="x64" />
+    
+    <MediaTemplate EmbedCab="yes" />
+
+    <Icon Id="MainIcon" SourceFile="..\NAV.ico" />
+    <Property Id="ARPPRODUCTICON" Value="MainIcon" />
+    <Property Id="ALLUSERS" Value="1" />
+    <Property Id="WEBCLIENTCONFIG" Secure="yes">
+      <DirectorySearch Id="ConfigDir" Path="[INSTALLDIR]">
+        <DirectorySearch Id="WebClientConfigFile">
+          <FileSearch Id="WebClientConfigFile" Name="web.config" />
+        </DirectorySearch>
+      </DirectorySearch>
+    </Property>
+
+    <Feature Id="WebClientResources" Level="1" Title="Web Client Resources">
+      <ComponentGroupRef Id="WebClientResources"/>
+      <ComponentRef Id="web.config" />
+    </Feature>
+    
+    <Feature Id="PlatformResources" Level="1" Title="Platform Resources">
+      <ComponentGroupRef Id="PlatformResources"/>
+    </Feature>
+
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFiles64Folder" Name="PFiles">
+        <Directory Id="ProgramNavFolder" Name="Microsoft Dynamics NAV">
+          <Directory Id="ProgramNavVersionFolder" Name="$(var.NavVersionFolderName)">
+            <Directory Id="INSTALLDIR" Name="Web Client">
+              <Component Guid="5EED2F7A-7081-4697-8C80-44E9D73339CC" Id="web.config" KeyPath="yes" Win64="yes">
+                <Condition>WEBCLIENTCONFIG</Condition>
+                <CreateFolder Directory="INSTALLDIR" />
+                <XmlFile Id="ModifyLanguage"
+                         ElementPath="//configuration/DynamicsNAVSettings/add[\[]@key='Language'[\]]/@value" File="[WEBCLIENTCONFIG]"
+                         Value="$(var.LocalLangFolder)"
+                         Action="setValue"
+                         xmlns="http://schemas.microsoft.com/wix/UtilExtension" />
+                <XmlFile Id="ModifyRegionFormat"
+                         ElementPath="//configuration/DynamicsNAVSettings/add[\[]@key='RegionFormat'[\]]/@value"
+                         File="[WEBCLIENTCONFIG]"
+                         Value="$(var.LocalLangFolder)"
+                         Action="setValue"
+                         xmlns="http://schemas.microsoft.com/wix/UtilExtension" />
+              </Component>
+              <Directory Id="Bin" Name="bin">
+                <Directory Id="LocalLangFolder" Name="$(var.LocalLangFolder)">
+                </Directory>
+              </Directory>
+            </Directory>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Product>
+
+  <Fragment>
+    <ComponentGroup Id="WebClientResources" Directory="LocalLangFolder">
+      <Component Id="Microsoft_Dynamics_Framework_UI_Web_resources_dll" Win64="yes" >
+        <File Source="$(var.Microsoft.Dynamics.Framework.UI.Web.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.Web.TargetName).resources.dll" />
+      </Component>
+      <Component Id="Microsoft_Dynamics_Framework_UI_WebBase_resources_dll" Win64="yes">
+        <File Source="$(var.Microsoft.Dynamics.Framework.UI.WebBase.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.WebBase.TargetName).resources.dll" />
+      </Component>
+      <Component Id="Microsoft_Dynamics_Nav_Client_WebCommon_resources_dll" Win64="yes">
+        <File Source="$(var.Microsoft.Dynamics.Nav.Client.WebCommon.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.Client.WebCommon.TargetName).resources.dll" />
+      </Component>
+      <Component Id="Microsoft_Dynamics_Framework_UI_Web_WebClient_resources_dll" Win64="yes">
+        <File Source="$(var.Microsoft.Dynamics.Framework.UI.Web.WebClient.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.Web.WebClient.TargetName).resources.dll" />
+      </Component>
+      <Component Id="Microsoft_Dynamics_Nav_Client_WebClient_resources_dll" Win64="yes">
+        <File Source="$(var.Microsoft.Dynamics.Nav.Client.WebClient.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.Client.WebClient.TargetName).resources.dll" />
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+  
+	<Fragment>
+		<ComponentGroup Id="PlatformResources" Directory="LocalLangFolder">
+      <Component Id="Microsoft_Dynamics_Framework_UI_resources_dll" Win64="yes">
+        <File Source="$(var.Microsoft.Dynamics.Framework.UI.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.TargetName).resources.dll" />
+      </Component>
+      <Component Id="Microsoft_Dynamics_Nav_Language_resources_dll" Win64="yes">
+        <File Source="$(var.Microsoft.Dynamics.Nav.Language.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.Language.TargetName).resources.dll" />
+      </Component>
+      <Component Id="Microsoft_Dynamics_Framework_UI_UX2006_resources_dll" Win64="yes">
+        <File Source="$(var.Microsoft.Dynamics.Framework.UI.UX2006.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.UX2006.TargetName).resources.dll" />
+      </Component>
+    </ComponentGroup>
+	</Fragment>
+  
+</Wix>

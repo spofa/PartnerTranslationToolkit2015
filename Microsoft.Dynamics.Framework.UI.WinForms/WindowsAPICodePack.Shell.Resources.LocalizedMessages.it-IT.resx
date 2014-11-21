@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ShellPropertyValueTruncated" xml:space="preserve">
+    <value>Un valore in una stringa è stato troncato o arrotondato nel caso di un valore numerico. Impostare AllowTruncatedValue su true per evitare questa eccezione.</value>
+  </data>
+  <data name="FolderTypeCompressedFolder" xml:space="preserve">
+    <value>Cartella compressa</value>
+  </data>
+  <data name="FolderTypeGames" xml:space="preserve">
+    <value>Giochi</value>
+  </data>
+  <data name="MessageListenerFilterUnableToRegister" xml:space="preserve">
+    <value>Impossibile registrare il filtro messaggi.</value>
+  </data>
+  <data name="RestoreDirectoryCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare RestoreDirectory mentre è aperta una finestra di dialogo.</value>
+  </data>
+  <data name="PropertyCollectionInvalidIndex" xml:space="preserve">
+    <value>PropertyKey non è un indice valido.</value>
+  </data>
+  <data name="ShellThumbnailCurrentSizeRange" xml:space="preserve">
+    <value>CurrentSize (larghezza o altezza) non può essere maggiore delle dimensioni massime: {0}.</value>
+  </data>
+  <data name="ShellHelperGetParsingNameFailed" xml:space="preserve">
+    <value>GetParsingName non riuscito.</value>
+  </data>
+  <data name="ExplorerBrowserIconSize" xml:space="preserve">
+    <value>Impossibile ottenere le dimensioni dell'icona.</value>
+  </data>
+  <data name="FolderTypeVideos" xml:space="preserve">
+    <value>Video</value>
+  </data>
+  <data name="FolderTypeInvalid" xml:space="preserve">
+    <value>Non valido</value>
+  </data>
+  <data name="ShowPlacesListCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare la lista di posizioni visualizzate mentre è aperta una finestra di dialogo.</value>
+  </data>
+  <data name="ShellThumbnailNoHandler" xml:space="preserve">
+    <value>L'oggetto ShellObject corrente non dispone di un gestore anteprima valido o si è verificato un problema nell'estrazione dell'anteprima per questo oggetto shell specifico.</value>
+  </data>
+  <data name="JumpListLinkTitleRequired" xml:space="preserve">
+    <value>Il titolo di JumpListLink è obbligatorio e non può essere Null.</value>
+  </data>
+  <data name="ShellLibraryInvalidFolderType" xml:space="preserve">
+    <value>GUID FolderType non valido.</value>
+  </data>
+  <data name="FolderTypeCommunications" xml:space="preserve">
+    <value>Comunicazioni</value>
+  </data>
+  <data name="ShellObjectCollectionInsertReadOnly" xml:space="preserve">
+    <value>Impossibile inserire articoli in una lista di sola lettura.</value>
+  </data>
+  <data name="DialogControlCollectionMenuItemControlsCannotBeAdded" xml:space="preserve">
+    <value>È possibile aggiungere i controlli CommonFileDialogMenuItem solo ai controlli CommonFileDialogMenu.</value>
+  </data>
+  <data name="NavigateToShortcutCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare NavigateToShortcut mentre è aperta una finestra di dialogo.</value>
+  </data>
+  <data name="FolderTypeGenericLibrary" xml:space="preserve">
+    <value>Libreria generica</value>
+  </data>
+  <data name="ShellLibraryFolderNotFound" xml:space="preserve">
+    <value>Percorso della cartella non trovato.</value>
+  </data>
+  <data name="ThumbnailManagerPreviewNotAdded" xml:space="preserve">
+    <value>L'anteprima specificata non è stata aggiunta alla barra delle applicazioni.</value>
+  </data>
+  <data name="FolderTypePrinters" xml:space="preserve">
+    <value>Stampanti</value>
+  </data>
+  <data name="FolderTypeUserFiles" xml:space="preserve">
+    <value>File dell'utente</value>
+  </data>
+  <data name="ThumbnailToolbarManagerMaxButtons" xml:space="preserve">
+    <value>Il numero massimo di pulsanti consentiti è 7.</value>
+  </data>
+  <data name="EnsureValidNamesCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare EnsureValidNames mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="TabbedThumbnailZeroParentHandle" xml:space="preserve">
+    <value>L'handle di finestra padre non può essere zero.</value>
+  </data>
+  <data name="CommonFileDialogMultipleFiles" xml:space="preserve">
+    <value>Selezionati più file. Utilizzare la proprietà FileNames.</value>
+  </data>
+  <data name="EnsurePathExistsCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare EnsurePathExists mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="NavigationLogNullParent" xml:space="preserve">
+    <value>L'elemento padre non può essere Null.</value>
+  </data>
+  <data name="FolderTypePictures" xml:space="preserve">
+    <value>Immagini</value>
+  </data>
+  <data name="ShellObjectCollectionArrayTooSmall" xml:space="preserve">
+    <value>Array di destinazione troppo piccolo o indice di array non valido.</value>
+  </data>
+  <data name="FilePathNotExist" xml:space="preserve">
+    <value>Percorso specificato inesistente ({0}).</value>
+  </data>
+  <data name="FolderTypeNotSpecified" xml:space="preserve">
+    <value>Non Specificato</value>
+  </data>
+  <data name="EnsureReadonlyCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare EnsureReadOnly mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="ShellLibraryEmptyName" xml:space="preserve">
+    <value>LibraryName non può essere vuoto.</value>
+  </data>
+  <data name="ShellObjectWatcherRegisterFailed" xml:space="preserve">
+    <value>Registrazione per notifica modifiche non riuscita.</value>
+  </data>
+  <data name="TasbarWindowProxyWindowSet" xml:space="preserve">
+    <value>TabbedThumbnailProxyWindow non impostato.</value>
+  </data>
+  <data name="CommonFiltersText" xml:space="preserve">
+    <value>File di testo</value>
+  </data>
+  <data name="ExplorerBrowserSelectedItemCount" xml:space="preserve">
+    <value>Si è verificato un errore imprevisto durante il recupero del conteggio articoli selezionato.</value>
+  </data>
+  <data name="JumpListLinkPathRequired" xml:space="preserve">
+    <value>Il percorso di JumpListLink è obbligatorio e non può essere Null.</value>
+  </data>
+  <data name="AlwaysAppendDefaultExtensionCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare AlwaysAppendDefaultExtension mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="FolderTypeMusicIcons" xml:space="preserve">
+    <value>Icone musica</value>
+  </data>
+  <data name="KnownFolderParsingName" xml:space="preserve">
+    <value>Il nome di analisi non è valido.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetSortColumns" xml:space="preserve">
+    <value>Impossibile impostare la lista di colonne di ordinamento.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetVisibleColumns" xml:space="preserve">
+    <value>Impossibile impostare colonne visibili.</value>
+  </data>
+  <data name="FolderTypeMusic" xml:space="preserve">
+    <value>Musica</value>
+  </data>
+  <data name="ComboBoxIndexOutsideBounds" xml:space="preserve">
+    <value>L'indice è oltre i limiti di CommonFileDialogComboBox.</value>
+  </data>
+  <data name="ShellObjectFactoryPlatformNotSupported" xml:space="preserve">
+    <value>La creazione dell'oggetto shell richiede Windows 7 o Windows Vista.</value>
+  </data>
+  <data name="PropertyCollectionNullCanonicalName" xml:space="preserve">
+    <value>L'argomento CanonicalName non può essere Null o vuoto.</value>
+  </data>
+  <data name="ShellPropertyUnableToGetWritableProperty" xml:space="preserve">
+    <value>Impossibile ottenere la gestione proprietà scrivibile per questa proprietà.</value>
+  </data>
+  <data name="TaskbarWindowValueSet" xml:space="preserve">
+    <value>Valore già impostato. Impossibile impostare il valore più di una volta.</value>
+  </data>
+  <data name="ShellObjectCollectionRemoveReadOnly" xml:space="preserve">
+    <value>Impossibile rimuovere articoli da una lista di sola lettura.</value>
+  </data>
+  <data name="OverwritePromptCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare la funzione OverwritePrompt mentre è aperta una finestra di dialogo.</value>
+  </data>
+  <data name="DialogControlCollectionRemoveControlFirst" xml:space="preserve">
+    <value>Il controllo finestra di dialogo deve essere rimosso prima dalle raccolte correnti.</value>
+  </data>
+  <data name="AddToMostRecentlyUsedListCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare AddToMostRecentlyUsedList mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="CommonFiltersPicture" xml:space="preserve">
+    <value>Tutti i file immagine</value>
+  </data>
+  <data name="TaskbarWindowEmptyButtonArray" xml:space="preserve">
+    <value>L'array di pulsanti deve contenere almeno un elemento.</value>
+  </data>
+  <data name="DialogControlCollectionCannotRemoveControls" xml:space="preserve">
+    <value>Impossibile rimuovere i controlli personalizzati da una finestra di dialogo File una volta aggiunti.</value>
+  </data>
+  <data name="CommonFiltersOffice" xml:space="preserve">
+    <value>File di Office</value>
+  </data>
+  <data name="FolderTypeRecycleBin" xml:space="preserve">
+    <value>Cestino</value>
+  </data>
+  <data name="JumpListCustomCategoriesDisabled" xml:space="preserve">
+    <value>Impossibile aggiungere le categorie personalizzate mentre la tracciabilità documenti recenti è disattivata.</value>
+  </data>
+  <data name="NotImplementedException" xml:space="preserve">
+    <value>Metodo o operazione non implementata.</value>
+  </data>
+  <data name="ThumbnailToolbarManagerNullEmptyArray" xml:space="preserve">
+    <value>Gli array Null o vuoti non sono consentiti.</value>
+  </data>
+  <data name="SearchConditionFactoryInvalidProperty" xml:space="preserve">
+    <value>La chiave della proprietà specificata non è valida.</value>
+  </data>
+  <data name="CommonFileDialogNotClosed" xml:space="preserve">
+    <value>Nome file non disponibile; la finestra di dialogo non è ancora stata chiusa.</value>
+  </data>
+  <data name="FolderTypeSearchResults" xml:space="preserve">
+    <value>Risultati ricerca generici</value>
+  </data>
+  <data name="DialogControlCollectionMoreThanOneControl" xml:space="preserve">
+    <value>La finestra di dialogo non può disporre di più controlli con lo stesso nome.</value>
+  </data>
+  <data name="ThumbnailManagerInvalidHandle" xml:space="preserve">
+    <value>Handle di finestra non valido.</value>
+  </data>
+  <data name="ShellPropertySetValue" xml:space="preserve">
+    <value>Impossibile impostare la proprietà.</value>
+  </data>
+  <data name="ShellObjectWatcherUnableToChangeEvents" xml:space="preserve">
+    <value>Impossibile modificare gli eventi controllati durante l'ascolto.</value>
+  </data>
+  <data name="SaveFileNullItem" xml:space="preserve">
+    <value>Recuperato un elemento di shell null da una finestra di dialogo.</value>
+  </data>
+  <data name="KnownFolderInvalidGuid" xml:space="preserve">
+    <value>L'ID cartella nota specificato non è valido.</value>
+  </data>
+  <data name="CommonFileDialogCanceled" xml:space="preserve">
+    <value>Nome file non disponibile; la finestra di dialogo è stata annullata.</value>
+  </data>
+  <data name="ShellInvalidCanonicalName" xml:space="preserve">
+    <value>CanonicalName specificato non valido.</value>
+  </data>
+  <data name="ShellObjectCreationFailed" xml:space="preserve">
+    <value>Impossibile creare l'elemento di shell.</value>
+  </data>
+  <data name="DialogControlCollectionModifyingControls" xml:space="preserve">
+    <value>Impossibile modificare una raccolta di controlli mentre è aperta una finestra di dialogo.</value>
+  </data>
+  <data name="FolderTypeClassic" xml:space="preserve">
+    <value>Interfaccia classica pannello di controllo</value>
+  </data>
+  <data name="ShowHiddenItemsCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare ShowHiddenItems mentre è aperta una finestra di dialogo.</value>
+  </data>
+  <data name="ShellObjectCollectionEmptyCollection" xml:space="preserve">
+    <value>Deve essere presente almeno un oggetto shell nella raccolta.</value>
+  </data>
+  <data name="FolderTypeNetworkExplorer" xml:space="preserve">
+    <value>Esplora rete</value>
+  </data>
+  <data name="ThumbnailManagerPreviewAdded" xml:space="preserve">
+    <value>L'anteprima è già stata aggiunta.</value>
+  </data>
+  <data name="FolderTypeOtherUsers" xml:space="preserve">
+    <value>Altri utenti</value>
+  </data>
+  <data name="FolderTypeOpenSearch" xml:space="preserve">
+    <value>Apri ricerca</value>
+  </data>
+  <data name="FolderIdsUnknownGuid" xml:space="preserve">
+    <value>Il GUID non identifica una cartella nota.</value>
+  </data>
+  <data name="ExplorerBrowserFailedToGetView" xml:space="preserve">
+    <value>Impossibile ottenere la visualizzazione corrente in ExplorerBrowser.</value>
+  </data>
+  <data name="ShellPropertyWindows7" xml:space="preserve">
+    <value>La proprietà è disponibile solo in Windows 7.</value>
+  </data>
+  <data name="ExplorerBrowserItemCount" xml:space="preserve">
+    <value>Si è verificato un errore imprevisto durante il recupero del conteggio articoli.</value>
+  </data>
+  <data name="CommonFileDialogMultipleItems" xml:space="preserve">
+    <value>Selezionati più file. Utilizzare la proprietà Items.</value>
+  </data>
+  <data name="TabbedThumbnailZeroChildHandle" xml:space="preserve">
+    <value>L'handle di finestra del controllo figlio non può essere zero.</value>
+  </data>
+  <data name="MessageListenerFilterUnknownListenerHandle" xml:space="preserve">
+    <value>Una handle di listener con tale valore non è registrato.</value>
+  </data>
+  <data name="ShellLibraryDefaultSaveFolderNotFound" xml:space="preserve">
+    <value>Percorso di DefaultSaveFolder non trovato.</value>
+  </data>
+  <data name="MessageListenerNoWindowHandle" xml:space="preserve">
+    <value>Impossibile creare la finestra sul thread listener perché non esiste alcuna finestra sul thread listener.</value>
+  </data>
+  <data name="ExplorerBrowserUnexpectedError" xml:space="preserve">
+    <value>Si è verificato un errore imprevisto durante il recupero della selezione.</value>
+  </data>
+  <data name="PropertyCollectionCanonicalInvalidIndex" xml:space="preserve">
+    <value>CanonicalName non è un indice valido.</value>
+  </data>
+  <data name="EnsureFileExistsCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare EnsureFileExists mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="JumpListNegativeOrdinalPosition" xml:space="preserve">
+    <value>I numeri negativi non sono consentiti per la posizione ordinale.</value>
+  </data>
+  <data name="ShellThumbnailDoesNotHaveThumbnail" xml:space="preserve">
+    <value>L'oggetto ShellObject corrente non dispone di un'immagine di anteprima. Utilizzare il metodo ShellThumbnailFormatOption.Default per ottenere l'icona per questo articolo.</value>
+  </data>
+  <data name="ThumbnailManagerControlNotAdded" xml:space="preserve">
+    <value>Il controllo specificato non è stato aggiunto alla barra delle applicazioni.</value>
+  </data>
+  <data name="FolderTypeSavedGames" xml:space="preserve">
+    <value>Giochi salvati</value>
+  </data>
+  <data name="ShellPropertyWrongType" xml:space="preserve">
+    <value>La proprietà accetta solo un valore di tipo "{0}".</value>
+  </data>
+  <data name="ShellObjectCannotGetDisplayName" xml:space="preserve">
+    <value>Impossibile ottenere il nome visualizzato.</value>
+  </data>
+  <data name="CommonFileDialogRequiresVista" xml:space="preserve">
+    <value>La finestra di dialogo dei file comuni richiede Windows Vista o versione successiva.</value>
+  </data>
+  <data name="FolderTypeSearches" xml:space="preserve">
+    <value>Ricerche</value>
+  </data>
+  <data name="FolderTypeCategory" xml:space="preserve">
+    <value>Categoria pannello di controllo</value>
+  </data>
+  <data name="ShellThumbnailSizeCannotBe0" xml:space="preserve">
+    <value>CurrentSize (larghezza o altezza) non può essere 0.</value>
+  </data>
+  <data name="FolderTypeUserLibraries" xml:space="preserve">
+    <value>Librerie degli utenti</value>
+  </data>
+  <data name="MessageListenerClassNotRegistered" xml:space="preserve">
+    <value>Impossibile registrare la classe della finestra. Per ulteriori dettagli, controllare l'eccezione interna.</value>
+  </data>
+  <data name="FolderTypeRecordedTV" xml:space="preserve">
+    <value>Registrazioni TV</value>
+  </data>
+  <data name="TaskbarWindowManagerButtonsAlreadyAdded" xml:space="preserve">
+    <value>I pulsanti della barra degli strumenti per questa finestra sono già stati aggiunti. Per ulteriori informazioni su come aggiornare le proprietà o nascondere i pulsanti esistenti, vedere la sezione Osservazioni del metodo AddButtons.</value>
+  </data>
+  <data name="CreatePromptCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare CreatePrompt mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="FolderTypeSearchConnector" xml:space="preserve">
+    <value>Cerca Connector</value>
+  </data>
+  <data name="MessageListenerCannotCreateWindow" xml:space="preserve">
+    <value>Creazione della finestra non riuscita. Per ulteriori dettagli, vedere l'eccezione interna.</value>
+  </data>
+  <data name="CommonFileDialogCannotCreateShellItem" xml:space="preserve">
+    <value>Impossibile creare l'elemento di shell.</value>
+  </data>
+  <data name="IsExpandedModeCannotBeChanged" xml:space="preserve">
+    <value>Impossibile modificare IsExpandedMode mentre la finestra di dialogo è visualizzata.</value>
+  </data>
+  <data name="ExplorerBrowserViewItems" xml:space="preserve">
+    <value>Si è verificato un errore imprevisto durante il recupero degli articoli visualizzati.</value>
+  </data>
+  <data name="ShellPropertyFactoryConstructorNotFound" xml:space="preserve">
+    <value>Impossibile trovare un costruttore corrispondente ai tipi di argomenti richiesti.</value>
+  </data>
+  <data name="ShellObjectFactoryUnableToCreateItem" xml:space="preserve">
+    <value>Impossibile creare l'elemento di shell.</value>
+  </data>
+  <data name="ShellPropertyCannotSetProperty" xml:space="preserve">
+    <value>Impossibile impostare il valore su questa proprietà. Per impostare il valore della proprietà, utilizzare l'oggetto ShellObject associato alla proprietà.</value>
+  </data>
+  <data name="FolderTypeLibrary" xml:space="preserve">
+    <value>Libreria</value>
+  </data>
+  <data name="TaskbarManagerValidWindowRequired" xml:space="preserve">
+    <value>Per aggiornare la barra delle applicazioni è necessaria una finestra attiva valida.</value>
+  </data>
+  <data name="DialogControlCollectionEmptyName" xml:space="preserve">
+    <value>Il nome del controllo non può essere null o di lunghezza zero.</value>
+  </data>
+  <data name="FolderTypeDocuments" xml:space="preserve">
+    <value>Documenti</value>
+  </data>
+  <data name="ExplorerBrowserBrowseToObjectFailed" xml:space="preserve">
+    <value>Ricerca dell'oggetto non riuscita.</value>
+  </data>
+  <data name="CommonFileDialogInvalidHandle" xml:space="preserve">
+    <value>L'handle fornito non può essere IntPtr.Zero.</value>
+  </data>
+  <data name="RadioButtonListIndexOutOfBounds" xml:space="preserve">
+    <value>L'indice è oltre i limiti di CommonFileDialogRadioButtonList.</value>
+  </data>
+  <data name="JumpListFileTypeNotRegistered" xml:space="preserve">
+    <value>Tipo di file non registrato con questa applicazione.</value>
+  </data>
+  <data name="FolderTypeSoftwareExplorer" xml:space="preserve">
+    <value>Gestione software</value>
+  </data>
+  <data name="FolderTypeContacts" xml:space="preserve">
+    <value>Contatti</value>
+  </data>
+  <data name="ShellLibraryInvalidLibrary" xml:space="preserve">
+    <value>La cartella nota specificata non è una libreria valida.</value>
+  </data>
+  <data name="ShellExceptionDefaultText" xml:space="preserve">
+    <value>Si è verificata un'eccezione della shell. Per ulteriori informazioni, vedere l'eccezione interna.</value>
+  </data>
+</root>

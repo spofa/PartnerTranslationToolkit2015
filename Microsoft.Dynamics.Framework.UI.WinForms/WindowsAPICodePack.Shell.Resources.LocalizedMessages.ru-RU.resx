@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ShellPropertyValueTruncated" xml:space="preserve">
+    <value>Значение было обрезано в строке или округлено (при числовом выражении). Установить для AllowTruncatedValue значение true, чтобы избежать данного исключения.</value>
+  </data>
+  <data name="FolderTypeCompressedFolder" xml:space="preserve">
+    <value>Сжатая папка</value>
+  </data>
+  <data name="FolderTypeGames" xml:space="preserve">
+    <value>Игры</value>
+  </data>
+  <data name="MessageListenerFilterUnableToRegister" xml:space="preserve">
+    <value>Не удалось зарегистрировать фильтр сообщений.</value>
+  </data>
+  <data name="RestoreDirectoryCannotBeChanged" xml:space="preserve">
+    <value>При открытом диалоговом окне невозможно изменить RestoreDirectory.</value>
+  </data>
+  <data name="PropertyCollectionInvalidIndex" xml:space="preserve">
+    <value>Этот объект PropertyKey не является допустимым индексом.</value>
+  </data>
+  <data name="ShellThumbnailCurrentSizeRange" xml:space="preserve">
+    <value>Значение CurrentSize (ширина или высота) не может быть больше максимального размера: {0}.</value>
+  </data>
+  <data name="ShellHelperGetParsingNameFailed" xml:space="preserve">
+    <value>Ошибка GetParsingName.</value>
+  </data>
+  <data name="ExplorerBrowserIconSize" xml:space="preserve">
+    <value>Невозможно получить размер значка.</value>
+  </data>
+  <data name="FolderTypeVideos" xml:space="preserve">
+    <value>Видеофайлы</value>
+  </data>
+  <data name="FolderTypeInvalid" xml:space="preserve">
+    <value>Не корректно</value>
+  </data>
+  <data name="ShowPlacesListCannotBeChanged" xml:space="preserve">
+    <value>При открытом диалоговом окне невозможно изменить список мест показа.</value>
+  </data>
+  <data name="ShellThumbnailNoHandler" xml:space="preserve">
+    <value>Текущий объект ShellObject не имеет допустимого обработчика эскиза или существовала проблема извлечения эскиза для этого конкретного объекта программной оболочки.</value>
+  </data>
+  <data name="JumpListLinkTitleRequired" xml:space="preserve">
+    <value>Требуется указать заголовок JumpListLink, оно не может иметь значение Null.</value>
+  </data>
+  <data name="ShellLibraryInvalidFolderType" xml:space="preserve">
+    <value>Недопустимый идентификатор GUID FolderType.</value>
+  </data>
+  <data name="FolderTypeCommunications" xml:space="preserve">
+    <value>Связи</value>
+  </data>
+  <data name="ShellObjectCollectionInsertReadOnly" xml:space="preserve">
+    <value>Невозможно вставить элементы в список, доступный только для чтения.</value>
+  </data>
+  <data name="DialogControlCollectionMenuItemControlsCannotBeAdded" xml:space="preserve">
+    <value>Элементы управления CommonFileDialogMenuItem могут добавляться только в элементы управления CommonFileDialogMenu.</value>
+  </data>
+  <data name="NavigateToShortcutCannotBeChanged" xml:space="preserve">
+    <value>При открытом диалоговом окне невозможно изменить NavigateToShortcut.</value>
+  </data>
+  <data name="FolderTypeGenericLibrary" xml:space="preserve">
+    <value>Универсальная библиотека</value>
+  </data>
+  <data name="ShellLibraryFolderNotFound" xml:space="preserve">
+    <value>Путь к папке не найден.</value>
+  </data>
+  <data name="ThumbnailManagerPreviewNotAdded" xml:space="preserve">
+    <value>Указанный предварительный просмотр не добавлен в панель задач.</value>
+  </data>
+  <data name="FolderTypePrinters" xml:space="preserve">
+    <value>Принтеры</value>
+  </data>
+  <data name="FolderTypeUserFiles" xml:space="preserve">
+    <value>Файлы пользователя</value>
+  </data>
+  <data name="ThumbnailToolbarManagerMaxButtons" xml:space="preserve">
+    <value>Максимальное количество разрешенных кнопок — 7.</value>
+  </data>
+  <data name="EnsureValidNamesCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить EnsureValidNames.</value>
+  </data>
+  <data name="TabbedThumbnailZeroParentHandle" xml:space="preserve">
+    <value>Дескриптор родительского окна не может быть равен нулю.</value>
+  </data>
+  <data name="CommonFileDialogMultipleFiles" xml:space="preserve">
+    <value>Выбрано несколько файлов. Вместо этого используйте свойство FileNames.</value>
+  </data>
+  <data name="EnsurePathExistsCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить EnsurePathExists.</value>
+  </data>
+  <data name="NavigationLogNullParent" xml:space="preserve">
+    <value>Родительский объект не может быть равен Null.</value>
+  </data>
+  <data name="FolderTypePictures" xml:space="preserve">
+    <value>Рисунки</value>
+  </data>
+  <data name="ShellObjectCollectionArrayTooSmall" xml:space="preserve">
+    <value>Целевой массив слишком мал или индекс массива является недопустимым.</value>
+  </data>
+  <data name="FilePathNotExist" xml:space="preserve">
+    <value>Указанный путь не существует ({0}).</value>
+  </data>
+  <data name="FolderTypeNotSpecified" xml:space="preserve">
+    <value>Не указано</value>
+  </data>
+  <data name="EnsureReadonlyCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить EnsureReadOnly.</value>
+  </data>
+  <data name="ShellLibraryEmptyName" xml:space="preserve">
+    <value>Имя LibraryName не может быть пустым.</value>
+  </data>
+  <data name="ShellObjectWatcherRegisterFailed" xml:space="preserve">
+    <value>Регистрация для уведомления об изменении завершилась ошибкой.</value>
+  </data>
+  <data name="TasbarWindowProxyWindowSet" xml:space="preserve">
+    <value>Значение TabbedThumbnailProxyWindow не установлено.</value>
+  </data>
+  <data name="CommonFiltersText" xml:space="preserve">
+    <value>Текстовые файлы</value>
+  </data>
+  <data name="ExplorerBrowserSelectedItemCount" xml:space="preserve">
+    <value>При извлечении выбранного числа элементов возникла непредвиденная ошибка.</value>
+  </data>
+  <data name="JumpListLinkPathRequired" xml:space="preserve">
+    <value>Требуется указать путь к JumpListLink. Он не может иметь значение Null.</value>
+  </data>
+  <data name="AlwaysAppendDefaultExtensionCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить AlwaysAppendDefaultExtension.</value>
+  </data>
+  <data name="FolderTypeMusicIcons" xml:space="preserve">
+    <value>Значки звуковых файлов</value>
+  </data>
+  <data name="KnownFolderParsingName" xml:space="preserve">
+    <value>Имя синтаксического анализа является недопустимым.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetSortColumns" xml:space="preserve">
+    <value>Невозможно задать список столбцов сортировки.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetVisibleColumns" xml:space="preserve">
+    <value>Невозможно задать видимые столбцы.</value>
+  </data>
+  <data name="FolderTypeMusic" xml:space="preserve">
+    <value>Музыка</value>
+  </data>
+  <data name="ComboBoxIndexOutsideBounds" xml:space="preserve">
+    <value>Индекс находится за рамками CommonFileDialogComboBox.</value>
+  </data>
+  <data name="ShellObjectFactoryPlatformNotSupported" xml:space="preserve">
+    <value>Для создания объекта оболочки необходима Windows 7 или Windows Vista.</value>
+  </data>
+  <data name="PropertyCollectionNullCanonicalName" xml:space="preserve">
+    <value>Значение Argument CanonicalName не может быть пустым или равным Null.</value>
+  </data>
+  <data name="ShellPropertyUnableToGetWritableProperty" xml:space="preserve">
+    <value>Для данного свойства невозможно получить перезаписываемое хранилище свойств.</value>
+  </data>
+  <data name="TaskbarWindowValueSet" xml:space="preserve">
+    <value>Значение уже задано. Его невозможно задать более одного раза.</value>
+  </data>
+  <data name="ShellObjectCollectionRemoveReadOnly" xml:space="preserve">
+    <value>Невозможно удалить элементы из списка, доступного только для чтения.</value>
+  </data>
+  <data name="OverwritePromptCannotBeChanged" xml:space="preserve">
+    <value>При открытом диалоговом окне невозможно изменить функцию OverwritePrompt.</value>
+  </data>
+  <data name="DialogControlCollectionRemoveControlFirst" xml:space="preserve">
+    <value>Элемент управления диалогового окна необходимо сначала удалено из текущих коллекций.</value>
+  </data>
+  <data name="AddToMostRecentlyUsedListCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить AddToMostRecentlyUsedList.</value>
+  </data>
+  <data name="CommonFiltersPicture" xml:space="preserve">
+    <value>Все файлы рисунков</value>
+  </data>
+  <data name="TaskbarWindowEmptyButtonArray" xml:space="preserve">
+    <value>Массив кнопок должен содержать хотя бы один элемент.</value>
+  </data>
+  <data name="DialogControlCollectionCannotRemoveControls" xml:space="preserve">
+    <value>После добавления пользовательских элементов управления их невозможно удалить из диалогового окна "Файл".</value>
+  </data>
+  <data name="CommonFiltersOffice" xml:space="preserve">
+    <value>Файлы Office</value>
+  </data>
+  <data name="FolderTypeRecycleBin" xml:space="preserve">
+    <value>Корзина</value>
+  </data>
+  <data name="JumpListCustomCategoriesDisabled" xml:space="preserve">
+    <value>Когда отключено отслеживание последних документов, пользовательские категории невозможно добавить.</value>
+  </data>
+  <data name="NotImplementedException" xml:space="preserve">
+    <value>Отсутствует реализация метода или операции.</value>
+  </data>
+  <data name="ThumbnailToolbarManagerNullEmptyArray" xml:space="preserve">
+    <value>Не допускаются пустые массивы и массивы значений Null.</value>
+  </data>
+  <data name="SearchConditionFactoryInvalidProperty" xml:space="preserve">
+    <value>Недопустимый ключ заданного свойства.</value>
+  </data>
+  <data name="CommonFileDialogNotClosed" xml:space="preserve">
+    <value>Отсутствует имя файла — диалоговое окно еще не закрыто.</value>
+  </data>
+  <data name="FolderTypeSearchResults" xml:space="preserve">
+    <value>Универсальные результаты поиска</value>
+  </data>
+  <data name="DialogControlCollectionMoreThanOneControl" xml:space="preserve">
+    <value>В диалоге не допускается наличие нескольких управлений с одинаковыми именами.</value>
+  </data>
+  <data name="ThumbnailManagerInvalidHandle" xml:space="preserve">
+    <value>Недопустимый дескриптор окна.</value>
+  </data>
+  <data name="ShellPropertySetValue" xml:space="preserve">
+    <value>Невозможно установить свойство.</value>
+  </data>
+  <data name="ShellObjectWatcherUnableToChangeEvents" xml:space="preserve">
+    <value>Во время прослушивания невозможно изменить отслеживаемые события.</value>
+  </data>
+  <data name="SaveFileNullItem" xml:space="preserve">
+    <value>Из диалогового окна извлечен пустой элемент оболочки.</value>
+  </data>
+  <data name="KnownFolderInvalidGuid" xml:space="preserve">
+    <value>Идентификатор заданной известной папки является недействительным.</value>
+  </data>
+  <data name="CommonFileDialogCanceled" xml:space="preserve">
+    <value>Отсутствует имя файла — диалоговое окно закрыто.</value>
+  </data>
+  <data name="ShellInvalidCanonicalName" xml:space="preserve">
+    <value>Заданное имя CanonicalName является недействительным.</value>
+  </data>
+  <data name="ShellObjectCreationFailed" xml:space="preserve">
+    <value>Не удается создать элемент оболочки.</value>
+  </data>
+  <data name="DialogControlCollectionModifyingControls" xml:space="preserve">
+    <value>Нельзя изменить коллекцию элементов управления при открытом диалоговом окне.</value>
+  </data>
+  <data name="FolderTypeClassic" xml:space="preserve">
+    <value>Классическая панель управления</value>
+  </data>
+  <data name="ShowHiddenItemsCannotBeChanged" xml:space="preserve">
+    <value>При открытом диалоговом окне невозможно изменить ShowHiddenItems.</value>
+  </data>
+  <data name="ShellObjectCollectionEmptyCollection" xml:space="preserve">
+    <value>В коллекции должен быть хотя бы один объект программной оболочки.</value>
+  </data>
+  <data name="FolderTypeNetworkExplorer" xml:space="preserve">
+    <value>Обозреватель сети</value>
+  </data>
+  <data name="ThumbnailManagerPreviewAdded" xml:space="preserve">
+    <value>Этот предварительный просмотр уже добавлен.</value>
+  </data>
+  <data name="FolderTypeOtherUsers" xml:space="preserve">
+    <value>Другие пользователи</value>
+  </data>
+  <data name="FolderTypeOpenSearch" xml:space="preserve">
+    <value>Открыть поиск</value>
+  </data>
+  <data name="FolderIdsUnknownGuid" xml:space="preserve">
+    <value>Идентификатор GUID не указывает на известную папку.</value>
+  </data>
+  <data name="ExplorerBrowserFailedToGetView" xml:space="preserve">
+    <value>ExplorerBrowser не удалось получить текущее представление.</value>
+  </data>
+  <data name="ShellPropertyWindows7" xml:space="preserve">
+    <value>Данное свойство доступно только в Windows 7.</value>
+  </data>
+  <data name="ExplorerBrowserItemCount" xml:space="preserve">
+    <value>При извлечении числа элементов возникла непредвиденная ошибка.</value>
+  </data>
+  <data name="CommonFileDialogMultipleItems" xml:space="preserve">
+    <value>Выбрано несколько файлов. Вместо этого используйте свойство Items.</value>
+  </data>
+  <data name="TabbedThumbnailZeroChildHandle" xml:space="preserve">
+    <value>Дескриптор окна дочернего элемента управления не может быть равен нулю.</value>
+  </data>
+  <data name="MessageListenerFilterUnknownListenerHandle" xml:space="preserve">
+    <value>Дескриптор средства прослушивания с этим значением не зарегистрирован.</value>
+  </data>
+  <data name="ShellLibraryDefaultSaveFolderNotFound" xml:space="preserve">
+    <value>Путь к DefaultSaveFolder не найден.</value>
+  </data>
+  <data name="MessageListenerNoWindowHandle" xml:space="preserve">
+    <value>Невозможно создать окно в потоке прослушивателя, так как в потоке прослушивателя нет существующего окна.</value>
+  </data>
+  <data name="ExplorerBrowserUnexpectedError" xml:space="preserve">
+    <value>При извлечении выделения возникла непредвиденная ошибка.</value>
+  </data>
+  <data name="PropertyCollectionCanonicalInvalidIndex" xml:space="preserve">
+    <value>Этот объект CanonicalName не является допустимым индексом.</value>
+  </data>
+  <data name="EnsureFileExistsCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить EnsureFileExists.</value>
+  </data>
+  <data name="JumpListNegativeOrdinalPosition" xml:space="preserve">
+    <value>Для порядкового номера не допускаются отрицательные числа.</value>
+  </data>
+  <data name="ShellThumbnailDoesNotHaveThumbnail" xml:space="preserve">
+    <value>Текущий объект ShellObject не имеет эскиза. Значок для этого элемента получают с помощью метода ShellThumbnailFormatOption.Default.</value>
+  </data>
+  <data name="ThumbnailManagerControlNotAdded" xml:space="preserve">
+    <value>Указанный элемент управления не был добавлен в панель задач.</value>
+  </data>
+  <data name="FolderTypeSavedGames" xml:space="preserve">
+    <value>Сохраненные игры</value>
+  </data>
+  <data name="ShellPropertyWrongType" xml:space="preserve">
+    <value>Данное свойство принимает только значения типа "{0}".</value>
+  </data>
+  <data name="ShellObjectCannotGetDisplayName" xml:space="preserve">
+    <value>Невозможно получить отображаемое имя.</value>
+  </data>
+  <data name="CommonFileDialogRequiresVista" xml:space="preserve">
+    <value>Для общего диалогового окна необходима операционная система Windows версии Vista или более поздняя версия.</value>
+  </data>
+  <data name="FolderTypeSearches" xml:space="preserve">
+    <value>Результаты поиска</value>
+  </data>
+  <data name="FolderTypeCategory" xml:space="preserve">
+    <value>Категория панели управления</value>
+  </data>
+  <data name="ShellThumbnailSizeCannotBe0" xml:space="preserve">
+    <value>Значение CurrentSize (ширина или высота) не может быть равно 0.</value>
+  </data>
+  <data name="FolderTypeUserLibraries" xml:space="preserve">
+    <value>Библиотеки пользователя</value>
+  </data>
+  <data name="MessageListenerClassNotRegistered" xml:space="preserve">
+    <value>Не удалось зарегистрировать класс окна. Дополнительные сведения см. в описании внутреннего исключения.</value>
+  </data>
+  <data name="FolderTypeRecordedTV" xml:space="preserve">
+    <value>Запись с ТВ</value>
+  </data>
+  <data name="TaskbarWindowManagerButtonsAlreadyAdded" xml:space="preserve">
+    <value>Кнопки панели инструментов для этого окна уже добавлены. Дополнительные сведения об обновлении свойств и скрытии существующих кнопок см. в разделе заметок, относящемся к методу AddButtons.</value>
+  </data>
+  <data name="CreatePromptCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить CreatePrompt.</value>
+  </data>
+  <data name="FolderTypeSearchConnector" xml:space="preserve">
+    <value>Соединитель поиска</value>
+  </data>
+  <data name="MessageListenerCannotCreateWindow" xml:space="preserve">
+    <value>Создание окна завершилось ошибкой, дополнительные сведения см. в описании внутреннего исключения.</value>
+  </data>
+  <data name="CommonFileDialogCannotCreateShellItem" xml:space="preserve">
+    <value>Не удается создать элемент оболочки.</value>
+  </data>
+  <data name="IsExpandedModeCannotBeChanged" xml:space="preserve">
+    <value>Во время отображения диалогового окна невозможно изменить IsExpandedMode.</value>
+  </data>
+  <data name="ExplorerBrowserViewItems" xml:space="preserve">
+    <value>При извлечении элементов представления возникла непредвиденная ошибка.</value>
+  </data>
+  <data name="ShellPropertyFactoryConstructorNotFound" xml:space="preserve">
+    <value>Конструктор, соответствующий запрошенным типам аргументов, не найден.</value>
+  </data>
+  <data name="ShellObjectFactoryUnableToCreateItem" xml:space="preserve">
+    <value>Невозможно создать элемент программной оболочки.</value>
+  </data>
+  <data name="ShellPropertyCannotSetProperty" xml:space="preserve">
+    <value>Невозможно установить значение этого свойства. Чтобы установить значение свойства, используйте объект ShellObject, который связан с этим свойством.</value>
+  </data>
+  <data name="FolderTypeLibrary" xml:space="preserve">
+    <value>Библиотека</value>
+  </data>
+  <data name="TaskbarManagerValidWindowRequired" xml:space="preserve">
+    <value>Для обновления строки задач необходимо действующее окно.</value>
+  </data>
+  <data name="DialogControlCollectionEmptyName" xml:space="preserve">
+    <value>Имя элемента управления не может быть пустым или иметь нулевую длину.</value>
+  </data>
+  <data name="FolderTypeDocuments" xml:space="preserve">
+    <value>Документы</value>
+  </data>
+  <data name="ExplorerBrowserBrowseToObjectFailed" xml:space="preserve">
+    <value>При переходе к объекту произошел сбой.</value>
+  </data>
+  <data name="CommonFileDialogInvalidHandle" xml:space="preserve">
+    <value>В качестве дескриптора нельзя указать IntPtr.Zero.</value>
+  </data>
+  <data name="RadioButtonListIndexOutOfBounds" xml:space="preserve">
+    <value>Индекс находится за рамками CommonFileDialogRadioButtonList.</value>
+  </data>
+  <data name="JumpListFileTypeNotRegistered" xml:space="preserve">
+    <value>Этот тип файла не зарегистрирован с этим приложением.</value>
+  </data>
+  <data name="FolderTypeSoftwareExplorer" xml:space="preserve">
+    <value>Обозреватель программного обеспечения</value>
+  </data>
+  <data name="FolderTypeContacts" xml:space="preserve">
+    <value>Контакты</value>
+  </data>
+  <data name="ShellLibraryInvalidLibrary" xml:space="preserve">
+    <value>Указанная известная папка не является допустимой библиотекой.</value>
+  </data>
+  <data name="ShellExceptionDefaultText" xml:space="preserve">
+    <value>Возникло исключение программной оболочки. Дополнительные сведения см. в описании внутреннего исключения.</value>
+  </data>
+</root>

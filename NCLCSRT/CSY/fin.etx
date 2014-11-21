@@ -1,0 +1,4837 @@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  OS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Operating System                                                        ³
+// ³                                                                          ³
+// ³  All texts should be based on the operating system documentation in      ³
+// ³  your language to ensure correct translation.                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@1@0@
+@2@2@0@
+OperaŸn¡ syst‚m nem…§e naj¡t soubor %1 %2.
+
+OvØıte spr vnost n zv… jednotky, slo§ky a souboru.
+@2@3@0@
+OperaŸn¡ syst‚m nem…§e naj¡t jednotku a slo§ku, kter‚ byly zad ny pro soubor %1 %2.
+
+OvØıte spr vnost n zv… jednotky, slo§ky a souboru.
+@2@4@0@
+Soubor %1 %2 nelze otevı¡t, proto§e nelze otev¡rat dalç¡ soubory.
+
+V syst‚mech MS-DOS a OS/2 m…§ete tento probl‚m vyıeçit zvìçen¡m hodnoty FILES v souboru CONFIG.SYS.
+@2@5@0@
+OperaŸn¡ syst‚m nem  pı¡stup k souboru %1 %2.
+
+OvØıte spr vnost typu souboru a jeho atribut….
+@2@8@0@
+Nen¡ dostatek pamØti, abyste mohli prov‚st tuto funkci.
+
+Jestli§e pracujete v jednou§ivatelsk‚ instalaci, m…§ete se pokusit sn¡§it hodnotu parametru 'cache'. Informace o optimalizaci operaŸn¡ho syst‚mu najdete v dokumentaci vaçeho operaŸn¡ho syst‚mu.
+@2@14@0@
+V poŸ¡taŸi, na kter‚m bØ§¡ Microsoft Dynamics NAV Server, nen¡ dostatek voln‚ pamØti pro proveden¡ aktu ln¡ aktivity.
+@2@15@0@
+OperaŸn¡ syst‚m nem…§e naj¡t zadanou jednotku pro soubor %1 %2.
+
+Zkontrolujte jednotku a spr vnost z pisu jej¡ho n zvu.
+@2@17@0@
+Nelze pıejmenovat soubor nebo jej pıesunout na jinou jednotku.
+
+Tato zpr va odkazuje na soubory %1 %2.
+
+Oba soubory mus¡ bìt um¡stØny ve stejn‚ jednotce.
+@2@19@0@
+Disketa je chr nØna proti z pisu.
+
+Tato zpr va odkazuje na soubor %1 %2.
+
+OvØıte, zda pou§¡v te spr vnou disketu, a odstraåte ochranu proti z pisu. Dalç¡ informace naleznete v dokumentaci k operaŸn¡mu syst‚mu.
+@2@20@0@
+OperaŸn¡ syst‚m nem…§e naj¡t zaı¡zen¡ %1 %2.
+
+OvØıte, zda pracujete ve spr vn‚m adres ıi a zda jste zadali spr vnì n zev.
+@2@21@0@
+Disketov  jednotka nen¡ pıipravena.
+
+Tato zpr va odkazuje na soubor %1 %2.
+
+OvØıte, zda je disketa v zaı¡zen¡, zda je jednotka uzavıena a nepou§¡v  ji jinì program.
+@2@23@0@
+Pozor: OperaŸn¡ syst‚m nalezl na disku poçkozenou oblast. Nechcete-li ztratit d…le§it  data, je nutn‚ tuto chybu odstranit, a teprve pot‚ budete moci program znovu pou§¡t. Nepou§¡vejte v datab zi § dn‚ typy obslu§nìch program… pro pr ci s disky.
+
+Tato zpr va odkazuje na soubory %1 %2.
+
+Pokud se na disku vyskytla chyba, zkontrolujte, zda byl disk zform tov n. Jinak zkontrolujte pevnì disk a opravte na nØm pı¡padn‚ chyby. M…§e bìt nezbytn‚ disk zform tovat a obnovit data ze z lohy.
+Dalç¡ informace naleznete v dokumentaci k operaŸn¡mu syst‚mu. Pıi pı¡çt¡m spuçtØn¡ programu byste mØli prov‚st test datab ze s nastavenou vlastnost¡ programu dbtest=min. Obraœte se na spr vce syst‚mu.
+@2@25@0@
+Pozor: OperaŸn¡ syst‚m nenalezl na disku po§adovanou stopu nebo oblast. Je mo§n‚, §e je disk poçkozenì, nen¡ naform tovanì nebo nen¡ kompatibiln¡ s operaŸn¡m syst‚mem. Nechcete-li ztratit d…le§it  data, je nutn‚ tuto chybu odstranit a teprve pot‚ budete moci program znovu pou§¡t. Nepou§¡vejte v datab zi § dn‚ typy obslu§nìch program… pro pr ci s disky.
+
+Tato zpr va odkazuje na soubory %1 %2.
+
+Pokud se na disku vyskytla chyba, zkontrolujte, zda je disk naform tov n. Jinak zkontrolujte pevnì disk a opravte na nØm pı¡padn‚ chyby. M…§e bìt nezbytn‚ disk zform tovat a obnovit data ze z lohy.
+Dalç¡ informace naleznete v dokumentaci k operaŸn¡mu syst‚mu. Pıi pı¡çt¡m spuçtØn¡ programu byste mØli prov‚st test datab ze s nastavenou vlastnost¡ programu dbtest=min. Obraœte se na spr vce syst‚mu.
+@2@26@0@
+OperaŸn¡ syst‚m nem…§e Ÿ¡st z disku Ÿi diskety.
+
+Toto hl çen¡ se odkazuje na soubor %1 %2.
+
+Disk nebo disketa je buÔ poçkozen  nebo nen¡ naform tov na pro operaŸn¡ syst‚m. Je tak‚ mo§n‚, §e nen¡ nainstalov n nutnì ovladaŸ soubor…. Dalç¡ informace z¡sk te od spr vce syst‚mu.
+@2@27@0@
+Pozor: OperaŸn¡ syst‚m nenalezl na disku po§adovanì sektor. Je mo§n‚, §e je disk poçkozenì, nen¡ naform tovanì nebo nen¡ kompatibiln¡ s operaŸn¡m syst‚mem. Nechcete-li ztratit d…le§it  data, je nutn‚ tuto chybu odstranit, a teprve pot‚ budete moci program znovu pou§¡t. Nepou§¡vejte v datab zi § dn‚ typy obslu§nìch program… pro pr ci s disky.
+
+Tato zpr va odkazuje na soubory %1 %2.
+
+Pokud se na disku vyskytla chyba, zkontrolujte, zda je disk naform tov n. Jinak zkontrolujte pevnì disk a opravte na nØm pı¡padn‚ chyby. M…§e bìt nezbytn‚ disk zform tovat a obnovit data ze z lohy.
+Dalç¡ informace naleznete v dokumentaci k operaŸn¡mu syst‚mu. Pıi pı¡çt¡m spuçtØn¡ programu byste mØli prov‚st test datab ze s nastavenou vlastnost¡ programu dbtest=min. Obraœte se na spr vce syst‚mu.
+@2@28@0@
+OperaŸn¡ syst‚m nem…§e zpracovat tiskovou £lohu.
+
+OvØıte, zda je zapnut  tisk rna, zda jste ji pıipojili a spr vnØ nainstalovali a zda je v n¡ pap¡r. Pokud tisknete na s¡œov‚ tisk rnØ, ovØıte, zda je na serveru dostatek m¡sta na disku.
+@2@29@0@
+OperaŸn¡ syst‚m nem…§e tisknout na zaı¡zen¡ %1 %2.
+
+OvØıte, zda je spr vnØ nainstalov no, zapnuto, pı¡stupn‚, pıipraveno pıij¡mat data a (jde-li o disk) naform tov no.
+@2@30@0@
+OperaŸn¡ syst‚m nem…§e Ÿ¡st data ze zaı¡zen¡ %1 %2.
+
+OvØıte, zda je zaı¡zen¡ spr vnØ nainstalovan‚, zapnut‚, pı¡stupn‚, pıipraven‚ odes¡lat data a zda je naform tovan‚ (jde-li o disk nebo disketu).
+@2@31@0@
+Zaı¡zen¡ %1 %2, kter‚ je pıipojeno k syst‚mu, nefunguje.
+
+OvØıte, zda je nainstalov no a pıipojeno, zda je zapnut‚, pı¡stupn‚, pıipraven‚ odes¡lat data a zda je naform tovan‚ (jde-li o disk nebo disketu).
+Jestli§e jde o disketovou jednotku, ovØıte, zda je pou§it spr vnì typ diskety, zda je disketa naform tovan  a zda byla spr vnØ vlo§ena do disketov‚ jednotky.
+@2@32@0@
+Nem…§ete pou§¡t soubor %1 %2, proto§e se pr vØ pou§¡v .
+@2@33@0@
+Nem…§ete pou§¡t soubor %1 %2, proto§e jej pou§¡v  jinì proces.
+@2@34@0@
+Pıepnuli jste na çpatnou disketu.
+
+Tato zpr va odkazuje na soubor %1 %2.
+
+Vlo§te spr vnou disketu.
+@2@53@0@
+S¡œov  cesta nem…§e bìt nalezena.
+
+Toto hl çen¡ se odkazuje na soubor %1 %2.
+
+S¡œovì server je mo§n  vypnutì nebo cesta je neplatn .
+@2@80@0@
+Soubor %1 %2 ji§ existuje.
+@2@82@0@
+OperaŸn¡ syst‚m nem…§e vytvoıit soubor nebo slo§ku nazvanou %1 %2 v d…sledku jedn‚ nebo v¡ce n sleduj¡c¡ch chyb:
+
+* slo§ka nebo soubor ji§ existuje
+* nelze naj¡t cestu ke slo§ce
+* koıenov  slo§ka je pln  nebo na disku ji§ nen¡ voln‚ m¡sto
+* n zev slo§ky obsahuje nepovolen‚ znaky nebo je rezervov n pro potıeby operaŸn¡ho syst‚mu
+* disk nebyl spr vnØ zform tov n.
+@2@100@0@
+OperaŸn¡ syst‚m nem…§e vytvoıit dalç¡ semafory.
+
+Nastavte konfiguraci operaŸn¡ho syst‚mu tak, aby bylo mo§n‚ pou§¡t dalç¡ identifik tory semafor…. Pokud provozujete syst‚m UNIX, zvyçte hodnotu SEMMNI a vytvoıte nov‚ j dro syst‚mu UNIX. Doplåuj¡c¡ informace naleznete v dokumentaci k operaŸn¡mu syst‚mu.
+Obraœte se na spr vce syst‚mu.
+@2@108@0@
+S diskem pracuje jinì program.
+
+Tato zpr va odkazuje na soubor %1 %2.
+
+PoŸkejte, dokud jinì program neskonŸ¡.
+@2@112@0@
+Na disku nen¡ § dn‚ voln‚ m¡sto.
+
+Tato zpr va odkazuje na soubor %1 %2.
+
+Pou§ijte jinì disk nebo odstraåte nØkter‚ soubory.
+@2@123@0@
+N zev souboru %1 %2 obsahuje znak, kterì nelze pou§¡t.
+
+Zkontrolujte n zev souboru. Dalç¡ informace o n zvech soubor… naleznete v dokumentaci k operaŸn¡mu syst‚mu.
+@2@126@0@
+OperaŸn¡ syst‚m nem…§e naŸ¡st knihovnu DLL %1.
+
+Zkontrolujte, zda knihovna DLL existuje a zda existuj¡ vçechny dalç¡ knihovny DLL, kter‚ bude syst‚m pou§¡vat.
+@2@127@0@
+OperaŸn¡ syst‚m nem…§e naj¡t knihovnu DLL %1.
+@2@166@0@
+Funkci, kterou jste vybrali, nelze spustit, proto§e nen¡ nainstalov na s¡œ.
+
+Tato zpr va odkazuje na soubor %1 %2.
+
+Zkontrolujte, zda je s¡œ spr vnØ nainstalov na a zda je funkŸn¡.
+@2@190@0@
+OperaŸn¡ syst‚m nem…§e spustit program %1 %2.
+
+K t‚to chybØ dojde, pokus¡te-li se spustit modul DLL jako program nebo program jako modul DLL. Tak‚ je mo§n‚, §e struktura programu neodpov¡d  oŸek v n¡. Zkontrolujte strukturu programu a zp…sob jeho spouçtØn¡.
+@2@191@0@
+OperaŸn¡ syst‚m nem…§e spustit program %1 %2.
+
+OvØıte, zda je program spr vnØ nainstalov n a zda jej lze spustit v pou§it‚m operaŸn¡m syst‚mu.
+@2@192@0@
+OperaŸn¡ syst‚m nem…§e spustit program %1 %2.
+
+OvØıte, zda byl program spr vnØ nainstalov n a propojen.
+@2@193@0@
+OperaŸn¡ syst‚m nem…§e spustit program %1 %2.
+
+OvØıte, zda je program spr vnØ nainstalov n a zda jej lze spustit v pou§it‚m operaŸn¡m syst‚mu.
+@2@203@0@
+OperaŸn¡ syst‚m nem…§e naj¡t promØnnou prostıed¡ %1.
+@2@206@0@
+N zev slo§ky nebo souboru %1 %2 je pı¡liç dlouhì.
+
+Dalç¡ informace naleznete v dokumentaci k operaŸn¡mu syst‚mu.
+@2@700@0@
+OLE nemohlo bìt inicializov no.
+@2@800@0@
+Soubor %1 nelze otevı¡t v syst‚mu NFS (Network File System), proto§e nebyl spuçtØn d‚mon "statd" v klientovi NFS.
+
+Dalç¡ informace najdete v dokumentaci k operaŸn¡mu syst‚mu."
+@2@801@0@
+Soubor %1 nelze otevı¡t v syst‚mu NFS (Network File System), proto§e nebyl spuçtØn d‚mon "lockd" v klientovi NFS.
+
+Dalç¡ informace najdete v dokumentaci k operaŸn¡mu syst‚mu.
+
+@2@802@0@
+Soubor %1 nelze otevı¡t v syst‚mu NFS (Network File System), proto§e nebyl spuçtØn d‚mon "lockd" v klientovi NFS.
+
+Dalç¡ informace najdete v dokumentaci k operaŸn¡mu syst‚mu.
+
+@2@899@0@
+Program se nem…§e pıipojit k procesu serveru.
+
+D…vodem je skuteŸnost, §e server bØ§¡ jako slu§ba spuçtØn  pod syst‚movìm £Ÿtem. Jako n hradn¡ ıeçen¡ spusœte klienta pomoc¡ s¡tØ.
+@2@951@0@
+OperaŸn¡ syst‚m nem…§e vytvoıit § dn‚ dalç¡ semafory.
+
+Je nutn‚ zmØnit konfiguraci operaŸn¡ho syst‚mu tak, aby bylo mo§n‚ pou§¡t v¡ce semafor…. Dalç¡ informace naleznete v souboru readme.txt a v dokumentaci k operaŸn¡mu syst‚mu.
+@2@952@0@
+OperaŸn¡ syst‚m nem…§e vytvoıit § dnou dalç¡ sd¡lenou pamØœ.
+
+Je nutn‚ zmØnit konfiguraci operaŸn¡ho syst‚mu tak, aby bylo mo§n‚ pou§¡t v¡ce sd¡len‚ pamØti. Dalç¡ informace naleznete v souboru readme.txt a v dokumentaci k operaŸn¡mu syst‚mu.
+@2@953@0@
+OperaŸn¡ syst‚m nem…§e vytvoıit sd¡lenou pamØœ zadan‚ velikosti.
+
+Je nutn‚ zmØnit konfiguraci operaŸn¡ho syst‚mu tak, aby bylo mo§n‚ pou§¡t vØtç¡ nebo menç¡ sd¡lenou pamØœ. Dalç¡ informace naleznete v souboru readme.txt a v dokumentaci k operaŸn¡mu syst‚mu.
+@2@958@0@
+OperaŸn¡ syst‚m nepodporuje soubory vØtç¡ ne§ 2GB.
+@2@995@0@
+OperaŸn¡ syst‚m vr til tuto chybu (%18):
+
+%99
+@2@998@0@
+Polo§ka nab¡dky nebo funkce nem…§e bìt pou§ita t¡mto operaŸn¡m syst‚mem.
+@2@999@0@
+Pı¡kaz ke spuçtØn¡ extern¡ho programu %1 je pı¡liç dlouhì.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ Lang ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Multilanguage							      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@7@0@
+@2@3@0@
+Byl vybr n nezn mì jazyk ('%1').
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  UT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Usertypes                                                               ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@9@0@
+@2@002@0@
+Typ '%1' nebyl pro tuto funkci definov n.
+@2@6@0@
+Hodnoty nejsou kompatibiln¡:
+
+Hodnota '%4' typu %1
+
+nen¡ kompatibiln¡
+
+s hodnotou '%104' typu %101.
+@2@7@0@
+Minim ln¡ povolen  hodnota je %4.
+@2@8@0@
+Maxim ln¡ povolen  hodnota je %4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  STACK  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÙ                                                              ³
+// ³                                                                          ³
+// ³  Stack Manager                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@15@0@
+@2@1@0@
+Pro spuçtØn¡ t‚to funkce nen¡ v pamØti dostatek m¡sta.
+
+D…vodem m…§e bìt pou§it¡ rekurzivn¡ho vol n¡ funkc¡ v programu. Obraœte se na spr vce syst‚mu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  FILE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  File                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@17@0@
+@2@1006@0@
+Celkov  d‚lka n zvu souboru, jednotky a cesty nesm¡ pıes hnout 255 znak….
+
+Tato zpr va odkazuje na soubor %1.
+@2@1009@0@
+Soubor %1 obsahuje polo§ku, kter  nem…§e bìt kompletnØ pıeŸtena.
+@2@1010@0@
+Soubor %1 obsahuje ı dek, kterì je pı¡liç dlouhì pro intern¡ promØnnou.
+@2@1014@0@
+Ve znakovìch zaı¡zen¡ch se nem…§ete posunovat.
+
+Toto hl çen¡ se odkazuje na soubor %1.
+@2@1015@0@
+Soubor %1 obsahuje pozici souboru, kter  ji§ neexistuje.
+@2@1016@0@
+Soubor nem…§ete kop¡rovat do jeho vlastn¡ho n zvu.
+
+Toto hl çen¡ se odkazuje na soubor %1.
+@2@1017@0@
+Soubor nem…§ete kop¡rovat do jeho vlastn¡ho n zvu.
+
+Toto hl çen¡ se odkazuje na soubor %1.
+@2@1018@0@
+Form t zkomprimovan‚ho souboru %1 je neplatnì.
+@2@2100@0@
+Soubor %1 je pı¡liç dlouhì.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EVAL  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Evaluation                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@41@0@
+@2@100@0@
+%5 nesm¡ bìt pr zdn‚.
+
+%5 ve vìrazu chyb¡ nebo je neplatn‚.
+@2@101@0@
+Text '%10' je pı¡liç dlouhì. %5 m…§e m¡t maxim ln¡ d‚lku %3 znak….
+@2@104@0@
+Text '%10' je pı¡liç dlouhì. Seznam voleb m…§e m¡t maxim ln¡ d‚lku %3 znak….
+@2@111@0@
+%5 nesm¡ bìt %10.
+
+%5 mus¡ bìt v rozmez¡ %1 - %2.
+@2@112@0@
+Nelze zadat '%10' v %5.
+@2@113@0@
+Nelze zadat '%10' v %5.
+@2@120@0@
+'%10' je pı¡liç dlouhì pro intern¡ promØnnou '%5'.
+@2@141@0@
+'%10' nen¡ volbou.
+
+Existuj¡c¡ volby jsou:
+
+%4
+@2@142@0@
+'%10' nen¡ volbou.
+
+Existuj¡c¡ volby jsou:
+
+%4
+@2@151@0@
+Text '%10' je pı¡liç dlouhì. Text v pol¡ch s k¢dem m…§e m¡t maxim ln¡ d‚lku %3 znak….
+@2@161@0@
+'%10' nen¡ platn‚ datum.
+@2@162@0@
+'%10' nen¡ platn‚ datum.
+@2@171@0@
+'%10' nen¡ platnì Ÿas.
+@2@172@0@
+'%10' nen¡ platnì Ÿas.
+@2@175@0@
+'%10' nen¡ platn  hodnota data a Ÿasu.
+@2@180@0@
+'%5' nem…§e obsahovat '%7' v¡ce ne§ jednou.
+
+%10
+@2@181@0@
+'%5' nem…§e obsahovat '%7' v¡ce ne§ jednou.
+
+%10
+@2@182@0@
+Typ '%5' nen¡ kompletn¡.
+
+%10
+@2@183@0@
+Pro vlastnost Form t bylo zad no neplatn‚ pole nebo atribut.
+
+%10
+
+@2@184@0@
+%10 obsahuje neplatn‚ znaky.
+
+@2@185@0@
+'%1' nen¡ pıedk… DataItem. Zadejte pıedk… DataItem.
+@2@186@0@
+"%1" Nelze zadat, proto§e to nen¡ platnìm sloupcem v tomto dotazu.
+@2@187@0@
+DataItemLink nem  'Field' urŸen‚.
+@2@188@0@
+DataItemLink nem  'Referenced DataItem' zad n.
+@2@189@0@
+DataItemLink nem  urŸeno 'Referenced Field'.
+@2@190@0@
+FlowField nelze pou§¡t v DataItem Link.
+@2@191@0@
+FlowFilter lze propojit pouze s norm ln¡ polem.
+@2@300@0@
+Zde se oŸek v  '%5'.
+
+%10
+@2@301@0@
+Chyba se objevila v tomto souboru:
+
+N zev souboru: %50
+¬¡slo ı dku: %51
+ü dek: %10
+Sloupec: %11
+@2@500@0@
+Intern¡ chyba:
+
+Typ %5 je nezn mì.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  FMT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Format                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@42@0@
+@2@2@0@
+Pro typ %2 neexistuje standardn¡ form t Ÿ¡slo %1.
+@2@4@0@
+D‚lka zdroje pıesahuje velikost c¡lov‚ho z sobn¡ku.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  RecConv  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Conversion Utility                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@43@0@
+@2@1@0@
+Hodnota zadan  v poli prvku dat N zev nem…§e bìt delç¡ ne§ 30 znak….
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  STR  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  String                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@45@0@
+@2@6@0@
+üetØzec %3 je pı¡liç malì pro vkl d n¡ %# pol¡.
+
+Toto chybov‚ hl çen¡ se objevilo, proto§e:
+¬¡slo: %1
+Hodnota: %2
+@2@7@0@
+N sleduj¡c¡ text nesm¡ pıes hnout celkovou d‚lku %1 znak….
+
+'%2' +
+'%3'
+@2@5@0@
+PromØnn  alfa nesm¡ pıes hnout dohromady %1 znak….
+
+'%2'
+@2@11@0@
+Z sobn¡k ıetØzc… je nedostateŸnì, proto§e ıetØzec je pı¡liç malì.
+@2@300@0@
+Index je mimo rozsah pıi pı¡stupu k ıetØzci.
+
+üetØzec: %3
+D‚lka ıetØzce: %1
+Index: %5
+@2@301@0@
+%6 nesm¡ bìt %3.
+@2@302@0@
+Je nutn‚ zadat %6.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DATE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Date                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@46@0@
+@2@1@0@
+Nedefinovan‚ datum nelze pou§¡t ve vìpoŸtu data.
+@2@2@0@
+Datum nen¡ platn‚.
+@2@3@0@
+ULTIMO datum nem…§ete pou§¡t ve vìpoŸtu data.
+@2@4@0@
+Nedefinovanì Ÿas nem…§e bìt pou§¡t ve vìpoŸtu Ÿasu.
+@2@5@0@
+¬as nen¡ platnì.
+@2@8@0@
+Vzorec data pıekraŸuje povolenou velikost.
+@2@201@0@
+Vzorec data '%10' mus¡ obsahovat plus (+) nebo m¡nus (-).
+@2@202@0@
+Vzorec data '%10' by mØl obsahovat Ÿ¡slo.
+@2@203@0@
+Vzorec data %10 by mØl obsahovat Ÿasovou jednotku.
+
+Mo§n‚ Ÿasov‚ jednotky jsou D, WD, W, M, Q a Y.
+Jako pıedponu lze pıed Ÿasovou jednotku vlo§it p¡smeno C, kter‚ oznaŸuje aktu ln¡ Ÿasovou jednotku zalo§enou na datu.
+@2@204@0@
+Vzorec data '%10' by mØl obsahovat Ÿ¡slo.
+@2@205@0@
+Vzorec data %10 obsahuje pı¡liç dlouh‚ Ÿ¡slo.
+
+¬¡slo mus¡ bìt v rozsahu %1-%2.
+@2@206@0@
+D…sledkem vìpoŸtu vzorce data %10 je nespr vn‚ datum: %1.
+
+Lze pou§¡t pouze data mezi 1. lednem 0000 a 31. prosincem 9999.
+@2@207@0@
+Chyba vìpoŸtu (neplatnì ıetØzec jednotek, %4, pro vìraz data v souboru .stx).
+
+Intern¡ chyba: 41-%0
+
+@2@208@0@
+Nem…§ete zalo§it vìpoŸet data na nedefinovan‚m datu.
+
+Datum: 0D
+Vzorec: %10
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  TEXTCONV  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ³                                                                          ³
+// ³  Text Conversion                                                         ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@47@0@
+@2@1@0@
+V pıevodu textu se vyskytly chyby, proto§e text Ÿ. %1-%2 neexistuje v souboru STX.
+
+Intern¡ chyba: 47-%0
+@2@2@0@
+V pıevodu textu se vyskytly chyby, proto§e text Ÿ. %1-%2 je pı¡liç dlouhì pro intern¡ z sobn¡k.
+
+Intern¡ chyba: 47-%0
+@2@3@0@
+V pıevodu textu se vyskytly chyby vzhledem k nespr vn‚ d‚lce intern¡ho z sobn¡ku pro text Ÿ. %1-%2.
+
+Intern¡ chyba: 47-%0
+@2@5@0@
+N sleduj¡c¡ soubory byly £spØçnØ zapeŸetØny:
+
+%1
+@2@7@0@
+ZapeŸetØn¡ nelze prov‚st.
+
+Vaçe licence v m neumo§åuje mØnit soubor fin.stx.
+
+Potıebujete-li pomoc, obraœte se na spr vce syst‚mu.
+@2@101@0@
+V pıevodu textu jsou chyby. K chybØ doçlo v souboru %11 na ı dku %12 v textu '%13'.
+
+Syntaxe je neplatn  pro soubor .stx. Spr vn  syntaxe je:
+<¬¡sloModulu>-<¬¡sloTextu>-<Maxim ln¡D‚lka>-<Pıeklad>: <Text>
+
+PoŸet Ÿ¡slic v syntaxi:
+
+¬¡sloModulu: 5 Ÿ¡slic
+¬¡sloTextu: 5 Ÿ¡slic
+Maxim ln¡D‚lka: 3 Ÿ¡slice
+Pıeklad: 1 Ÿ¡slice
+
+Napı¡klad:
+
+00040-01003-256-1: pondØl¡,£terì,stıeda,...
+Intern¡ chyba: 47-%0
+@2@102@0@
+Pıi pıevodu textu se vyskytly chyby, proto§e ı dek je pı¡liç dlouhì.
+
+Chyba se vyskytla v souboru %11 na ı dku %12 v textu '%13'.
+
+Intern¡ chyba: 47-%0
+@2@103@0@
+Vyskytly se chyby v pıevodu textu, proto§e tentì§ text je definov n v¡ce ne§ jednou.
+
+Chyba se vyskytla v souboru %11 na ı dku %12 v textu '%13'.
+
+Intern¡ chyba: 47-%0
+@2@104@0@
+Pıi pıevodu textu se vyskytly chyby, proto§e text je pı¡liç dlouhì.
+
+Chyba se vyskytla v souboru %11 na ı dku %12 v textu '%13'.
+
+Intern¡ chyba: 47-%0
+@2@105@0@
+Vyskytly se chyby v pıevodu textu, zp…soben‚ neplatnou syntax¡ souboru STX.
+
+Chyba se vyskytla v souboru %11 na ı dku %12 v textu '%13'.
+
+Intern¡ chyba: 47-%0
+@2@106@0@
+V souboru fin.stx se vyskytla chyba kontroln¡ho souŸtu. Soubor byl po instalaci zmØnØn nebo poruçen.
+
+Potıebujete-li pomoc, obraœte se na spr vce syst‚mu.
+@2@109@0@
+Vyskytly se chyby v pıevodu textu, proto§e spr vn  £roveå souboru mus¡ odpov¡dat prvn¡mu ı dku souboru fin.stx.
+
+Chyba se vyskytla v souboru %11 na ı dku %12 v textu '%13'.
+
+Intern¡ chyba: 47-%0
+@2@110@0@
+V souboru fin.stx se vyskytla chyba kontroln¡ho souŸtu. Soubor byl po instalaci zmØnØn nebo poruçen.
+
+Chyba se vyskytla v souboru %11.
+
+Obraœte se na spr vce syst‚mu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  BCD  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Binary Coded Decimal (Decimal No.)                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@50@0@
+@2@1@0@
+DØlen¡ nulou.
+
+%2 / %3
+@2@2@0@
+Vìsledkem n sleduj¡c¡ operace je desetinn‚ Ÿ¡slo, kter‚ je pı¡liç dlouh‚.
+
+%1
+@2@4@0@
+Vìsledkem n sleduj¡c¡ operace je desetinn‚ Ÿ¡slo, kter‚ je pı¡liç dlouh‚.
+
+%1
+@2@5@0@
+Pı¡liç vysok  hodnota cel‚ho Ÿ¡sla.
+
+%2
+@2@6@0@
+Objevila se jedna z n sleduj¡c¡ch chyb:
+
+* negativn¡ Ÿ¡slo bylo umocnØno necelìm Ÿ¡slem
+* nula byla umocnØna negativn¡m Ÿ¡slem
+
+POWER(%2,%4)
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EXEC  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Execute External Program                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@80@0@
+@2@1@0@
+Extern¡ program %1 poslal chybovì k¢d %0.
+
+Bli§ç¡ informace najdete v dokumentaci extern¡ho programu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ATT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Attributes                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@11@0@
+@2@1@0@
+Vlastnost pıesahuje velikost z sobn¡ku.
+@2@100@0@
+Intern¡ chyba:
+Vlastnost %1 nen¡ definov na v seznamu vlastnost¡.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  MT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  MiniTree                                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@24@0@
+@2@3@0@
+NØco nen¡ v poı dku se souborem %2. Abyste mohli pokraŸovat, je nutn‚ tento soubor odstranit nebo pıejmenovat.
+@2@8@0@
+Text v sestavØ pıekraŸuje povolenì limit %11 znak….
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  HELP ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Help Lookup Subsystem                                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@25@0@
+@2@001@0@
+Syst‚m n povØdy byl poruçen.
+ZajistØte, aby soubory .hh byly spr vnØ nainstalov ny.
+@2@002@0@
+ü dek (%4) v souboru n povØdy %1 je pı¡liç dlouhì. D‚lka ı dku m…§e bìt nejvìçe 1023 znak….
+@2@003@0@
+V souboru n povØdy %1 na ı dku %2 na pozici %3 je chyba syntaxe.
+
+%4
+@2@004@0@
+V souboru n povØdy %1 na ı dku %2 na pozici %3 je chyba syntaxe. OŸek v  se #define.
+
+%4
+@2@005@0@
+V souboru n povØdy %1 na ı dku %2 na pozici %3 je chyba syntaxe. OŸek v  se identifik tor.
+
+%4
+@2@006@0@
+V souboru n povØdy %1 na ı dku %2 na pozici %3 je chyba syntaxe. OŸek v  se Ÿ¡slo.
+
+%4
+@2@007@0@
+V souboru n povØdy %1 byl nalezen neplatnì obsah.
+
+%4
+@2@008@0@
+V souboru n povØdy %1 byl nalezen neoŸek vanì popisek.
+
+%4
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´RUNTIME ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@40@0@
+@2@001@0@
+%1 nen¡ implementov no.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´Assert        ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@255@0@
+@2@027@0@
+Intern¡ chyba: %1
+
+%2 ı dek %3
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  L4    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ  License File                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@160@0@
+@2@200@0@
+Form t souboru je neplatnì. Soubor nen¡ platnìm souborem licence.
+@2@201@0@
+Bitov‚ operace lze prov dØt pouze s daty stejn‚ velikosti.
+@2@204@0@
+Z sobn¡k pro n vrat dat nen¡ dostateŸnØ velkì.
+@2@205@0@
+Data ji§ existuj¡.
+@2@206@0@
+Byl pou§it neplatnì parametr.
+@2@208@0@
+Soubor DLL v rozhran¡ API syst‚mu Windows byl poçkozen.
+
+Intern¡ chyba: 160-%0
+
+Obraœte se na spr vce syst‚mu.
+@2@210@0@
+Data nelze interpretovat jako %18.
+@2@211@0@
+Datovì typ %18 nelze na tomto m¡stØ pou§¡t.
+@2@220@0@
+Ji§ nen¡ dostateŸn‚ m¡sto k dispozici.
+@2@242@0@
+Soubor licence nem…§e bìt pou§it touto verz¡ programu.
+@2@248@0@
+K¢d zemØ v licenci neodpov¡d  k¢du zemØ (%1) vaçeho produktu.
+@2@END@0@
+ 
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´ BCMIA ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Large Fixed Decimal Numbers                                             ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@18@0@
+@2@1@0@
+PıeteŸen¡ desetinn‚ho Ÿ¡sla.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´ DB ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Database System                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@19@0@
+@2@1@0@
+Pozor: Byla nalezena chyba ve struktuıe datab ze. K takovìm situac¡m doch z¡, pokud byl datab zovì soubor zmØnØn jinìm programem nebo nepracuje-li spr vnØ ovladaŸ zaı¡zen¡.
+
+Ne§ budete moci pokraŸovat, je nutn‚ tuto chybu opravit. Chybu (%18 v modulu %23) mohl zp…sobit poŸ¡taŸ nebo program.
+
+Tabulka: %1.1
+SpoleŸnost: %1.9
+Kl¡Ÿov  pole: %6
+
+Zkontrolujte datab zi. V nab¡dce Soubor kliknØte na pı¡kaz Datab ze, pot‚ kliknØte na polo§ku Test a na mo§nost Maximum. Dojde-li znovu k t‚§e chybØ, mØli byste prov‚st n sleduj¡c¡ kroky:
+
+1. Vytvoıte z lohu datab ze zkop¡rov n¡m datab zovìch soubor… na jin‚ m¡sto.
+
+2. Vytvoıte z lohu pomoc¡ vestavØnìch funkc¡.
+
+3. Pokud se tato operace zdaı¡, vytvoıte novou datab zi, ale neodstraåujte datab zi, kter  obsahuje chyby.
+Z lohu, kterou jste vytvoıili s pou§it¡m vestavØnìch z lohovac¡ch funkc¡, obnovte do nov‚ datab ze. Otestujte ji vìbØrem pı¡kazu Datab ze z nab¡dky Soubor a kliknut¡m na mo§nosti Test a Maximum.
+
+Nefunguje-li tento postup, znamen  to, §e zmØny, kter‚ byly v datab zi provedeny od posledn¡ho z lohov n¡, budou ztraceny. Obnovte posledn¡ z lohu vytvoıenou s pou§it¡m vestavØn‚ z lohovac¡ funkce a otestujte ji.
+Z bezpeŸnostn¡ch d…vod… byste mØli starou datab zi uchov vat jeçtØ nØjakou dobu pot‚, co zaŸnete pou§¡vat novou.
+
+Potıebujete-li pomoc, obraœte se na spr vce syst‚mu.
+@2@3@0@
+V datab zi nen¡ dostatek m¡sta, aby tato £loha mohla bìt dokonŸena. V¡ce m¡sta z¡sk te:
+
+* Rozç¡ıit datab zi.
+* Odstranit nepotıebn  data.
+* Zkomprimovat starç¡, neaktu ln¡ polo§ky.
+* Optimalizovat datab zi.
+@2@4@0@
+Jin‚ soubØ§n‚ aktivity obsadily prostor v datab zi, kterì obsahoval v ç sn¡mek dat. Tato situace m…§ete nastat u ŸasovØ n roŸnìch £loh, jako je tisk nebo z lohov n¡.
+PoŸkejte, dokud nebude v datab zi prob¡hat m‚nØ soubØ§nìch aktivit, a zopakujte operaci.
+
+Bude-li se tato situace opakovat Ÿasto, mØli byste v datab zi uvolnit v¡ce prostoru. V¡ce m¡sta v datab zi m…§ete z¡skat n sleduj¡c¡mi zp…soby:
+
+* Rozç¡ıen¡m datab ze,
+* odstranØn¡m nepotıebnìch dat,
+* zkomprimov n¡m starç¡ch, neaktu ln¡ch polo§ek,
+* optimalizac¡ datab ze.
+@2@5@0@
+Tabulka %1.1 neexistuje.
+@2@7@0@
+Tuto datab zi nem…§ete upravovat, dokud nebude spuçtØna transakce.
+@2@9@0@
+Typ pole nen¡ definov n pro pole Ÿ¡slo %2.2 v tabulce %1.1.
+@2@13@0@
+Nem…§ete odstranit pole, kter‚ je SumIndexField aktivn¡ho kl¡Ÿe. Pole je:
+
+¬¡slo pole: %2.2
+Tabulka: %1.1
+SumIndexFields: %6
+@2@14@0@
+Nem…§ete odstranit pole, kter‚ je souŸ st¡ aktivn¡ho kl¡Ÿe. Pole je:
+
+¬¡slo pole: %2.2
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@15@0@
+Typ pole SumIndexField mus¡ bìt Decimal. Pole je:
+
+Pole: %2.1
+Tabulka: %1.1
+SumIndexFields: %6
+@2@17@0@
+Tabulka %1.1 nem…§e bìt uzamŸena nebo zmØnØna, proto§e u§ je uzamŸena u§ivatelem s ID u§ivatele %13.
+
+PoŸkejte, a§ tento u§ivatel skonŸ¡ a zkuste to znovu.
+@2@20@0@
+Objekty typu Form a Dataport nejsou podporov ny. Odstraå tyto objekty z datab ze v pıedchoz¡ verzi  Microsoft Dynamics NAV Development Environment.
+@2@1000@0@
+%1.3 %1.2 ji§ existuje.
+@2@1001@0@
+%1.3 %1.2 neexistuje.
+@2@1002@0@
+%1.1 %6.1.1 '%6.1.5' neexistuje. %12
+@2@1003@0@
+Aktivn¡ pole v z znamu nemohou zab¡rat v¡ce ne§ %8 bajt…. Aktivn¡ pole v tabulce %1.1 zab¡raj¡ %7 bajt….
+
+Je nutn‚ sn¡§it jejich poŸet nebo d‚lku.
+@2@1004@0@
+Pro pole Ÿ¡slo %2.2 v tabulce %1.1 existuje v¡ce ne§ jedna definice.
+@2@1005@0@
+Pole Ÿ¡slo %2.2 nen¡ definovan‚ v tabulce %1.1.
+@2@1007@0@
+Tabulka %1.1 nem  aktivn¡ kl¡Ÿ zaŸ¡naj¡c¡ n sleduj¡c¡mi poli: %6. %6.
+@2@1008@0@
+%1.1 neexistuje. %12
+
+Identifikace pol¡ a hodnot:
+
+%6
+
+%1.10
+@2@1009@0@
+%1.1 ji§ existuje.
+
+Identifikace pol¡ a hodnot:
+
+%6
+@2@1010@0@
+Pole %2.1 v tabulce %1.1 mus¡ bìt FlowFilter.
+@2@1011@0@
+Nelze vypoŸ¡tat souŸet hodnot v poli %2.1.
+
+Je nutn‚ definovat, aktivovat a vybrat kl¡Ÿ obsahuj¡c¡ n sleduj¡c¡ kl¡Ÿov  pole v libovoln‚m poıad¡. Pole %2.1 by mØlo bìt k tomuto kl¡Ÿi pıidru§eno jako pole SumIndexField.
+
+Tabulka: %1,1
+Kl¡Ÿov  pole: %1.6
+@2@1013@0@
+N zev pole '%2.1' v tabulce %1.1 je pı¡liç dlouhì (%7). Maxim ln¡ d‚lka je %8.
+@2@1014@0@
+%1.1 %6.1.1 '%6.1.5' ji§ existuje.
+@2@1015@0@
+Kl¡Ÿ ji§ existuje.
+
+Pole prim rn¡ho kl¡Ÿe se automaticky pıid vaj¡ ke vçem sekund rn¡m kl¡Ÿ…m.
+
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@1018@0@
+Kl¡Ÿ m…§e m¡t maxim lnØ %8 pol¡.
+
+Pole prim rn¡ho kl¡Ÿe se automaticky pıid vaj¡ ke vçem sekund rn¡m kl¡Ÿ…m.
+
+Pole: %7
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@1019@0@
+Kl¡Ÿ m…§e m¡t maxim lnØ %8 SumIndexFields.
+
+Pole: %7
+Tabulka: %1.1
+SumIndexFields: %6
+@2@1020@0@
+Tabulka m…§e m¡t maxim lnØ %8 kl¡Ÿ….
+
+Kl¡Ÿe: %7
+Tabulka: %1.1
+@2@1021@0@
+Po spuçtØn¡ aktivity zmØnil jinì u§ivatel definici tabulky %1.1.
+
+Spusœte aktivitu znovu.
+@2@1022@0@
+Jinì u§ivatel zmØnil polo§ku %1.1 potom, co jste ji pıeŸetli z datab ze.
+
+Zadejte sv‚ zmØny znovu v aktualizovan‚m oknØ nebo znovu spusœte pıeruçenou aktivitu.
+
+Identifikace pol¡ a hodnot:
+
+%6
+@2@1023@0@
+Pole %2.1 v tabulce %1.1 nem…§e bìt FlowFilter.
+@2@1024@0@
+Vyhled vac¡ vìraz "%12" obsahuje neplatnì znak.
+
+Ve vyhled vac¡ch vìrazech m…§ete pou§¡t kombinace znaku = se znaky > a <, pıiŸem§ ka§dì znak lze uv‚st jen jednou, nebo znaky - Ÿi +.
+@2@1027@0@
+SouŸet hodnot v poli %2.1 nelze vypoŸ¡tat, proto§e aktu ln¡ kl¡Ÿ neobsahuje vçechna filtrovan  pole.
+
+Je nutn‚ vybrat kl¡Ÿ, kterì obsahuje vçechna pole ve filtru v libovoln‚m poıad¡.
+
+Filtry: %1.10
+Tabulka: %1.1
+Kl¡Ÿov  pole: %1.6
+@2@1029@0@
+Nelze vypoŸ¡tat souŸet hodnot v poli %2.1, proto§e filtr obsahuje znaky otazn¡ku (%19), hvØzdiŸky (%20) nebo "zavin Ÿe" (%21).
+
+Filtry: %1.10
+Tabulka: %1.1
+@2@1030@0@
+Pole %2.1 v tabulce %1.1 mus¡ bìt FlowField.
+@2@1031@0@
+Specifikace filtru v tabulce %1.1 je pı¡liç dlouh  (%7 byt…). M…§e bìt maxim lnØ %8 byt… dlouh .
+@2@1032@0@
+Ve filtru %2.10 pro pole %2.1 v tabulce %1.1 mus¡ bìt urŸena minim ln¡ hodnota.
+
+Pro filtry s minim ln¡ hodnotou A lze pou§¡t tıi povolen‚ form ty:
+
+* A     Vyb¡r  hodnoty, kter‚ se rovnaj¡ A.
+* A..   Vyb¡r  hodnoty vØtç¡ nebo rovn‚ A.
+* A..Z  Vyb¡r  hodnoty v rozsahu od A do Z vŸetnØ.
+@2@1033@0@
+Ve filtru %2.10 pro pole %2.1 v tabulce %1.1 mus¡ bìt urŸena maxim ln¡ hodnota.
+
+Pro filtry s maxim ln¡ hodnotou Z lze pou§¡t tıi povolen‚ form ty:
+
+* Z     Vyb¡r  hodnoty, kter‚ se rovnaj¡ Z.
+* ..Z   Vyb¡r  hodnoty menç¡ nebo rovn‚ Z.
+* A..Z  Vyb¡r  hodnoty v rozsahu od A do Z vŸetnØ.
+@2@1034@0@
+Ve filtru %2.10 pro pole %2.1 v tabulce %1.1 mus¡ bìt urŸen interval.
+
+Pro filtry urŸuj¡c¡ interval lze pou§¡t dva povolen‚ form ty:
+
+* A     Vyb¡r  hodnoty, kter‚ se rovnaj¡ A.
+* A..Z  Vyb¡r  hodnoty v rozsahu od A do Z vŸetnØ.
+@2@1035@0@
+Zadejte filtr pro pole %2.1 v tabulce %1.1.
+
+Informace o zad v n¡ filtr… najdete v n povØdØ online.
+@2@1036@0@
+Pole Ÿ¡slo %2.2 v tabulce %1.1 mus¡ m¡t n zev.
+@2@1037@0@
+D‚lka ıetØzce filtru %7 pıekraŸuje maxim ln¡ povolenou d‚lku %8.
+
+Tabulka: %1.1
+@2@1038@0@
+Tabulka %1.1 je pr zdn .
+@2@1039@0@
+Nelze vypoŸ¡tat hodnotu pole FlowField.
+
+Je nutn‚ definovat a aktivovat kl¡Ÿ, kterì obsahuje n sleduj¡c¡ pole kl¡Ÿe v libovoln‚m poıad¡, a potom k nØmu pıidru§it zadan‚ pole SumIndexField.
+
+Pole kl¡Ÿe: %6
+SumIndexField: %2.1
+Tabulka: %1.1
+@2@1040@0@
+Pole %2.1 v tabulce %1.1 mus¡ bìt aktivn¡.
+@2@1041@0@
+Pole %2.1 v tabulce %1.1 nem…§e bìt FlowField.
+@2@1042@0@
+Jinì u§ivatel zmØnil z znam pro %1.1 %6.1.1 '%6.1.5' pot‚, co jste jej naŸetli z datab ze.
+
+Zadejte zmØny znovu v aktualizovan‚m oknØ nebo znovu spusœte aktivitu.
+@2@1043@0@
+ObØ n¡§e uveden  pole mus¡ m¡t stejnì typ:
+
+Pole: %2.1 <-- %92.1
+Tabulka: %1.1 <-- %91.1
+Typ: %2.3 <-- %92.3
+@2@1044@0@
+Pozor: Datab ze byla poçkozena. K takovìm situac¡m doch z¡, pokud byl datab zovì soubor zmØnØn jinìm programem nebo nepracuje-li spr vnØ ovladaŸ zaı¡zen¡.
+
+Ne§ budete moci pokraŸovat, je nutn‚ tuto chybu opravit. Nepou§¡vejte v datab zi § dn‚ diskov‚ obslu§n‚ programy.
+
+Zkontrolujte datab zi. V nab¡dce Soubor kliknØte na pı¡kaz Datab ze, pot‚ kliknØte na polo§ku Test a na mo§nost Maximum. Dojde-li znovu k t‚§e chybØ, mØli byste prov‚st n sleduj¡c¡ kroky:
+
+1. Vytvoıte z lohu datab ze zkop¡rov n¡m datab zovìch soubor… na jin‚ m¡sto.
+
+2. Vytvoıte z lohu pomoc¡ vestavØnìch funkc¡.
+
+3. Pokud se tato operace zdaı¡, vytvoıte novou datab zi, ale neodstraåujte datab zi, kter  obsahuje chyby.
+Z lohu, kterou jste vytvoıili s pou§it¡m vestavØnìch z lohovac¡ch funkc¡, obnovte do nov‚ datab ze. Otestujte ji vìbØrem pı¡kazu Datab ze z nab¡dky Soubor a kliknut¡m na mo§nosti Test a Maximum.
+
+Nefunguje-li tento postup, znamen  to, §e zmØny, kter‚ byly v datab zi provedeny od posledn¡ho z lohov n¡, budou ztraceny. Obnovte posledn¡ z lohu vytvoıenou s pou§it¡m vestavØn‚ z lohovac¡ funkce a otestujte ji.
+Z bezpeŸnostn¡ch d…vod… byste mØli starou datab zi uchov vat jeçtØ nØjakou dobu pot‚, co zaŸnete pou§¡vat novou.
+
+Potıebujete-li pomoc, obraœte se na spr vce syst‚mu.
+@2@1046@0@
+Nevybrali jste § dnou datab zi.
+@2@1047@0@
+Soubor nen¡ datab z¡.
+@2@1048@0@
+Datab zi nelze otevı¡t v t‚to verzi produktu Microsoft Dynamics NAV Development Environment. Ji§ byla pıevedena na novØjç¡ verzi.
+
+Chcete-li datab zi otevı¡t, je nutn‚ upgradovat na nejnovØjç¡ verzi produktu Microsoft Dynamics NAV Development Environment.
+@2@1049@0@
+Soubory datab ze nepatı¡ ke stejn‚ datab zi.
+@2@1050@0@
+Datab zov‚ soubory nejsou kompatibiln¡.
+
+¬asov‚ znaŸky se neshoduj¡. Nejm‚nØ jeden soubor byl naposledy pou§it pozdØji ne§ ostatn¡ soubory. Tato situace m…§e nastat, pokud bylo provedeno pouze Ÿ steŸn‚ obnoven¡ datab ze. NajdØte datab zov‚ soubory, kter‚ jsou oznaŸeny shodnìm datem a Ÿasem.
+@2@1051@0@
+Poıad¡ datab zovìch soubor… je nespr vn‚. Tato situace m…§e nastat z n sleduj¡c¡ch d…vod…:
+
+* Vybranì datab zovì soubor nen¡ prvn¡m souborem datab ze.
+* Poıad¡ v ıetØzci "datab ze=soubor1+soubor2+soubor3" je nespr vn‚.
+@2@1052@0@
+Datab ze m…§e m¡t maxim lnØ 16 soubor….
+@2@1055@0@
+Tuto funkci nelze spustit v dobØ, kdy datab zi pou§¡vaj¡ jin¡ u§ivatel‚.
+@2@1075@0@
+Definici tabulky (tabulka %1.1) nelze odstranit, pokud tabulka obsahuje z znamy.
+
+Pıed odstranØn¡m definice odstraåte z tabulky vçechny z znamy pro vçechny spoleŸnosti.
+@2@1077@0@
+K¢dy typ… Text, Code a Binary nemohou bìt delç¡ ne§ %8 znak….
+
+Pole %2.1 v tabulce %1.1 m  d‚lku %7 znak….
+@2@1078@0@
+Velikost pol¡ v aktivn¡m kl¡Ÿi nem…§e pıekroŸit %8 bajt…. Velikost pol¡ kl¡Ÿe %6 v tabulce %1.1 je %7 bajt….
+
+Je nutn‚ sn¡§it poŸet nebo d‚lku aktivn¡ch pol¡.
+@2@1079@0@
+Pole %2.1 v tabulce %1.1 je obsa§eno dvakr t ve stejn‚m kl¡Ÿi (pole kl¡Ÿe jsou %6).
+@2@1080@0@
+Pole %2.1 je obsa§eno dvakr t jako SumIndexField ve stejn‚m kl¡Ÿi.
+
+Tabulka: %1.1
+SumIndexFields: %6
+@2@1081@0@
+PoŸ teŸn¡ hodnota pole %2.1 v tabulce %1.1 je pı¡liç dlouh  pro typ pole (%2.3).
+@2@1082@0@
+Aktivn¡ kl¡Ÿe v tabulce %1.1 jsou pı¡liç slo§it‚, je jich pı¡liç mnoho nebo plat¡ oboj¡. Tuto chybu m…§ete odstranit sn¡§en¡m poŸtu
+
+* aktivn¡ch pol¡,
+* pol¡ v kl¡Ÿ¡ch nebo
+* hodnot SumIndexFields pıidru§enìch ke kl¡Ÿ…m.
+@2@1083@0@
+Dı¡ve ne§ m…§ete pou§¡t tabulku %1.1, je nutn‚ vybrat spoleŸnost.
+@2@1087@0@
+Nem…§ete odstranit nebo zmØnit typ pole %2.1 (v tabulce %1.1) dı¡ve, ne§ hodnota v poli bude sn¡§ena na 0 (nulu) nebo '' (pr zdnì ıetØzec) ve vçech polo§k ch. Toto hl çen¡ se objevilo, proto§e byla nalezena nenulov  hodnota polo§ky %6 ve spoleŸnosti%1.9.
+@2@1088@0@
+ZmØna v definici prim rn¡ho kl¡Ÿe vytvoıila dvØ polo§ky se stejnou hodnotou prim rn¡ho kl¡Ÿe.
+
+Prim rn¡ kl¡Ÿ je prvn¡ kl¡Ÿ v seznamu kl¡Ÿ….
+
+Tabulka: %1.1
+SpoleŸnost: %1.9
+Polo§ka: %6
+@2@1090@0@
+Nem…§ete pou§¡t filtr na pole %2.1, proto§e filtr a pole jsou r…znìch typ….
+
+Tabulka: %1.1
+@2@1092@0@
+Hodnota ve filtru '%2.10' v poli %2.1 v tabulce %1.1 je pı¡liç dlouh  pro typ pole.
+
+Typ: %2.3
+@2@1093@0@
+Typ konstanty mus¡ bìt kompatibiln¡ s typem pole %2.1 a d‚lka konstanty nesm¡ pıes hnout d‚lku pole.
+
+Typ: %2.3 <-- %3
+Pole: %2.1 <-- %5
+Tabulka: %1.1
+@2@1094@0@
+Je nutn‚ definovat funkci CalcFormula pro FlowField %2.1 v tabulce %1.1.
+@2@1095@0@
+%1.1 nen¡ ve filtru.
+
+Filtry: %1.10
+@2@1097@0@
+Filtr %10 je neplatnì.
+
+Zadali jste neplatnì vìraz ve filtru pro pole %2.1 v tabulce %1.1.
+@2@1098@0@
+Filtr %10 je neplatnì.
+
+Ve filtru pro pole %2.1 v tabulce %1.1 chyb¡ znak ')'.
+@2@1100@0@
+Filtr %10 je neplatnì.
+
+Ve filtru pro pole %2.1 v tabulce %1.1 chyb¡ hodnota.
+@2@1101@0@
+Filtr %10 je neplatnì.
+
+Ve filtru pro pole %2.1 v tabulce %1.1 chyb¡ hodnota nebo interval.
+@2@1102@0@
+Filtr %10 je neplatnì.
+
+Filtr pro pole %2.1 v tabulce %1.1 je pı¡liç dlouhì.
+@2@1103@0@
+Filtr %10 je neplatnì.
+
+Ve filtru pro pole %2.1 v tabulce %1.1 chyb¡ apostrof (').
+@2@1104@0@
+Je nutn‚ zadat vlastnost OptionString pro pole %2.1.
+
+Typ: %2.3
+Tabulka: %1.1
+@2@1107@0@
+Prim rn¡ kl¡Ÿ (prvn¡ v seznamu kl¡Ÿ…) mus¡ bìt aktivn¡.
+
+Tabulka: %1.1
+@2@1108@0@
+Transakci nelze dokonŸit, proto§e by zp…sobila nekonzistenci v tabulce %1.1.
+
+Zkontrolujte, kde a jak je v transakci pou§ita funkce CONSISTENT, abyste zjistili pı¡Ÿinu chyby.
+
+Obraœte se na spr vce syst‚mu.
+
+Tabulky mohou bìt oznaŸeny jako nekonzistentn¡ v pr…bØhu komplexn¡ch £loh, jako je napı¡klad £Ÿtov n¡. V takov‚m pı¡padØ nelze data spr vnØ aktualizovat.
+@2@1109@0@
+¬¡sla pol¡ mus¡ vØtç¡ ne§ nula.
+
+Tabulka: %1.1
+
+Zadejte Ÿ¡slo pole v ka§d‚m ı dku nebo pr zdn‚ ı dky odstraåte.
+@2@1111@0@
+Server a klient nemaj¡ stejn‚ Ÿ¡slo verze programu.
+@2@1112@0@
+Licence k programu nepovoluje soubØ§nou pr ci v¡ce u§ivatel….
+
+PoŸkejte, dokud nØkterì z u§ivatel… program neukonŸ¡.
+
+Chcete-li umo§nit soubØ§nou pr ci v¡ce u§ivatel… se syst‚mem, obraœte se na spr vce syst‚mu.
+@2@1115@0@
+Spojen¡ k serveru bylo pıeruçeno kv…li komunikaŸn¡ chybØ.
+
+Spusœte znovu klienta.
+@2@1117@0@
+V tabulce %1.1 nebyla definov na § dn  pole.
+@2@1118@0@
+Kl¡Ÿ mus¡ obsahovat aspoå jedno pole.
+@2@1119@0@
+N zev pole se m…§e v tabulce objevit pouze jednou:
+
+N zev pole: %2.1
+Tabulka: %1.1
+@2@1123@0@
+Nem te opr vnØn¡ ke Ÿten¡ z tabulky %1.1.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1126@0@
+S touto licenc¡ k programu nem…§ete pou§¡vat rozs hl‚ datab ze.
+
+Chcete-li datab zi rozç¡ıit, obraœte se spr vce syst‚mu.
+@2@1133@0@
+Licence k programu nen¡ platn  pro tento operaŸn¡ syst‚m.
+
+Chcete-li pracovat s t¡mto operaŸn¡m syst‚mem, obraœte se na spr vce syst‚mu.
+@2@1134@0@
+N sleduj¡c¡ funkce C/AL lze bØhem transakc¡ z pisu pou§¡vat jen v omezen‚ m¡ıe, proto§e bude uzamŸena jedna nebo v¡ce tabulek.
+
+Funkce Form.RunModal nen¡ v transakc¡ch z pisu povolena.
+
+Funkce CodeUnit.Run je v transakc¡ch z pisu povolena jen tehdy, nen¡-li pou§ita n vratov  hodnota. Pı¡klad: Operace 'OK := CodeUnit.Run()' nen¡ povolena.
+
+Funkce Report.RunModal je v transakc¡ch z pisu povolena jen tehdy, plat¡-li 'RequestForm = FALSE'. Pı¡klad: Vol n¡ 'Report.RunModal(...,FALSE)' je povoleno.
+
+Funkce DataPort.RunModal je v transakc¡ch z pisu povolena jen tehdy, plat¡-li 'RequestForm = FALSE'. Pı¡klad: Vol n¡ 'DataPort.RunModal(...,FALSE)' je povoleno.
+
+Pıed vol n¡m t‚to funkce pou§ijte funkci COMMIT nebo zmØåte strukturu k¢du.
+@2@1141@0@
+Data v tabulce nem…§ete mØnit v objektu tabulky. M¡sto toho zmØåte definici tabulky.
+
+Tabulka: %1.1
+@2@1143@0@
+Vçechny filtry souŸasnØ lze kop¡rovat pouze mezi z znamy ze stejn‚ tabulky.
+
+Tabulka: %91.1 <-- %1.1
+
+Potıebn‚ filtry zkop¡rujte jednotlivØ.
+@2@1145@0@
+%1.3 '%1.1' je pr zdn‚.
+@2@1146@0@
+Nen¡ mo§n‚ zmØnit vlastnost 'DataPerCompany', kdy§ v tabulce %1.1 existuj¡ polo§ky. Postupujte podle tohoto n vodu:
+
+* exportujte vçechny polo§ky z tabulky do souboru,
+* odstraåte vçechny polo§ky z tabulky,
+* zmØåte definici tabulky,
+* importujte vçechny polo§ky ze souboru.
+@2@1163@0@
+Obsah pole %92.1 nem…§e bìt zkop¡rov n do pole %2.1, proto§e velikost pole %2.1 je pı¡liç mal .
+
+Typ: %2.3 <-- %92.3
+Pole: %2.1 <-- %92.1
+Tabulka: %1.1 <-- %91.1
+@2@1168@0@
+Soubor nen¡ souborem datab ze.
+@2@1172@0@
+Nelze prov‚st zmØny, proto§e program byl spuçtØn s parametrem dbreadonly (pı¡stup jen pro Ÿten¡).
+
+Obraœte se na spr vce syst‚mu.
+@2@1174@0@
+SouŸet hodnot pole %2.1 nem…§e bìt vypoŸten, proto§e tabulka je filtrov na 'pouze oznaŸen‚'.
+
+Tabulka: %1.1
+@2@1175@0@
+Definice pole %2.1 v tabulce %1.1, kter‚ je zahrnuto jako SumIndexField, mus¡ bìt 'aktivn¡'.
+
+Pole kl¡Ÿe: %6
+@2@1176@0@
+N sleduj¡c¡ pole mus¡ bìt v definici pole nastaveno jako aktivn¡. Toto pole je souŸ st¡ aktivn¡ho kl¡Ÿe.
+
+Pole: %2.1
+Tabulka: %1.1
+Kl¡Ÿov  pole: %6
+@2@1177@0@
+FlowField nem…§e bìt typu SumIndexField.
+
+Pole: %2.1
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@1178@0@
+FlowField nem…§e bìt souŸ st¡ kl¡Ÿe.
+
+Pole: %2.1
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@1179@0@
+FlowFilter nem…§e bìt typu SumIndexField.
+
+Pole: %2.1
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@1180@0@
+FlowFilter nem…§e bìt souŸ st¡ kl¡Ÿe.
+
+Pole: %2.1
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@1214@0@
+Od serveru pıiçlo toto hl çen¡.
+@2@1215@0@
+D‚lka datab zov‚ho souboru zaznamenan  v souboru se liç¡ od d‚lky zaznamenan‚ operaŸn¡m syst‚mem. Datab zovì soubor byl zmØnØn jinìm programem nebo ovladaŸ zaı¡zen¡ nepracuje spr vnØ.
+
+Vytvoıte novì datab zovì soubor a importujte nejnovØjç¡ z lohu. Chcete-li tento soubor otestovat, kliknØte v nab¡dce Soubor na pı¡kaz Datab ze, pot‚ kliknØte na polo§ku Test a na mo§nost Maximum.
+
+Obraœte se na spr vce syst‚mu.
+@2@1224@0@
+V tomto poŸ¡taŸi ji§ bØ§¡ jin  verze programu.
+
+V¡ce verz¡ programu nelze souŸasnØ spouçtØt.
+@2@1226@0@
+Text '%2.5' je pı¡liç dlouhì, aby mohl bìt zkop¡rov n do pole:
+
+Pole: %2.1
+Typ: %2.3
+Tabulka: %1.1
+@2@1232@0@
+S¡œ nepracuje spr vnØ. Byl zasl n paket na chybnou adresu.
+
+Z t‚to chyby lze vyvodit, §e s¡œ nen¡ zcela spolehliv . Pozorujte, jak Ÿasto se tento typ chyby vyskytne. Obraœte se na spr vce syst‚mu.
+@2@1233@0@
+S¡œ nepracuje spr vnØ. Doçlo k poçkozen¡ paketu a n sledn‚mu vr cen¡ chyby kontroln¡ho souŸtu.
+
+Z t‚to chyby lze vyvodit, §e s¡œ nen¡ zcela spolehliv . Pozorujte, jak Ÿasto se tento typ chyby vyskytne. Obraœte se na spr vce syst‚mu.
+@2@1237@0@
+Neplatn‚ ID u§ivatele a heslo. Zopakujte operaci.
+@2@1243@0@
+Pole nen¡ mo§n‚ kop¡rovat. Nen¡ zad no zdrojov‚ pole:
+
+Tabulka: %91.1 <-- %1
+Pole: %92.1 <-- %2
+@2@1244@0@
+N sleduj¡c¡ pole mus¡ bìt k¢dov‚ nebo textov‚.
+
+Pole: %2.1
+Typ: %2,3
+Tabulka: %1.1
+@2@1263@0@
+Tabulka %1.1 je pouze ke Ÿten¡.
+@2@1266@0@
+V tabulce %1.1, mus¡ bìt pole %2.1 aspoå 1 znak dlouh‚.
+@2@1267@0@
+V %3 chyb¡ '='.
+
+%5
+@2@1269@0@
+V %3 chyb¡ ')'.
+
+%5
+@2@1270@0@
+V %3 je chyba syntaxe.
+
+%5
+@2@1272@0@
+V %3 chyb¡ '('.
+
+%5
+@2@1273@0@
+V %3 chyb¡ '.'.
+
+%5
+@2@1274@0@
+SouŸet hodnot v poli %2.1 v tabulce %1.1 nem…§e bìt vypoŸten. Lze sŸ¡tat pouze desetinn  Ÿ¡sla.
+@2@1275@0@
+Pole FlowField %2.1 v tabulce %1.1 nen¡ typu Boolean. Pokud vzorec CalcFormula pole FlowField zaŸ¡n  funkc¡ 'Exist(...', mus¡ bìt pole FlowField typu Boolean.
+@2@1276@0@
+Pole FlowField %2.1 v tabulce %1.1 nen¡ typu Integer. Pokud vzorec CalcFormula pole FlowField zaŸ¡n  funkc¡ 'Count(...', mus¡ bìt pole FlowField typu Integer.
+@2@1277@0@
+Pole %2.1 v tabulce %1.1 m  funkci CalcFormula, ale pole nen¡ FlowField.
+@2@1279@0@
+SouŸet hodnot v poli %2.1 v tabulce %1.1 nem…§e bìt vypoŸteno. Pouze pole tı¡dy Normal mohou bìt sŸ¡t na.
+@2@1281@0@
+N sleduj¡c¡ pole mus¡ bìt zahrnuto do prim rn¡ho kl¡Ÿe tabulky.
+
+Pole: %2.1
+Tabulka: %1.1
+@2@1286@0@
+Chyb¡ d‚lka n sleduj¡c¡ho pole.
+
+Pole: %2.1
+Tabulka: %1.1
+@2@1290@0@
+Typ poŸ teŸn¡ hodnoty n sleduj¡c¡ho pole nen¡ shodnì s typem pole.
+
+Pole: %2.1
+Tabulka: %1.1
+@2@1291@0@
+Zadali jste hodnotu, kter  pıesahuje maxim ln¡ velikost %3.
+@2@1292@0@
+N sleduj¡c¡ pole nem…§e bìt SumIndexField, proto§e je typu BLOB.
+
+Pole: %2.1
+Tabulka: %1.1
+Pole kl¡Ÿe: %6
+@2@1293@0@
+Pole %2.1 v tabulce %1.1 nem…§e bìt zahrnuto do kl¡Ÿe, proto§e je typu BLOB.
+
+Pole kl¡Ÿe: %6
+@2@1294@0@
+Pro doŸasn‚ tabulky nem…§ete definovat sekund rn¡ indexy.
+
+Tabulka: %1.1
+@2@1295@0@
+Nem te opr vnØn¡ ke vkl d n¡ do tabulky %1.1.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1296@0@
+Nem te opr vnØn¡ k odstraåov n¡ z tabulky %1.1.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1297@0@
+Nem te opr vnØn¡ k upravov n¡ z znam… v tabulce %1.1.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1298@0@
+Nem te opr vnØn¡ ke spouçtØn¡ tabulky %1.1.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1299@0@
+Nem te opr vnØn¡ ke Ÿten¡ z objektu %1.3 '%1.1'.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1300@0@
+Nem te opr vnØn¡ k vytvoıen¡ objektu %1.3 '%1.1'.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1301@0@
+Nem te opr vnØn¡ k odstranØn¡ objektu %1.3 '%1.1'.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1302@0@
+Nem te opr vnØn¡ ke zmØnØ objektu %1.3 '%1.1'.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1303@0@
+Nem te opr vnØn¡ ke spuçtØn¡ objektu %1.3 '%1.1'.
+
+Chcete-li zmØnit opr vnØn¡, obraœte se na spr vce syst‚mu.
+@2@1304@0@
+Nem…§ete odstranit nebo zmØnit ID u§ivatele %13, proto§e tento u§ivatel m  v¡ce opr vnØn¡.
+@2@1305@0@
+Nem…§ete odstranit nebo zmØnit pıihlaçovac¡ jm‚no, proto§e toto jm‚no m  v¡ce opr vnØn¡.
+@2@1306@0@
+Nem…§ete pou§¡t funkci 'MODIFYALL', proto§e n sleduj¡c¡ pole je souŸ st¡ prim rn¡ho kl¡Ÿe.
+
+Pole: %2.1
+Tabulka: %1.1
+@2@1307@0@
+Nem…§ete pou§¡t funkci 'MODIFY', proto§e by zmØnila prim rn¡ kl¡Ÿ.
+
+Polo§ka pıed: %6
+Polo§ka po: %96
+Tabulka: %1.1
+@2@1308@0@
+Z znam nem…§ete pıejmenovat, proto§e nov  hodnota n sleduj¡c¡ho pole je '%2.5',
+
+Pole: %2.1
+Tabulka: %1.1
+@2@1309@0@
+Z znam nem…§ete pıejmenovat, proto§e p…vodn¡ hodnota n sleduj¡c¡ho pole je '%2.5',
+
+Pole: %2.1
+Tabulka: %1.1
+@2@1311@0@
+'%91.1' neexistuje. %91.9
+
+%91.10
+
+Pole %2.1 v tabulce %1.1 m  vztah s polem %92.1 v tabulce %91.1.
+
+'%1.1' m  tato identifikaŸn¡ pole a hodnoty:
+
+%6
+@2@1313@0@
+MezipamØœ datab ze je mal . Velikost mezipamØti se mus¡ rovnat minim lnØ 0,012 % velikosti datab ze.
+V tomto pı¡padØ mus¡ bìt velikost mezipamØti alespoå 7 %.
+@2@1314@0@
+Vaçe ID u§ivatele je ji§ neplatn‚.
+@2@1315@0@
+¬¡slo pole je neplatn‚. ¬¡slo pole mus¡ bìt mezi 1 a 999999999.
+
+Pole: %2.1
+¬¡slo pole: %2.2
+Tabulka: %1.1
+@2@1317@0@
+Tabulka %1.1 byla vytvoıena v novØjç¡ verzi programu a nem…§e bìt pou§ita v t‚to verzi programu.
+@2@1318@0@
+N zev pole '%2.1' v tabulce %1.1 obsahuje neplatn‚ znaky.
+@2@1319@0@
+SouŸet hodnot pole %2.1 nem…§e bìt vypoŸ¡t n, proto§e n sleduj¡c¡ FlowField je filtrov n.
+
+Pole: %92.1
+Tabulka: %1.1
+@2@1320@0@
+Tuto vlastnost datab ze nem…§ete zmØnit.
+@2@1322@0@
+Pozor: Platnost licence pro modul %15 vyprç¡ za %16 dn¡.
+
+Chcete-li tento modul pou§¡vat i nad le, obraœte se na spr vce syst‚mu.
+@2@1323@0@
+Platnost licence pro modul %15 vyprçela.
+
+Chcete-li tento modul pou§¡vat i nad le, obraœte se na spr vce syst‚mu.
+@2@1324@0@
+Licence k programu nepovoluje soubØ§nou pr ci dalç¡ch u§ivatel… syst‚mu Microsoft Windows.
+
+PoŸkejte, dokud s programem nepıestane pracovat jinì u§ivatel. Chcete-li zvìçit poŸet u§ivatel…, kteı¡ mohou bìt souŸasnØ pıipojeni k syst‚mu, obraœte se na spr vce syst‚mu.
+@2@1325@0@
+Licence k programu nepovoluje soubØ§nou pr ci dalç¡ch u§ivatel… syst‚mu Microsoft Windows NT.
+
+PoŸkejte, dokud s programem nepıestane pracovat jinì u§ivatel. Chcete-li zvìçit poŸet u§ivatel…, kteı¡ mohou bìt souŸasnØ pıipojeni k syst‚mu, obraœte se na spr vce syst‚mu.
+@2@1326@0@
+Licence k programu nepovoluje soubØ§nou pr ci dalç¡ch u§ivatel… C/ODBC.
+
+PoŸkejte, dokud s programem nepıestane pracovat jinì u§ivatel. Chcete-li zvìçit poŸet u§ivatel…, kteı¡ mohou bìt souŸasnØ pıipojeni k syst‚mu, obraœte se na spr vce syst‚mu.
+@2@1327@0@
+Licence k programu nepovoluje soubØ§nou pr ci dalç¡ch u§ivatel… C/FRONT.
+
+PoŸkejte, dokud s programem nepıestane pracovat jinì u§ivatel. Chcete-li zvìçit poŸet u§ivatel…, kteı¡ mohou bìt souŸasnØ pıipojeni k syst‚mu, obraœte se na spr vce syst‚mu.
+@2@1328@0@
+Licence k programu povoluje vytvoıit maxim lnØ %8 nedemonstraŸn¡ch spoleŸnost¡.
+
+Chcete-li vytvoıit dalç¡ spoleŸnosti, obraœte se na spr vce syst‚mu.
+PoŸet demonstraŸn¡ch spoleŸnost¡ nen¡ nijak omezen.
+N zvy demonstraŸn¡ch spoleŸnost¡ musej¡ zaŸ¡nat textem "CRONUS".
+@2@1329@0@
+Licence k programu povoluje pracovat jen se spoleŸnostmi, jejich§ n zev zaŸ¡n  pıedponou %10.
+@2@1330@0@
+Tato licence programu nem…§e bìt pou§ita.
+@2@1331@0@
+Nem…§ete otevı¡t dalç¡ datab zi nebo vytvoıit novou, proto§e na serveru byla otevıena datab ze s pou§it¡m parametru programu database=<n zev datab ze>.
+Chcete-li vybrat jinou datab zi, je nutn‚ server spustit znovu se stejnìm parametrem programu, ale s uveden¡m jin‚ho n zvu datab ze.
+@2@1332@0@
+Tabulka %1.1 nen¡ kompilov na.
+@2@1335@0@
+Pr va pro skupinu '%14' nemohou bìt zmØnØna.
+@2@1336@0@
+Aspoå jeden u§ivatel mus¡ bìt Ÿlenem skupiny '%14'.
+@2@1337@0@
+Alespoå jeden u§ivatel mus¡ bìt Ÿlenem skupiny '%14' ve vçech spoleŸnostech.
+@2@1341@0@
+V objektu tabulky nem…§ete zad vat data.
+@2@1342@0@
+Pozor: Platnost licence k programu pro produkt %1.3 %1.2 vyprç¡ za %16 dn¡.
+
+Chcete-li produkt %1.3 %1.2 pou§¡vat i nad le, obraœte se na spr vce syst‚mu.
+@2@1343@0@
+Platnost licence k programu pro produkt %1.3 %1.2 vyprçela.
+
+Chcete-li produkt %1.3 %1.2 znovu zaŸ¡t pou§¡vat, obraœte se na spr vce syst‚mu.
+@2@1344@0@
+Nem…§ete pıidØlit pr va Run objektu typu Table.
+@2@1345@0@
+Opr vnØn¡ ke spouçtØn¡ m…§ete pıidØlit pouze tØmto typ…m objekt…:
+
+Tabulka, formul ı, sestava, procedura, syst‚m, port XML a datovì port.
+@2@1346@0@
+V syst‚mu Microsoft Windows nelze pou§¡vat mezipamØœ typu commit.
+@2@1347@0@
+Funkce CalcFormula pro pole FlowField %2.1 v tabulce %1.1 mus¡ zaŸ¡nat parametrem 'Sum(...'.
+@2@1348@0@
+Typ FlowField %2.1 v tabulce %1.1 mus¡ bìt Decimal.
+@2@1349@0@
+FieldClass pole %2.1 v tabulce %1.1 mus¡ bìt Normal.
+@2@1350@0@
+Typ pole %2.1 v tabulce %1.1 mus¡ bìt Decimal.
+@2@1351@0@
+Prim rn¡ kl¡Ÿ v tabulce %1.1 sm¡ obsahovat jen jedno pole a mus¡ bìt typu Integer.
+@2@1352@0@
+Licence k programu neumo§åuje vytvoıit pole %2.1 v tabulce %1.1.
+
+Obraœte se na spr vce syst‚mu a po§ dejte jej o aktualizaci vaç¡ licence k programu.
+@2@1353@0@
+Licence k programu nepovoluje odstranit pole %2.1 v tabulce %1.1.
+
+Obraœte se na spr vce syst‚mu a po§ dejte jej o aktualizaci vaç¡ licence k programu.
+@2@1354@0@
+Licence k programu nepovoluje zmØnit pole %2.1 v tabulce %1.1.
+
+Obraœte se na spr vce syst‚mu a po§ dejte jej o aktualizaci vaç¡ licence k programu.
+@2@1356@0@
+Licence k programu neumo§åuje dalç¡ transakce z pisu.
+
+Chcete-li tento limit zvìçit, obraœte se na spr vce syst‚mu.
+@2@1358@0@
+'%22' se oŸek v  v %3.
+
+%5
+%25
+@2@1360@0@
+Minim ln¡ velikost, o kterou lze datab zi zvØtçit, je 16 kB.
+@2@1361@0@
+C¡lovì z sobn¡k je pı¡liç malì.
+
+Velikost c¡lov‚ho z sobn¡ku: %8
+Velikost zdroje: %7
+Hodnota zdroje: %5
+@2@1362@0@
+Abyste mohli datab zi pou§¡t v t‚to verzi aplikace Microsoft Dynamics NAV Development Environment, je nutn‚ ji nejprve pıev‚st.
+
+Pokud datab zi pıevedete, starç¡ verze programu ji nebudou moci otevı¡t.
+
+DoporuŸujeme v m dodr§ovat n sleduj¡c¡ z sady:
+
+* Pıed pıevodem vytvoıte z lohu datab ze.
+* BØhem pıevodu je nutn‚ bìt jedinìm u§ivatelem pracuj¡c¡m s datab z¡.
+* V datab zi mus¡ bìt nejm‚nØ 50 MB voln‚ho m¡sta.
+
+Kliknut¡m na tlaŸ¡tko OK zah j¡te pıevod. Chcete-li pıevod zruçit, kliknØte na tlaŸ¡tko Storno.
+@2@1363@0@
+Pozor: Platnost licence k programu vyprç¡ za %16 dn….
+@2@1364@0@
+Platnost licence programu vyprçela.
+@2@1365@0@
+Toto zaı¡zen¡ ji§ obsahuje datab zovì odd¡l.
+
+Pokud budete pokraŸovat, bude tento datab zovì odd¡l ztracena.
+
+SkuteŸnØ chcete pokraŸovat?
+@2@1366@0@
+Pozor: Tato mo§nost plat¡ pouze tehdy, jestli§e operaŸn¡ syst‚m serveru podporuje ovØıov n¡ syst‚mem Windows.
+Pokud v t‚to datab zi podporujete jednotn‚ pıihl çen¡, server bude k identifikaci u§ivatel… datab ze Microsoft Dynamics NAV Development Environment vyu§¡vat ovØıov n¡ syst‚mem Windows.
+Pokud ovØıovan‚ ID u§ivatele existuje v tabulce u§ivatel… datab ze Microsoft Dynamics NAV Development Environment, heslo v tabulce u§ivatel… bude ignorov no.
+Pokud tabulka u§ivatel… neobsahuje ID u§ivatele, mus¡ u§ivatel pou§¡t bØ§nì postup pıihlaçov n¡ k aplikaci Microsoft Dynamics NAV Development Environment.
+@2@1367@0@
+Tabulka nen¡ specifikovan .
+@2@1369@0@
+%1
+@2@1370@0@
+Typ objektu nem…§ete zmØnit.
+
+Polo§ka objektu pıed: %6
+Polo§ka objektu po: %96
+Tabulka: %1.1
+@2@1371@0@
+Tabulky nejsou kompatibiln¡.
+
+Tabulka 1: %1
+Tabulka 2: %91
+@2@1372@0@
+Operace z pisu do datab ze (INSERT, DELETE a MODIFY) nejsou u zvolen‚ho typu transakce povoleny.
+@2@1373@0@
+Vlastnost pole mus¡ bìt '%5'.
+
+Vlastnost: %3
+Pole: %2.1
+Tabulka: %1.1
+@2@1374@0@
+Licence k programu nepovoluje spustit tuto verzi aplikace Microsoft Dynamics NAV Development Environment.
+
+Po§ dejte spr vce syst‚mu, aby vaçi licenci upgradoval.
+@2@1375@0@
+Platnost vaçeho upgradov‚ho programu pro aplikaci Microsoft Dynamics NAV Development Environment  vyprçela.
+
+Potıebujete-li pomoc, obraœte se na sv‚ho partnera v programu Microsoft Business Solutions.
+@2@1376@0@
+Vaçe licence neumo§åuje pou§¡vat jazyk %24.
+@2@1377@0@
+Vlastnost prim rn¡ho kl¡Ÿe mus¡ bìt '%5'.
+
+Vlastnost: %3
+Tabulka: %1.1
+@2@1378@0@
+N zev objektu ji§ existuje.
+
+Objekt: %1
+@2@1379@0@
+Po spuçtØn¡ transakce nem…§ete typ transakce zmØnit.
+
+Transakce je spuçtØna, kdy§ program provede prvn¡ datab zovou operaci, napı¡klad FIND, NEXT, INSERT, DELETE, MODIFY, SUM nebo COUNT.
+
+K chybØ doçlo proto, §e jste se pokusili zmØnit typ transakce z %8 na %7.
+@2@1380@0@
+Licence k programu nepovoluje spustit aplikaci Microsoft Dynamics NAV Development Environmetn pro server Microsoft SQL Server.
+@2@1381@0@
+Aktu ln¡ aktivita byla zastavena, proto§e syst‚m Windows se pokouç¡ pıej¡t do re§imu sp nku nebo hibernace nebo prob¡h  jeho vypnut¡.
+@2@1382@0@
+V tomto poŸ¡taŸi nen¡ mo§n‚ pıihl çen¡ syst‚mu Windows.
+@2@1384@0@
+Pıihl çen¡ syst‚mu Windows na vybran‚m serveru nen¡ mo§n‚.
+@2@1385@0@
+Vlastnost %3 mus¡ bìt '%5'.
+
+Objekt: %1
+@2@1386@0@
+V %3 chyb¡ ':'.
+
+%5
+@2@1387@0@
+Filtry jsou pı¡liç dlouh‚ pro kop¡rov n¡ do typu '%3'.
+
+Filtry: %1.10
+@2@1388@0@
+Licence k programu nepovoluje spustit souŸasnØ dalç¡ aplikaŸn¡ servery.
+
+Chcete-li k syst‚mu souŸasnØ pıipojit dalç¡ aplikaŸn¡ servery, obraœte se na spr vce syst‚mu.
+@2@1389@0@
+Z loha ji§ prob¡h . PoŸkejte, dokud nebude dokonŸena.
+@2@1394@0@
+Pole AutoIncrement se m…§e v tabulce vyskytovat pouze jednou.
+
+Pole: %2.1
+Tabulka: %1.1
+@2@1395@0@
+Pole AutoIncrement mus¡ bìt typu Integer nebo BigInteger.
+
+Pole: %2.1
+Tabulka: %1.1
+
+Typ pole:%2.3
+@2@1396@0@
+Hodnotu pole AutoIncrement nem…§ete zmØnit.
+
+Pole: %2.1
+Tabulka: %1.1
+
+IdentifikaŸn¡ pole a hodnoty:
+
+%6
+@2@1397@0@
+Nem…§ete pıidat vlastnost AutoIncrement, proto§e pole obsahuje nulovou hodnotu.
+
+Pole: %2.1
+Tabulka: %1.1
+
+IdentifikaŸn¡ pole a hodnoty:
+
+%6
+@2@1398@0@
+PıeteŸen¡ ve vìpoŸtu %7 %26 %8.
+
+@2@1401@0@
+Transakce byla zruçena v d…sledku pıedchoz¡ chyby.
+@2@1402@0@
+Relaci nelze odstranit, pokud nejste pıipojeni k serveru.
+@2@1403@0@
+Nelze odstranit relaci %7, proto§e nen¡ pıipojena k stejn‚mu serveru.
+@2@1404@0@
+Nelze odstranit relaci %7, proto§e se jedn  o vaçi vlastn¡ relaci.
+@2@1406@0@
+Toto vol n¡ je zastaral‚. Pou§ijte vol n¡ DBL_ConnectServerAndOpenDatabase.
+@2@1407@0@
+Nem te opr vnØn¡ ke Ÿten¡ tabulky %1.1.
+@2@1408@0@
+Nem te opr vnØn¡ pro z pis do tabulky %1.1.
+@2@1409@0@
+Nem te opr vnØn¡ k odstranØn¡ z znam… z tabulky %1.1.
+@2@1410@0@
+Nem te opr vnØn¡ ke zmØnØ z znam… v tabulce %1.1.
+@2@1411@0@
+Seskupenì kl¡Ÿ m…§e bìt v tabulce obsa§en pouze jednou.
+
+Tabulka: %1.1
+@2@1412@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@1413@0@
+PotvrÔte sv…j po§adavek na pıevod datab ze.
+
+Chcete-li datab zi pıev‚st, kliknØte na tlaŸ¡tko OK. Chcete-li operaci ukonŸit, kliknØte na tlaŸ¡tko Storno.
+@2@1414@0@
+Funkci FINDSET je mo§n‚ pou§¡t pouze se vzestupnìm poıad¡m kl¡Ÿ….
+
+Tabulka: %1.1
+@2@1415@0@
+K parametru UpdateKey funkce FINDSET lze pıiıadit pouze hodnotu TRUE, pokud m  parametr ForUpdate tak‚ hodnotu TRUE.
+
+Tabulka: %1.1
+@2@1416@0@
+Nem te opr vnØn¡ pro pı¡stup k objektu %1.3 %1.2. Tento objekt neobsahuje podpis a nen¡ platnìm objektem aplikace.
+@2@1417@0@
+Abyste mohli datab zi pou§¡t s touto verz¡ aplikace Microsoft Dynamics NAV Development Environment, je nutn‚ ji nejprve pıev‚st.
+
+Zruçte nastaven¡ pı¡znaku jen pro Ÿten¡ a otevıete datab zi znovu.
+@2@1418@0@
+Tı¡da SQLIndex definovan  pro prim rn¡ kl¡Ÿ mus¡ obsahovat stejn  pole jako danì kl¡Ÿ.
+
+Tabulka: %1.1
+Pole tı¡dy SQLIndex: %6
+
+@2@1419@0@
+üetØzec adresy URL je pı¡liç dlouhì. Maxim ln¡ d‚lka je %8 znak….
+@2@1421@0@
+Hodnota %3 nesm¡ pıekroŸit %7 bajt….
+
+Tabulka: %1.1
+@2@1422@0@
+%1.1 ji§ pro vìchoz¡ Centrum rol¡ existuje.
+
+Identifikace pol¡ a hodnot:
+
+%6
+@2@1423@0@
+Nelze spustit produkt Microsoft Dynamics NAV Development Environment, proto§e na serveru SQL nem te opr vnØn¡ VIEW SERVER STATE.
+
+Obraœte se na spr vce syst‚mu.
+@2@1424@0@
+Zdrojov  i c¡lov  tabulka mus¡ odkazovat na stejnou tabulku.
+@2@1425@0@
+Hodnota pole %2.1 mus¡ bìt pr zdn .
+
+Objekt: %1
+@2@1426@0@
+Tento objekt byl uzamŸen u§ivatelem %22 a nelze jej proto zmØnit ani odstranit.
+
+Objekt: %1
+@2@1427@0@
+Hodnotu pole %2.1 v uzamŸen‚m objektu nelze zmØnit.
+
+Objekt: %1
+@2@1428@0@
+Tuto Ÿinnost m…§e prov‚st pouze spr vce syst‚mu.
+@2@1429@0@
+Nem…§ete pıejmenovat z znam  %6 v %1.1 tabulce, proto§e by doçlo ke zmØnØ z znamu %96 v %91.1 tabulce, a aplikace je nastavena zaznamen vat zmØny v %91.1.
+M…§ete ruŸnØ pıeruçit vazby z j k‚hokoli  z znamu  v %91.1 tabulce k %1.1%6, pıejmenovat z znam a obnovit vazby.
+@2@1431@0@
+NØkter‚ objekty jsou zamŸeny v datab zi. Mus¡te odemknout tyto objekty pıed upgradem datab ze..
+@2@1432@0@
+PovçimnØte si, §e m te %5 sestav, kter‚ nemohou bìt pıekompilov ny bØhem konverze datab ze.
+@2@1433@0@
+Tabulka %1 obsahuje jedno nebo v¡ce pol¡ typu Binary, nemohou bìt upgradov ny do Microsoft Dynamics NAV Development Environment. 
+
+Change the layout of the table before upgrading.
+@2@1434@0@
+You cannot change the object id of a table.
+
+Object record before: %6
+Object record after: %96
+@2@1435@0@
+Failed to rename the table. 
+@2@END@0@
+@1@93@0@
+@2@50001@0@
+Doçlo k chybØ ovladaŸe ODBC, ale nebylo mo§n‚ z¡skat § dn‚ bli§ç¡ informace.
+
+Obraœte se na spr vce syst‚mu.
+@2@50002@0@
+Prostıed¡ ovladaŸe ODBC nemohlo bìt inicializov no.
+
+Obraœte se na spr vce syst‚mu.
+@2@50003@0@
+Objevila se tato ODBC chyba:
+
+%101.151
+@2@50004@0@
+Objevila se tato ODBC chyba:
+
+ID stavu: %101.152
+@2@50005@0@
+Objevila se tato ODBC chyba:
+
+Chyba: %101.151
+State ID: %101.152
+@2@50006@0@
+Vyskytly se n sleduj¡c¡ chyby serveru SQL Server:
+
+%103
+@2@50007@0@
+Pıi pı¡stupu k tabulce %1.1 doçlo k n sleduj¡c¡m chyb m serveru SQL Server:
+
+%103
+@2@50008@0@
+Bylo zjiçtØno vol n¡ funkce NEXT pro z znam bez odpov¡daj¡c¡ho vol n¡ funkce FIND/FINDSET.
+@2@51002@0@
+Spojen¡ s datab z¡ %102.155 na serveru %102.154 ji§ bylo provedeno.
+@2@51003@0@
+Spojen¡ se serverem a datab z¡ jeçtØ nebylo provedeno.
+@2@51004@0@
+Transakce ji§ byla spuçtØna. Vnoıov n¡ transakc¡ nen¡ podporov no.
+@2@51005@0@
+Aktu ln¡ aktivitu nelze prov dØt v r mci transakce.
+@2@51008@0@
+Doçlo k pokusu o operaci aktualizace nebo odstranØn¡ v¡ce ı dk… mimo po§adovanou transakci.
+@2@51009@0@
+Aktu ln¡ aktivitu lze prov dØt pouze v r mci transakce Update nebo UpdateNoLocks.
+@2@51010@0@
+Aktu ln¡ aktivitu lze prov dØt pouze v r mci transakce Snapshot.
+@2@51011@0@
+Aktu ln¡ aktivitu lze prov dØt pouze v r mci transakce Browse.
+@2@51012@0@
+Po§adavek na uzamŸen¡ tabulky %1.1 s parametrem Wait s hodnotou FALSE nen¡ podporov n.
+@2@51013@0@
+Aktu ln¡ aktivitu lze prov dØt pouze v r mci transakce Update nebo Snapshot.
+@2@52001@0@
+Datab ze %102.155 na serveru %102.154 neexistuje.
+@2@52002@0@
+Datab ze %102.155 na serveru %102.154 ji§ existuje.
+@2@52003@0@
+Datab zi %102.155 na serveru %102.154 nelze otevı¡t v t‚to verzi aplikace Microsoft Dynamics NAV Development Environment.
+
+PıeveÔte datab zi na Microsoft Dynamics NAV 2013 pıed otevıen¡m touto verz¡ Microsoft Dynamics NAV Development Environment.
+@2@52004@0@
+éroveå kompatibility datab ze %102.161 je pro tuto verzi produktu Microsoft Dynamics NAV Development Environment pı¡liç n¡zk .
+
+ZmØåte £roveå kompatibility na %102.162 a pot‚ datab zi znovu otevıete. 
+@2@52005@0@
+Na serveru %102.154 nejsou k dispozici informace o licenci pro aplikaci Microsoft Dynamics NAV Development Environment. Bez tØchto informac¡ se k serveru nen¡ mo§n‚ pıipojit.
+
+Abyste mohli na server odeslat licenŸn¡ soubor, je nutn‚ bìt Ÿlenem datab zov‚ role db_owner v hlavn¡ datab zi.
+
+KliknØte na tlaŸ¡tko OK a vyberte licenŸn¡ soubor, kterì chcete odeslat, nebo ukonŸete akci kliknut¡m na tlaŸ¡tko Storno.
+@2@52006@0@
+Datab zi %102.155 na serveru %102.154 nelze otevı¡t v t‚to verzi produktu Microsoft Dynamics NAV Development Environment. Ji§ byla pıevedena na novØjç¡ verzi programu.
+
+Chcete-li datab zi otevı¡t, je nutn‚ upgradovat produkt Microsoft Dynamics NAV Development Environment na nejnovØjç¡ verzi.
+@2@52007@0@
+Datab ze %102.155 na serveru %102.154 neobsahuje syst‚mov‚ objekty produktu Microsoft Dynamics NAV Development Environment a nelze ji otevı¡t.
+@2@52008@0@
+Nelze nal‚zt server %102.154. Zopakujte akci pozdØji nebo se obraœte na spr vce syst‚mu.
+@2@52009@0@
+Na serveru %102.154 nen¡ spuçtØna podporovan  verze serveru SQL Server.
+
+Chcete-li tento server pou§¡t v aplikaci Microsoft Dynamics NAV Development Environment, je nutn‚ jej upgradovat alespoå na verzi %1 %22 nebo vyçç¡.
+@2@52010@0@
+Hodnota podporovan‚ho typu s¡tØ %102.160 nen¡ platn . Toto jsou dostupn‚ typy s¡t¡: %22.
+@2@52011@0@
+OvladaŸ ODBC serveru SQL Server, kterì se nach z¡ v poŸ¡taŸi, nen¡ podporov n.
+
+Chcete-li tento ovladaŸ pou§¡vat v produktu Microsoft Dynamics NAV Development  je nutn‚ upgradovat ovladaŸ na verzi %22 nebo vyçç¡.
+@2@52012@0@
+Vaçe spojen¡ k  %102.154 serveru ji§ d‚le  nedpov¡d . To m…§e bìt zp…sobenou jedn¡m z n sleduj¡c¡h d…vod…:
+
+* Server byl vypnut manu lnØ nebo z d…vodu chyby. 
+* Vaçe relace byla ukonŸena spr vcem.
+* Objevila se chyba s¡tØ.
+* Objevila se chyba HW na serveru nebo na Vaçem poŸ¡taŸi.
+
+Zkuste znova pozdØji nebo kontaktuje Vaçeho spr vce syst‚mu.
+@2@52014@0@
+V poŸ¡taŸi serveru Microsoft Dynamics NAV Server neexistuje § dn  syst‚mov  k¢dov  str nka, kter  by odpov¡dala k¢dov‚ str nce %7 ıazen¡ %22 pro datab zi %102.155.
+
+Na serveru Microsoft Dynamics NAV Server jsou k dispozici tyto syst‚mov‚ k¢dov‚ str nky: %1.
+
+ZajistØte, aby m¡stn¡ nastaven¡ poŸ¡taŸe serveru Microsoft Dynamics NAV Server obsahovalo spr vnì syst‚movì jazyk a m¡stn¡ nastaven¡ potıebn‚ ke shodØ k¢dovìch str nek.
+
+Tuto chybovou zpr vu m…§e spr vce syst‚mu potlaŸit zruçen¡m zaçkrtnut¡ mo§nosti OvØıit ıazen¡ v oknØ Vlastnosti datab ze produktu Microsoft Dynamics NAV Development Environment.
+@2@52015@0@
+V poŸ¡taŸi neexistuje k¢dov  str nka, kter  by odpov¡dala k¢dov‚ str nce %7 pou§it‚ v ıazen¡ %22 datab ze %102.155.
+
+Vaçe syst‚mov‚ k¢dov‚ str nky jsou: %1.
+
+ZajistØte, aby m¡stn¡ nastaven¡ poŸ¡taŸe obsahovalo spr vnì syst‚movì jazyk a m¡stn¡ nastaven¡ pro danou k¢dovou str nku.
+
+Tuto chybovou zpr vu m…§e spr vce syst‚mu potlaŸit zruçen¡m zaçkrtnut¡ mo§nosti OvØıit ıazen¡ v oknØ Vlastnosti datab ze pomoc¡ aplikace Microsoft Dynamics NAV Development Environment.
+@2@52016@0@
+Produkt Microsoft Dynamics NAV Development Environment nepodporuje ıazen¡ %22.
+@2@52017@0@
+Datab ze %102.155 na serveru %102.154 mus¡ bìt pıekonvertovan  dı¡ve ne§ ji budete moc pou§¡t  v t‚to verzi aplikace Microsoft Dynamics NAV Development Environment,
+
+Pokud datab zi pıevedete, nebudete ji ji§ moci otevı¡t starç¡ verze programu Microsoft Dynamics NAV Development Environment.
+
+D…raznØ V m doporuŸujeme zaz lohovat datab zi a transakŸn¡ log na SQL Serveru pıed proveden¡m konverze. 
+
+ Zvolte OK pro proveden¡ konverze nebo zvolte Storno chcete-li aktu ln¡ aktivitu pıedŸasnØ ukonŸit.
+@2@52018@0@
+Datab ze %102.155 na serveru %102.154 nus¡ bìt konvertov na dı¡ve ne§ ji budete moc pou§¡vat s touto verz¡ Microsoft Dynamics NAV Development Environment.
+
+Jestli§e zkonverujete datab zi , nebudete moci  ji otevı¡t starç¡ verz¡ bude konvertov na do  Unicode a  ıazen¡ upgradov no do nejl‚pe odpov¡daj¡c¡ho Windows ıazen¡. Datab zi nebudete moc ji§ d le otevı¡t starç¡ verz¡ Microsoft Dynamics NAV Development Environment.
+
+RozhodnØ doporuŸujeme udØlat z lohu datab ze a transakŸn¡ho logu na SQL serveru pıed konverz¡.
+
+Zvolte OK pro konverzi DB, nebo zvolte Storno pro ukonŸen¡.
+@2@52020@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@52021@0@
+Konverze datab ze %102.155 po§aduje, aby volba "Convert identifiers" byla povolena.
+
+Pou§ijete pıedchoz¡ verzi Microsoft Dynamics NAV Development Environment k povolen¡ t‚to volby a proveÔte konverzi znovu.
+@2@52022@0@
+Z identifik tor… nem…§ete odstranit § dnì z tØchto znak…: [%22].
+@2@52023@0@
+Rozhodli jste se pıev‚st identifik tory v r mci pıevodu datab ze.
+
+Chcete-li v pıevodu datab ze pokraŸovat, kliknØte na tlaŸ¡tko OK. Chcete-li skonŸit, kliknØte na tlaŸ¡tko Storno.
+@2@52024@0@
+Pıi pıevodu identifik tor… nelze zmØnit polo§ky nastaven¡ Udr§ovat pohledy, Udr§ovat vztahy a Zachovat vìchoz¡ hodnoty.
+@2@52025@0@
+Identifik tor [%1] obsahuje jeden z tØchto neplatnìch znak…: [%22].
+@2@52026@0@
+Pıi zmØnØ nastaven¡ integrace nelze zmØnit ıazen¡ datab ze.
+@2@52027@0@
+Rozhodli jste se zmØnit nastaven¡ ıazen¡ datab ze v r mci pıevodu datab ze.
+
+Chcete-li v pıevodu datab ze pokraŸovat, kliknØte na tlaŸ¡tko OK. Chcete-li skonŸit, kliknØte na tlaŸ¡tko Storno.
+@2@52028@0@
+Chcete-li prov‚st vybran‚ pıevody datab ze, je nutn‚ zajistit, abyste byli jedinìm u§ivatelem pıistupuj¡c¡m k datab zi %102.155, a vybrat nastaven¡ "Jednou§ivatelskì re§im".
+@2@52029@0@
+Pıevod datab ze byl £spØçnØ dokonŸen.
+
+Nyn¡ je nutn‚ datab zi zavı¡t a znovu ji otevı¡t, aby se nov‚ nastaven¡ projevilo. VypnØte nastaven¡ "Jednou§ivatelskì re§im", aby mohli datab zi pou§¡vat ostatn¡ u§ivatel‚.
+@2@52030@0@
+N zev '%1' objektu nebo sloupce v datab zi %102.155 obsahuje jeden nebo v¡ce n sleduj¡c¡ch znak…:
+
+[%22]
+
+Tyto znaky nelze pıi pıechodu na nov‚ ıazen¡ spr vnØ pıev‚st.
+
+Je nutn‚ buÔ vybrat jin‚ ıazen¡, kter‚ umo§n¡ reprezentaci znak… v tomto n zvu objektu, nebo objekt pıejmenovat.
+@2@52031@0@
+%1
+@2@52032@0@
+%1
+@2@52034@0@
+Server %102.154 nebyl inicializov n s licenc¡ pro aplikaci Microsoft Dynamics NAV Development Environment.
+@2@52035@0@
+Chcete-li datab zi %102.155 um¡stØnou na serveru %102.154 pou§¡vat se serverem Microsoft Dynamics NAV, je nutn‚ ji nejprve pıev‚st pomoc¡ produktu Microsoft Dynamics NAV Development Environment.
+@2@52036@0@
+Dı¡ve ne§ budete moci pıekonvertovat datab zi, mus¡te pou§¡t starç¡ verzi Microsoft Dynamics NAV Development Environment k vypnut¡ nastaven¡ integrace datab ze 'Udr§ovat pohledy', 'Udr§ovat vazby', a 'Udr§ovat vìchoz¡'. Pro z¡sk n¡ tØchto nastaven¡ ,v menu Soubor…, zvolte Datab ze, a Vlastnosti.
+@2@52037@0@
+Zvolili jste zmØnu nastaven¡ ıazen¡ datab ze jako souŸ st zmØn datab ze.
+
+ZmØnit ıazen¡ datab ze m…§ete jen, jestli§e nastaven¡ OvØıen¡ ıazen¡ bylo ji§ zkontrolov no pıed zmØnou DB.
+@2@52040@0@
+Aktu ln¡ aktivita byla zastavena, proto§e syst‚m Windows se pokouç¡ pıej¡t do re§imu sp nku nebo hibernace nebo prob¡h  jeho vypnut¡.
+@2@52041@0@
+V poŸ¡taŸi neexistuje § dn  syst‚mov  k¢dov  str nka, kter  by odpov¡dala k¢dov‚ str nce %7 ıazen¡ %22 pro datab zi %102.155.
+
+K dispozici jsou tyto syst‚mov‚ k¢dov‚ str nky: %1.
+
+ZajistØte, aby m¡stn¡ nastaven¡ poŸ¡taŸe obsahovalo spr vnì syst‚movì jazyk a m¡stn¡ nastaven¡ potıebn‚ ke shodØ k¢dovìch str nek.
+
+Tak‚ m…§ete pro tuto datab zi zruçit zaçkrtnut¡ mo§nosti OvØıit k¢dovou str nku. Je mo§n‚, §e nØkter  textov  data nebudou pıi ulo§en¡ do datab ze spr vnØ pıevedena.
+
+Kliknut¡m na tlaŸ¡tko OK zruç¡te nastaven¡ OvØıit ıazen¡ a budete moci datab zi d le pou§¡vat. Chcete-li skonŸit, kliknØte na tlaŸ¡tko Zruçit.
+@2@52042@0@
+Rozhodli jste se v r mci pıevodu datab ze neovØıovat jej¡ ıazen¡.
+
+Datab zi tedy bude mo§n‚ pou§¡vat z poŸ¡taŸ…, jejich§ k¢dov  str nka neodpov¡d  nastaven‚mu ıazen¡. Je mo§n‚, §e nØkter  textov  data nebudou pıi ulo§en¡ do datab ze z takovìch poŸ¡taŸ… spr vnØ pıevedena.
+
+Chcete-li pokraŸovat v pıevodu datab ze, kliknØte na tlaŸ¡tko OK. Chcete-li skonŸit, kliknØte na tlaŸ¡tko Zruçit.
+@2@52043@0@
+Datab ze %102.155 na serveru %102.154 vy§aduje otevıen¡ Licence za datab zi na %22.
+@2@52044@0@
+Datab ze %102.155 na serveru %102.154 mus¡ bìt konvertov na dı¡ve ne§ ji budete moci pou§¡vat s touto verz¡ Microsoft Dynamics NAV Development Environment.
+
+. Mus¡te konvertovat datab zi dı¡ve ne§ ji nasad¡te na %22 serveru.
+@2@52045@0@
+Nam…§ete vytvoıit DB na serveru %102.154 %22 .
+@2@52046@0@
+"Jednou§ivatelskì" re§im nem…§e bìt nastaven pro datab zi %102.155 na serveru %102.154.
+
+UjistØte se, §e § dn‚ dalç¡ SQL server relace nevyu§¡vaj¡ DB.
+@2@52047@0@
+Datab ze %102.155 na serveru %102.154 mus¡ bìt konvertov na pıed t¡m ne§ ji budete moci pou§¡t s touto verz¡  the Microsoft Dynamics NAV Development Environment.
+
+Konverze datab ze nem…§e pokraŸovat, proto§e dalç¡ SQL server relace vyu§¡vj¡ datab zi.
+
+Zavıete vçechny ostatn¡ relace a potom to zkuste znovu.
+@2@52048@0@
+M te %1 sestav, kter‚ byly zkompilov ny pıed konverz¡ datab ze, ale nemohou bìt zkompilov ny nyn¡.
+@2@53003@0@
+Nem te po§adovan  pr va SQL serveru, abyste mohli prov‚st aktu ln¡ aktivitu bezpeŸnosti.
+@2@53011@0@
+Datab ze %102.155 na serveru %102.154 mus¡ bìt pıevedena dı¡ve, ne§ ji m…§ete pou§¡t touto verz¡ aplikace Microsoft Dynamics NAV Development Environment.
+
+Abyste mohli datab zi pıev‚st, je nutn‚ bìt Ÿlenem datab zov‚ skupiny db_owner v t‚to datab zi.
+@2@53015@0@
+Nezdaıilo se pıihl çen¡ pıi pıipojov n¡ k serveru SQL Server %102.154.
+@2@54001@0@
+Pole %2.1 v tabulce %1.1 neexistuje v tabulce nebo pohledu SQL serveru.
+@2@54002@0@
+Prim rn¡ kl¡Ÿ tabulky %1.1 pıesahuje maximum %22 sloupc… v indexu SQL serveru.
+
+Pole kl¡Ÿe: %6
+@2@54003@0@
+Tabulka %1.2 je bez n zvu.
+@2@54004@0@
+Tabulka %1.1 neexistuje jako po§adovanì n zev objektu %1.157 v t‚to datab zi.
+@2@54005@0@
+Tabulka %1.1 je doŸasnou tabulkou SQL serveru. Nem…§ete ji ani § dn‚ jej¡ pole pıejmenovat .
+@2@54006@0@
+Tabulka %1.1 je doŸasn  tabulka serveru SQL Server. Produkt Microsoft Dynamics NAV Development Environment nepodporuje doŸasn‚ tabulky serveru SQL Server.
+@2@54007@0@
+Tabulka %1.1 nem  § dn‚ omezen¡ prim rn¡ho kl¡Ÿe v popisu tabulky SQL serveru.
+@2@54008@0@
+Tabulka %1.1 nem  sloupec ROWVERSION v popisu tabulky SQL serveru.
+@2@54010@0@
+Pro tabulku %1.1 existuje v¡ce sloupc… ROWVERSION v popisu zobrazen¡ serveru SQL Server. Zobrazen¡ mohou m¡t pouze jeden sloupec ROWVERSION.
+@2@54012@0@
+N zev tabulky %1.1 je v konfliktu s existuj¡c¡m objektem SQL serveru %1.157.
+@2@54013@0@
+N zev tabulky %1.1 je v konfliktu s existuj¡c¡m objektem serveru SQL Server %1.157.
+
+Chcete-li vytvoıit odkaz na tento objekt, je nutn‚ vybrat jinì n zev tabulky nebo nastavit vlastnost tabulky LinkedObject na hodnotu Ano.
+@2@54014@0@
+Tabulka %1.1 odkazuje na objekt %1.157 na serveru SQL. Propojen‚ objekty nem…§ete pıedefinovat.
+@2@54016@0@
+Tabulka %1.1 se odkazuje na objekt SQL serveru. Nem…§ete mØnit n vrh propojenìch objekt….
+@2@54017@0@
+Tabulka %1.1 m  odkaz na objekt %1.157 SQL serveru. Odkaz na objekt nem…§e bìt nastaven, pokud byly definov ny SumIndexFields.
+@2@54018@0@
+Tabulka %1.1 m  odkaz na objekt %1.157 SQL serveru. Nem…§ete pou§¡t odkaz na objekt doŸasn‚ tabulky SQL serveru.
+@2@54019@0@
+Neexistuje objekt serveru SQL Server %1.157, na kterì odkazuje tabulka %1.1.
+@2@54020@0@
+Tabulka %1.1 se odkazuje na objekt SQL serveru %1.157, kterì je syst‚movou tabulkou nebo pohledem. Nem…§ete zmØnit vlastnost tabulky LinkedObject na Ne pro tyto typy objekt….
+@2@54021@0@
+Tabulka %1.1 nem  sloupec ROWVERSION v popisu pohledu SQL serveru. Sloupec ROWVERSION je nutn‚ pıi definici pol¡ BLOB.
+@2@54022@0@
+Tabulka %1.1 obsahuje pole BLOB s neplatnìm £dajem komprese:
+
+Polo§ka: %6
+Pole: %2.1
+@2@54023@0@
+Vlastnosti TableRelation v aplikaci Microsoft Dynamics NAV Development Environment a ciz¡ kl¡Ÿe serveru SQL Server nebyly £spØçnØ synchronizov ny.
+
+Tabulka %1.1 odkazuje ve vlastnosti TableRelation pole %2.1 na tabulku, kter  neexistuje.
+@2@54024@0@
+SumIndexField kl¡Ÿ tabulky %1.1 pıesahuje maximum %22 povolenìch sloupc….
+
+Pole kl¡Ÿe: %6
+@2@54025@0@
+Doçlo k vz jemn‚mu zablokov n¡ vaç¡ aktivity a aktivity jin‚ho u§ivatele, kterì mØnil tabulku %1.1.
+
+ZaŸnØte znovu.
+@2@54026@0@
+The %1.1 table cannot be changed because it is locked by another user. This can be caused by one of the following tasks:
+
+* Objects are being compiled.
+* Table schema is synchronizing.
+* Objects are being imported.
+
+Wait until the user is finished and then try again.
+@2@56001@0@
+Tabulka %1.1 obsahuje pole s typem dat serveru SQL Server, s n¡m§ nelze manipulovat v produktu Microsoft Dynamics NAV Development Environment v r mci aktu ln¡ aktivity:
+
+Pole: %2.1
+Typ SQL: %104.159
+@2@56003@0@
+Tabulka %1.1 obsahuje pole s hodnotou serveru SQL Server, kter  je mimo povolenì rozsah produktu Microsoft Dynamics NAV Development Environment:
+
+Pole: %2.1
+Typ: %2.3
+@2@56004@0@
+Tabulka %1.1 obsahuje pole s hodnotou kalend ın¡ho data, kter  nem…§e bìt pou§ita v serveru SQL:
+
+Polo§ka: %6
+Pole: %2
+@2@56005@0@
+Tabulka %1.1 obsahuje datovì typ pole produktu Microsoft Dynamics NAV Development Environment, kterì nen¡ kompatibiln¡ s datovìm typem serveru SQL Server:
+
+Pole: %2.1
+Typ: %2.3
+Typ SQL: %104.159
+@2@56006@0@
+Tabulka %1.1 obsahuje hodnotu v poli pro celoŸ¡selnì k¢d, kter  nem…§e bìt pou§ita serverem SQL:
+
+Polo§ka: %6
+Pole: %2
+@2@56007@0@
+Tabulka %1.1 obsahuje v poli Code hodnotu, kterou nelze pou§¡t v produktu Microsoft Dynamics NAV Development Environment :
+
+Pole: %2.1
+Hodnota: %22
+@2@56008@0@
+Tabulka %1.1 obsahuje v celoŸ¡seln‚m poli Code hodnotu, kterou nelze pou§¡t v produktu Microsoft Dynamics NAV Development Environment :
+
+Pole: %2.1
+Hodnota: %22
+@2@56009@0@
+Zadanou hodnotu nelze pou§¡t v poli celoŸ¡seln‚ho k¢du:
+
+Tabulka: %1.1
+Pole: %2.1
+Hodnota: %22
+@2@56010@0@
+Tabulka %1.1 obsahuje hodnotu v poli, kterou nelze pıev‚st:
+
+Polo§ka: %6
+Pole: %2.1
+@2@56011@0@
+Tabulka %1.1 obsahuje pole s hodnotou Code nebo Text, kter  je pı¡liç dlouh  pro typ £daj… SQL serveru:
+Polo§ka: %6
+Pole: %2
+SQL typ: %104.159
+@2@56012@0@
+Tabulka %1.1 obsahuje celoŸ¡seln‚ pole, pole mo§nosti nebo logick‚ pole, kter‚ pou§¡v  datovì typ DECIMAL nebo FLOAT serveru SQL Server. V tomto poli byla nalezena neplatn  hodnota:
+
+Pole: %2,1
+Typ SQL: %104.159
+Hodnota: %22
+@2@56014@0@
+Tabulka %1.1 obsahuje pole Time, kter‚ pou§¡v  neplatn  data pro komponentu dat hodnoty DATETIM:
+
+Pole: %2.1
+Hodnota: %22
+@2@56015@0@
+Tabulka %1.1 obsahuje pole Date, kter‚ pou§¡v  neplatn  data pro komponentu Ÿasu hodnoty DATETIME:
+
+Pole: %2.1
+Hodnota: %22
+@2@56016@0@
+Tabulka %1.1 obsahuje pole Boolean, kter‚ nepou§¡v  typ dat BIT SQL serveru. V tomto poli byla nalezena jin  hodnota ne§ 0 nebo 1:
+
+Pole: %2.1
+SQL typ: %104.159
+Hodnota: %22
+@2@56017@0@
+Tabulka %1.1 obsahuje nekonzistentn¡ hodnoty SumIndexField:
+
+Kl¡Ÿov  pole: %6
+Tabulka SumIndexField: %22
+
+Obraœte se na spr vce syst‚mu.
+@2@56018@0@
+Tabulka %1.1 obsahuje pole s hodnotou AutoIncrement, kter  neodpov¡d  stavu IDENTITY SQL serveru:
+
+Pole: %2.1
+@2@56019@0@
+Tabulka %1.1 obsahuje pole s SQL typem £daj… Variant, kter‚ lze pıev‚st pouze na typ SQL Varchar:
+
+Pole: %2.1
+@2@END@0@
+@1@30@0@
+@2@1@0@
+%1.1-ID (%1.3) se pou§¡v  %1.2 s n zvem '%1.4'.
+@2@2@0@
+%1.1-Name ('%1.4') se pou§¡v  %1.2 s ID %1.3.
+@2@4@0@
+Vlastnost '%3' nelze pou§¡t na %1.2.
+@2@5@0@
+%1.2 nelze aktivovat.
+@2@6@0@
+%1.2 nelze aktualizovat (lze aktualizovat pouze datov‚ ovladaŸe).
+@2@7@0@
+Vlastnost '%3' se nesm¡ zmØnit pro %1.2, dokud je otevıeno!
+(%3 bylo vol no pro %1.2 s n zvem '%1.4'.)
+@2@8@0@
+Vlastnost '%3' nen¡ dynamick  pro %1.2.
+(%3 bylo vol no pro %1.2 s n zvem '%1.4'.)
+@2@9@0@
+ID pro %1.2 mus¡ bìt nenulov‚.
+@2@10@0@
+%1.2 s n zvem '%1.4' ud v  neexistuj¡c¡ ID (%5) jako nadıazen‚.
+@2@11@0@
+%1.2 s n zvem '%1.4' nem…§e obsahovat %2.2 s n zvem '%2.4'.
+@2@12@0@
+Pokusili jste se vlo§it ovladaŸ s n zvem '%2.4' jako hlaviŸku do tabulky nebo maticov‚ho okna s n zvem '%1.4' a nebyl nalezen odpov¡daj¡c¡ sloupec.
+@2@13@0@
+Pokusili jste se vlo§it ovladaŸ s n zvem '%2.4' jako hlaviŸku maticov‚ho okna do boxu s n zvem '%1.4' a Ÿ st matice je pr zdn .
+@2@14@0@
+Nespr vn‚ Ÿ¡slo str nky (%5) pro ovladaŸ z lo§ky s n zvem '%1.4'.
+(%3 bylo nastaveno na %4 pro %2.2 '%2.4').
+@2@15@0@
+Nem…§ete vlo§it ovladaŸ s n zvem '%2.4' do Ÿ sti matice s n zvem '%1.4', proto§e ovladaŸ s n zvem '%6.4' je tam ji§ um¡stØn.
+@2@16@0@
+Nem…§ete vlo§it ovladaŸ s n zvem '%2.4' jako hlaviŸku matice do boxu s n zvem '%1.4', proto§e ovladaŸ s n zvem '%6.4' je hlaviŸkou.
+@2@17@0@
+Nam…§ete vlo§it ovladaŸ s n zvem '%2.4' jako hlaviŸku tabulky s n zvem '%1.4', proto§e ovladaŸ s n zvem '%6.4' je ji§ touto hlaviŸkou.
+@2@18@0@
+'%8' nen¡ Device-Independent Bitmap souborem.
+@2@19@0@
+Toto je neplatnì soubor Device-Independent Bitmap.
+@2@20@0@
+'%8' nen¡ souborem ikony.
+@2@21@0@
+'%8' je nespr vnìm souborem ikony.
+@2@22@0@
+Vlastnost '%3' je nutn  pro %1.2.
+Pokusili jste se odstranit '%3' z %1.2 s n zvem '%1.4'.
+@2@23@0@
+Nem…§ete vlo§it ovladaŸ s n zvem '%2.4' jako Ÿ st matice '%1.4', proto§e '%1.4' nen¡ boxem matice.
+@2@24@0@
+Nem…§ete vlo§it ovladaŸ s n zvem '%2.4' jako hlaviŸku seznamu, tabulku nebo box matice '%1.4', proto§e bylo zad no, §e '%1.4' by nemØlo m¡t hlaviŸku.
+@2@25@0@
+Dynamick  vlastnost '%3' v tomto kontextu nem…§e bìt zmØnØna.
+
+Pokusili jste se zmØnit '%3' na %4 v %1.2 s n zvem '%1.4'.
+@2@26@0@
+Vlastnost '%3' nesm¡ bìt nastavena na %4 v %1.2 s n zvem '%1.4'.
+@2@28@0@
+¬¡slo bitov‚ mapy %5 nen¡ souŸ st¡ program.
+
+Program zahrnuje bitov‚ mapy, kter‚ jsou Ÿ¡slov ny v intervalu 1 a§ 53.
+@2@29@0@
+Posledn¡ editovac¡ akce (Ÿasto 'vlo§it') byla ignorov na, proto§e by se pıekroŸil maxim ln¡ poŸet znak… (%5) pro textov‚ pole %1.4.
+@2@30@0@
+'%1.5' se nem…§e uzavı¡t, proto§e ji blokuje '%2.5'.
+
+DokonŸete  '%2.5' dı¡ve, ne§ skonŸ¡te.
+@2@31@0@
+Vlastnost '%3' v %1.2 s n zvem '%1.4' je mimo rozsah (interval maxim lnØ %4).
+@2@32@0@
+%3 nesm¡ bìt %8.
+
+Povolen‚ hodnoty jsou: 'nedefinovanì', 'vìchoz¡' nebo cel‚ Ÿ¡slo od 0 do %5.
+@2@33@0@
+ZmØnili jste velikost pıilepen‚ho sloupce %1.5, kterì se potom automaticky rozt hl tak, aby obsadil jinak pr zdnì prostor.
+@2@34@0@
+%3 nesm¡ bìt %8.
+
+Zadejte platnou kombinaci kl ves jako napı. Ctrl+F5.
+@2@35@0@
+Nem…§ete pou§¡t %4 jako ID, proto§e se ji§ pou§¡v  v polo§ce nab¡dky.
+@2@36@0@
+%3 nesm¡ obsahovat %8.
+
+Maxim ln¡ velikost %3 (vŸetnØ n zvu a cesty souboru) je 32 kB (32756 byt…).
+@2@37@0@
+%3 nesm¡ obsahovat %8.
+
+Maxim ln¡ velikost cel‚ho seznamu bitovìch map v %3 (vŸetnØ n zv… a cest soubor…) je 32 kB (32756 byt…).
+@2@38@0@
+'%1.5' se nem…§e zavı¡t, proto§e syst‚m pr vØ pracuje.
+@2@39@0@
+%3 z %1.2 s n zvem '%1.4' nem…§e bìt %4.
+Vìsledkem by byl cyklickì nadıazenì ıetØzec (%1.2 s n zvem '%1.4' jako 'nadıazenì' %2.2 s n zvem '%2.4').
+@2@43@0@
+Nem…§ete ruŸnØ mØnit nebo odstranit %3 z %1.2 s n zvem '%1.4'.
+
+Chcete-li zmØnit kontejner, pıesuåte '%1.4' pomoc¡ myçi.
+@2@44@0@
+Nem…§ete zmØnit nebo odstranit %3 z %2.2 s n zvem '%2.4', proto§e je uvnitı %1.2 s n zvem '%1.4'.
+@2@45@0@
+V 16bitov‚m syst‚mu Windows nem…§e bìt aktivn¡ v¡ce ne§ jedna relace aplikace Microsoft Dynamics NAV Development Environment. 
+@2@47@0@
+Vytvoıen¡ hypertextov‚ho odkazu v prostıed¡ C/SIDE se nezdaıilo.
+
+Pokusili jste se vytvoıit hypertextovì odkaz na c¡l:
+%8
+
+Chcete tento c¡l hypertextov‚ho odkazu ulo§it do schr nky?
+@2@49@0@
+Prostıed¡ C/SIDE nemohlo naŸ¡st prostıedek syst‚mu Windows.
+
+Mo§n  je m lo prostıedk… syst‚mu Windows.
+Zavıete nØkter  okna a akci opakujte.
+@2@50@0@
+%3 nem…§e bìt %4.
+
+Povolenìmi hodnotami jsou cel  Ÿ¡sla od 220 do %5.
+@2@52@0@
+Cesta je pı¡liç dlouh . D‚lka cesty nesm¡ pıes hnout %5 byt….
+@2@53@0@
+Podformul ı nelze aktivovat, pokud nen¡ aktivn¡ jeho hlavn¡ formul ı.
+@2@54@0@
+Podformul ı nelze aktivovat, pokud nen¡ aktivn¡ jeho hlavn¡ formul ı.
+ID hlavn¡ho adres ıe=%1.
+@2@55@0@
+PoŸet z znam… v tabulce pıesahuje maxim ln¡ poŸet %1.
+
+Nastavte filtr tak, aby doçlo ke sn¡§en¡ poŸtu z znam… v tabulce, nebo kliknØte na pı¡kaz N stroje,
+Mo§nosti a zvyçte maxim ln¡ poŸet z znam… pro export.
+
+Export mnoha z znam… souŸasnØ m…§e sn¡§it vìkon syst‚mu.
+@2@56@0@
+Z va§n  vnitın¡ chyba
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ The Connection between the Database and Forms                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@60@0@
+@2@1@0@
+Formul ı nerozezn  ovladaŸ %6.
+@2@2@0@
+%1 nelze do tohoto formul ıe vlo§it.
+@2@3@0@
+%1 nelze v tomto formul ıi zmØnit.
+@2@4@0@
+%1 nelze v tomto formul ıi odstranit.
+@2@5@0@
+Volby nelze pou§¡t, proto§e § dn‚ neexistuj¡.
+@2@6@0@
+Odtud nelze volat CurrForm.UPDATE.
+@2@7@0@
+AktivaŸn¡ sign ly typu Timer nejsou k dispozici.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA_Control  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ Controls used in the Connection between                 ³
+// ³                  the Database and Forms                                  ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@61@0@
+@2@1@0@
+'%3' nen¡ platn  hodnota.
+@2@2@0@
+OvladaŸ %9(%6) m  neplatnì typ dat %7. Platnì typ dat je: %8.
+@2@3@0@
+'%3' nen¡ platn  hodnota. Lze pou§¡t n sleduj¡c¡ hodnoty: %5.
+@2@4@0@
+Pole nem…§e bìt pr zdn‚. Zadejte  hodnotu.
+@2@5@0@
+Pole obsahuje neplatnì znak (%1). Lze pou§¡t n sleduj¡c¡ znaky: %4.
+@2@6@0@
+MØli byste do tohoto pole zadat Ÿ¡slo.
+@2@7@0@
+Zde nem…§ete zadat ULTIMO datum.
+@2@10@0@
+Zadejte desetinn‚ Ÿ¡slo nebo vzorec vìpoŸtu.
+@2@11@0@
+Pole m…§e m¡t maxim lnØ %5 desetinnìch m¡st.
+@2@13@0@
+OvladaŸ %9(%6) nem…§e bìt upravov n, proto§e pole datab ze nem…§e bìt upravov no.
+@2@14@0@
+'CharAllowed' mus¡ bìt dvojice znak…. Prvn¡ znak dvojice mus¡ bìt roven nebo menç¡ ne§ druhì.
+@2@15@0@
+Heslo obsahuje neplatnì znak.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ADSI ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Active Directory Services Interface                                     ³
+// ³                                                                          ³
+// ³  ID values:    1- 199   General errors                                   ³
+// ³              200- 249   AD Schema errors                                 ³
+// ³              250- 269   Service Connection Point errors                  ³
+// ³                                                                          ³
+// ³             1xxx        Information (success) message corresponding to   ³
+// ³                                               the xxx error message      ³
+// ³                                                                          ³
+// ³  Symbol   Substitution   Explanation/Examples                            ³
+// ³  ------   ------------   --------------------                            ³
+// ³                                                                          ³
+// ³    %1     Text           Error text retrieved from ADSI                  ³
+// ³                                                                          ³
+// ³    %2     Text           Error context                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@142@0@
+@2@1@0@
+Slu§ba Active Directory nemohla bìt inicializov na.
+@2@2@0@
+Vol n¡ rozhran¡ slu§by Active Directory se nezdaıilo.
+
+Byla vr cena n sleduj¡c¡ chyba:
+%1
+Obraœte se na spr vce syst‚mu.
+@2@3@0@
+Syst‚m nemohl obnovit objekt %2 ze slu§by Active Directory.
+
+Syst‚m vr til n sleduj¡c¡ chybu:
+%1
+Obraœte se na sv‚ho spr vce syst‚mu nebo dodavatele.
+@2@4@0@
+Syst‚m nemohl obnovit glob ln¡ katalog ze slu§by Active Directory.
+Pı¡Ÿinou mohou bìt probl‚my v s¡ti nebo nefunkŸnost slu§by Active Directory v poŸ¡taŸi nebo v s¡ti.
+
+Syst‚m vr til n sleduj¡c¡ chybu:
+%1
+
+Funkce slu§by Active Directory nejsou k dispozici.
+Obraœte se na spr vce syst‚mu nebo na dodavatele.
+@2@5@0@
+Syst‚m nemohl obnovit glob ln¡ katalog ze slu§by Active Directory.
+Pı¡Ÿinou mohou bìt probl‚my se s¡t¡ nebo nefunkŸnost slu§by Active Directory ve vaçem poŸ¡taŸi nebo v s¡ti.
+
+Funkce slu§by Active Directory nejsou k dispozici.
+Obraœte se na spr vce syst‚mu nebo na dodavatele.
+@2@250@0@
+Syst‚mu se nepodaıilo publikovat nebo aktualizovat bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ve slu§bØ Active Directory.
+
+Syst‚m vr til n sleduj¡c¡ chybu:
+%1
+Obraœte se na spr vce syst‚mu nebo na sv‚ho dodavatele.
+@2@251@0@
+Syst‚mu se nepodaıilo zapsat do registru identifik tor GUID bodu pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic.
+Server nem…§e aktualizovat bod pıipojen¡ slu§by.
+@2@252@0@
+Syst‚mu se nepodaıilo publikovat bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ve slu§bØ Active Directory.
+
+Aby mohl datab zovì server pro produkt Microsoft Dynamics NAV Classic publikovat bod pıipojen¡ slu§by, je nutn‚ rozç¡ıit sch‚ma Active Directory v ıadiŸi s¡œov‚ dom‚ny. Po§ dejte spr vce s¡tØ o poskytnut¡ informac¡.
+
+Pomoc¡ n stroje SchemaXt, um¡stØn‚ho na instalaŸn¡m m‚diu, pıidejte tuto podporu do slu§by Active Directory.
+
+Pozn mka: Datab zovì server pro produkt Microsoft Dynamics NAV Classic m…§e pracovat bez bodu pıipojen¡ slu§by. Klienti vçak nemohou vypsat seznam server… v s¡ti.
+@2@253@0@
+Syst‚mu se nepodaıilo aktualizovat bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ve slu§bØ Active Directory.
+Polo§ka registru neexistuje.
+@2@254@0@
+Syst‚mu se nepodaıilo publikovat bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ve slu§bØ Active Directory.
+OperaŸn¡ syst‚m nepodporuje publikov n¡ slu§eb. Minim ln¡ podporovanì operaŸn¡ syst‚m je syst‚m Microsoft Windows 2000.
+Tato skuteŸnost nem  vliv na vìkon datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic. Klienti vçak nemohou pro tento server pou§¡t funkci proch zen¡.
+@2@260@0@
+Syst‚mu se nepodaıilo odebrat bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ze slu§by Active Directory.
+
+Syst‚m vr til n sleduj¡c¡ chybu:
+%1
+Obraœte se na spr vce syst‚mu nebo na sv‚ho dodavatele.
+@2@261@0@
+Syst‚mu se nepodaıilo odebrat bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ze slu§by Active Directory.
+Polo§ka registru neexistuje.
+@2@1250@0@
+Syst‚m publikoval bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ve slu§bØ Active Directory.
+@2@1260@0@
+Syst‚m odebral bod pıipojen¡ slu§by datab zov‚ho serveru pro produkt Microsoft Dynamics NAV Classic ze slu§by Active Directory.
+@2@END@0@
+//   ÚÄÄÄÄÄ¿
+// ÚÄ´ OIO ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÙ                                                                  ³
+// ³                                                                          ³
+// ³  Module_OIO                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@27@0@
+@2@2@0@
+Disk Ÿi disketa, na kterì chcete um¡stit z lohu, je pı¡liç malì na to, aby obsahoval identifikaŸn¡ blok. Vyberte m‚dium, na kter‚m je v¡ce m¡sta.
+@2@3@0@
+Na disku ji§ nen¡ voln‚ m¡sto. Pou§ijte disk s vØtç¡ kapacitou.
+@2@4@0@
+Z loha byla zniŸena (nespr vnì kontroln¡ souŸet).
+@2@6@0@
+Z loha byla zniŸena (neoŸek vanì typ dat).
+@2@8@0@
+Proces vytvoıen¡/obnovy z lohy byl pıeruçen.
+@2@16@0@
+Z loha nepoch z¡ z produktu Microsoft Dynamics NAV Development Environment.
+@2@17@0@
+Z loha a program maj¡ r…zn  Ÿ¡sla verz¡ programu.
+@2@18@0@
+Form t souboru  "%1" nen¡ podporov n touto verz¡ Microsoft Dynamics NAV Development Environment.
+@2@20@0@
+Z loha nepoch z¡ z produktu Microsoft Dynamics NAV Development Environment.
+@2@21@0@
+Tento soubor .fob je star  verze, kter  nefunguje s Microsoft Dynamics NAV Development Environment. Pou§ijte Microsoft Dynamics NAV 2013 Development Environment pro import do Microsoft Dynamics NAV 2013 database a potom exportujte pıeveden‚ objekty do nov‚ho souboru .fob.
+@2@100@0@
+Obnova z lohy byla pıeruçena, proto§e spoleŸnost '%10' ji§ v datab zi existuje.
+@2@101@0@
+Syst‚m vytv ıen¡ z loh nem…§e naj¡t soubor %1. Zkontrolujte, zda pou§¡v te spr vnou disketu.
+@2@102@0@
+Disk Ÿi disketa, na kterì chcete um¡stit z lohu, je pı¡liç malì na to, aby obsahoval celì titul z lohy. Vyberte m‚dium, na kter‚m je v¡ce m¡sta.
+@2@103@0@
+Obnova z lohy byla pıeruçena, proto§e v datab zi existuj¡ data spoleŸn  pro vçechny spoleŸnosti.
+@2@200@0@
+Nejm‚nØ jeden z objekt…, kter‚ se pokouç¡te importovat, neobsahuje podpis
+a nen¡ proto platnìm objektem aplikace. Import bude zruçen.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  IE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Binary Object Import/Export                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@169@0@
+@2@1@0@
+Vytvoıen¡ je povoleno pouze pro nov‚ objekty.
+@2@2@0@
+Pıeps n¡ nen¡ povoleno pro nov‚ objekty.
+@2@3@0@
+SluŸovat lze pouze tabulky.
+@2@4@0@
+OdstranØn¡ je povoleno pouze pro pr zdn‚ objekty.
+@2@5@0@
+Pr zdn‚ objekty mohou bìt pou§ity pouze k odstranØn¡ jinìch objekt….
+
+Zvolte buÔto Skip nebo Delete.
+@2@101@0@
+Vçechny objekty byly zkontrolov ny a nebyly nalezeny § dn‚ konflikty.
+
+Zvolte Ano pro import vçech objekt…, Ne pro otevıen¡ Seçitu importu nebo Storno pro zastaven¡ importu.
+@2@102@0@
+Objekty v %1 nemohly bìt naimportov ny, proto§e nastaven¡ listu importu nelze pou§¡t na objekty v datab zi  nebo objekty, kter‚ se pokouç¡te naimportovat.
+
+Kliknut¡m na tlaŸ¡tko OK zobrazte okno Seçitu importu nebo kliknut¡m na tlaŸ¡tko Storno ukonŸete import.
+@2@103@0@
+Objekty v %1 nemohly bìt naimportov ny, proto§e v datab zi ji§ existuj¡ objekty s konfliktn¡mi verzemi.
+
+Zvolte Ano pro otevıen¡ Seçitu importu nebo Storno pro zastaven¡ importu.
+@2@400@0@
+Z loha '%1' byla £spØçnØ dokonŸena.
+@2@401@0@
+Z loha '%1' byla £spØçnØ obnovena.
+@2@404@0@
+Z loha datab ze %1 byla £spØçnØ obnovena.
+
+Nepodaıilo se naŸ¡st informace o u§ivateli (k¢d chyby syst‚mu Windows: '%2'). Pro aktivaci syst‚mu zabezpeŸen¡ je nutn‚ ruŸnØ pıidat pıihlaçovac¡ jm‚no pro syst‚m Windows.
+@2@600@0@
+Na disku nen¡ dostatek m¡sta pro ulo§en¡ identifikaŸn¡ho bloku. Vyberte m‚dium, kter‚ m  v¡ce m¡sta.
+@2@602@0@
+Soubor byl zniŸen (nespr vnì kontroln¡ souŸet).
+@2@603@0@
+Soubor byl zniŸen (neoŸek vanì typ dat).
+@2@604@0@
+Job byl pıeruçen.
+@2@605@0@
+Soubor nen¡ objektovìm souborem produktu Microsoft Dynamics NAV Development Environment.
+@2@606@0@
+Soubor objekt… a program maj¡ r…zn  Ÿ¡sla verz¡ programu.
+@2@607@0@
+Soubor objekt… nem…§e bìt pou§it v t‚to verzi programu.
+@2@608@0@
+Soubor nen¡ objektovìm souborem produktu Microsoft Dynamics NAV Development Environment.
+@2@609@0@
+Nelze nal‚zt soubor %1. OvØıte, zda pou§¡v te spr vnì disk.
+@2@610@0@
+Na disku nen¡ dostatek m¡sta pro ulo§en¡ cel‚ho titulu souboru objekt…. Vyberte m‚dium, kter‚ m  v¡ce m¡sta.
+@2@700@0@
+Nelze importovat objekty do datab ze. Byly nalezeny n sleduj¡c¡ konflikty:
+
+%1
+@2@END@0@
+
+
+//   ÚÄÄÄÄ¿
+// ÚÄ´ WZ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Wizards                                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@111@0@
+@2@1@0@
+Chcete-li pou§¡t pr…vodce, je nutn‚ zadat tabulku.
+@2@2@0@
+ID tabulky %1 neexistuje.
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  DM  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Data Manager                                                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@110@0@
+@2@1@0@
+Okno obsahuje pı¡liç mnoho FlowFields. Okno m…§e zobrazit maxim lnØ %1 FlowFields.
+
+Odeberte nØkter  pole z formul ıe.
+@2@4@0@
+Polo§ka ji§ existuje.
+@2@6@0@
+V demonstraŸn¡ spoleŸnosti m…§ete zad vat data pouze v pr…bØhu listopadu, prosince, ledna a £nora. To je urŸeno filtrem '%1', kterì je definov n v souboru licence.
+@2@7@0@
+Pole %1 mus¡ bìt vyplnØno. Zadejte hodnotu.
+@2@8@0@
+Nem…§ete vkl dat polo§ku z jin‚ tabulky.
+@2@9@0@
+Do t‚to tabulky nem…§ete vkl dat.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  AO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Object                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@70@0@
+@2@001@0@
+Typ objektu '%6' nen¡ podporov n.
+@2@021@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+Zde se oŸek v  '{' (ZaŸ tekSeznamu).
+@2@022@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+Zde se oŸek v  '}' (KonecSeznamu).
+@2@023@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+Zde se oŸek v  '=' (ZnakRovno).
+@2@024@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+Zde se oŸek v  '{' (ZaŸ tekPrvku).
+@2@025@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+Zde se oŸek v  '}' (KonecPrvku).
+@2@026@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+Soubor by tady nemØl konŸit.
+@2@027@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+AL k¢d nen¡ odsazen tolik jako prvn¡ ı dek.
+@2@028@0@
+V importu je chyba syntaxe na ı dku %3 na pozici %2 : %1.
+
+Zde by mØl zaŸ¡nat novì objekt.
+@2@029@0@
+There is a syntax error in the import on line %3 in position %2 : %1. 
+
+The ControlAddIn component has to be installed to import its event triggers.
+
+@2@030@0@
+There is an error in the import on line %3, in position %2 : %1. 
+
+Word Layout is too large.
+
+@2@031@0@
+Je nutn‚ zadat ID objektu.
+@2@032@0@
+Je nutn‚ zadat n zev objektu.
+@2@041@0@
+V 'Importu pıekladu' je chyba syntaxe. Nesm¡ existovat pr zdn‚ ı dky.
+@2@042@0@
+V 'Importu pıekladu' je chyba syntaxe. V ıetØzci mus¡ bìt m¡nus.
+
+%5
+@2@043@0@
+V 'Importu pıekladu' je chyba syntaxe. V ıetØzci mus¡ bìt dvojteŸka.
+
+%5
+@2@045@0@
+V 'Importu pıekladu' je chyba syntaxe. Text je pı¡liç dlouhì.
+
+%5
+@2@051@0@
+'%7' nen¡ platnìm souborem jazykov‚ho modulu.
+@2@052@0@
+Soubor jazykov‚ho modulu '%7' nen¡ kompatibiln¡ verze.
+@2@053@0@
+V souboru jazykov‚ho modulu '%7' je chyba kontroln¡ho souŸtu.
+@2@400@0@
+Form t exportu nen¡ podporov n: %1. Podporov ny jsou form ty 0: txt a 1: xml.
+@2@401@0@
+Z znam pıedanì funkci EXPORTOBJECTS mus¡ bìt z znam objektu tabulky.
+@2@420@0@
+Form t importu nen¡ podporov n: %1. Podporov ny jsou form ty 0: txt a 1: xml.
+@2@421@0@
+Import byl zastaven na ı dku %1 s n sleduj¡c¡ chybovou zpr vou:
+
+%2
+@2@423@0@
+Import byl zastaven na ı dku %1 (nezn m  chyba).
+@2@500@0@
+Vìstupn¡ soubor nen¡ otevıen.
+@2@800@0@
+Nepodaıilo se naŸ¡st dokument XML %7.
+@2@801@0@
+K¢d MSXML nelze naŸ¡st.
+@2@802@0@
+NeoŸek vanì prvek %1. Byl oŸek v n prvek %2.
+@2@803@0@
+Nepodaıilo se ulo§it dokument XML %7.
+@2@900@0@
+Nem…§ete uzamknout %1, proto§e je ji§ uzamŸen u§ivatelem %22.
+@2@902@0@
+Nem…§ete uzamknout %1, proto§e je pro v s ji§ uzamŸen.
+@2@903@0@
+Nem…§ete odemknout %1, proto§e nen¡ uzamŸenì.
+@2@904@0@
+Nem…§ete odemknout %1, proto§e je ji§ uzamŸen u§ivatelem %22.
+
+Chcete-li odemknout objekt uzamŸenì jinìm u§ivatelem, obraœte se na spr vce syst‚mu.
+@2@905@0@
+Objekt nem…§ete ulo§it, proto§e je urŸen jen ke Ÿten¡.
+@2@906@0@
+Nem…§ete ulo§it objekt s t¡mto ID.
+@2@907@0@
+Objekt typu Form nen¡ podporov n.
+@2@908@0@
+Objekt typu Dataport nen¡ podporov n.
+@2@909@0@
+BØ§¡c¡ AL k¢d nen¡ podporov n v tomto kontextu.
+@2@910@0@
+Objekt '%1' mus¡ bìt ulo§en v kompilovan‚ formØ dı¡ve ne§ m…§e bìt spuçtØn.
+@2@915@0@
+The FOB file contains table objects.\
+\
+Some changes in the table objects may require data upgrade instructions. In this case, if this FOB file contains the upgrade toolkit objects, such as upgrade codeunits and upgrade tables, then you can choose to synchronize schema now. If the upgrade toolkit objects are included in a separate FOB file, then you can choose to synchronize schema later, after you have imported that FOB file.\
+\
+We recommend that you make a backup of all of your application objects by exporting all your current objects in the FOB format before you proceed.\
+\
+Select the option for synchronizing the schema changes after the table objects are imported into the application.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´COMCÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                                          ³
+// ³  COMponent Controller                                                                           ³
+// ³                                                                                                 ³
+// ³  This section provides a short explanation of the %x symbols used below.                        ³
+// ³                                                                                                 ³
+// ³  Symbol   Substitution   Explanation/Examples                                                   ³
+// ³  ------   ------------   --------------------                                                   ³
+// ³                                                                                                 ³
+// ³  %1.1     Name.                                                                                 ³
+// ³  %1.2     GUID.          This is a Global Unique ID.                                            ³
+// ³                          Example:{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}                         ³
+// ³   2       Filename                                                                              ³
+// ³   3       Symbolname     The name of a method or a property.                                    ³
+// ³                          Examples: CTERM, PV or Caption                                         ³
+// ³   4       Number         A numeric value (integer).                                             ³
+// ³   5       MaxArgs        A numeric value. The maximum number of allowed                         ³
+// ³                          arguments when calling methods or properties in                        ³
+// ³                          an OLE control or Automation server.                                   ³
+// ³   6       CLSID          This is a Class ID path.                                               ³
+// ³                          Example: HKEY_CLASSES_ROOT\CLSID\{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}³
+// ³   7       Text           A text string.                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@35@0@
+@2@1@0@
+Nelze inicializovat OLE.
+
+Zkontrolujte, zda jsou knihovny DLL syst‚mu OLE spr vnØ nainstalov ny.
+@2@2@0@
+Podtyp (GUID) pro promØnnou OCX nebo Automation nebyl zad n.
+
+Zadejte GUID vyplnØn¡m pole Subtype v oknØ C/AL Locals nebo C/AL Globals.
+@2@4@0@
+Nemohl bìt naŸten typ knihovny pro OLE ovladaŸ nebo Automation Server s odkazem na %1.1.
+%1.2
+
+Typ knihovny mohl bìt odstranØn nebo pıesunut jinam.
+Zkuste OLE ovladaŸ nebo Automation Server znovu registrovat.
+@2@7@0@
+Neplatnì form t GUID ıetØzce. Platnì form t GUID ıetØzce je
+
+{CDEF7890-ABCD-0123-1234-567890ABCDEF}
+
+kde 0-9, A-F pıedstavuj¡ hexadecim ln¡ Ÿ¡slice.
+@2@8@0@
+Program nem…§e z¡skat typ informac¡ z knihovny typ….
+
+Knihovna typ… m…§e bìt poçkozena nebo nem  platnì form t.
+Zkuste znovu evidovat ovladaŸ OLE nebo Automation Server.
+@2@10@0@
+Program nemohl pıeŸ¡st informace o vlastnostech z knihovny typ….
+
+Zkuste znovu evidovat ovladaŸ OLE nebo Automation Server.
+@2@12@0@
+Program nemohl z¡skat popis vlastnost¡ z knihovny typ….
+
+Zkuste znovu evidovat ovladaŸ OLE nebo Automation Server.
+@2@13@0@
+Program nemohl z¡skat popis metod z knihovny typ….
+
+Zkuste znovu evidovat ovladaŸ OLE nebo Automation Server.
+@2@14@0@
+Program nemohl z¡skat popis syntaxe z knihovny typ….
+
+Zkuste znovu registrovat ovladaŸ OLE nebo Automation Server.
+@2@16@0@
+BØhem kompilace nebylo mo§n‚ z¡skat informace z knihovny typ…
+o symbolu %3.
+
+Knihovna typ… mohla bìt poçkozena. Zkuste znovu registrovat OLE ovladaŸ
+nebo Automation Server.
+@2@17@0@
+Knihovna typ… nedefinuje metodu nebo vlastnost nazvanou %3.
+
+Pou§ijte Nab¡dku symbol… k nalezen¡ metod a vlastnost¡ definovanìch
+OLE ovladaŸe nebo Automation Serverem.
+@2@18@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Byl pıekroŸen maxim ln¡ poŸet parametr…. %3 vy§aduje %4
+parametr…. C/SIDE podporuje maxim lnØ %5 parametr….
+@2@19@0@
+OLE ovladaŸem nebo Automation Serverem nen¡ definov na § dn  metoda nebo vlastnost s n zvem %3.
+
+Pou§ijte Nab¡dku symbol… k nalezen¡ metod a vlastnost¡ definovanìch
+OLE ovladaŸem nebo Automation Serverem.
+@2@20@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Tyto £daje nejsou podporov ny C/SIDE. K dat…m m te pı¡stup pomoc¡
+libovoln‚ho typu £daj…:
+VT_VOID, VT_I2, VT_I4, VT_R4, VT_R8, VT_CY, VT_DATE, VT_BSTR a VT_BOOL
+@2@21@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+OvladaŸ OLE nebo Automation Server poskytl nezn mì typ £daj….
+@2@26@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Z ovladaŸe OLE nebo Automation Serveru nelze z¡skat ID n zv….
+@2@27@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze z¡skat hodnotu vlastnosti %3.
+@2@28@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze volat Ÿlen %3. OvladaŸ OLE nebo Automation Server vr til tuto
+zpr vu:
+PoŸet nab¡zenìch prvk… je r…znì od poŸtu argument…
+pıij¡manìch metodou nebo vlastnost¡.
+@2@30@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vytvoıit um¡stØn¡ OLE ovladaŸe nebo Automation Server identifikovan‚ho
+GUID=%3.
+Zkontrolujte, zda je ovladaŸ OLE nebo Automation Server spr vnØ nainstalov n a zaregistrov n.
+@2@34@0@
+Nelze otevı¡t HKEY_CLASSES_ROOT\%6
+v registru.
+@2@35@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Hodnota vr cen  OLE ovladaŸem (typ dat float) m  nespr vnì form t.
+OLE ovladaŸ nebo Automation Server nem…§e zpracovat zadan‚ vstupn¡ parametry.
+Obvykle tuto situaci zp…sob¡ dØlen¡ nulou nebo pıeteŸen¡.
+@2@36@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Hodnota vr cen  OLE ovladaŸem nebo Automation Serverem (typ dat double) m  nespr vnì form t.
+OLE ovladaŸ nebo Automation Server nem…§e zpracovat zadan‚ vstupn¡ parametry.
+Obvykle tuto situaci zp…sob¡ dØlen¡ nulou nebo pıeteŸen¡.
+@2@37@0@
+Nelze pou§¡t metodu AboutBox pro tento OLE ovladaŸ.
+
+GUID: %6
+@2@38@0@
+OLE ovladaŸ nelze registrovat.
+
+Cesta: %2
+@2@39@0@
+Do syst‚movìch registr…
+byly £spØçnØ pıid ny informace o OLE ovladaŸi.
+
+Cesta: %2
+@2@40@0@
+Nelze zruçit registraci ovladaŸe OLE.
+
+Cesta: %2
+@2@41@0@
+Informace o OLE ovladaŸi
+byly £spØçnØ odstranØny ze syst‚movìch registr….
+
+Cesta: %2
+@2@42@0@
+OLE ovladaŸ nelze naŸ¡st.
+
+Cesta: %2
+@2@44@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡ zpr vu:
+Jeden z argument… nen¡ platnì pro typ VARIANT.
+@2@45@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Selhalo vol n¡ Ÿlena %3, od %2 bylo pıijato toto hl çen¡:
+%7
+@2@46@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡
+zpr vu:
+Po§adovanì Ÿlen neexistuje nebo vol n¡ se pokusilo nastavit hodnotu vlastnosti,
+kter  je pouze ke Ÿten¡.
+@2@47@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡
+zpr vu:
+Tato implementace IDispatch nepodporuje pojmenovan‚ argumenty.
+@2@48@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡
+zpr vu:
+Jeden z argument… nemohl bìt pıeveden na zadanì typ
+nebo vzniklo pıeteŸen¡.
+@2@49@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡
+zpr vu:
+Jeden z parametr… dispatch IDs neodpov¡d  parametru
+metody.
+@2@50@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡
+zpr vu:
+Jeden nebo v¡ce parametr… nemohl bìt pıeveden.
+@2@51@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡ zpr vu:
+ID rozhran¡ pıedan‚ v riid nen¡ IID_NULL.
+@2@52@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡
+zpr vu:
+Volanì Ÿlen interpretuje ıetØzcov‚ argumenty podle lok ln¡ch ID (LCID) a LCID nebylo nalezeno.
+@2@53@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til n sleduj¡c¡ zpr vu:
+Chyb¡ po§adovanì parametr.
+@2@54@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nelze vyvolat Ÿlen %3. OLE ovladaŸ nebo Automation Server vr til nezn mì
+k¢d chyby.
+@2@56@0@
+V knihovnØ typ… nelze naj¡t zadan‚ rozhran¡.
+@2@57@0@
+Nelze naŸ¡st vybranou knihovnu typ….
+@2@58@0@
+V knihovnØ, kterou jste vybrali, je nØkolik typ…, kter‚ maj¡ zadanì n zev.
+Kliknut¡m na tlaŸ¡tko vyberte spr vn‚ rozhran¡.
+@2@59@0@
+Knihovna typ… %7 je zıejmØ poçkozena.
+
+Nov  instalace odpov¡daj¡c¡ aplikace m…§e probl‚m vyıeçit.
+@2@60@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nen¡ mo§n‚ pıiıadit pr zdnì objekt.
+@2@61@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nespr vn‚ pıiıazen¡. Nen¡ mo§n‚ pıiıadit %9 pro %8.
+@2@62@0@
+OvladaŸ OLE (GUID: %6) nemohl bìt pıelo§en, proto§e nebyl spr vnØ registrov n.
+
+Zkuste ovladaŸ OLE znovu registrovat kliknut¡m na N stroje, Custom Controls.
+@2@63@0@
+Toto hl çen¡ je pro program tory C/AL.
+
+PromØnn  ji§ byla vytvoıena.
+@2@64@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Tato Automation promØnn  nebyla inicializov na.
+Inicializovat ji m…§ete buÔ vytvoıen¡m nebo pıiıazen¡m.
+@2@65@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+üetØzec:
+"%7"
+je pro pou§it¡ v C/AL pı¡liç dlouhì.
+@2@66@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+OvladaŸ OLE nebo Automation Server identifikovanì
+%3
+vy§aduje vìvoj ıskou licenci. Tato licence nem…§e bìt nalezena.
+Zkontrolujte, zda ovladaŸ OLE nebo Automation Server je spr vnØ nainstalov n s odpov¡daj¡c¡ licenc¡.
+@2@67@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Extern¡ komponenta neposkytla IID_IStream nebo IID_ISequentialStream interface na IUknown interface.
+@2@68@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Varianta je pr zdn , tak§e nem…§ete pıedat § dnou hodnotu.
+@2@69@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Doçlo k vìjimce v metodØ %3. OvladaŸ OLE nebo Automation Server vr til chybu (HRESULT) %7.
+Komponenta neposkytla popis vìjimky.
+@2@70@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Nebylo mo§n‚ pıev‚st z %11.20 na %10.20.
+Vr cen  hodnota parametru %7 v aktivaŸn¡m sign lu ud lost¡
+'%6' m…§e bìt mimo povolenì rozsah pro
+ovladaŸ OLE nebo Automation Server.
+@2@71@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Typ pıevodu %1 nen¡ mo§nì. C¡lovì typ byl zıejmØ %2 .
+@2@END@0@
+
+
+// OCX_Type ---------------------------------------------------
+
+@1@36@0@
+@2@1@0@
+Je mo§n‚ namapovat n zev %3 na identifik tor %4 GUID.
+Prostıed¡ C/SIDE vybralo %6.
+@2@2@0@
+%3 neexistuje ani jako GUID ani jako n zev OLE ovladaŸe nebo Automation Server.
+Zkontrolujte, zda polo§ka nen¡ zkomolena.
+@2@7@0@
+%3 nen¡ rozpozn no jako GUID ani jako n zev nebo Automation Server.
+Zkontrolujte, zda polo§ka nen¡ zkomolena.
+@2@END@0@
+@1@165@0@
+@2@1@0@
+¬¡slo pole je nespr vn‚. ¬¡slo pole mus¡ bìt v rozmez¡ %1 a %2.
+@2@2@0@
+Objekt %3 m  nespr vnou verzi.
+@2@3@0@
+Byl vr cen nespr vnì typ dat z %4. Typ dat by mØl bìt Integer.
+@2@4@0@
+PromØnn  FIELDREF nebyla inicializov na.
+@2@5@0@
+PromØnn  RECORDREF nebyla inicializov na.
+@2@6@0@
+PromØnn  KEYREF nebyla inicializov na.
+@2@7@0@
+PromØnn  RECORDID nebyla inicializov na.
+@2@8@0@
+PromØnn  RECORDREF pou§¡vaj¡c¡ tabulku %1 - nem…§e bìt pıiıazena promØnn‚ typu RECORD z tabulky %2.
+@2@9@0@
+Pole indexu '%1' je mimo povolen‚ rozmez¡ (mus¡ bìt od %2 do %3).
+@2@10@0@
+Kl¡Ÿ indexu '%1' je mimo povolen‚ rozmez¡ (mus¡ bìt od %2 do %3).
+@2@11@0@
+Neplatnì n zev tabulky. Parametr polo§ky nebyl spr vnØ inicializov n.
+@2@12@0@
+PromØnn  RECORDREF nebyla zavıena. Pıed otevıen¡m nov‚ tabulky je nutn‚ zavı¡t promØnnou RECORDREF pomoc¡ funkce CLOSE.
+@2@13@0@
+Neplatnì datovì typ pole pıi nastaven¡ vlastnosti 'ExtendedDatatype' na hodnotu '%1'.
+
+Platn‚ datov‚ typy jsou Integer, BigInteger a Decimal.
+@2@14@0@
+PromØnn  RECORDREF pou§¡v  tabulku %1 - nelze pou§¡t funkci GET s hodnotou RecordID tabulky %2.
+@2@15@0@
+Datovì typ "%20" nen¡ platnì,  kdy§ vlastnost Width je nastavena.
+
+Platn‚ typy dat jsou Text, Code, Integer, BigInteger, or Decimal.
+@2@50@0@
+N zev skupiny pol¡ %1 obsahuje mezery.
+@2@51@0@
+Ve skupin ch pol¡ existuje v¡ce definic¡ ID Ÿ. %1.
+@2@52@0@
+Ve skupin ch pol¡ existuje v¡ce definic¡ n zvu %1.
+@2@53@0@
+N zev skupiny pol¡ nem…§e bìt pr zdnì.
+@2@54@0@
+Unable to process table changes because the Microsoft Dynamics NAV Development Environment cannot connect to the specified Microsoft Dynamics NAV Server instance:
+
+Server Name: %1
+Server Instance: %2
+Management Port: %3
+
+Microsoft Dynamics NAV Development Environment will detect a running server automatically.
+
+Check that:
+1. The Microsoft Dynamics NAV Server is running
+2. The management service is configured
+3. The firewall is open for the management port if remote
+4. The server is running with only one tenant
+5. Microsoft Dynamics NAV Development Environment is running as Administrator, or
+6. UAC is turned off.
+@2@55@0@
+The objects from the .fob file were imported, but they contain schema changes that cannot be synchronized to the database with the Microsoft Dynamics NAV Server instance.
+Contact your system administrator with the following information:
+
+Server Name: %1
+Server Instance: %2
+Management Port: %3
+
+Microsoft Dynamics NAV Development Environment will detect a running server automatically.
+
+Check that:
+1. The Microsoft Dynamics NAV Server is running
+2. The management service is configured
+3. The firewall is open for the management port if remote
+4. Microsoft Dynamics NAV Development Environment is running as Administrator, or
+5. UAC is turned off.
+@2@56@0@
+The table changes were saved, but they contain schema changes that cannot be synchronized to the database with the Microsoft Dynamics NAV Server instance.
+Contact your system administrator with the following information:
+
+Server Name: %1
+Server Instance: %2
+Management Port: %3
+
+Microsoft Dynamics NAV Development Environment will detect a running server automatically.
+
+Check that:
+1. The Microsoft Dynamics NAV Server is running
+2. The management service is configured
+3. The firewall is open for the management port if remote
+4. Microsoft Dynamics NAV Development Environment is running as Administrator, or
+5. UAC is turned off.
+@2@57@0@
+Unable to process table changes because the request cannot be processed by the specified Microsoft Dynamics NAV Server instance:
+
+Server Name: %1
+Server Instance: %2
+Management Port: %3
+
+Check that:
+1. The Microsoft Dynamics NAV Server is running
+2. There is only one tenant mounted on the server instance.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  FO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Form Object                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@81@0@
+@2@005@0@
+Objekt '%1' mus¡ bìt kompilov n dı¡ve ne§ m…§e bìt spuçtØn.
+@2@101@0@
+Toto je neplatnì typ £daj… pro 'Expression' v 'MenuItem'. OŸek v  se 'Boolean'.
+@2@102@0@
+Toto je neplatnì typ £daj… pro 'DataCaption'. OŸek v  se 'Text'.
+@2@103@0@
+OvladaŸ dat mus¡ m¡t vìraz.
+@2@104@0@
+Vlastnost '%10' mus¡ existovat.
+@2@105@0@
+Toto je neplatnì typ £daj… pro '%10'. OŸek v  se 'Text'.
+@2@120@0@
+Toto je neplatnì typ prim rn¡ho kl¡Ÿe pro funkci autosplitkey. MØl by to bìt Integer/Decimal/GUID.
+@2@121@0@
+Mo§nost autosplitkey nem…§e naj¡t kl¡Ÿ mezi aktu ln¡ a pıedchoz¡ polo§kou.
+@2@130@0@
+Zadan  tabulka (%3) je r…zn  od tabulky, kterou formul ı pou§¡v  (%4).
+@2@131@0@
+V podformul ıi nem…§ete otevı¡t podformul ı.
+@2@132@0@
+Formul ı byl spuçtØn. Pou§ijte funkci CLEAR(Formul ı).
+@2@133@0@
+Formul ı nen¡ otevıen.
+@2@134@0@
+Formul ı nem…§e bìt aktivov n.
+@2@135@0@
+Nezadali jste, kterì objekt by mØl bìt spuçtØn (pokud pou§ijete akci 'RunObject', je nutn‚ tak‚ zadat objekt).
+@2@136@0@
+Nem…§ete spustit podformul ı.
+@2@137@0@
+Vlastnost RunFormOnRec je platn  jenom, kdy§ SourceTable a DestTable jsou identick‚.
+V naçem pı¡padØ je SourceTable: %7 a DestTable: %8.
+@2@138@0@
+Z aplikaŸn¡ho serveru nem…§ete spustit formul ı.
+
+Formul ı: %2
+@2@200@0@
+Objekt formul ıe %1 m  neplatnou verzi.
+@2@400@0@
+%5 m  nespr vnou MenuLevel (Mus¡ bìt mezi 0 a 9).
+@2@401@0@
+MenuLevel mus¡ bìt pouze vØtç¡ ne§ ta pıedchoz¡.
+
+V tomto pı¡padØ nov  MenuLevel je '%5', zat¡mco star  MenuLevel byla '%6'.
+@2@402@0@
+Bylo pou§ito ID ovladaŸe %9.
+@2@403@0@
+æ¡ıka a vìçka formul ıe mus¡ bìt mezi 0 a 100.000 [1/100 mm].
+@2@404@0@
+Prvn¡ MenuLevel mus¡ bìt 0.
+@2@500@0@
+Pro program, do nØho§ exportujete, nen¡ k dispozici vìchoz¡ çablona styl….
+
+Obraœte se na spr vce syst‚mu.
+@2@501@0@
+V tabulce %1 nebyl definov n program, kterì m  bìt spuçtØn.
+
+Obraœte se na spr vce syst‚mu.
+@2@502@0@
+üetØzec parametru %1 pro program %2 nen¡ platnì.
+
+Obraœte se na spr vce syst‚mu.
+@2@503@0@
+Program %1 nebyl v tomto poŸ¡taŸi nalezen.
+
+Obraœte se na spr vce syst‚mu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  RE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Report Object                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@71@0@
+@2@200@0@
+Toto je nespr vn  verze objektu sestavy %1.
+@2@203@0@
+Vlastnost '%4' mus¡ bìt zad na.
+@2@300@0@
+Sestava %5 nem  DataItem, kterì pou§¡v  tabulku (%2) zadanou ve funkci SetTableView.
+@2@301@0@
+Sestava byla spuçtØna. Pou§ijte funkci CLEAR(Sestava).
+@2@302@0@
+Prvn¡ DataItem mus¡ m¡t DataItemIndent=0.
+@2@303@0@
+Vlastnost DataItemIndent pro DataItem mus¡ bìt jenom o 1 vØtç¡, ne§ vlastnost pıedchoz¡ho DataItem.
+@2@304@0@
+Neexistuje DataItem s n zvem '%6'.
+@2@305@0@
+ID ovladaŸe %7 ji§ bylo pou§ito.
+@2@306@0@
+Hodnota %10 ı¡dic¡ vlastnosti DataSetFieldName je ji§ pou§ita.
+@2@307@0@
+Vlastnost DataItemIndent polo§ky DataItem nem…§e obsahovat z pornou hodnotu.
+@2@308@0@
+Vlastnost MaxIteration polo§ky DataItem nem…§e obsahovat z pornou hodnotu.
+@2@309@0@
+The DataItems path length has exceeded the allocated buffer size because of the levels of nested DataItems. Redesign the dataset to reduce its complexity and the levels of nested DataItems.
+@2@310@0@
+All DataItems in the design must have a name, when the report has a Word Layout.
+@2@311@0@
+A blank Word layout with an XML part for the current dataset has been created on the report.
+@2@312@0@
+The WordMergeDataItem property is set to DataItem '%6'. Only data items with DataItemIndent=0 can be specified in WordMergeDataItem.
+@2@313@0@
+The WordMergeDataItem property is set to DataItem '%6', which does not exist.
+@2@400@0@
+M…§ete pıidat jenom %3 FlowFields.
+@2@402@0@
+Nem…§ete tisknout sestavu, kde vlastnost 'ProcessingOnly' je nastavena na 'Ano'.
+@2@403@0@
+Volan  sestava m…§e bìt vol na jenom z Ÿ sti k¢du DataItem.
+@2@404@0@
+Volan  funkce m…§e bìt vol na jenom z Ÿ sti k¢du Section.
+@2@405@0@
+Volan  funkce m…§e bìt vol na jenom z Ÿ sti k¢du DataItem nebo Section.
+@2@406@0@
+Zadan  pole ve vlastnosti TotalFields mus¡ bìt typu Decimal. Pole %2.1 v tabulce %1.1 nen¡ typu Decimal.
+@2@502@0@
+æ¡ıka Section nem…§e bìt menç¡ ne§ okol¡ vçech ovladaŸ… ve vçech Sections.
+@2@503@0@
+Vìçka Section nem…§e bìt menç¡ ne§ okol¡ ovladaŸ… v t‚to Section.
+@2@600@0@
+Tato sestava nem…§e bìt vytiçtØna z N hledu. UkonŸete N hled a sestavu znovu spusœte.
+@2@601@0@
+ZmØna tisk rny, velikosti nebo orientace pap¡ru ovlivnila oblast tisku.
+To mohlo ovlivnit vizu ln¡ n vrh sestavy.
+
+Chcete jej vytisknout?
+@2@602@0@
+Z N hledu nem…§ete tisknout dı¡ve ne§ bude generace sestavy dokonŸena.
+@2@603@0@
+Sestavy s formul ıi po§adavk… nem…§ete spouçtØt na Application Server Microsoft Dynamics NAV.
+@2@604@0@
+Pro formul ı po§adavku a str nku po§adavku nemohou bìt nastaveny r…zn‚ zdrojov‚ tabulky.
+@2@700@0@
+Neplatnì po§adavek Report XML
+@2@701@0@
+Nelze importovat rozlo§en¡ (soubory RDLC) vØtç¡ ne§ %8 bajt….
+@2@703@0@
+Intern¡ chyba: %1
+@2@704@0@
+Nelze vytvoıit instanci Microsoft.Dynamics.Nav.DotNetBridge.dll.
+@2@705@0@
+Soubor RDLC nen¡ spr vnØ utvoıenìm dokumentem XML.
+@2@706@0@
+Nelze otevı¡t report pro £pravy. 
+
+Podrobnì popis: %9
+@2@707@0@
+Nepodaıilo se zkop¡rovat adres ı ReportLayout. 
+
+Podrobnì popis: %9
+@2@708@0@
+Nelze upravit rozlo§en¡ v produktu report designer.
+
+Podrobnì popis: %9
+@2@709@0@
+Zadan  metadata nejsou platn .
+@2@710@0@
+Nelze vytvoıit datovou sadu se zadanìmi metadaty.
+@2@711@0@
+Nepodaıilo se vyŸistit slo§ku doŸasnìch sestav.
+@2@712@0@
+Soubor RDLC neproçel ovØıen¡m podle jeho vlastn¡ho sch‚matu. Operace se nezdaıila.
+@2@713@0@
+Soubor RDLC nem  spr vnì form t.
+@2@714@0@
+Nepodaıilo se vyŸistit aktu ln¡ slo§ku ıeçen¡ doŸasnìch sestav.
+@2@715@0@
+Chyba pıi vytv ıen¡ nov‚ho doŸasn‚ho souboru.
+@2@716@0@
+Chyba pıi odstraåov n¡ doŸasn‚ho souboru.
+@2@717@0@
+Nepodaıilo se transformovat formul ı po§adavku: %9
+@2@718@0@
+Chyba se objev¡, kdy§  contacting Microsoft.Dynamics.Nav.DotNetBridge.dll.
+@2@719@0@
+Doçlo k chybØ pıi transformaci formul ıe po§adavku.
+@2@720@0@
+Sestava neobsahuje ovl dac¡ prvky a nelze ji pıev‚st.
+@2@721@0@
+Chyba pıi ovØıov n¡ obsahu RDL:
+%9
+@2@722@0@
+Doçlo k chybØ pıi otev¡r n¡ n vrh ıe sestav. Nepodaıilo se naj¡t podporovanou verzi produktu Visual Studio.
+@2@723@0@
+Sestavy typu ProcessingOnly nesmØj¡ obsahovat rozlo§en¡, napı. datovou Ÿ st RDL.
+@2@724@0@
+Tato sestava obsahuje odkaz na pole, kter‚ v sadØ dat neexistuje.%9
+Sadu dat m…§ete znovu vytvoıit t¡m, §e otevıete rozlo§en¡ sestavy, ulo§¡te je a pot‚ sestavu znovu zkompilujete v prostıed¡ C/SIDE.
+@2@725@0@
+Obraz RDLC sestavy %9 je definov n jako extern¡. Nebyla nastavena vlastnost EnableExternalImages.
+@2@726@0@
+Ovl dac¡ prvek RDLC sestavy %9 obsahuje extern¡ odkaz. Nebyla nastavena vlastnost EnableHyperlinks.
+@2@727@0@
+Data RDLC sestavy %9 obsahuj¡ extern¡ odkaz. Nebyla nastavena vlastnost EnableHyperlinks.
+@2@728@0@
+Nepodaıilo se nal‚zt adres ı ReportLayout: %9
+@2@729@0@
+Microsoft Dynamics NAV Development Environment a N vrh ı sestav mus¡ bØ§et  se  stejnìmi opr vnØn¡mi: %9
+@2@730@0@
+Rozlo§en¡ sestavy je nyn¡ otevıeno v report designeru. Pıed zavıen¡m objektu sestavy je tıeba report designer zavı¡t.
+@2@731@0@
+Nem…§ete spouçtØt sestavu Datov‚ sady bez rozlo§en¡.
+@2@732@0@
+Nelze z¡skat vìchoz¡ RDL: %9
+@2@733@0@
+Rozlo§en¡ sestavy je ji§ otevıeno v report designeru.
+@2@734@0@
+Sestava obsahuje odkaz k extern¡ kompilaci. Umo§n¡ nastavit vlastnost EnableExternalAssemblies pro objekt sestavy nebo zruç¡ odkaz k extern¡ kompilaci v rozlo§en¡.
+@2@735@0@
+Soubor, kterì importujete, nen¡ zalo§en na sch‚matu RDL 2010. Mus¡te ho upgradovat na sch‚ma RDL 2010.
+@2@736@0@
+Sestava nen¡ podporov na mus¡ bìt upgradovan  pıed t¡m, ne§ ji budete upravovat nebo zobrazovat.
+@2@737@0@
+ProcessingOnly reports are not allowed to contain a Word Layout.
+@2@738@0@
+To upgrade reports, you must have Microsoft SQL Server 2014 Report Builder 3.0 installed.
+@2@739@0@
+Could not initialize Microsoft SQL Server 2014 Report Builder 3.0: %9
+Verify that Report Builder 3.0 is installed correctly.
+@2@740@0@
+Nelze upgradovat RDL on %1.
+%9
+@2@741@0@
+Nelze vytvoıit RDL on %1.
+%9
+@2@742@0@
+%1 mus¡ bìt zkompilov no pıed t¡m, ne§ bude upgradov no
+@2@743@0@
+Sestava  RDLC '%9' BackgroundImage je definov na jako extern¡. Vlastnost EnableExternalImages nebyla nastavena.
+@2@744@0@
+Objevila se chyba pıi otv¡r n¡ report designer. Podporovan  verze Report Builder nemohla bìt nalezena.
+@2@745@0@
+The DefaultLayout is set to Word, but no Word layout is defined for the report.
+@2@800@0@
+Prvn¡ ı dek mus¡ bìt DataItem.
+@2@801@0@
+Prvn¡ ı dek mus¡ m¡t odsazen¡ rovn‚ 0.
+@2@802@0@
+Nadıazenì objekt mus¡ bìt DataItem.
+@2@804@0@
+Hodnota n zvu mus¡ bìt jedineŸn . Jinì sloupec nebo popisek s n zvem '%6' ji§ existuje.
+@2@805@0@
+Data Source nebo SourceExpr nemohu bìt pr zdn‚.
+@2@807@0@
+Hodnota ID mus¡ bìt jedineŸn . Jinì DataItem, Sloupec, nebo Popisek s ID '%7' ji§ existuje.
+@2@808@0@
+Data Source nebo SourceTable nemohou bìt pr zdn‚.
+@2@809@0@
+N zev '%6' obsahuje jeden nebo v¡ce znak…, kter‚ nemohou bìt pou§ity, proto§e neodpov¡daj¡ Obecn‚ jazykov‚ specifikaci. Prvn¡ znak mus¡ bìt p¡smeno. N sleduj¡c¡ znaky mohou bìt kombinac¡ p¡smen, celìch Ÿ¡sel a podtr§en¡.
+@2@810@0@
+'%11' nen¡ platnì typ sloupce.
+@2@812@0@
+Maxim ln¡ £roveå odsazen¡ DataItems je  %12.
+@2@813@0@
+N zev pole  '%6' je pı¡liç dlouhì.
+
+Maxim ln¡ d‚lka n zvu pole je %13 znak….
+@2@814@0@
+Sloupec je nastaven tak, §e k nØmu m  bìt definov n popisek. Popisek pro tento sloupec m…§e bìt vytvoıen pomoc¡ Label Designeru.
+@2@816@0@
+Nadıazenì DataItem neukazuje k platn‚mu DataItemu.
+@2@817@0@
+Nadıezenì sloupec neukazuje k platn‚mu sloupci.
+@2@818@0@
+The Word layout document is empty.
+@2@819@0@
+The Word layout document is too large.
+@2@820@0@
+The Word layout document is malformed. Unable to read the document.
+@2@821@0@
+Unable to create a new empty Word layout document for the current report layout.
+@2@822@0@
+Unable to rename or update data bindings in the Word layout document.
+@2@823@0@
+Word layout document update failed with the following error:
+
+%9
+@2@824@0@
+Word layout document validation failed with the following error:
+
+%9
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	AB  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Base                                                        ³
+// ³                                                                          ³
+// ³  NOTE: Message 1004 is intended for use in the event viewer,             ³
+// ³        message 1005 for use in the console.                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@205@0@
+@2@100@0@
+Je nutn‚ zadat, ke kter‚mu serveru nebo datab zi se chcete pıipojit pıi spouçtØn¡ serveru Application Server for Microsoft Dynamics NAV.
+
+Pı¡ruŸka Installation and System Management obsahuje pıehled platnìch parametr… programu.
+@2@101@0@
+Je nutn‚ zadat, ke kter‚mu serveru SQL Server a datab zi se chcete pıipojit pıi spouçtØn¡ serveru Application Server for Microsoft Dynamics NAV.
+
+Pı¡ruŸka Installation and System Management obsahuje pıehled platnìch parametr… programu.
+@2@102@0@
+Je nutn‚ zadat spoleŸnost, kterou chcete otevı¡t po spuçtØn¡ serveru Application Server for Microsoft Dynamics NAV.
+
+Pı¡ruŸka Installation and System Management obsahuje pıehled platnìch parametr… programu.
+@2@103@0@
+Je nutn‚ zadat parametr pro proceduru 1 aktivaŸn¡ sign l 99. Tento aktivaŸn¡ sign l bude proveden pıi spuçtØn¡ serveru Application Server for Microsoft Dynamics NAV.
+
+Pı¡ruŸka Installation and System Management obsahuje pıehled platnìch parametr… programu.
+@2@110@0@
+AktivaŸn¡ sign l 99 v proceduıe Codeunit 1 neexistuje.
+
+Tento aktivaŸn¡ sign l mus¡ bìt spuçtØn, aby nav zal spojen¡ s Message Bus.
+@2@120@0@
+UkonŸen¡ serveru Application Server for Microsoft Dynamics NAV se nezdaıilo.
+@2@121@0@
+Application Server for Microsoft Dynamics NAV %1 nelze spr vnØ inicializovat.
+Server se pokus¡ o inicializaci v§dy po %2 sekund ch, dokud nebude £spØçnì.
+
+@2@122@0@
+Application Server for Microsoft Dynamics NAV %1 bude ukonŸen.
+Aplikace nemohla bìt pıekonfigurov na na tuto konfiguraci:
+N zev serveru = %2
+Datab ze = %3
+SpoleŸnost = %4
+SpouçtØc¡ parametr = %5
+@2@130@0@
+Tento poŸ¡taŸ je vybaven procesorem %2. M te opr vnØn¡ spustit server VIP Application Server for Microsoft Dynamics NAV pouze v poŸ¡taŸi s procesorem %1.
+@2@200@0@
+C¡l %1 nebyl nalezen.
+@2@201@0@
+URL je pı¡liç dlouh‚:
+"%1%2..."
+@2@202@0@
+Toto nen¡ odkaz produktu Microsoft Dynamics NAV Development Environment.
+"%1".
+@2@203@0@
+Kontext odkazu se neshoduje s aktu ln¡m kontextem aplikace Microsoft Dynamics NAV Development Environment.
+Kontext URL:
+N zev serveru = %1
+Datab ze  = %2
+SpoleŸnost = %3
+Typ serveru = %4
+Aktu ln¡ kontext:
+N zev serveru = %5
+Datab ze  = %6
+SpoleŸnost = %7
+Typ serveru = %8
+@2@204@0@
+Nem…§ete pou§¡t protokol Navisionu k spouçtØn¡ formul ı….
+@2@300@0@
+Produkt Microsoft Dynamics NAV Development Environment nen¡ v tomto operaŸn¡m syst‚mu podporov n.
+@2@1000@0@
+Application Server for Microsoft Dynamics NAV %1 byl £spØçnØ nainstalov n jako slu§ba.
+
+@2@1001@0@
+St vaj¡c¡ slu§ba, Application Server for Microsoft Dynamics NAV %1, byla £spØçnØ odinstalov na.
+
+@2@1003@0@
+Application Server for Microsoft Dynamics NAV version 8.00 (Build 38206)
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+@2@1004@0@
+Application Server for Microsoft Dynamics NAV %1 byl spuçtØn s touto konfigurac¡:
+N zev datab zov‚ho serveru = %2
+Datab ze = %3
+SpoleŸnost = %4
+SpouçtØc¡ parametr = %5
+@2@1005@0@
+Application Server for Microsoft Dynamics NAV %1 byl spuçtØn v t‚to konfiguraci:
+N zev datab zov‚ho serveru = %2
+Datab ze =  %3
+SpoleŸnost = %4
+SpouçtØc¡ parametr = %5
+
+Stisknut¡m kl vesy Esc ukonŸ¡te server Application Server for Microsoft Dynamics NAV %1.
+
+@2@1006@0@
+Dı¡ve hl çen‚ ud losti %1 jsou identick‚.
+
+Aby se syst‚m protokolu hl çen¡ nezahltil, nebudou identick‚ ud losti protokolov ny, dokud program nenahl s¡ jinou ud lost.
+@2@1007@0@
+Application Server for Microsoft Dynamics NAV bude ukonŸen po dokonŸen¡ zpracov n¡ aktu ln¡ho po§adavku.
+
+@2@1020@0@
+Application Server for Microsoft Dynamics NAV %1 byl ukonŸen.
+
+@2@1021@0@
+Application Server for Microsoft Dynamics NAV %1 byl obnoven pomoc¡ t‚to konfigurace a nyn¡ je plnØ funkŸn¡.
+N zev datab zov‚ho serveru = %2
+Datab ze = %3
+SpoleŸnost = %4
+SpouçtØc¡ parametr = %5
+@2@1022@0@
+Zpracov n¡ po§adavku na zmØnu konfigurace serveru Application Server for Microsoft Dynamics NAV %1...
+
+@2@1023@0@
+Application Server for Microsoft Dynamics NAV %1 byl pıekonfigurov n na tuto konfiguraci:
+N zev datab zov‚ho serveru = %2
+Datab ze = %3
+SpoleŸnost = %4
+SpouçtØc¡ parametr = %5
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´	DS -> AB ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Texts moved from DS to AB             						                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@1@0@
+Parametr programu '%1' nen¡ zn mì.
+
+Manu l Spr va syst‚mu a instalace obsahuje seznam vçech spr vnìch parametr… programu.
+@2@2@0@
+Je nutn‚ zadat hodnotu parametru programu '%1'.
+
+Pı¡ruŸka Installation and System Management obsahuje seznam vçech spr vnìch parametr… programu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	DS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Development System						      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@20@0@
+K¢d: '%1' -> Prodejce -> Distributor -> Vìrobce -> Heslo: '%2'.
+
+Kontaktujte sv‚ho prodejce a pıedejte mu vìçe uvedenì k¢d. Potom obdr§¡te heslo, kter‚ lze pou§¡t pouze jednou.
+
+D…le§it‚! NEUKON¬UJTE okno pıihl çen¡ dı¡ve, ne§ obdr§¡te nov‚ heslo. Dalç¡ pokus bude vy§adovat jin‚ heslo.
+@2@21@0@
+Neplatn‚ heslo.
+@2@80@0@
+Logickì n zev %1 ji§ existuje. Je nutn‚ zadat jedineŸn‚ n zvy pro soubory dat a protokol transakc¡.
+@2@81@0@
+Z datab ze nem…§ete odstranit %1 prim rn¡ soubor dat nebo protokol transakc¡.
+@2@83@0@
+Nebyl naŸten § dnì soubor licence.
+@2@84@0@
+Je nutn‚ zadat logickì n zev pro vçechny soubory dat a protokol transakc¡.
+@2@85@0@
+Mus¡te specifikovat popis ıazen¡ v datab zi v tabulce üazen¡.
+@2@110@0@
+Nezn mì u§ivatel syst‚mu Windows.
+@2@111@0@
+U§ivatel ji§ existuje.
+@2@120@0@
+Vaçe licence v m nepovoluje spustit aplikaŸn¡ server User Portal. Kontaktujte spr vce syst‚mu.
+@2@121@0@
+AplikaŸn¡ server User Portal nem…§e pıiıadit popisovaŸ zabezpeŸen¡ pro pojmenovanì kan l.
+@2@122@0@
+AplikaŸn¡ server User Portal nem…§e inicializovat popisovaŸ zabezpeŸen¡ pro pojmenovanì kan l.
+@2@123@0@
+AplikaŸn¡ server User Portal nem…§e nastavit popisovaŸ zabezpeŸen¡ pro pojmenovanì kan l.
+@2@124@0@
+AplikaŸn¡ server User Portal nem…§e vytvoıit pojmenovanì kan l.
+@2@125@0@
+Application Server User Portal nem…§e identifikovat u§ivatele pojmenovan‚ho kan lu.
+@2@126@0@
+Application Server User Portal se nem…§e zotavit z identifikace u§ivatele pojmenovan‚ho kan lu.
+@2@130@0@
+Aktualizace bude ukonŸena.
+
+Soubor aktualizace pro ID aktualizace '%1' nen¡ platnì nebo jste aktualizaci zruçili.
+@2@131@0@
+Instalace ID aktualizace '%1' se nezdaıila. Aktualizace bude ukonŸena.
+@2@132@0@
+Nepodaıilo se vytvoıit z lohu datab ze. Aktualizace bude zastavena, proto§e ji nelze nainstalovat, dokud £spØçnØ nevytvoı¡te z lohu datab ze.
+
+Chcete-li vytvoıit z lohu a nainstalovat aktualizaci, restartujte aplikaci Microsoft Dynamics NAV Development Environment.
+@2@301@0@
+Copyright (c) Microsoft Corporation. Vçechna pr va vyhrazena.
+@2@400@0@
+Toto je poprv‚, kdy jste aktivovali odkaz na n sleduj¡c¡ c¡lov‚ um¡stØn¡:
+
+Server: %1
+Datab ze: %2
+
+Toto je upozornØn¡, §e m…§ete spustit k¢d, kterì by potenci lnØ mohl
+poçkodit v ç poŸ¡taŸ.
+
+Je toto c¡lov‚ um¡stØn¡ d…vØryhodn‚?
+@2@600@0@
+Klient Microsoft Dynamics NAV Development Environment byl otevıen z ned…vØryhodn‚ komponenty.
+
+Obraœte se na spr vce syst‚mu.
+@2@701@0@
+V datab zi nejsou § dn‚ dostupn‚ instance %1. Mus¡te zajistit, §e  %1 instanc¡ bØ§¡ a jsou konfigurov ny pou§¡vat datab zi pıed pıed spuçtØn¡m t‚to aktivity.
+@2@702@0@
+Mus¡te specifikovat URL instance Azure ve vlastnostech Server Instance  pıed spuçtØn¡m t‚to aktivity. K proveden¡ zvolte v menu N stroje a d le Volby.
+@2@703@0@
+Instance URL mus¡ bìt zad na ve form tu  <servername>:<port>/<serverinstance>. K proveden¡ zvolte v menu N stroje a d le Volby.
+@2@800@0@
+Pı¡kaz "%1" nen¡ platnì.
+@2@801@0@
+Mus¡te specifikovat parametr  '%22' pro pı¡kaz  '%1' .
+@2@802@0@
+Parametr "%1" nen¡ platnì.
+@2@803@0@
+Soubor "%1" mus¡ m¡t pı¡ponu .fob nebo .txt.
+@2@804@0@
+Mus¡te definovat filtr '%1' n sledovnØ: pole1=vìraz; ... polen=vìraz.
+@2@805@0@
+Parametr "%1" mus¡ bìt specifikov n a mus¡ m¡t hodnotu "¬¡slo", jestli§e chcete pou§¡t parametry "%13" a  "%22".
+@2@806@0@
+Mus¡te specifikovat parametr "%1", jestli§e parametr  "%22" je  "¬¡slo".
+@2@807@0@
+Objevila se chyba v pıedanalìze upgradu datab ze. 
+
+Pou§ijte Microsoft Dynamics NAV 2013 Development Environment k opravØ chyb, kter‚ jsou zobrazeny v Seznamu chyb, dı¡ve ne§ budete pokraŸovat v upgradu.
+@2@808@0@
+Soubor .fob nem…§e bìt importov n. Sestava  ID %2 mus¡ bìt konvertov na do  Dataset report dı¡ve, ne§ m…§e bìt importov na. 
+
+Pou§ijte Microsoft Dynamics NAV 2013 Development Environment pro konverzi sestavy dı¡ve, ne§ spust¡te znovu import.
+@2@809@0@
+Sestava %1 nen¡ Dataset report.
+@2@810@0@
+XMLport ID %2 nem…§e bìt kompilov n po upgradu.
+@2@900@0@
+Objekty aplikaŸn¡ho serveru byly £spØçnØ vytvoıeny.
+@2@901@0@
+Objekty aplikaŸn¡ho serveru byly vytvoıeny s chybami  v nØkterìch objektech. Pou§ijte Seznam chyb k zobrazen¡ vçech chyb.
+@2@902@0@
+There is currently no data upgrade process running.
+@2@903@0@
+You cannot resume the data upgrade because the current process has not been suspended.
+@2@904@0@
+A data upgrade is currently in progress. Stop the current process before you start a new one.
+@2@1000@0@
+There are no table changes, which require synchronization.
+@2@1001@0@
+Microsoft Dynamics NAV server is going to perform validation of all table changes without applying them to the corresponding SQL tables. If the validation discovers that some of the changes cannot be applied without deleting data in the affected fields or tables, it will display an error. 
+
+If you choose not to continue, the table changes will remain unsynchronized, and the users will not be able to work with them. Depending on the number and the size of the changed tables, this process may take up to several minutes.   
+
+Do you want to continue?
+@2@1002@0@
+Microsoft Dynamics NAV server is going to perform validation of all table changes and synchronize them with the corresponding SQL tables. If the validation discovers that some of the changes cannot be applied without deleting data in the affected fields or tables, it will display an error and none of the changes will be synchronized. 
+
+If you choose not to continue, the table changes will remain unsynchronized, and the users will not be able to work with them. Depending on the number and the size of the changed tables, this process may take from several minutes to several hours.   
+
+Do you want to continue?
+@2@1003@0@
+Microsoft Dynamics NAV server is going to forcefully synchronize all table changes with the corresponding SQL tables. It will not be performing validation of the changes, therefore to synchronize them, the server may delete data from the affected fields or tables. 
+
+If you choose not to continue, the table changes will remain unsynchronized, and the users will not be able to work with them. Depending on the number and the size of the changed tables, this process may take from several minutes to several hours.   
+
+Do you want to continue?
+@2@1004@0@
+All table schema changes validated correctly. You can synchronize changes with no risk of deleting data.
+@2@1005@0@
+All table schema changes synchronized with force.
+@2@END@0@
+// Module XMLPort
+
+@1@210@0@
+@2@1@0@
+Neplatn  verze objektu XMLport %1.
+@2@2@0@
+Neplatn‚ Ÿ¡slo MagicNo objektu XMLport %1.
+@2@3@0@
+Objekt %1 je nutn‚ pıed spuçtØn¡m kompilovat.
+@2@8@0@
+K¢dov n¡ %13 nen¡ podporov no.
+@2@9@0@
+¬¡slo ID %12 ze znaŸky %6 bylo pou§ito u ı dku %7. Toto Ÿ¡slo mus¡ bìt jedineŸn‚.
+@2@10@0@
+Odsazen¡ koıenov‚ho prvku mus¡ bìt 0.
+@2@11@0@
+Rozd¡l odsazen¡ mezi znaŸkou %6 a pı¡sluçnou nadıazenou znaŸkou je vØtç¡ ne§ 1.
+@2@12@0@
+Datovì typ SourceExpr %10 nelze vyhodnotit jako ıetØzec.
+@2@13@0@
+Tabulka %5 neexistuje.
+@2@14@0@
+Toto pole nen¡ pıiıazeno platn‚mu n zvu TableVariableName.
+@2@15@0@
+N zev zadan‚ tabulky %14 mus¡ bìt stejnì jako n zev nadıazen‚ tabulky %5.
+@2@16@0@
+Pıedpona oboru n zv… %16 ji§ byla deklarov na.
+@2@17@0@
+%24 je oŸek v no u %21 na pozici %23.
+@2@18@0@
+%24 je rezervovan‚ slovo u %21 na pozici %23.
+@2@19@0@
+Neplatnì poŸ teŸn¡ znak oboru n zv….
+%21
+@2@20@0@
+Neplatnì znak oboru n zv… na pozici %22.
+%21
+@2@21@0@
+Na pozici %22 u %23 nesouhlas¡ uvozovky.
+%21
+@2@22@0@
+Na pozici %22 u %23 chyb¡ uvozovky.
+%21
+@2@23@0@
+U %23 chyb¡ dvojteŸka.
+%21
+@2@24@0@
+U %23 chyb¡ rovn¡tko (=).
+%21
+@2@25@0@
+U %21 se nemohou vyskytovat jednoduch‚ uvozovky.
+Text je uzavıen mezi jednoduch‚ uvozovky.
+@2@26@0@
+U %21 se nemohou vyskytovat dvojit‚ uvozovky.
+Text je uzavıen mezi dvojit‚ uvozovky.
+@2@27@0@
+Velikost c¡lov‚ vyrovn vac¡ pamØti je pı¡liç mal .
+@2@28@0@
+U %21 na pozici %22 chyb¡ lev  z vorka.
+@2@29@0@
+U %21 na pozici %22 chyb¡ prav  z vorka.
+@2@30@0@
+Pole %15 nen¡ platnìm polem z tabulky %14.
+@2@31@0@
+Pıedpona oboru n zv… %16 nebyla deklarov na.
+@2@32@0@
+Minim ln¡ poŸet vìskyt… m…§e bìt 0 nebo 1.
+Hodnota je %26.
+@2@33@0@
+Maxim ln¡ poŸet vìskyt… mus¡ bìt vØtç¡ ne§ 1.
+Hodnota je %25.
+@2@34@0@
+Maxim ln¡ poŸet vìskyt… pole m…§e bìt 0 nebo 1.
+Hodnota je %25.
+@2@35@0@
+Tabulka typ… zdroj… pro znaŸku <%6> m…§e bìt pıiıazena pouze prvku typu znaŸky.
+@2@36@0@
+Pro znaŸku <%6> nebyla definov na § dn  zdrojov  tabulka.
+@2@37@0@
+Nebyl definov n n zev znaŸky XML.
+@2@38@0@
+Atribut %6 mus¡ bìt odsazen pod pı¡sluçnìm nadıazenìm prvkem.
+@2@39@0@
+Atribut %6 mus¡ m¡t stejn‚ odsazen¡ jako pıedchoz¡ atribut.
+@2@40@0@
+Odsazen¡ mus¡ bìt mezi 0 a %7.
+@2@41@0@
+Koıenovì prvek mus¡ m¡t odsazen¡ 0.
+@2@42@0@
+Pro znaŸku <%6> nebyl definov n § dnì zdroj dat.
+@2@43@0@
+Zdroj dat pole je mo§n‚ vybrat a§ pot‚, co vyberete zdroj dat tabulky.
+@2@44@0@
+Neplatnì n zev znaŸky
+@2@45@0@
+N zev znaŸky XML by nemØl obsahovat pr zdn‚ znaky.
+@2@46@0@
+Tag <%6> m  povoleny vlastnosti AutoReplace i AutoUpdate. Zaka§te obØ vlastnosti nebo povolte buÔ  AutoUpdate nebo AutoReplace.
+@2@51@0@
+Prvek <%6> nelze vyhledat v popisu objektu.
+@2@52@0@
+ZniŸen¡ podı¡zen‚ho prvku se nezdaıilo.
+@2@53@0@
+U objektu nebyl definov no obor n zv… %17.
+@2@54@0@
+Doçlo ke konfliktu dat u nastaven¡ tabulky LinkTable a pol¡ LinkFields u tabulky %14.
+@2@55@0@
+Analyz tor XML vr til n sleduj¡c¡ chybu:
+%21
+@2@56@0@
+Analyz tor XML vr til n sleduj¡c¡ z va§nou chybu:
+%21
+@2@57@0@
+Nastaven¡ analyz toru XML se nezdaıilo.
+%21
+@2@58@0@
+Atribut <%6> je u popisu objektu zak z n.
+@2@59@0@
+Atribut <%21> je povinnì a nesouhlas¡ s atributem <%6>.
+@2@60@0@
+Prvek <%6> se vyskytl v¡ce ne§ jednou.
+@2@61@0@
+Prvek <%21> je oŸek v n hodnotou minim ln¡ho poŸtu vìskyt…: %26.
+Pıijatì prvek: <%6>.
+@2@62@0@
+Prvek <%6> nen¡ oŸek v n.
+@2@63@0@
+Atribut <%6> nen¡ oŸek v n.
+@2@64@0@
+Nezn mì typ zdroje u prvku <%6>.
+@2@65@0@
+Objekt XMLport %4 neobsahuje polo§ku XMLItem, kter  pou§¡v  tabulku (%2) urŸenou ve funkci SetTableView.
+@2@66@0@
+Hodnota %21 m  d‚lku %27, kter  pıevyçuje maxim ln¡ velikost c¡lov‚ho typu %20.
+@2@67@0@
+Tento objekt XMLport %4 je urŸen pouze pro £Ÿely exportu.
+@2@68@0@
+Tento objekt XMLport %4 je urŸen pouze pro £Ÿely importu.
+@2@69@0@
+Podı¡zen‚ prvky zde nejsou podporov ny.
+@2@70@0@
+Prvek zdrojov‚ho typu Table nem…§e m¡t podı¡zen‚ prvky typu Table.
+@2@71@0@
+M -li koıenovì prvek typ zdroje Text, mus¡ bìt vçechny ostatn¡ prvky zdrojov‚ho typu Table.
+@2@72@0@
+Je-li vybr n form t Fixed Text objektu XMLport, mØla by bìt vlastnost Width vØtç¡ ne§ 0 pro vçechny prvky typ… Field a Text.
+@2@73@0@
+Je-li prvek zdrojov‚ho typu Table, nem…§e m¡t podı¡zen‚ prvky druh‚ £rovnØ.
+@2@74@0@
+Je-li vybr n form t Fixed Text nebo Variable Text objektu XMLport, mus¡ bìt koıenovì prvek zdrojov‚ho typu Text.
+@2@75@0@
+Je-li povolena mo§nost UseLax, hodnota MinOccurs pro prvek mus¡ bìt vØtç¡ ne§ nula.
+@2@76@0@
+Prvek <%6> m  neoŸek vanì podı¡zenì prvek.
+@2@77@0@
+Vlastnost 'Nev zanì' m…§e bìt nastaven pouze na posledn¡ node XMLPortu.
+@2@END@0@
+// Module MenuSuite
+
+@1@220@0@
+@2@1@0@
+Velikost c¡lov‚ vyrovn vac¡ pamØti je pı¡liç mal .
+@2@200@0@
+Toto nen¡ platnì typ MenuSuite objektu sestavy %1.
+@2@201@0@
+Neplatn‚ Ÿ¡slo MagicNo objektu MenuSuite: %1.
+@2@202@0@
+Objekt MenuSuite pro klasick‚ho klienta podporuje n sleduj¡c¡ typy:
+
+Table, Form, Report, Dataport a Codeunit.
+@2@203@0@
+Objekt MenuSuite pro klienta na m¡ru rol¡m podporuje n sleduj¡c¡ typy:
+
+Table, Report, Codeunit, XMLport a Page.
+@2@204@0@
+Polo§ka nab¡dky %1 pro klienta na m¡ru rol¡m mus¡ m¡t kategorii stıediska.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  Page  ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Module Page                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@214@0@
+@2@10@0@
+Odsazen¡ mus¡ bìt mezi 0 a %4.
+@2@11@0@
+Odsazen¡ prvku Container mus¡ bìt nulov‚.
+@2@12@0@
+Prvn¡ ovl dac¡ prvek mus¡ bìt typu Container.
+@2@13@0@
+Rozd¡l odsazen¡ mezi ovl dac¡m prvkem %6 a pı¡sluçnìm nadıazenìm prvkem je vØtç¡ ne§ 1.
+@2@14@0@
+Odsazen¡ za ovl dac¡m prvkem %6 nen¡ povoleno.
+@2@15@0@
+Ovl dac¡ prvek %6 nelze um¡stit na stejnou £roveå jako kontejner.
+@2@20@0@
+Odsazen¡ prvku ActionContainer mus¡ bìt nulov‚.
+@2@21@0@
+Odsazen¡ za akc¡ %6 nen¡ povoleno.
+@2@22@0@
+Vlastnosti Action a ActionGroup se nemohou nach zet na stejn‚ £rovni pod prvkem ActivityButton.
+@2@23@0@
+Ve skupin ch CueGroup nejsou povoleny prvky ActionContainer.
+@2@24@0@
+Akce prvk… CueGroup se mus¡ nach zet na koıenov‚ £rovni.
+@2@25@0@
+U akce %6, um¡stØn‚ ve skupinØ akc¡ pod tlaŸ¡tkem aktivity, m…§e m¡t vlastnost RunObject pouze hodnotu str nkov‚ho typu List.
+@2@26@0@
+Akce '%6', kter  je souŸ st¡ HomeItem kontejneru, m…§e m¡t pouze  page type value of List pro vlastnost RunObject.
+@2@27@0@
+Odsazen¡ pro prvn¡ akci nebo Skupinu akc¡ mus¡ bìt 0.
+@2@30@0@
+Zadali jste hodnotu, kter  pıesahuje maxim ln¡ velikost %20.
+@2@40@0@
+ID ovl dac¡ho prvku %40 je ji§ pou§ito.
+@2@41@0@
+Vlastnost RunObject Action podporuje pouze n sleduj¡c¡ typy:
+
+Page, Report, XMLport, Codeunit
+@2@42@0@
+ID ovl dac¡ho prvku nesm¡ bìt pr zdn‚.
+@2@43@0@
+N zev ovl dac¡ho prvku  '%6'  je ji§ pou§¡v n. N zev mus¡ bìt jedineŸnì.
+@2@44@0@
+N zev akce  '%6' je ji§ pou§¡v n. N zev akce mus¡ bìt jedineŸnì.
+@2@45@0@
+Ovl dac¡ prvek '%6' pou§¡v  stejn‚ jm‚no jako glob ln¡ promØnn . Pros¡m vyberte jedineŸnì n zev ı¡d¡c¡ho prvku.
+@2@46@0@
+ID akce %40 je ji§ pou§¡v no.
+@2@50@0@
+Nelze nahr t Visual Page Preview client assembly nebo nØkterì z jeho z vislìch polo§ek.
+@2@101@0@
+Toto je neplatnì typ £daj… pro '%10'. OŸek v  se 'Text'.
+@2@102@0@
+Ovl dac¡ prvky Part s typem PartType 'Page' mus¡ m¡t hodnotu PagePartID.
+@2@103@0@
+U ovl dac¡ch prvk… UIPart s typem PartType 'System' mus¡ m¡t vlastnost SystemPartID hodnotu None.
+@2@104@0@
+U ovl dac¡ch prvk… UIPart s typem PartType 'Chart' mus¡ m¡t vlastnost ChartPartID hodnotu None.
+@2@105@0@
+Ovl dac¡ prvky Part s typem PartType 'Page' mus¡ odkazovat na str nky typu CardPart nebo ListPart.
+@2@106@0@
+Pro kontejner mus¡ existovat subtype.
+@2@107@0@
+Str nka typu 'CardPart' nebo 'ListPart' nesm¡ obsahovat kontejner typu FactBoxArea.
+@2@108@0@
+Str nka sm¡ obsahovat jen jeden kontejner typu FactBoxArea.
+@2@109@0@
+Str nka sm¡ obsahovat jen jeden kontejner typu RoleCenterArea.
+@2@110@0@
+Kontejner RoleCenterArea se sm¡ nach zet jen na str nce typu RoleCenter.
+@2@111@0@
+Str nka sm¡ obsahovat jen jeden kontejner typu ContentArea.
+@2@112@0@
+Kontejner FactBoxArea sm¡ obsahovat jen Ÿ sti.
+@2@113@0@
+Kontejner RoleCenterArea sm¡ obsahovat jen skupiny a Ÿ sti.
+@2@114@0@
+Vlastnost IndentationColumnName mus¡ odkazovat na pole nebo promØnnou typu int.
+@2@115@0@
+Prvky HomeItems a ActivityButtons se mohou nach zet pouze na str nk ch Centra rol¡.
+@2@117@0@
+Str nky typ… CardPart a ListPart smØj¡ obsahovat pouze kontejnery typu ActionItems.
+@2@118@0@
+Hodnotu FreezeColumnID lze zadat jen v opakovac¡m prvku.
+@2@119@0@
+Hodnotu ShowAsTree lze zadat jen v opakovac¡m prvku.
+@2@120@0@
+Je-li nastavena mo§nost ShowAsTree, mus¡ bìt zad na hodnota IndentationColumnName.
+@2@121@0@
+Hodnota MinValue nesm¡ bìt vyçç¡ ne§ hodnota MaxValue.
+@2@122@0@
+Hodnota MaxValue nesm¡ bìt vyçç¡ ne§ hodnota MaxValue u pole tabulky.
+@2@123@0@
+Hodnota MinValue nesm¡ bìt ni§ç¡ ne§ hodnota MinValue u pole tabulky.
+@2@124@0@
+Nen¡-li upraviteln‚ pole tabulky, nesm¡ bìt upravitelnì ani ovl dac¡ prvek.
+@2@125@0@
+Je-li pro pole tabulky nastavena mo§nost NotBlank, ovl dac¡ prvek nesm¡ umo§nit zad n¡ pr zdn‚ hodnoty.
+@2@126@0@
+Hodnota destinnìch m¡st mus¡ bìt ni§ç¡ ne§ hodnota destinnìch m¡st u pole tabulky.
+@2@127@0@
+Hodnotu IndentationColumnName lze zadat jen u prvku Repeater.
+@2@128@0@
+Hodnoty SystemPardID 'Notes' a 'RecordLinks' lze pou§¡t jen na str nk ch s vlastnost¡ LinksAllowed nastavenou na hodnotu No.
+@2@129@0@
+Hodnotu IndentationControls lze zadat jen u prvku Repeater.
+@2@130@0@
+Na str nce se sm¡ vyskytovat jen jeden kontejner ActivityButtons.
+@2@131@0@
+Na str nce se sm¡ vyskytovat jen jeden kontejner ActivityItems.
+@2@132@0@
+Na str nce se sm¡ vyskytovat jen jeden kontejner HomeItems.
+@2@133@0@
+Na str nce se sm¡ vyskytovat jen jeden kontejner NewDocumentItems.
+@2@134@0@
+Na str nce se sm¡ vyskytovat jen jeden kontejner RelatedInformation.
+@2@135@0@
+Vlastnost ActionGroup prvku Image lze nastavit jen u objektu ActionContainer s d¡lŸ¡m typem ActivityButtons.
+@2@136@0@
+U objektu ActionContainer s d¡lŸ¡m typem ActivityButtons nebo HomeItems nelze nastavit vlastnost Action prvku Image.
+@2@137@0@
+Na str nce se sm¡ vyskytovat jen jeden kontejner Reports.
+@2@138@0@
+Ovl dac¡ prvky nelze sv zat s poli s hodnotou FieldClass 'FlowFilter'.
+@2@139@0@
+Str nky typ… CardPart a ListPart nesmØj¡ obsahovat ovl dac¡ prvky Part.
+@2@140@0@
+U str nek typu Centrum rol¡ nen¡ povoleno pou§it¡ k¢du spouçtØŸe.
+@2@141@0@
+Hodnota mus¡ bìt typu Boolean.
+@2@143@0@
+A MultiLine property that is set to "Yes" and an ExtendedDatatype property that is set to "Masked" is not allowed.
+@2@144@0@
+Pole typu 'Char' s  ExtendedDatatype nastavenìm  na 'Ratio' nen¡ povoleno.
+@2@145@0@
+Datovì typ "%20" nen¡ platnì, jestli§e je nastavena vlastnost Width.
+
+Platn‚ datov‚ typy jsou Text, Code, Integer, BigInteger, or Decimal.
+@2@146@0@
+Datovì typ "%20" nen¡ platnì pro vlastnost StyleExpr.
+
+Platn‚ datov‚ typy jsou Boolean, Text, or Code.
+@2@1000@0@
+Nen¡ k dispozici mapov n¡ metadat.
+@2@END@0@
+
+@1@224@0@
+@2@1@0@
+Neplatn  verze objektu Query: %1.
+@2@2@0@
+Neplatn‚ MagicNo objektu Query : %1.
+@2@3@0@
+Objekt %1 mus¡ bìt kompilov n pıed t¡m ne§ m…§e bìt spuçtØn.
+@2@4@0@
+Nem…§ete vybrat pole s typem Blob jako hodnotu zdroje dat pro Column rows. Vyberte jin‚ pole.
+@2@5@0@
+'%4' nen¡ pole tabulky '%6'.
+@2@6@0@
+'%24' je oŸek v no v %21 v pozici %23.
+@2@7@0@
+Velikost c¡lov‚ho bufferu je pı¡liç mal .
+@2@8@0@
+Zdrojov  tabulka pro  DataItem <%4> nebyla definov na.
+@2@9@0@
+Zdroj dat nebyl definov n pro sloupec <%6>
+@2@10@0@
+Sloupec je nezn mì.
+@2@11@0@
+Prvn¡ ı dek mus¡ bìt DataItem.
+@2@12@0@
+Prvn¡ ı dek mus¡ m¡t odsazen¡ rovno 0.
+@2@13@0@
+Nadıazenì mus¡ bìt DataItem.
+@2@14@0@
+Vlastnost odsazen¡ pro Dataitem nem…§e obsahovat z pornou hodnotu.
+@2@15@0@
+Vlastnost DataItemIndent pro DataItem mus¡ bìt jenom o 1 vØtç¡ , ne§ vlastnost pıedchoz¡ho DataItem.
+@2@16@0@
+Maxim ln¡ £roveå odsazen¡ pro DataItems je %28.
+@2@17@0@
+Sloupec nebo  DataItem mus¡ n sledovat po sloupci se stejnìm odsazen¡m nebo DataItem s odsazen¡m - 1.
+@2@18@0@
+N zev nem…§e bìt pr zdnì.
+@2@19@0@
+Jinì  DataItem nebo Column row s n zvem '%4' ji§ existuje. Vçechny DataItem a Column rows mus¡ m¡t jedineŸn‚ n zvy.
+@2@20@0@
+N zev '%4' obsahuje jeden nebo v¡ce znak…, kter‚ nemohou bìt pou§ity, proto§e neodpov¡daj¡ Obecn‚ jazykov‚ specifikaci. Prvn¡ znak mus¡ bìt p¡smeno. N sleduj¡c¡ znaky mohou bìt kombinac¡ p¡smen, celìch Ÿ¡sel a podtr§en¡.
+@2@21@0@
+Hodnota ID mus¡ bìt kladn .
+@2@22@0@
+Jinì DataItem nebo  Column row s ID '%12' ji§ existuje. Vçechny DataItem a  Column rows mus¡ m¡t jedineŸn‚ ID.
+@2@23@0@
+Nem…§ete vybrat virtu ln¡ tabulku jako Data Source. Vyberte jinou tabulku.
+@2@24@0@
+Query mus¡ m¡t alespoå jeden sloupec dat.
+@2@42@0@
+Maxim ln¡ poŸet ı dk… nem…§e bìt z pornì.
+@2@43@0@
+OtoŸit znam‚nko m…§ete jen u pol¡ s numerickìm datovìm typem.
+@2@25@0@
+Metody sŸ¡t n¡ m…§ete pou§¡t jen u pol¡ s datovìm typem Desetinn‚. Vyberte pole s datovìm typem dat Desetinn‚.
+@2@26@0@
+M…§ete specifikovat maxim lnØ %29 sloupc… v jednom query. Vyberte m‚nØ sloupc….
+@2@27@0@
+M…§ete specifikovat maxim lnØ %29 sloupc…, kter‚ nejsou seŸteny v jednom query, kter‚ obsahuje souŸty. Vyberte m‚nØ sloupc…, kter‚ nejsou seŸteny.
+@2@28@0@
+Nem…§ete poŸ¡tat specifick‚ pole v query. Pro seŸten¡ vçech ı dk… ve vìsledku query, ponechte pole Data Source pr zdn‚.
+@2@29@0@
+Nem…§ete vybrat pole s typem dat FlowFilter jako hodnotu datov‚ho zdroje pro  Column rows. Vyberte jin‚ pole.
+@2@30@0@
+Nem…§ete vybrat pole s typem dat bin rn¡ jako hodnotu datov‚ho zdroje pro  Column rows. Vyberte jin‚ pole.
+@2@31@0@
+Jinì souŸtovì sloupec m  stejnì n zev. Vçechny sloupce mus¡ m¡t jedineŸn‚ n zvy.
+@2@33@0@
+Nem…§ete kombinovat 2 DataItem na stejn‚ £rovni, proto§e spojen¡ nejsou podporov na.
+@2@37@0@
+Pole Group By je  jen pro Ÿten¡. Je automaticky vypoŸ¡t no z definovanìch sloupc…. Vçechny sloupce, kde typ metody nen¡ SouŸet, budou pou§ity pro seskupov n¡. 
+@2@38@0@
+M…§ete vybrat sloupec pouze jednou, kdy§ definujete poıad¡ vìsledn‚ datov‚ sady z query. Vyma§te vybran‚ duplicitn¡ sloupce a znovu ulo§te.
+@2@39@0@
+Vlastnost DataItemLink nem…§e bìt pr zdn .
+@2@40@0@
+Vlastnost DataItemLink mus¡ bìt pr zdn , kdy§ vlastnost  SQLJoinType je nastavena na Cross Join.
+@2@41@0@
+Nem…§ete nastavit metodu na sloupce , jejich§ datovì zdroj m  typ pole FlowField.  ZmØåte typ metody na ¦ dn  a potom ulo§te znovu.
+@2@44@0@
+M…§ete pou§¡t jen metody pro Den, MØs¡c a Rok pro pole, kter  maj¡ datovì typ Datum a Ÿas. Vyberte pole s datovìm typem Datum a Ÿas.
+@2@45@0@
+Nem…§ete importovat objekt, kterì nem  sekci %4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DotNet InteropÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  DotNet Interop                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@226@0@
+@2@1@0@
+Toto hl çen¡ je pro program tory C/AL:
+
+Tento datovì typ nen¡ vÿprostıed¡ C/SIDE podporov n. Kÿdat…m lze pıistupovat pomoc¡ libovoln‚ho zÿn sleduj¡c¡ch datovìch typ…:
+object, bool, char, sbyte, byte, short,
+ushort, int, uint, long, ulong, float,
+double, decimal, DateTime, TimeSpan,
+string, Guid, Stream
+@2@2@0@
+Zprostıedkovatel komunikace prostıed¡ .NET: intern¡ chyba, vyrovn vac¡ pamØœ je pı¡liç mal .
+@2@3@0@
+Nelze naŸ¡st typ %9.
+@2@4@0@
+The type '%1' is unknown.
+@2@5@0@
+Pı¡liç mnoho pıet¡§enìch metod.
+@2@7@0@
+Podtyp pro promØnnou DotNet nebyl zad n.
+
+Zadejte typ vyplnØn¡m pole Subtype v oknØ C/AL Locals nebo C/AL Globals.
+@2@8@0@
+Could not find assembly '%1'.
+@2@9@0@
+.NET interop: internal error, bad id '%1'.
+@2@10@0@
+.NET interop: exception occurred, '%1'.
+@2@11@0@
+%1 nen¡ rozpozn no jako n zev typu .NET.
+Spr vnì form t: plnì_n zev_sestaven¡.n zev_typu
+Zkontrolujte, zda polo§ka nen¡ zkomolen .
+@2@12@0@
+.NET interop: Typ n zvu je pı¡liç dlouhì (pıes hl 128 znak…): '%1'.
+@2@13@0@
+.NET interop: Ne£spØçn‚ naŸten¡.NET verze 4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CSDotNet  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@228@0@
+@2@1@0@
+Intern¡ chyba: %1
+@2@2@0@
+%1
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CodeUnit    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  Codeunits                                              ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@103@0@
+@2@1@0@
+Procedura %1.2818 byla vol na s polo§kou %2. MØla by to bìt polo§ka %3.
+@2@2@0@
+Procedura %1.2818 mus¡ bìt vol na s polo§kou %3.
+@2@3@0@
+Procedura %1.2818 byla vol na s polo§kou %2. Nem  § dn‚ parametry.
+@2@4@0@
+Objekt %4 m  nespr vnou verzi.
+@2@5@0@
+Byla vol na testovac¡ k¢dov  jednotka %1.2818 s pou§it¡m z znamu %2. Testovac¡ k¢dov‚ jednotky nepodporuj¡ parametry typu z znam.
+@2@6@0@
+Testovac¡ k¢dov  jednotka %1.2818 byla navr§ena s pou§it¡m tabulky %1.26370. Testovac¡ k¢dov‚ jednotky nepodporuj¡ tabulky, tj. parametr TableNo mus¡ m¡t hodnotu <Undefined>.
+@2@7@0@
+Byla vol na testovac¡ k¢dov  jednotka %1.2818 z jin‚ testovac¡ k¢dov‚ jednotky. Testovac¡ k¢dov‚ jednotky nepodporuj¡ vnoıov n¡.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  C/AL_Edit ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Compiler and Editors                                ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@102@0@
+@2@6@0@
+Jsou tu spouçtØŸe ud lost¡ spojenìch s ovl dac¡m prvkem %6. ZmØnou  ControlAddin budou zruçeny spoçtØŸe ud lost¡ a jejich k¢d.
+
+Jste si jist¡, §e chcete modifikovat hodnotu ControlAddin?
+@2@7@0@
+ü dek bude pı¡liç dlouhì.
+@2@8@0@
+S glob ln¡ promØnnou %6 jsou spojeny aktivaŸn¡ sign ly ud lost¡. OdstranØn¡m t‚to promØnn‚ odstran¡te i aktivaŸn¡ sign ly ud lost¡ a jejich k¢d.
+
+Opravdu chcete odstranit tuto glob ln¡ promØnnou?
+@2@9@0@
+ZmØna hodnot v pol¡ch DataType nebo Subtype glob ln¡ promØnn‚ %6 odstran¡ tak‚ pıiıazen‚ aktivaŸn¡ sign ly ud lost¡ a jejich k¢d.
+
+Opravdu chcete zmØnit tuto glob ln¡ promØnnou?
+@2@198@0@
+Nem te pr vo vytvoıit pıiıazen¡ k promØnn‚ s vlastnost¡ WithEvents=Ano.
+@2@199@0@
+D‚lka promØnn‚ mus¡ bìt mezi 1 a %1.
+@2@200@0@
+V pı¡kazech IF, WHILE nebo REPEAT mus¡ bìt vìraz 'TRUE/FALSE'. SouŸasnì vìraz je pole typ… Boolean.
+
+Vyberte jednu hodnotu 'TRUE/FALSE' s vìrazem jako:
+
+PoleBoolean[...]
+@2@201@0@
+Vìraz je %10.1. V pı¡kazech IF, WHILE nebo REPEAT mus¡ bìt vìraz 'TRUE/FALSE'. Napı¡klad:
+
+TRUE
+FALSE
+Z kazn¡k.Uzavıeno
+Z kazn¡k.Saldo > 100
+... AND ...
+... OR ...
+@2@202@0@
+Tento pıedponovì oper tor nem…§e bìt pou§it v %10.1.
+@2@203@0@
+OŸek v  se pole z promØnn‚ typu polo§ka. Napı¡klad:
+
+Polo§ka.Pole
+Z kazn¡k.N zev
+@2@204@0@
+OŸek v  se promØnn . Napı¡klad:
+
+MojeProm
+Z kazn¡k.N zev
+@2@205@0@
+%3 nelze prov‚st nad poli.
+
+Vyberte pouze jednu hodnotu pole pomoc¡ vìrazu jako napı¡klad:
+
+MojePole[...]
+@2@206@0@
+Typ nem…§e bìt pou§it jako argument.
+@2@207@0@
+Kdy§ je zavolan  funkce, mØl by bìt pou§it minim ln¡ poŸet parametr….
+
+MojeFunkce( .. , .. , .. )
+ROUND(MojeProm)
+ROUND(MojeProm,0.05)
+@2@210@0@
+Mus¡ bìt pou§ito maxim lnØ %7 parametr… pıi vol n¡ funkce. Napı¡klad:
+
+MojeFunkce( .. , .. , .. )
+ROUND(MojeProm)
+ROUND(MojeProm,0.05)
+@2@212@0@
+Existuje pı¡liç mnoho dimenz¡. PromØnn  je definov na s m‚nØ dimenzemi.
+
+MojeProm
+MojePole[MojeProm]
+MojePole[1,2]
+MojePole[1][2]
+@2@214@0@
+PromØnn  nen¡ polo§kou. 'PromØnn .Pole' nen¡ platn .
+@2@215@0@
+Je tıeba zadat '[', proto§e promØnn  je polem. Napı¡klad:
+
+MojePole[...]
+MojePole[MojeProm]
+MojePole[1,2]
+MojePole[1][2]
+@2@216@0@
+Typ konverze nen¡ mo§nì, proto§e 1 z oper tor… obsahuje neplatnì typ.
+
+%10.1 %3 %11.1
+@2@217@0@
+OŸek v  se hodnota nebo vìraz. Napı¡klad:
+
+100
+MojeProm
+MojeProm + 100
+MojeProm = 100
+@2@223@0@
+PromØnn  je typu %10.1. PoŸitadlo v pı¡kaze FOR by mØla bìt promØnn  typu Ÿ¡slo, Boolean, Ÿas nebo znak.
+
+FOR PoŸitadlo := 1 TO 10 DO ... ;
+@2@224@0@
+PoŸitadlo v pı¡kaze FOR by mØla bìt promØnn  typu Ÿ¡slo. Napı¡klad:
+
+FOR PoŸitadlo := 1 TO 10 DO ... ;
+@2@234@0@
+Toto nesm¡ bìt prvn¡ slovo ve vØtØ.
+@2@235@0@
+V pı¡kaze mus¡ bìt ':='. Napı¡klad:
+
+MojeProm := ... ;
+MojeProm := 100 + 10 ;
+@2@237@0@
+V pı¡kaze WITH mus¡ bìt promØnn  typu polo§ka. Aktu ln¡ promØnn  m  jinì typ. Pı¡klad:
+
+WITH MojePol DO ... ;
+@2@238@0@
+V pı¡kaze WITH mus¡ bìt promØnn  typu polo§ka. Napı¡klad:
+
+WITH .. DO ... ;
+WITH .. DO BEGIN ... ; ... ; END ;
+WITH MojePol DO ... ;
+@2@244@0@
+Existuje pı¡liç mnoho vnoıen¡ pı¡kaz… WITH.
+@2@249@0@
+K pı¡kazu ELSE mus¡ existovat pı¡kaz IF. Napı¡klad:
+
+IF ... THEN ... ELSE ... ;
+IF ... THEN IF ... ELSE ... ELSE ... ;
+IF ... THEN BEGIN ... ; ... ; END ELSE BEGIN ... ; END ;
+
+Tato chyba se objevila, proto§e je stıedn¡k (;) tØsnØ pıed pı¡kazem ELSE.
+@2@250@0@
+Pro pı¡kaz UNTIL mus¡ existovat pı¡kaz REPEAT. Napı¡klad:
+
+REPEAT ... ; ... ; UNTIL ... ;
+@2@251@0@
+OŸek v  se vØta zaŸ¡naj¡c¡ BEGIN a konŸ¡c¡ END. Napı¡klad:
+
+BEGIN ... ; ... ; END ;
+@2@254@0@
+PromØnn  %10.1 mus¡ patıit k %10.5 a ne k %11.5.
+@2@256@0@
+Dimenze pol¡ mus¡ bìt identick‚.
+@2@262@0@
+Pı¡kaz WITH nelze pou§¡t pro pole polo§ek.
+@2@263@0@
+Pro tuto funkci by se mØla pou§¡t n vratov  hodnota.
+@2@264@0@
+Po '::' mus¡ bìt zadan  volba.
+@2@266@0@
+Nepovolen  volba.
+@2@268@0@
+Pro tuto promØnnou nen¡ povoleno pıiıazen¡.
+@2@269@0@
+Kl¡Ÿov‚ slovo '%9' je rezervovan‚.
+@2@270@0@
+Stejnì aktivaŸn¡ sign l byl importov n dvakr t.
+@2@272@0@
+Maxim ln¡ poŸet prvk… v poli je 1.000.000.
+@2@273@0@
+Dimenze mus¡ bìt pozitivn¡ Ÿ¡slo.
+@2@274@0@
+Chyb¡ ID funkce. Vçechny u§ivatelem definovan‚ funkce mus¡ m¡t pıiıazeno ID.
+
+MojeFunkce@23();
+@2@275@0@
+ID funkce %1 bylo pou§ito pro funkci %2 i funkci %3.
+@2@276@0@
+Funkce MESSAGE s typem dat variant nen¡ platn , proto§e chyb¡ funkce FORMAT.
+@2@277@0@
+ID promØnn‚ %1 je pou§ito pro promØnnou %2 i promØnnou %3.
+@2@278@0@
+ID parametru %1 je pou§ito parametrem %2 i parametrem %3 v aktivaŸn¡m sign lu %4.
+@2@279@0@
+ID parametru %1 je pou§ito parametrem %2 i parametrem %3 v aktivaŸn¡m sign lu  %4.
+@2@280@0@
+ID promØnn‚ %1 pro promØnnou %2 je rezervov no pouze pro promØnn‚ definovan‚ v C/SIDE. Minim ln¡ povolen‚ Ÿ¡slo ID je %3.
+@2@281@0@
+ID %1 promØnn‚ %2 je mimo povolenì rozsah. Maxim ln¡ povolen‚ Ÿ¡slo ID je %3.
+@2@282@0@
+ID %1 funkce %2 je mimo povolenì rozsah. Maxim ln¡ povolen‚ Ÿ¡slo ID je %3.
+@2@283@0@
+Vlastnosti Typ funkce a  HandlerFunctions byly zruçeny.
+@2@284@0@
+Kompilovanì text pıes hl maxim ln¡ velikost pro token 64 KB.
+@2@285@0@
+PromØnn  %1  DotNet variable %1 nem…§e m¡t jak  RunOnClient, tak  WithEvents nastaveny na "Ano".
+@2@286@0@
+Pıiıazen¡ ke sloupci v query nen¡ povoleno.
+@2@287@0@
+Sloupec v query nem…§e bìt pıed n parametru VAR.
+@2@288@0@
+Sloupec z  query promØnn‚ byl oŸek v n.Napı¡klad :
+
+Query.Sloupec
+Z kazn¡k.N zev
+@2@289@0@
+Typ %1 nen¡ podporov n. Pou§ijte m¡sto toho typ  %2 .
+@2@290@0@
+The Upgrade function properties have been deleted.
+@2@291@0@
+The function attribute [%6] is invalid in this context.
+@2@302@0@
+Pıi ukl d n¡ souboru zar §ek ladic¡ho programu doçlo k n sleduj¡c¡ chybØ:
+
+%1
+Hodnota: %2
+@2@303@0@
+Zar §ka byla ji§ definov na pro objekt mimo editor, v  '%6' na ı dku %4. Zar §ka nem…§e bìt nastavena.
+@2@304@0@
+¦ dnì u§ivatel neodpov¡d  aktu ln¡mu ID u§ivatele. Nem…§ete zadat zar §ku, jestli§e pou§¡v te datab zov‚ ovØıen¡ k pıihl çen¡ do Microsoft Dynamics NAV Development Environment a tam nen¡ § dnì u§ivatel Microsoft Dynamics NAV namapov n k database login.
+@2@400@0@
+Neplatnì podpis testovac¡ch metod funkce %1.
+
+Funkce oznaŸen‚ jako TestMethod nesmØj¡ m¡t n vratovou hodnotu ani parametry.
+@2@401@0@
+Neplatnì podpis obslu§n‚ rutiny MESSAGE funkce %1.
+
+Obslu§n‚ rutiny MESSAGE mus¡ m¡t tento podpis (n zvy parametr… lze volit libovolnØ):
+<n zev funkce>(Message : Text[1024])
+@2@402@0@
+Neplatnì podpis obslu§n‚ rutiny CONFIRM funkce %1.
+
+Obslu§n‚ rutiny CONFIRM mus¡ m¡t tento podpis (n zvy parametr… lze volit libovolnØ):
+<n zev funkce>(Question : Text[1024];VAR Reply : Boolean)
+@2@403@0@
+Neplatnì podpis obslu§n‚ rutiny STRMENU funkce %1.
+
+Obslu§n‚ rutiny STRMENU mus¡ m¡t tento podpis (n zvy parametr… lze volit libovolnØ):
+<n zev funkce>(Options : Text[1024];VAR Choice : Integer;Instruction : Text[1024])
+@2@404@0@
+Neplatnì podpis obslu§n‚ rutiny PAGE.RUN funkce %1.
+
+Obslu§n‚ rutiny PAGE.RUN mus¡ m¡t tento podpis, n zev parametru lze zvolit libovolnØ:
+
+<n zev funkce>(VAR <jm‚no promØnn‚> : Page <id>)
+or
+<n zev funkce>(VAR <jm‚no promØnn‚> : TestPage <id>)
+@2@405@0@
+Neplatnì podpis obslu§n‚ rutiny PAGE.RUNMODAL funkce %1.
+
+Obslu§n‚ rutiny PAGE.RUNMODAL mus¡ m¡t tento podpis, n zvy parametr… lze volit libovolnØ:
+
+<n zev funkce>(VAR <jm‚no promØnn‚> : Page <id>;VAR Response : Action)
+or
+<n zev funkce>(VAR <jm‚no promØnn‚> : TestPage <id>)
+
+@2@406@0@
+Neplatnì podpis obslu§n‚ rutiny REPORT funkce %1.
+
+Obslu§n‚ rutiny REPORT mus¡ m¡t tento podpis (n zvy parametr… lze volit libovolnØ):
+<n zev funkce>(VAR <report name> : Report <report id>)
+@2@407@0@
+Invalid REQUESTPAGE handler signature of function %1.
+
+REQUESTPAGE handler functions must have this signature (parameter names may be freely chosen):
+<function name>(VAR <report name> : TestRequestPage <report id>)
+@2@413@0@
+Neplatnì podpis spouçtØŸe OnBeforeTestRun
+
+SpouçtØŸ OnBeforeTestRun je vol n pıed spuçtØn¡m jednotlivìch testovac¡ch metod testovac¡ k¢dov‚ jednotky a mus¡ m¡t tento podpis (n zvy parametr… lze volit libovolnØ, n zev funkce je vçak pıedeps n):
+OnBeforeTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128]) : Boolean
+Parametry urŸuj¡ metodu a n vratov  hodnota stanov¡, zda m  bìt dan  metoda zahrnuta do testovac¡ho bØhu. Pıi n vratov‚ hodnotØ FALSE bude metoda pıeskoŸena.
+@2@414@0@
+Neplatnì podpis spouçtØŸe OnAfterTestRun
+
+SpouçtØŸ OnAfterTestRun je vol n po spuçtØn¡ jednotlivìch testovac¡ch metod testovac¡ k¢dov‚ jednotky a mus¡ m¡t tento podpis (n zvy parametr… lze volit libovolnØ, n zev funkce je vçak pıedeps n):
+OnAfterTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128];Success : Boolean)
+Prvn¡ 3 parametry urŸuj¡ metodu. Parametr Success m  hodnotu TRUE, pokud spuçtØn¡ uspØlo, a hodnotu FALSE pıi selh n¡.
+@2@415@0@
+Chyb¡ obslu§n  rutina u§ivatelsk‚ho rozhran¡ %1 (pro ID objektu %2).
+@2@416@0@
+Nebyly spuçtØny n sleduj¡c¡ obslu§n‚ rutiny u§ivatelsk‚ho rozhran¡.
+
+%1
+@2@420@0@
+The function %1 cannot be local.
+
+Functions of upgrade codeunits must be non-local to be executed by the server during upgrade.
+@2@421@0@
+Invalid signature of function %1.
+
+Upgrade and Check functions must have this signature because they do not accept parameters and do not return any values:
+<function name>()
+@2@422@0@
+Invalid signature of function %1.
+
+TableSyncSetup functions must have this signature (function and parameter names may be freely chosen):
+<function name>(VAR <record name> : Record "Table Synch. Setup")
+@2@503@0@
+Pou§ijte symbol { pro zaŸ tek koment ıe. Napı¡klad: {norm ln¡ pozn mka}.
+@2@504@0@
+Pou§ijte symbol } pro konec koment ıe. Napı¡klad: {norm ln¡ pozn mka}.
+@2@505@0@
+V konstantØ je chyba.
+@2@506@0@
+Doçlo k chybØ syntaxe.
+@2@507@0@
+Zmençete vìraz tak, aby byl m‚nØ slo§itì.
+@2@509@0@
+Zadali jste nezn mou promØnnou.
+
+%6
+
+PromØnnou definujte v 'C/AL Globals'.
+@2@510@0@
+PromØnn  %6 je definovan  v¡ce ne§ jednou.
+
+Pı¡kladem m…§e bìt: 'Soubor' existuje jako typ dat i glob ln¡ promØnn .
+@2@511@0@
+Sem patı¡ '%9'.
+@2@512@0@
+%6 nen¡ funkc¡ a pouze funkce mohou bìt vol ny s '(....'.
+@2@513@0@
+Vol n¡ mezi n sleduj¡c¡mi dvØma metodami je nejednoznaŸn‚:
+%1
+a
+%2
+@2@514@0@
+NejednoznaŸn‚ vol n¡ funkce, nebyla nalezena odpov¡daj¡c¡ metoda.
+@2@515@0@
+¦ dn‚ pıet¡§en¡ pro metodu %1 nepou§¡v  %2 argument….
+@2@516@0@
+ü dek pozn mky pıes hl maxim ln¡ velikost %2 znak….
+@2@602@0@
+Vaçe licence programu nepovoluje pou§it¡ datov‚ho typu %6.
+@2@700@0@
+Dos hli jste povolen‚ho poŸtu pr v.
+@2@701@0@
+Pıes hli jste povolenì poŸet pr v. Posledn¡ch %1 polo§ek nebylo ulo§eno.
+@2@702@0@
+Vnitın¡ vyrovn vac¡ pamØœ byla pıekroŸena. Odeberte jeden jazyk nebo zkraœte textovou konstantu %1.
+Pozn mka: Pokud objekt ulo§¡te, budou informace ztraceny.
+@2@703@0@
+Abyste mohli nastavit vlastnost IncludeInDataset u promØnn‚ %1, mus¡ bìt nejprve pr zdn  vlastnost Dimensions.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Run   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Stack Machine Interpreter                            ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@101@0@
+@2@1@0@
+Dimenze pol¡ mus¡ bìt identick‚.
+@2@2@0@
+%3 nelze pou§¡t jako oper tor.
+
+%10.1 %3 %11.1
+@2@3@0@
+Hodnota %6 parametru %7 je mimo povolen‚ rozmez¡.
+
+Aktu ln¡ hodnota je: %11.20.
+Povolen‚ rozmez¡ je: od %1 do %2.
+@2@4@0@
+Indexace %11.20 pole je mimo povolen‚ rozmez¡.
+@2@6@0@
+PıeteŸen¡ ve vìpoŸtu %10.20 %3 %11.20.
+@2@7@0@
+DØlen¡ nulou.
+@2@9@0@
+PıeteŸen¡ konverze typu z %11.1 na %10.1.
+
+Hodnota: %11.20
+@2@10@0@
+Nen¡ dostatek voln‚ho m¡sta v z sobn¡ku pamØti C/AL pro proveden¡ t‚to £lohy.
+
+Bylo spuçtØno pı¡liç mnoho simult nn¡ch aktivit, z d…vodu rekurzivn¡ho vol n¡ funkc¡ pou§it‚ho v programu. Probl‚m lze doŸasnØ vyıeçit skonŸen¡m nØkterìch otevıenìch aktivit (ale funkci st le nebude mo§n‚ prov‚st).
+@2@14@0@
+Funkce %6 ji§ nen¡ podporovan .
+
+Odstraåte vol n¡ funkce a znovu kompilujte C/AL objekt.
+@2@16@0@
+Vìraz %11.1 nem…§e bìt konvertov n do hodnoty %10.1.
+@2@21@0@
+Odkaz na Ÿlen %6 promØnn‚ %20 nemohl bìt vyıeçen.
+@2@22@0@
+Obsah '%11.20' %6 parametru Ÿ¡slo %7 nen¡ platnì.
+@2@23@0@
+Funkce %6 byla volan  s %11.1 v parametru %7.
+
+MØlo to bìt %10.1.
+@2@24@0@
+PromØnn  nem…§e zab¡rat v¡ce ne§ 2 MB.
+@2@27@0@
+Definice pole %6 byla zmØnØna po ulo§en¡ objektu.
+
+Starì typ: %10.1
+Novì typ: %11.1
+@2@31@0@
+Objekt C/AL nebyl ulo§en ve zkompilovan‚m tvaru. Zkompilujte jej v n vrh ıi objekt… a spusœte jej znovu.
+
+%6
+@2@32@0@
+C/AL objekt nem…§e bìt ulo§en v kompilovan‚ formØ.
+@2@34@0@
+STRCHECKSUM oŸek v  Ÿ¡sla jenom mezi 0 a 9, kter  budou pou§ita v parametru Ÿ¡slo %7. '%11.20'
+@2@35@0@
+CONVERTSTR oŸek v , §e 2 ıetØzce v konverzi jsou stejnØ dlouh‚:
+
+Konverze z: '%10.20' to: '%11.20'
+@2@55@0@
+Text '%11.20' v parametru %6 Ÿ¡slo %7 je pı¡liç dlouhì.
+@2@69@0@
+Nemohu naj¡t u§ivatelem definovanou C/AL funkci %1.
+@2@70@0@
+U§ivatelem definovan  C/AL funkce %1, kter  potıebuje %3 parametry, byla zavol na s %2 parametry.
+@2@71@0@
+Pro tuto funkci pou§¡v te neplatnì typ dat.
+@2@72@0@
+You cannot call the C/AL function %6 when running the Application Server for Microsoft Dynamics NAV.
+@2@73@0@
+You cannot use C/AL variables of type %6 when running the Application Server for Microsoft Dynamics NAV.
+@2@75@0@
+Funkce VARIANT2TIME objevila argument, kterì nelze pıev‚st.
+Jako argument pou§ijte buÔ variant nebo Ÿas.
+@2@76@0@
+Funkce VARIANT2DATE objevila argument, kterì nelze pıev‚st.
+Jako argument pou§ijte buÔ variant nebo datum.
+@2@77@0@
+Byl oŸek v n vìskyt chyby v pı¡kazu ASSERTERROR.
+@2@78@0@
+Vnoıov n¡ pı¡kaz… ASSERTERROR ve stejn‚m oboru nen¡ podporov no.
+@2@79@0@
+Zpr va pro program tory v jazyku C/AL:
+
+Pıi otevıen¡ sestavy z klienta na m¡ru rol¡m nen¡ povoleno spouçtØt objekt %1 s ID %2 jako nemod ln¡.
+@2@80@0@
+Tato zpr va je urŸena pro program tory  C/AL:
+
+Objekt %6 run time nen¡ podporov n v C/SIDE Development Environment.
+@2@90@0@
+Soubor nen¡ otevıen.
+@2@91@0@
+Soubor je ji§ otevıen.
+@2@92@0@
+PromØnn  tohoto typu nem…§e bìt pıeŸtena nebo zaps na v bin rn¡ formØ.
+@2@93@0@
+BØhem zpracov n¡ souboru se objevila chyba.
+@2@94@0@
+Typ zprostıedkovatele komunikace prostıed¡ .NET nelze pou§¡t vÿk¢du pro modul runtime Classic CSide.
+@2@96@0@
+Funkce CURRENTEXECUTIONMODE nem…§e bìt pou§¡v na v k¢du pro C/SIDE run time.
+@2@97@0@
+Nem…§ete z¡skat funkce sestav a vlastnosti pro C/SIDE run time.
+@2@120@0@
+Okno dialogu nen¡ otevıeno.
+@2@130@0@
+Nem…§ete exportovat pr zdnì objekt BLOB (%6).
+@2@131@0@
+Nelze pou§¡t datovì proud na pr zdnì objek BLOB (%6).
+@2@132@0@
+Datovì proud nelze pıev‚st na objekt BLOB.
+@2@140@0@
+V Application Server nem…§ete volat CONFIRM.
+Pıedan‚ hl çen¡:
+
+%12
+@2@141@0@
+V Application Server nem…§ete volat STRMENU.
+Polo§ky nab¡dky byly:
+
+%13
+@2@142@0@
+Application Server nem…§e volat DIALOG.INPUT.
+@2@150@0@
+Datovì proud vr til chybu Ÿten¡.
+@2@151@0@
+Nem…§ete pou§¡t datovì proud na pr zdn‚ rozhran¡ datov‚ho proudu (%6).
+@2@152@0@
+Datovì proud vr til chybu z pisu.
+@2@200@0@
+Bylo zad no pı¡liç mnoho pol¡ kl¡Ÿe, tak§e %1.1 nemohlo bìt obnoveno. PoŸet pol¡ v prim rn¡m kl¡Ÿi je %4.
+@2@201@0@
+Nebyl vytvoıen § dnì vztah s polem %2.1 v %1.1.
+@2@301@0@
+Byl zjiçtØn CONFIRM s t¡mto hl çen¡m:
+
+%10
+
+Syst‚m na dotaz odpovØdØl %11.
+@2@400@0@
+Toto je poprv‚, kdy chcete spustit n sleduj¡c¡ spustitelnì soubor:
+
+Spustitelnì soubor: %1
+Parametr: %2
+
+Toto je upozornØn¡, §e m…§ete spustit soubor, kterì by potenci lnØ mohl
+poçkodit v ç poŸ¡taŸ.
+
+Je tento spustitelnì soubor a parametr d…vØryhodnì?
+@2@401@0@
+Z bezpeŸnostn¡ch d…vod… nem…§ete spustit n sleduj¡c¡
+spustitelnì soubor ve funkci SHELL zadanì jako promØnn :
+
+Spustitelnì soubor: %1
+Parametr: %2
+
+Pozn mka pro vìvoj ıe: Pou§ijte textovou konstantu obsahuj¡c¡
+cestu ke spustiteln‚mu souboru.
+@2@1101@0@
+%2.1 %3 v %1.1 %5.
+@2@1102@0@
+%2.1 nesm¡ bìt %2.5 v %1.1 %5.
+@2@1103@0@
+%2.1 mus¡ bìt %2.5 v %1.1 %5.
+@2@1104@0@
+%6 bylo odstranØno z tabulky %1.1.
+@2@1105@0@
+Pole %2.1 v tabulce %1.1 nen¡ povoleno (Enabled).
+@2@1106@0@
+Funkce LOCKTABLE v tabulce %1.1 nem…§e bìt pou§ita s hodnotou FLASE parametru Wait nebo hodnotou TRUE parametru VersionCheck, kdy§ se pıipojujete k SQL serveru.
+@2@1107@0@
+Jsou-li oba z znamy doŸasn‚, lze funkci COPY pou§¡t jen s argumentem shareTable nastavenìm na hodnotu true.
+@2@1112@0@
+Je nutn‚ zadat %2.1 v %1.1 %5.
+@2@1113@0@
+Nesm¡te zadat %2.1 v %1.1 %5.
+@2@1122@0@
+%2.1 nesm¡ bìt %2.5 v %1.1 %5.
+@2@1123@0@
+%2.1 mus¡ bìt %2.5 v %1.1 %5.
+@2@1132@0@
+%2.1 nesm¡ bìt %2.5 v %1.1 %5.
+@2@1133@0@
+%2.1 mus¡ bìt %2.5 v %1.1 %5.
+@2@1134@0@
+D‚lka textov‚ konstanty %4 v sestavØ pıekraŸuje povolenì limit o %5 znak….
+
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Streams   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Streams Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@120@0@
+@2@1@0@
+Doçlo k chybØ datov‚ho proudu.
+@2@2@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Velikost Ÿten¡ neodpov¡d  velikosti promØnn‚ nebo po§adovan‚ d‚lce.
+@2@3@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Velikost z pisu neodpov¡d  velikosti promØnn‚ nebo po§adovan‚ d‚lce.
+@2@4@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Datovì proud obsahuje data, kter  nelze spr vnØ interpretovat.
+@2@5@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Datovì proud nem…§e naj¡t ıetØzec zakonŸenì nulou.
+Datovì proud je pravdØpodobnØ neplatnì, nebo je velikost promØnn‚ Ÿi po§adovan  velikost pı¡liç mal .
+@2@6@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Po§adovan  velikost v datov‚m proudu neodpov¡d  velikosti promØnn‚.
+@2@7@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Datovì proud je mimo rozsah nebo nebyl inicializov n.
+@2@8@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Velikost z pisu v datov‚m proudu neodpov¡d  velikosti promØnn‚ nebo po§adovan‚ d‚lce.
+@2@9@0@
+Objevila se chyba pıi pokusu o z pis do datov‚ho proudu.
+
+@2@10@0@
+Funkci COPYSTREAM nelze pou§¡t ke kop¡rov n¡ dat mezi dvØma datovìmi proudy zalo§enìmi na stejn‚m zdroji dat.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Variant   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Variant Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@121@0@
+@2@1@0@
+Doçlo k chybØ varianty.
+@2@2@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+Varianta je pr zdn  nebo j¡ byla pıiıazena nezn m  hodnota.
+@2@3@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+U varianty se vyskytl nekompatibiln¡ datovì typ.
+@2@4@0@
+Funkce VARIANT2TIME naçla argument, kterì program nem…§e pıev‚st.
+Jako argument pou§ijte buÔ variant nebo Ÿas.
+@2@5@0@
+Funkce VARIANT2DATE naçla argument, kterì program nem…§e pıev‚st.
+Jako argument pou§ijte variant nebo datum.
+@2@6@0@
+Variantu nem…§ete kop¡rovat.
+@2@7@0@
+Nem…§ete pıiıadit jinì typ ne§ %1, kdy§ je obsa§en v promØnn‚ pomoc¡ VAR.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Bigstr   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Bigstr Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@148@0@
+@2@1@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+PromØnn‚ typu BigText nelze pıidØlit v¡ce ne§ 2147483647 bajt….
+@2@2@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+U promØnn‚ typu BigText nelze zadat z pornou pozici.
+@2@3@0@
+Tato zpr va je urŸena pro program tory C/AL:
+
+U promØnn‚ typu BigText nelze zadat z pornou d‚lku.
+@2@4@0@
+Tato zpr va je urŸena program tor…m C/AL:
+
+Pıi kop¡rov n¡ z promØnn‚ typu BigText dojde k pıeteŸen¡ c¡lov‚ho pole.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_NCLTypeConv    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL to NCL type convertion Errors                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@109@0@
+@2@1@0@
+Knihovna tı¡d produktu Microsoft Dynamics NAV Development Environment  nepodporuje typ %1.
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  Module_AL_2Cs    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  AL 2 C# and Metadata generation errors                     ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@108@0@
+@2@1@0@
+K¢d MSXML nelze naŸ¡st.
+@2@2@0@
+Metadata jsou poçkozena.
+@2@END@0@

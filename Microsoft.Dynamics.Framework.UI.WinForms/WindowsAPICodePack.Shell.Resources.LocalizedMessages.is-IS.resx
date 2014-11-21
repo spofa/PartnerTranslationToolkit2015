@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ShellPropertyValueTruncated" xml:space="preserve">
+    <value>Stýfa verður gildi í streng eða slétta það ef það er tölugildi. Stillið AllowTruncatedValue á satt til að fyrirbyggja þessa undantekningu.</value>
+  </data>
+  <data name="FolderTypeCompressedFolder" xml:space="preserve">
+    <value>Þjöppuð mappa</value>
+  </data>
+  <data name="FolderTypeGames" xml:space="preserve">
+    <value>Leikir</value>
+  </data>
+  <data name="MessageListenerFilterUnableToRegister" xml:space="preserve">
+    <value>Ekki tókst að skrá skilaboðaafmörkun.</value>
+  </data>
+  <data name="RestoreDirectoryCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta RestoreDirectory þegar svarglugginn er opinn.</value>
+  </data>
+  <data name="PropertyCollectionInvalidIndex" xml:space="preserve">
+    <value>Þetta PropertyKey er ekki gildur vísir.</value>
+  </data>
+  <data name="ShellThumbnailCurrentSizeRange" xml:space="preserve">
+    <value>CurrentSize (breidd eða hæð) getur ekki verið meiri en hámarksstærðin: {0}.</value>
+  </data>
+  <data name="ShellHelperGetParsingNameFailed" xml:space="preserve">
+    <value>GetParsingName mistókst.</value>
+  </data>
+  <data name="ExplorerBrowserIconSize" xml:space="preserve">
+    <value>Ekki tókst að sækja táknstærð.</value>
+  </data>
+  <data name="FolderTypeVideos" xml:space="preserve">
+    <value>Myndbönd</value>
+  </data>
+  <data name="FolderTypeInvalid" xml:space="preserve">
+    <value>Ógilt</value>
+  </data>
+  <data name="ShowPlacesListCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta lista sem sýnir staði þegar svarglugginn er opinn.</value>
+  </data>
+  <data name="ShellThumbnailNoHandler" xml:space="preserve">
+    <value>Gildandi ShellObject er ekki með gilt smámyndahald eða vandamál kom upp við að sækja smámyndina fyrir þennan tiltekna skeljahlut.</value>
+  </data>
+  <data name="JumpListLinkTitleRequired" xml:space="preserve">
+    <value>Titill fyrir JumpListLink er áskilin og getur ekki verið núll.</value>
+  </data>
+  <data name="ShellLibraryInvalidFolderType" xml:space="preserve">
+    <value>Ógilt FolderType Guid.</value>
+  </data>
+  <data name="FolderTypeCommunications" xml:space="preserve">
+    <value>Samskipti</value>
+  </data>
+  <data name="ShellObjectCollectionInsertReadOnly" xml:space="preserve">
+    <value>Ekki er hægt að setja atriði inn í skrifvarinn lista.</value>
+  </data>
+  <data name="DialogControlCollectionMenuItemControlsCannotBeAdded" xml:space="preserve">
+    <value>Einungis er hægt að bæta CommonFileDialogMenuItem-stýringum við CommonFileDialogMenu-stýringar.</value>
+  </data>
+  <data name="NavigateToShortcutCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta NavigateToShortcut þegar svarglugginn er opinn.</value>
+  </data>
+  <data name="FolderTypeGenericLibrary" xml:space="preserve">
+    <value>Almennt safn</value>
+  </data>
+  <data name="ShellLibraryFolderNotFound" xml:space="preserve">
+    <value>Möppuslóð finnst ekki.</value>
+  </data>
+  <data name="ThumbnailManagerPreviewNotAdded" xml:space="preserve">
+    <value>Ekki er búið að bæta tilgreindri forskoðun við verkstikuna.</value>
+  </data>
+  <data name="FolderTypePrinters" xml:space="preserve">
+    <value>Prentarar</value>
+  </data>
+  <data name="FolderTypeUserFiles" xml:space="preserve">
+    <value>Notendaskrár</value>
+  </data>
+  <data name="ThumbnailToolbarManagerMaxButtons" xml:space="preserve">
+    <value>Hámarksfjöldi leyfðra hnappa er 7.</value>
+  </data>
+  <data name="EnsureValidNamesCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta EnsureValidNames þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="TabbedThumbnailZeroParentHandle" xml:space="preserve">
+    <value>Yfirgluggahald getur ekki verið núll.</value>
+  </data>
+  <data name="CommonFileDialogMultipleFiles" xml:space="preserve">
+    <value>Margar skrár eru valdar. Nota skal FileNames-eiginleikann í staðinn.</value>
+  </data>
+  <data name="EnsurePathExistsCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta EnsurePathExists þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="NavigationLogNullParent" xml:space="preserve">
+    <value>Yfirhlutur getur ekki verið núll.</value>
+  </data>
+  <data name="FolderTypePictures" xml:space="preserve">
+    <value>Myndir</value>
+  </data>
+  <data name="ShellObjectCollectionArrayTooSmall" xml:space="preserve">
+    <value>Viðtökufylki er of lítið, eða ógilt arrayIndex.</value>
+  </data>
+  <data name="FilePathNotExist" xml:space="preserve">
+    <value>Þessi tiltekna slóð er ekki til ({0}).</value>
+  </data>
+  <data name="FolderTypeNotSpecified" xml:space="preserve">
+    <value>Ekki tilgreint</value>
+  </data>
+  <data name="EnsureReadonlyCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta EnsureReadOnly þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="ShellLibraryEmptyName" xml:space="preserve">
+    <value>LibraryName má ekki vera tómt.</value>
+  </data>
+  <data name="ShellObjectWatcherRegisterFailed" xml:space="preserve">
+    <value>Skráning fyrir breytingartilkynningu hefur mistekist.</value>
+  </data>
+  <data name="TasbarWindowProxyWindowSet" xml:space="preserve">
+    <value>TabbedThumbnailProxyWindow hefur ekki verið stillt.</value>
+  </data>
+  <data name="CommonFiltersText" xml:space="preserve">
+    <value>Textaskrár</value>
+  </data>
+  <data name="ExplorerBrowserSelectedItemCount" xml:space="preserve">
+    <value>Óvænt villa varð þegar valinn vörufjöldi var sóttur.</value>
+  </data>
+  <data name="JumpListLinkPathRequired" xml:space="preserve">
+    <value>Slóð fyrir JumpListLink er áskilin og getur ekki verið núll.</value>
+  </data>
+  <data name="AlwaysAppendDefaultExtensionCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta AlwaysAppendDefaultExtension þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="FolderTypeMusicIcons" xml:space="preserve">
+    <value>Tónlistartákn</value>
+  </data>
+  <data name="KnownFolderParsingName" xml:space="preserve">
+    <value>Þáttaraheiti er ekki gilt.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetSortColumns" xml:space="preserve">
+    <value>Ekki tókst að velja lista yfir röðunardálka.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetVisibleColumns" xml:space="preserve">
+    <value>Ekki er hægt að velja sýnilega dálka.</value>
+  </data>
+  <data name="FolderTypeMusic" xml:space="preserve">
+    <value>Tónlist</value>
+  </data>
+  <data name="ComboBoxIndexOutsideBounds" xml:space="preserve">
+    <value>Vísir var utan marka CommonFileDialogComboBox.</value>
+  </data>
+  <data name="ShellObjectFactoryPlatformNotSupported" xml:space="preserve">
+    <value>Stofnun skeljahlutar krefst Windows 7 eða Windows Vista.</value>
+  </data>
+  <data name="PropertyCollectionNullCanonicalName" xml:space="preserve">
+    <value>Frumbreyta CanonicalName getur ekki verið núll eða tóm.</value>
+  </data>
+  <data name="ShellPropertyUnableToGetWritableProperty" xml:space="preserve">
+    <value>Ekki tókst að sækja skrifanlega eiginleikageymslu fyrir eiginleikann.</value>
+  </data>
+  <data name="TaskbarWindowValueSet" xml:space="preserve">
+    <value>Gildi er þegar valið. Ekki er hægt að velja það oftar en einu sinni.</value>
+  </data>
+  <data name="ShellObjectCollectionRemoveReadOnly" xml:space="preserve">
+    <value>Ekki er hægt að fjarlægja atriði úr skrifvörðum lista.</value>
+  </data>
+  <data name="OverwritePromptCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta OverwritePrompt-aðgerðinni þegar svargluggi er opinn.</value>
+  </data>
+  <data name="DialogControlCollectionRemoveControlFirst" xml:space="preserve">
+    <value>Fyrst verður að fjarlægja stýringu svarglugga úr núverandi safni.</value>
+  </data>
+  <data name="AddToMostRecentlyUsedListCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta AddToMostRecentlyUsedList þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="CommonFiltersPicture" xml:space="preserve">
+    <value>Allar myndaskrár</value>
+  </data>
+  <data name="TaskbarWindowEmptyButtonArray" xml:space="preserve">
+    <value>Hnappafylkið verður að innihalda a.m.k. eitt atriði.</value>
+  </data>
+  <data name="DialogControlCollectionCannotRemoveControls" xml:space="preserve">
+    <value>Ekki er hægt að fjarlægja sérstilltar stýringar úr svarglugganum Skrá sem bætt var við.</value>
+  </data>
+  <data name="CommonFiltersOffice" xml:space="preserve">
+    <value>Office-skrár</value>
+  </data>
+  <data name="FolderTypeRecycleBin" xml:space="preserve">
+    <value>Ruslakarfa</value>
+  </data>
+  <data name="JumpListCustomCategoriesDisabled" xml:space="preserve">
+    <value>Ekki er hægt að bæta sérstilltum flokkum við þegar slökkt er á rakningu nýlegra skjala.</value>
+  </data>
+  <data name="NotImplementedException" xml:space="preserve">
+    <value>Aðferðin eða aðgerðin er ekki innleidd.</value>
+  </data>
+  <data name="ThumbnailToolbarManagerNullEmptyArray" xml:space="preserve">
+    <value>Núllfylki eða auð fylki eru ekki leyfð.</value>
+  </data>
+  <data name="SearchConditionFactoryInvalidProperty" xml:space="preserve">
+    <value>Uppgefinn eiginleikalykill er ógildur.</value>
+  </data>
+  <data name="CommonFileDialogNotClosed" xml:space="preserve">
+    <value>Skrárheiti er ekki tiltækt - svarglugga hefur enn ekki verið lokað.</value>
+  </data>
+  <data name="FolderTypeSearchResults" xml:space="preserve">
+    <value>Almennar leitarniðurstöður</value>
+  </data>
+  <data name="DialogControlCollectionMoreThanOneControl" xml:space="preserve">
+    <value>Svar má ekki vera með meira ein eina stýringu með sama heiti.</value>
+  </data>
+  <data name="ThumbnailManagerInvalidHandle" xml:space="preserve">
+    <value>Gluggahald er ógilt.</value>
+  </data>
+  <data name="ShellPropertySetValue" xml:space="preserve">
+    <value>Ekki er hægt að velja eiginleika.</value>
+  </data>
+  <data name="ShellObjectWatcherUnableToChangeEvents" xml:space="preserve">
+    <value>Ekki er hægt að breyta vöktuðum atvikum meðan vakað er.</value>
+  </data>
+  <data name="SaveFileNullItem" xml:space="preserve">
+    <value>Sótti atriði án skeljar úr svarglugga.</value>
+  </data>
+  <data name="KnownFolderInvalidGuid" xml:space="preserve">
+    <value>Auðkenni uppgefinnar þekktrar möppu er ógilt.</value>
+  </data>
+  <data name="CommonFileDialogCanceled" xml:space="preserve">
+    <value>Skrárheiti er ekki tiltækt - hætt var við svargluggann.</value>
+  </data>
+  <data name="ShellInvalidCanonicalName" xml:space="preserve">
+    <value>Uppgefið CanonicalName er ekki gildur vísir.</value>
+  </data>
+  <data name="ShellObjectCreationFailed" xml:space="preserve">
+    <value>Ekki var hægt að búa til skeljaatriði.</value>
+  </data>
+  <data name="DialogControlCollectionModifyingControls" xml:space="preserve">
+    <value>Ekki er hægt að breyta stýringasafni á meðan svargluggi er opinn.</value>
+  </data>
+  <data name="FolderTypeClassic" xml:space="preserve">
+    <value>Klassískt stjórnborð</value>
+  </data>
+  <data name="ShowHiddenItemsCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta ShowHiddenItems þegar svarglugginn er opinn.</value>
+  </data>
+  <data name="ShellObjectCollectionEmptyCollection" xml:space="preserve">
+    <value>Verður að hafa minnst einn skeljarhlut í safninu.</value>
+  </data>
+  <data name="FolderTypeNetworkExplorer" xml:space="preserve">
+    <value>Netkerfisskoðari</value>
+  </data>
+  <data name="ThumbnailManagerPreviewAdded" xml:space="preserve">
+    <value>Þessari forskoðun hefur nú þegar verið bætt við.</value>
+  </data>
+  <data name="FolderTypeOtherUsers" xml:space="preserve">
+    <value>Aðrir notendur</value>
+  </data>
+  <data name="FolderTypeOpenSearch" xml:space="preserve">
+    <value>Opin leit</value>
+  </data>
+  <data name="FolderIdsUnknownGuid" xml:space="preserve">
+    <value>Guid auðkennir ekki þekkta möppu.</value>
+  </data>
+  <data name="ExplorerBrowserFailedToGetView" xml:space="preserve">
+    <value>ExplorerBrowser tókst ekki að sækja gildandi yfirlit.</value>
+  </data>
+  <data name="ShellPropertyWindows7" xml:space="preserve">
+    <value>Þessi eiginleiki er aðeins tiltækur í Windows 7.</value>
+  </data>
+  <data name="ExplorerBrowserItemCount" xml:space="preserve">
+    <value>Óvænt villa varð þegar vörufjöldi var sóttur.</value>
+  </data>
+  <data name="CommonFileDialogMultipleItems" xml:space="preserve">
+    <value>Margar skrár eru valdar. Nota skal Items-eiginleikann í staðinn.</value>
+  </data>
+  <data name="TabbedThumbnailZeroChildHandle" xml:space="preserve">
+    <value>Gluggahald undirstýringar getur ekki verið núll.</value>
+  </data>
+  <data name="MessageListenerFilterUnknownListenerHandle" xml:space="preserve">
+    <value>Vakahald með þetta gildi er ekki skráð.</value>
+  </data>
+  <data name="ShellLibraryDefaultSaveFolderNotFound" xml:space="preserve">
+    <value>DefaultSaveFolder-slóð fannst ekki.</value>
+  </data>
+  <data name="MessageListenerNoWindowHandle" xml:space="preserve">
+    <value>Ekki tókst að stofna glugga á vakaþræðinum því enginn fyrirliggjandi gluggi er á vakaþræðinum.</value>
+  </data>
+  <data name="ExplorerBrowserUnexpectedError" xml:space="preserve">
+    <value>Óvænt villa varð þegar valið var sótt.</value>
+  </data>
+  <data name="PropertyCollectionCanonicalInvalidIndex" xml:space="preserve">
+    <value>Þetta CanonicalName er ekki gildur vísir.</value>
+  </data>
+  <data name="EnsureFileExistsCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta EnsureFileExists þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="JumpListNegativeOrdinalPosition" xml:space="preserve">
+    <value>Neikvæðar tölur eru ekki leyfðar fyrir raðtölur.</value>
+  </data>
+  <data name="ShellThumbnailDoesNotHaveThumbnail" xml:space="preserve">
+    <value>Gildandi ShellObject er ekki með smámynd. Nota skal ShellThumbnailFormatOption.Default-aðferðina til að sækja tákn fyrir þetta atriði.</value>
+  </data>
+  <data name="ThumbnailManagerControlNotAdded" xml:space="preserve">
+    <value>Ekki er búið að bæta tilgreindri stýringu við verkstikuna.</value>
+  </data>
+  <data name="FolderTypeSavedGames" xml:space="preserve">
+    <value>Vistaðir leikir</value>
+  </data>
+  <data name="ShellPropertyWrongType" xml:space="preserve">
+    <value>Þessi eiginleiki samþykkir aðeins gildi af gerð „{0}“.</value>
+  </data>
+  <data name="ShellObjectCannotGetDisplayName" xml:space="preserve">
+    <value>Ekki tókst að sækja heiti til birtingar.</value>
+  </data>
+  <data name="CommonFileDialogRequiresVista" xml:space="preserve">
+    <value>Common File Dialog krefst Windows Vista eða nýrri útgáfu.</value>
+  </data>
+  <data name="FolderTypeSearches" xml:space="preserve">
+    <value>Leit</value>
+  </data>
+  <data name="FolderTypeCategory" xml:space="preserve">
+    <value>Stjórnborðsflokkur</value>
+  </data>
+  <data name="ShellThumbnailSizeCannotBe0" xml:space="preserve">
+    <value>CurrentSize (breidd eða hæð) getur ekki verið 0.</value>
+  </data>
+  <data name="FolderTypeUserLibraries" xml:space="preserve">
+    <value>Notendasöfn</value>
+  </data>
+  <data name="MessageListenerClassNotRegistered" xml:space="preserve">
+    <value>Ekki tókst að skrá gluggaklasa. Athuga skal innra frábrigði til að fá meiri upplýsingar.</value>
+  </data>
+  <data name="FolderTypeRecordedTV" xml:space="preserve">
+    <value>Sjónvarpsupptökur</value>
+  </data>
+  <data name="TaskbarWindowManagerButtonsAlreadyAdded" xml:space="preserve">
+    <value>Tækjastikuhnöppum fyrir þennan glugga hefur þegar verið bætt við. Frekari upplýsingar um uppfærslueiginleika eða til að fela fyrirliggjandi hnappi er að finna í hlutanum Athugasemdir í AddButtons-aðferðinni.</value>
+  </data>
+  <data name="CreatePromptCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta CreatePrompt þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="FolderTypeSearchConnector" xml:space="preserve">
+    <value>Leitartengi</value>
+  </data>
+  <data name="MessageListenerCannotCreateWindow" xml:space="preserve">
+    <value>Stofnun glugga mistókst, skoða skal innri frábrigði til að fá upplýsingar.</value>
+  </data>
+  <data name="CommonFileDialogCannotCreateShellItem" xml:space="preserve">
+    <value>Ekki var hægt að búa til skeljaatriði.</value>
+  </data>
+  <data name="IsExpandedModeCannotBeChanged" xml:space="preserve">
+    <value>Ekki er hægt að breyta IsExpandedMode þegar svarglugginn er birtur.</value>
+  </data>
+  <data name="ExplorerBrowserViewItems" xml:space="preserve">
+    <value>Óvænt villa varð þegar vöruskoðun var sótt.</value>
+  </data>
+  <data name="ShellPropertyFactoryConstructorNotFound" xml:space="preserve">
+    <value>Smiður sem samsvarar umbeðnu frumbreytutegundinni fannst ekki.</value>
+  </data>
+  <data name="ShellObjectFactoryUnableToCreateItem" xml:space="preserve">
+    <value>Ekki tókst að stofna skeljaatriði.</value>
+  </data>
+  <data name="ShellPropertyCannotSetProperty" xml:space="preserve">
+    <value>Ekki er hægt að velja gildið í þessum eiginleika. Til að velja gildi eiginleika skal nota ShellObject sem tengist þessum eiginleika.</value>
+  </data>
+  <data name="FolderTypeLibrary" xml:space="preserve">
+    <value>Safn</value>
+  </data>
+  <data name="TaskbarManagerValidWindowRequired" xml:space="preserve">
+    <value>Gildan og virkan glugga þarf til að uppfæra verkstikuna.</value>
+  </data>
+  <data name="DialogControlCollectionEmptyName" xml:space="preserve">
+    <value>Heiti stýringar má ekki vera tómt eða núll.</value>
+  </data>
+  <data name="FolderTypeDocuments" xml:space="preserve">
+    <value>Skjöl</value>
+  </data>
+  <data name="ExplorerBrowserBrowseToObjectFailed" xml:space="preserve">
+    <value>Ekki tókst að fletta að hlut.</value>
+  </data>
+  <data name="CommonFileDialogInvalidHandle" xml:space="preserve">
+    <value>Rekill sem var veittur getur ekki verið IntPtr.Zero.</value>
+  </data>
+  <data name="RadioButtonListIndexOutOfBounds" xml:space="preserve">
+    <value>Vísir var utan marka CommonFileDialogRadioButtonList.</value>
+  </data>
+  <data name="JumpListFileTypeNotRegistered" xml:space="preserve">
+    <value>Skrárgerðin er ekki skráð með þessu forriti.</value>
+  </data>
+  <data name="FolderTypeSoftwareExplorer" xml:space="preserve">
+    <value>Hugbúnaðarvafri</value>
+  </data>
+  <data name="FolderTypeContacts" xml:space="preserve">
+    <value>Tengiliðir</value>
+  </data>
+  <data name="ShellLibraryInvalidLibrary" xml:space="preserve">
+    <value>Tilgreind þekkt mappa er ekki gilt safn.</value>
+  </data>
+  <data name="ShellExceptionDefaultText" xml:space="preserve">
+    <value>Skeljafrábrigði kom upp. Frekari upplýsingar er að finna í innra frábrigði.</value>
+  </data>
+</root>

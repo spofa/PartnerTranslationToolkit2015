@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  
+  <!-- Installation properties related to the culture of the generated installer -->
+
+  <!-- Set to the build number of Microsoft Dynamics NAV 2015, that you are building language packs for. -->
+  <?define BuildVersion = "8.0.0.0"?>
+
+  <!-- Set to the correct CountryRegion from Globals.wxi or create you own if this is not available. -->
+  <?define CountryRegion = $(var.CountryRegionCAT)?>
+  
+  <!-- Name of the language in English -->
+  <?define ModuleLanguage = "Catalan"?>
+
+  <!-- .Net culture of the resource assemblies i.e. ca-ES -->
+  <?define LocalLangFolder = ca-ES?>
+
+  <!-- Three letter ISO code of the language i.e. CAT -->
+  <?define LocalIsoFolder = CAT?>
+  
+  <!-- Folder path to the english version of the .stx and .etx files -->
+  <?define GlobalTextFiles = "..\Payload\en-US text files"?>
+
+  <!-- Folder path to the local language version of the .stx and .etx files -->
+  <?define LocalTextFiles = "..\Payload\Local text files"?>
+
+</Include>

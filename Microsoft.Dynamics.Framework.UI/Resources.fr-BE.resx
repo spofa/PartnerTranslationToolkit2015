@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BooleanFalse" xml:space="preserve">
+    <value>Faux</value>
+  </data>
+  <data name="MessageForm_YesPrompt" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="EmailValidationRule_NotValid" xml:space="preserve">
+    <value>La valeur spécifie une adresse électronique non valide.</value>
+  </data>
+  <data name="PasteRowsColumnsMissing" xml:space="preserve">
+    <value>Les {0} dernières colonnes n'ont pas été collées.</value>
+  </data>
+  <data name="FilterCouldNotBeExecuted" xml:space="preserve">
+    <value>Impossible d'appliquer le filtre en raison des conditions du formulaire. Le filtre précédent a été réactivé.</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidGuid" xml:space="preserve">
+    <value>Le paramètre {0} n'est pas un GUID valide.</value>
+  </data>
+  <data name="ColumnFilterGreaterThan" xml:space="preserve">
+    <value>supérieur à</value>
+  </data>
+  <data name="MessageForm_OKPrompt" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="UrlParserCommandBase_BadQueryParameter" xml:space="preserve">
+    <value>Vous ne pouvez pas spécifier un nom et une valeur pour un paramètre.</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Erreur</value>
+  </data>
+  <data name="Paste_CannotPasteIfBadSelection" xml:space="preserve">
+    <value>Vous ne pouvez pas coller des données dans plusieurs zones à la fois.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueNumber" xml:space="preserve">
+    <value>numéro</value>
+  </data>
+  <data name="ValidationRule_GreaterThanMax" xml:space="preserve">
+    <value>La valeur doit être inférieure ou égale à {1}. Valeur : {0}.</value>
+  </data>
+  <data name="FilterControl_DatabaseException" xml:space="preserve">
+    <value>Le filtre entraîne une exception de base de données.</value>
+  </data>
+  <data name="ColumnBinderNotSet" xml:space="preserve">
+    <value>Le classeur à colonnes n'est pas défini.</value>
+  </data>
+  <data name="ImageValidationRule_UnrecognizableFormat" xml:space="preserve">
+    <value>Les données ne sont pas identifiables en tant qu'image.</value>
+  </data>
+  <data name="CopyCellAction_Caption" xml:space="preserve">
+    <value>Copier cellule</value>
+  </data>
+  <data name="PasteWarningMoreColumnsInDataThanInRepeater" xml:space="preserve">
+    <value>Le Presse-papiers contient plus de colonnes que la grille cible. Toutes les colonnes ne seront pas collées. Êtes-vous sûr de vouloir continuer ?</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValue" xml:space="preserve">
+    <value>Votre entrée de '{0}' n'est pas une valeur {1} acceptable.</value>
+  </data>
+  <data name="LogicalLookupForm_Caption" xml:space="preserve">
+    <value>Consultation {0}</value>
+  </data>
+  <data name="UrlParserCommandBase_RequiredParameterMissing" xml:space="preserve">
+    <value>Le paramètre requis n'existe pas.</value>
+  </data>
+  <data name="ValidationErrorTitle" xml:space="preserve">
+    <value>Résultats erreur</value>
+  </data>
+  <data name="PasteFailed_UnableToProceedToNextLine" xml:space="preserve">
+    <value>Le collage a échoué et il est impossible de passer à la ligne suivante.</value>
+  </data>
+  <data name="PropertyValue_MustBeNonNegative" xml:space="preserve">
+    <value>La valeur doit être positive ou nulle.</value>
+  </data>
+  <data name="ValidationInfoTitle" xml:space="preserve">
+    <value>Résultats info</value>
+  </data>
+  <data name="PasteFailed_ValidationError" xml:space="preserve">
+    <value>Le collage a échoué en raison d'erreurs de validation.</value>
+  </data>
+  <data name="UrlParserBase_ActionNotKnown" xml:space="preserve">
+    <value>L'action est inconnue.</value>
+  </data>
+  <data name="PasteClipboardAction_PasteControl" xml:space="preserve">
+    <value>Coller lignes</value>
+  </data>
+  <data name="BooleanExpressionNode_False" xml:space="preserve">
+    <value>faux</value>
+  </data>
+  <data name="PasteRows_OverrideWarning" xml:space="preserve">
+    <value>Cette opération va écraser les données sélectionnées. Êtes-vous sûr de vouloir continuer ?</value>
+  </data>
+  <data name="ColumnFilterNotEqual_Description" xml:space="preserve">
+    <value>différent de</value>
+  </data>
+  <data name="LogicalLookupForm_CreateNewCaption" xml:space="preserve">
+    <value>Créer &amp;nouveau</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidEnumeratedValue" xml:space="preserve">
+    <value>Le paramètre {0} est énuméré et ne peut pas correspondre à la valeur {1}.</value>
+  </data>
+  <data name="ColumnFilterLessThanOrEqual_Description" xml:space="preserve">
+    <value>inférieur ou égal à</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueCaption" xml:space="preserve">
+    <value>Votre entrée de '{0}' n'est pas une valeur acceptable pour '{1}'.</value>
+  </data>
+  <data name="StringControl_InvalidUnicode" xml:space="preserve">
+    <value>La valeur contient des caractères Unicode non valides.</value>
+  </data>
+  <data name="PasteRowsUnsuccesful" xml:space="preserve">
+    <value>Un problème s'est produit lors du collage des lignes</value>
+  </data>
+  <data name="DateTimeValidationRule_DateNotAllowed" xml:space="preserve">
+    <value>Un composant de date personnalisé n'est pas autorisé.</value>
+  </data>
+  <data name="FindSelectionField" xml:space="preserve">
+    <value>Champ Rechercher une sélection</value>
+  </data>
+  <data name="DateTimeValidationRule_MustNotContainDays" xml:space="preserve">
+    <value>La valeur ne doit pas contenir de jours.</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidRangedInteger" xml:space="preserve">
+    <value>Le paramètre {0} doit être un numéro valide compris entre {1} et {2}.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueFormatCaption" xml:space="preserve">
+    <value>Votre entrée de '{0}' n'est pas une valeur acceptable pour '{1}'. {2}</value>
+  </data>
+  <data name="ClipboardNotAvailableError" xml:space="preserve">
+    <value>Le Presse-papiers n'est pas disponible pour l'instant. Veuillez réessayer ultérieurement.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueString" xml:space="preserve">
+    <value>chaîne</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidBoolean" xml:space="preserve">
+    <value>Le paramètre {0} ne représente pas une valeur booléenne valide.</value>
+  </data>
+  <data name="CopyActionProgressBody" xml:space="preserve">
+    <value>Veuillez patienter pendant la copie des lignes</value>
+  </data>
+  <data name="Fatal" xml:space="preserve">
+    <value>Fatal</value>
+  </data>
+  <data name="StringValidationRule_StringTooShort" xml:space="preserve">
+    <value>La valeur est trop courte. Longueur minimale : {1}. Valeur : {0}.</value>
+  </data>
+  <data name="ColumnFilterBeginsWithOperator_Description" xml:space="preserve">
+    <value>commence par</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueTimeSpan" xml:space="preserve">
+    <value>période</value>
+  </data>
+  <data name="Dialog_DefaultCaption" xml:space="preserve">
+    <value>Informations</value>
+  </data>
+  <data name="SessionIsInvalidOrTimedout" xml:space="preserve">
+    <value>La session a expiré ou n'a pas pu être trouvée.</value>
+  </data>
+  <data name="ValidationRule_ValueNotDivisibleByMinUnit" xml:space="preserve">
+    <value>La valeur doit être divisible par {1}.</value>
+  </data>
+  <data name="LogicalLookupForm_AdvancedLookupCaption" xml:space="preserve">
+    <value>Consu&amp;ltation avancée</value>
+  </data>
+  <data name="CopyPreviousErrorMessage" xml:space="preserve">
+    <value>La valeur à copier n'est pas valide.</value>
+  </data>
+  <data name="Message_DiscardChanges" xml:space="preserve">
+    <value>La page comporte des changements non enregistrés. Souhaitez-vous annuler ces changements ?</value>
+  </data>
+  <data name="UrlParserBase_BadUrl" xml:space="preserve">
+    <value>Les données ne peuvent pas être interprétées comme une URL.</value>
+  </data>
+  <data name="MessageForm_AbortPrompt" xml:space="preserve">
+    <value>Abandonner</value>
+  </data>
+  <data name="BooleanTrue" xml:space="preserve">
+    <value>Vrai</value>
+  </data>
+  <data name="CopyAction_Caption" xml:space="preserve">
+    <value>&amp;Copier les lignes</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Informations</value>
+  </data>
+  <data name="BooleanExpressionNode_True" xml:space="preserve">
+    <value>vrai</value>
+  </data>
+  <data name="ColumnFilterLessThan" xml:space="preserve">
+    <value>inférieur à</value>
+  </data>
+  <data name="MessageForm_NoPrompt" xml:space="preserve">
+    <value>Non</value>
+  </data>
+  <data name="DateTimeValidationRule_TimeNotAllowed" xml:space="preserve">
+    <value>Un composant d'heure personnalisé n'est pas autorisé.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueStream" xml:space="preserve">
+    <value>flux</value>
+  </data>
+  <data name="RequiredFieldValidationRule_MustBeFilledIn" xml:space="preserve">
+    <value>Vous devez entrer une valeur.</value>
+  </data>
+  <data name="ColumnFilterGreaterThanOrEqual_Description" xml:space="preserve">
+    <value>supérieur ou égal à</value>
+  </data>
+  <data name="ClipboardNotWorking" xml:space="preserve">
+    <value>Impossible de copier l'URL dans le Presse-papiers.</value>
+  </data>
+  <data name="ColumnFilterIsOperator_Description" xml:space="preserve">
+    <value>est</value>
+  </data>
+  <data name="UrlParserCommandBase_NotSingleValued" xml:space="preserve">
+    <value>Le paramètre {0} comporte plusieurs valeurs.</value>
+  </data>
+  <data name="Permission" xml:space="preserve">
+    <value>Autorisation</value>
+  </data>
+  <data name="UrlParserBase_BadScheme" xml:space="preserve">
+    <value>Le schéma {0} n'est pas pris en charge.</value>
+  </data>
+  <data name="SelectionControlFormatter_InvalidValue" xml:space="preserve">
+    <value>La valeur '{0}' n'est pas valide.</value>
+  </data>
+  <data name="ValidationRule_LessThanMin" xml:space="preserve">
+    <value>La valeur doit être supérieure ou égale à {1}. Valeur : {0}.</value>
+  </data>
+  <data name="StringValidationRule_StringTooLong" xml:space="preserve">
+    <value>La valeur est trop longue. Longueur maximale : {1}. Valeur : {0}.</value>
+  </data>
+  <data name="ResourceNoSaveAsFolderNotFound" xml:space="preserve">
+    <value>Les ressources ne peuvent pas être enregistrées sur le serveur web car le dossier {0} n'existe pas. Créez le dossier, ajoutez-le au site web en tant que répertoire virtuel et relancez le site web.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueDateTime" xml:space="preserve">
+    <value>date heure</value>
+  </data>
+  <data name="ByteStreamValidationRule_MaxLenghtExceeded" xml:space="preserve">
+    <value>La valeur est supérieure à la taille maximale. Taille maximale : {0}. Taille actuelle : {1}</value>
+  </data>
+  <data name="RequiredFieldValidationRule_ControlMustBeFilledIn" xml:space="preserve">
+    <value>« {0} » doit être rempli. Entrez une valeur.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueFormat" xml:space="preserve">
+    <value>Votre entrée de '{0}' n'est pas une valeur {1} acceptable. {2}</value>
+  </data>
+  <data name="ValidationWarningTitle" xml:space="preserve">
+    <value>Résultats alerte</value>
+  </data>
+  <data name="DataBindingException_ValidationFailed" xml:space="preserve">
+    <value>La demande de données n'est pas valide.</value>
+  </data>
+  <data name="ColumnFilterContainsOperater_Description" xml:space="preserve">
+    <value>contient</value>
+  </data>
+  <data name="MessageForm_CancelPrompt" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="CopyActionProgressHeader" xml:space="preserve">
+    <value>Copie</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueEnumaration" xml:space="preserve">
+    <value>énumération</value>
+  </data>
+  <data name="ColumnFilterEquals" xml:space="preserve">
+    <value>égal à</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueBoolean" xml:space="preserve">
+    <value>Booléen</value>
+  </data>
+  <data name="PasteCannotPasteClipboardIntoSelection" xml:space="preserve">
+    <value>Vous ne pouvez pas coller les lignes {0} dans les lignes {1} sélectionnées.</value>
+  </data>
+  <data name="PasteColumnsHaveBeenTruncated" xml:space="preserve">
+    <value>Certaines valeurs ont été tronquées.</value>
+  </data>
+  <data name="FilterHelper_FilterTypeNotValid" xml:space="preserve">
+    <value>'{0}' contenant '{1}' n'est pas un type de données valide pour '{2}'.</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Alerte</value>
+  </data>
+  <data name="PasteWarningDataExceedColumnsPotentialTruncation" xml:space="preserve">
+    <value>Vous essayez de coller des données qui excèdent la largeur maximale de la ou des colonnes cibles. Ces données seront tronquées. Êtes-vous sûr de vouloir continuer ?</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueDecimal" xml:space="preserve">
+    <value>nombre décimal</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value>Confirmer</value>
+  </data>
+</root>

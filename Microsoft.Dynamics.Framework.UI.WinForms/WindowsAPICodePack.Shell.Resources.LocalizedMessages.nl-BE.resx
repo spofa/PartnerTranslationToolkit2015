@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ShellPropertyValueTruncated" xml:space="preserve">
+    <value>Er moet een waarde worden afgekapt in een tekenreeks of worden afgerond als het een numerieke waarde betreft. Stel AllowTruncatedValue in op waar om deze uitzondering te voorkomen.</value>
+  </data>
+  <data name="FolderTypeCompressedFolder" xml:space="preserve">
+    <value>Gecomprimeerde map</value>
+  </data>
+  <data name="FolderTypeGames" xml:space="preserve">
+    <value>Ontspanning</value>
+  </data>
+  <data name="MessageListenerFilterUnableToRegister" xml:space="preserve">
+    <value>Berichtfilter kan niet worden geregistreerd.</value>
+  </data>
+  <data name="RestoreDirectoryCannotBeChanged" xml:space="preserve">
+    <value>U kunt RestoreDirectory niet wijzigen terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="PropertyCollectionInvalidIndex" xml:space="preserve">
+    <value>Deze PropertyKey is geen geldige index.</value>
+  </data>
+  <data name="ShellThumbnailCurrentSizeRange" xml:space="preserve">
+    <value>CurrentSize (breedte of hoogte) kan niet groter zijn dan de maximale grootte: {0}.</value>
+  </data>
+  <data name="ShellHelperGetParsingNameFailed" xml:space="preserve">
+    <value>GetParsingName is mislukt.</value>
+  </data>
+  <data name="ExplorerBrowserIconSize" xml:space="preserve">
+    <value>Kan pictogramgrootte niet ophalen.</value>
+  </data>
+  <data name="FolderTypeVideos" xml:space="preserve">
+    <value>Video's</value>
+  </data>
+  <data name="FolderTypeInvalid" xml:space="preserve">
+    <value>Ongeldig</value>
+  </data>
+  <data name="ShowPlacesListCannotBeChanged" xml:space="preserve">
+    <value>ShowPlacesList kan niet worden gewijzigd terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="ShellThumbnailNoHandler" xml:space="preserve">
+    <value>Het huidige ShellObject heeft geen geldige handler voor miniatuurweergaven of er is een probleem bij het ophalen van de miniatuur voor dit specifieke shell-object.</value>
+  </data>
+  <data name="JumpListLinkTitleRequired" xml:space="preserve">
+    <value>Titel van JumpListLink is vereist en kan niet null zijn.</value>
+  </data>
+  <data name="ShellLibraryInvalidFolderType" xml:space="preserve">
+    <value>Ongeldige GUID voor FolderType.</value>
+  </data>
+  <data name="FolderTypeCommunications" xml:space="preserve">
+    <value>Communicatie</value>
+  </data>
+  <data name="ShellObjectCollectionInsertReadOnly" xml:space="preserve">
+    <value>Items kunnen niet in een alleen-lezenlijst worden ingevoegd.</value>
+  </data>
+  <data name="DialogControlCollectionMenuItemControlsCannotBeAdded" xml:space="preserve">
+    <value>CommonFileDialogMenuItem-besturingselementen kunnen alleen aan CommonFileDialogMenu-besturingselementen worden toegevoegd.</value>
+  </data>
+  <data name="NavigateToShortcutCannotBeChanged" xml:space="preserve">
+    <value>U kunt NavigateToShortcut niet wijzigen terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="FolderTypeGenericLibrary" xml:space="preserve">
+    <value>Algemene bibliotheek</value>
+  </data>
+  <data name="ShellLibraryFolderNotFound" xml:space="preserve">
+    <value>Mappad is niet gevonden.</value>
+  </data>
+  <data name="ThumbnailManagerPreviewNotAdded" xml:space="preserve">
+    <value>Het opgegeven voorbeeld is niet toegevoegd aan de taakbalk.</value>
+  </data>
+  <data name="FolderTypePrinters" xml:space="preserve">
+    <value>Printers</value>
+  </data>
+  <data name="FolderTypeUserFiles" xml:space="preserve">
+    <value>Gebruikersbestanden</value>
+  </data>
+  <data name="ThumbnailToolbarManagerMaxButtons" xml:space="preserve">
+    <value>Het maximum aantal toegestane knoppen is 7.</value>
+  </data>
+  <data name="EnsureValidNamesCannotBeChanged" xml:space="preserve">
+    <value>EnsureValidNames kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="TabbedThumbnailZeroParentHandle" xml:space="preserve">
+    <value>Handle van bovenliggend venster kan niet nul zijn.</value>
+  </data>
+  <data name="CommonFileDialogMultipleFiles" xml:space="preserve">
+    <value>Er zijn meerdere bestanden geselecteerd. Gebruik in plaats hiervan de eigenschap FileNames.</value>
+  </data>
+  <data name="EnsurePathExistsCannotBeChanged" xml:space="preserve">
+    <value>EnsurePathExists kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="NavigationLogNullParent" xml:space="preserve">
+    <value>Bovenliggend item kan niet null zijn.</value>
+  </data>
+  <data name="FolderTypePictures" xml:space="preserve">
+    <value>Afbeeldingen</value>
+  </data>
+  <data name="ShellObjectCollectionArrayTooSmall" xml:space="preserve">
+    <value>Doelarray is te klein of arrayindex is ongeldig.</value>
+  </data>
+  <data name="FilePathNotExist" xml:space="preserve">
+    <value>Het opgegeven pad bestaat niet ({0}).</value>
+  </data>
+  <data name="FolderTypeNotSpecified" xml:space="preserve">
+    <value>Niet opgegeven</value>
+  </data>
+  <data name="EnsureReadonlyCannotBeChanged" xml:space="preserve">
+    <value>EnsureReadOnly kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="ShellLibraryEmptyName" xml:space="preserve">
+    <value>LibraryName kan niet leeg zijn.</value>
+  </data>
+  <data name="ShellObjectWatcherRegisterFailed" xml:space="preserve">
+    <value>Registratie voor bericht van wijziging is mislukt.</value>
+  </data>
+  <data name="TasbarWindowProxyWindowSet" xml:space="preserve">
+    <value>TabbedThumbnailProxyWindow is niet ingesteld.</value>
+  </data>
+  <data name="CommonFiltersText" xml:space="preserve">
+    <value>Tekstbestanden</value>
+  </data>
+  <data name="ExplorerBrowserSelectedItemCount" xml:space="preserve">
+    <value>Er is een onverwachte fout opgetreden bij het ophalen van de geselecteerde artikeltelling.</value>
+  </data>
+  <data name="JumpListLinkPathRequired" xml:space="preserve">
+    <value>Pad van JumpListLink is vereist en kan niet null zijn.</value>
+  </data>
+  <data name="AlwaysAppendDefaultExtensionCannotBeChanged" xml:space="preserve">
+    <value>AlwaysAppendDefaultExtension kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="FolderTypeMusicIcons" xml:space="preserve">
+    <value>Muziekpictogrammen</value>
+  </data>
+  <data name="KnownFolderParsingName" xml:space="preserve">
+    <value>Parseernaam is niet geldig.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetSortColumns" xml:space="preserve">
+    <value>Lijst met sorteerkolommen kan niet worden ingesteld.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetVisibleColumns" xml:space="preserve">
+    <value>Zichtbare kolommen kunnen niet worden ingesteld.</value>
+  </data>
+  <data name="FolderTypeMusic" xml:space="preserve">
+    <value>Muziek</value>
+  </data>
+  <data name="ComboBoxIndexOutsideBounds" xml:space="preserve">
+    <value>Index ligt buiten het bereik van de CommonFileDialogComboBox.</value>
+  </data>
+  <data name="ShellObjectFactoryPlatformNotSupported" xml:space="preserve">
+    <value>Voor het maken van shell-objecten is Windows 7 of Windows Vista vereist.</value>
+  </data>
+  <data name="PropertyCollectionNullCanonicalName" xml:space="preserve">
+    <value>CanonicalName van argument kan niet null of leeg zijn.</value>
+  </data>
+  <data name="ShellPropertyUnableToGetWritableProperty" xml:space="preserve">
+    <value>Schrijfbare eigenschappenopslag kan niet worden opgehaald voor deze eigenschap.</value>
+  </data>
+  <data name="TaskbarWindowValueSet" xml:space="preserve">
+    <value>Waarde is al ingesteld. De waarde kan niet meer dan één keer worden ingesteld.</value>
+  </data>
+  <data name="ShellObjectCollectionRemoveReadOnly" xml:space="preserve">
+    <value>Items kunnen niet uit een alleen-lezenlijst worden verwijderd.</value>
+  </data>
+  <data name="OverwritePromptCannotBeChanged" xml:space="preserve">
+    <value>De functie OverwritePrompt kan niet worden gewijzigd terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="DialogControlCollectionRemoveControlFirst" xml:space="preserve">
+    <value>Het dialoogvensterbesturingselement moet eerst uit de huidige verzamelingen worden verwijderd.</value>
+  </data>
+  <data name="AddToMostRecentlyUsedListCannotBeChanged" xml:space="preserve">
+    <value>AddToMostRecentlyUsedList kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="CommonFiltersPicture" xml:space="preserve">
+    <value>Alle afbeeldingsbestanden</value>
+  </data>
+  <data name="TaskbarWindowEmptyButtonArray" xml:space="preserve">
+    <value>De reeks knoppen moet ten minste één item bevatten.</value>
+  </data>
+  <data name="DialogControlCollectionCannotRemoveControls" xml:space="preserve">
+    <value>Aangepaste besturingselementen kunnen nadat ze zijn toegevoegd niet worden verwijderd uit het dialoogvenster Bestand.</value>
+  </data>
+  <data name="CommonFiltersOffice" xml:space="preserve">
+    <value>Office-bestanden</value>
+  </data>
+  <data name="FolderTypeRecycleBin" xml:space="preserve">
+    <value>Prullenbak</value>
+  </data>
+  <data name="JumpListCustomCategoriesDisabled" xml:space="preserve">
+    <value>Aangepaste categorieën kunnen niet worden toegevoegd wanneer tracering van recente documenten wordt uitgeschakeld.</value>
+  </data>
+  <data name="NotImplementedException" xml:space="preserve">
+    <value>De methode of bewerking wordt niet geïmplementeerd.</value>
+  </data>
+  <data name="ThumbnailToolbarManagerNullEmptyArray" xml:space="preserve">
+    <value>Null of lege arrays zijn niet toegestaan.</value>
+  </data>
+  <data name="SearchConditionFactoryInvalidProperty" xml:space="preserve">
+    <value>Opgegeven eigenschapssleutel is ongeldig.</value>
+  </data>
+  <data name="CommonFileDialogNotClosed" xml:space="preserve">
+    <value>Bestandsnaam is niet beschikbaar. Dialoogvenster is nog niet gesloten.</value>
+  </data>
+  <data name="FolderTypeSearchResults" xml:space="preserve">
+    <value>Algemene zoekresultaten</value>
+  </data>
+  <data name="DialogControlCollectionMoreThanOneControl" xml:space="preserve">
+    <value>Het dialoogvenster kan niet meerdere besturingselementen met dezelfde naam hebben.</value>
+  </data>
+  <data name="ThumbnailManagerInvalidHandle" xml:space="preserve">
+    <value>Vensterhandle is ongeldig.</value>
+  </data>
+  <data name="ShellPropertySetValue" xml:space="preserve">
+    <value>Eigenschap kan niet worden ingesteld.</value>
+  </data>
+  <data name="ShellObjectWatcherUnableToChangeEvents" xml:space="preserve">
+    <value>Bekeken gebeurtenissen kunnen niet worden gewijzigd tijdens luisteren.</value>
+  </data>
+  <data name="SaveFileNullItem" xml:space="preserve">
+    <value>Er is een null shell-item uit een dialoogvenster opgehaald.</value>
+  </data>
+  <data name="KnownFolderInvalidGuid" xml:space="preserve">
+    <value>Opgegeven bekende map-id is ongeldig.</value>
+  </data>
+  <data name="CommonFileDialogCanceled" xml:space="preserve">
+    <value>Bestandsnaam is niet beschikbaar; dialoogvenster is geannuleerd.</value>
+  </data>
+  <data name="ShellInvalidCanonicalName" xml:space="preserve">
+    <value>De opgegeven CanonicalName is niet geldig.</value>
+  </data>
+  <data name="ShellObjectCreationFailed" xml:space="preserve">
+    <value>Het shell-item kan niet worden gemaakt.</value>
+  </data>
+  <data name="DialogControlCollectionModifyingControls" xml:space="preserve">
+    <value>U kunt geen verzameling besturingselementen wijzigen terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="FolderTypeClassic" xml:space="preserve">
+    <value>Klassieke weergave Configuratiescherm</value>
+  </data>
+  <data name="ShowHiddenItemsCannotBeChanged" xml:space="preserve">
+    <value>ShowHiddenItems kan niet worden gewijzigd terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="ShellObjectCollectionEmptyCollection" xml:space="preserve">
+    <value>Moet ten minste één shell-object in de verzameling bevatten.</value>
+  </data>
+  <data name="FolderTypeNetworkExplorer" xml:space="preserve">
+    <value>Netwerkverkenner</value>
+  </data>
+  <data name="ThumbnailManagerPreviewAdded" xml:space="preserve">
+    <value>Dit voorbeeld is al toegevoegd.</value>
+  </data>
+  <data name="FolderTypeOtherUsers" xml:space="preserve">
+    <value>Andere gebruikers</value>
+  </data>
+  <data name="FolderTypeOpenSearch" xml:space="preserve">
+    <value>Zoekopdracht openen</value>
+  </data>
+  <data name="FolderIdsUnknownGuid" xml:space="preserve">
+    <value>Met GUID wordt geen bekende map geïdentificeerd.</value>
+  </data>
+  <data name="ExplorerBrowserFailedToGetView" xml:space="preserve">
+    <value>ExplorerBrowser kan huidige weergave niet ophalen.</value>
+  </data>
+  <data name="ShellPropertyWindows7" xml:space="preserve">
+    <value>Deze eigenschap is alleen beschikbaar in Windows 7.</value>
+  </data>
+  <data name="ExplorerBrowserItemCount" xml:space="preserve">
+    <value>Er is een onverwachte fout opgetreden bij het ophalen van de artikeltelling.</value>
+  </data>
+  <data name="CommonFileDialogMultipleItems" xml:space="preserve">
+    <value>Er zijn meerdere bestanden geselecteerd. Gebruik in plaats hiervan de eigenschap Artikelen.</value>
+  </data>
+  <data name="TabbedThumbnailZeroChildHandle" xml:space="preserve">
+    <value>Vensterhandle van onderliggend besturingselement kan niet nul zijn.</value>
+  </data>
+  <data name="MessageListenerFilterUnknownListenerHandle" xml:space="preserve">
+    <value>Een listener-handle met die waarde wordt niet geregistreerd.</value>
+  </data>
+  <data name="ShellLibraryDefaultSaveFolderNotFound" xml:space="preserve">
+    <value>DefaultSaveFolder-pad is niet gevonden.</value>
+  </data>
+  <data name="MessageListenerNoWindowHandle" xml:space="preserve">
+    <value>Venster kan niet worden gemaakt in de listenerthread, omdat er geen bestaand venster in de listenerthread is.</value>
+  </data>
+  <data name="ExplorerBrowserUnexpectedError" xml:space="preserve">
+    <value>Er is een onverwachte fout opgetreden bij het ophalen van de selectie.</value>
+  </data>
+  <data name="PropertyCollectionCanonicalInvalidIndex" xml:space="preserve">
+    <value>Deze CanonicalName is geen geldige index.</value>
+  </data>
+  <data name="EnsureFileExistsCannotBeChanged" xml:space="preserve">
+    <value>EnsureFileExists kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="JumpListNegativeOrdinalPosition" xml:space="preserve">
+    <value>Negatieve getallen zijn niet toegestaan voor de ordinale positie.</value>
+  </data>
+  <data name="ShellThumbnailDoesNotHaveThumbnail" xml:space="preserve">
+    <value>Het huidige ShellObject bevat geen miniatuurafbeelding. Gebruik de methode ShellThumbnailFormatOption.Default om het pictogram voor dit artikel op te halen.</value>
+  </data>
+  <data name="ThumbnailManagerControlNotAdded" xml:space="preserve">
+    <value>Het opgegeven besturingselement is niet toegevoegd aan de taakbalk.</value>
+  </data>
+  <data name="FolderTypeSavedGames" xml:space="preserve">
+    <value>Opgeslagen spellen</value>
+  </data>
+  <data name="ShellPropertyWrongType" xml:space="preserve">
+    <value>Deze eigenschap accepteert alleen een waarde van het soort "{0}".</value>
+  </data>
+  <data name="ShellObjectCannotGetDisplayName" xml:space="preserve">
+    <value>De weergavenaam kan niet worden opgehaald.</value>
+  </data>
+  <data name="CommonFileDialogRequiresVista" xml:space="preserve">
+    <value>Voor algemene bestandsdialoogvensters is Windows Vista of later vereist.</value>
+  </data>
+  <data name="FolderTypeSearches" xml:space="preserve">
+    <value>Zoekopdrachten</value>
+  </data>
+  <data name="FolderTypeCategory" xml:space="preserve">
+    <value>Categorieweergave Configuratiescherm</value>
+  </data>
+  <data name="ShellThumbnailSizeCannotBe0" xml:space="preserve">
+    <value>CurrentSize (breedte of hoogte) kan niet 0 zijn.</value>
+  </data>
+  <data name="FolderTypeUserLibraries" xml:space="preserve">
+    <value>Gebruikersbibliotheken</value>
+  </data>
+  <data name="MessageListenerClassNotRegistered" xml:space="preserve">
+    <value>Vensterklasse kan niet worden geregistreerd. Controleer de interne uitzondering voor meer informatie.</value>
+  </data>
+  <data name="FolderTypeRecordedTV" xml:space="preserve">
+    <value>Tv-opnamen</value>
+  </data>
+  <data name="TaskbarWindowManagerButtonsAlreadyAdded" xml:space="preserve">
+    <value>Er zijn al werkbalkknoppen voor dit venster toegevoegd. Zie de sectie Opmerkingen van de methode AddButtons voor meer informatie over het bijwerken van eigenschappen of over het verbergen van bestaande knoppen.</value>
+  </data>
+  <data name="CreatePromptCannotBeChanged" xml:space="preserve">
+    <value>CreatePrompt kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="FolderTypeSearchConnector" xml:space="preserve">
+    <value>Zoekconnector</value>
+  </data>
+  <data name="MessageListenerCannotCreateWindow" xml:space="preserve">
+    <value>Venster kan niet worden gemaakt. Bekijk interne uitzondering voor meer informatie.</value>
+  </data>
+  <data name="CommonFileDialogCannotCreateShellItem" xml:space="preserve">
+    <value>Het shell-item kan niet worden gemaakt.</value>
+  </data>
+  <data name="IsExpandedModeCannotBeChanged" xml:space="preserve">
+    <value>IsExpandedMode kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="ExplorerBrowserViewItems" xml:space="preserve">
+    <value>Er is een onverwachte fout opgetreden bij het ophalen van weergave-items.</value>
+  </data>
+  <data name="ShellPropertyFactoryConstructorNotFound" xml:space="preserve">
+    <value>Een constructor die overeenkomt met de aangevraagde argumenttypen is niet gevonden.</value>
+  </data>
+  <data name="ShellObjectFactoryUnableToCreateItem" xml:space="preserve">
+    <value>Shell-item kan niet worden gemaakt.</value>
+  </data>
+  <data name="ShellPropertyCannotSetProperty" xml:space="preserve">
+    <value>De waarde voor deze eigenschap kan niet worden ingesteld. Als u de waarde van de eigenschap wilt instellen, gebruikt u het ShellObject dat aan deze eigenschap is gekoppeld.</value>
+  </data>
+  <data name="FolderTypeLibrary" xml:space="preserve">
+    <value>Bibliotheek</value>
+  </data>
+  <data name="TaskbarManagerValidWindowRequired" xml:space="preserve">
+    <value>Er is een geldig actief venster vereist om de taakbalk bij te werken.</value>
+  </data>
+  <data name="DialogControlCollectionEmptyName" xml:space="preserve">
+    <value>De besturingselementnaam mag niet null zijn of de lengte nul hebben.</value>
+  </data>
+  <data name="FolderTypeDocuments" xml:space="preserve">
+    <value>Documenten</value>
+  </data>
+  <data name="ExplorerBrowserBrowseToObjectFailed" xml:space="preserve">
+    <value>Bladeren naar object is mislukt.</value>
+  </data>
+  <data name="CommonFileDialogInvalidHandle" xml:space="preserve">
+    <value>Opgegeven handle kan niet IntPtr.Zero zijn.</value>
+  </data>
+  <data name="RadioButtonListIndexOutOfBounds" xml:space="preserve">
+    <value>Index ligt buiten het bereik van de CommonFileDialogRadioButtonList.</value>
+  </data>
+  <data name="JumpListFileTypeNotRegistered" xml:space="preserve">
+    <value>Het bestandstype wordt niet geregistreerd met deze toepassing.</value>
+  </data>
+  <data name="FolderTypeSoftwareExplorer" xml:space="preserve">
+    <value>Softwareverkenner</value>
+  </data>
+  <data name="FolderTypeContacts" xml:space="preserve">
+    <value>Contacten</value>
+  </data>
+  <data name="ShellLibraryInvalidLibrary" xml:space="preserve">
+    <value>De opgegeven bekende map is geen geldige bibliotheek.</value>
+  </data>
+  <data name="ShellExceptionDefaultText" xml:space="preserve">
+    <value>Er is een shell-uitzondering opgetreden. Zie de interne uitzondering voor meer informatie.</value>
+  </data>
+</root>

@@ -1,0 +1,4841 @@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  OS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Operating System                                                        ³
+// ³                                                                          ³
+// ³  All texts should be based on the operating system documentation in      ³
+// ³  your language to ensure correct translation.                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@1@0@
+@2@2@0@
+StìrikerfiĞ finnur ekki skr na %1 %2.
+
+TryggiĞ aĞ drif, skr asafn og skr rheiti s‚u r‚tt.
+@2@3@0@
+StìrikerfiĞ finnur ekki drifiĞ og skr asafniĞ sem tilgreind eru fyrir skr na %1 %2.
+
+TryggiĞ aĞ drif, skr asafn og skr rheiti s‚u r‚tt.
+@2@4@0@
+Ekki er h‘gt aĞ opna skr na %1 %2 çar sem skr r sem henni tengjast eru ekki aĞgengilegar eins og stendur.
+
+Ö MS-DOS og OS/2 er h‘gt aĞ leysa çennan vanda meĞ çv¡ aĞ h‘kka gildiĞ fyrir 'FILES' ¡ skr nni CONFIG.SYS.
+@2@5@0@
+StìrikerfiĞ f‘r ekki aĞgang aĞ skr nni %1 %2.
+
+TryggiĞ aĞ gerĞ skr r og eiginda s‚u r‚tt.
+@2@8@0@
+Ekki er n‘gilegt minni til çess aĞ framkv‘ma çessa aĞgerĞ.
+
+Ef unniĞ er ¡ uppsetningu fyrir einn notanda m  reyna aĞ l‘kka gildiĞ fyrir forritseiginleikann 'cache' (skyndiminni). Upplìsingar um bestun stìrikerfisins er aĞ finna ¡ fylgig”gnum meĞ stìrikerfinu.
+@2@14@0@
+Ekki er n‘gt minni   t”lvunni sem keyrir Microsoft Dynamics NAV Server til aĞ framkv‘ma çessa aĞgerĞ.
+@2@15@0@
+StìrikerfiĞ finnur ekki drifiĞ sem tilgreint er fyrir skr na %1 %2.
+
+Kanna çarf drifiĞ og hvort heiti çess er r‚tt ritaĞ.
+@2@17@0@
+Ekki er h‘gt aĞ endurnefna eĞa flytja skr    annaĞ drif.
+
+èessi skilaboĞ eiga viĞ skr rnar %1 %2.
+
+B Ğar skr rnar verĞa aĞ vera   sama drifinu.
+@2@19@0@
+Diskurinn er skrifvarinn.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+GangiĞ £r skugga um hvort notaĞur s‚ r‚ttur diskur og fjarl‘giĞ s¡Ğan skrifv”rnina. N nari upplìsingar er aĞ finna ¡ fylgig”gnum stìrikerfisins.
+@2@20@0@
+StìrikerfiĞ finnur ekki t‘kiĞ %1 %2.
+
+TryggiĞ aĞ r‚tt skr asafn s‚ opiĞ og aĞ heitiĞ s‚ r‚tt ritaĞ.
+@2@21@0@
+DiskadrifiĞ er ekki tilb£iĞ.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+TryggiĞ aĞ diskurinn s‚ ¡ drifinu, drifiĞ s‚ lokaĞ og aĞ annaĞ forrit s‚ ekki aĞ nota çaĞ.
+@2@23@0@
+ViĞv”run: StìrikerfiĞ hefur fundiĞ skemmt sv‘Ği   diskinum. Til aĞ koma ¡ veg fyrir aĞ mikilv‘g g”gn glatist çarf aĞ laga çessa villu  Ğur en forritiĞ er notaĞ aftur. Ekki nota nein diskforrit   gagnagrunninn.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+Ef villan kom upp   diski çarf aĞ tryggja aĞ hann hafi veriĞ forsniĞinn. Annars çarf aĞ kanna hvort villur eru   harĞa diskinum og laga ç‘r. NauĞsynlegt getur veriĞ aĞ forsn¡Ğa diskinn og endurheimta ”ryggisafrit. 
+Upplìsingar um çetta eru ¡ fylgig”gnum stìrikerfisins. N‘st çegar forritiĞ er r‘st skal kanna gagnagrunninn meĞ forritseiginleikanum dbtest=min Kerfisstj¢ri getur gefiĞ n nari upplìsingar.
+@2@25@0@
+ViĞv”run: StìrikerfiĞ finnur ekki tilgreinda r s eĞa sv‘Ği   diskinum. Diskurinn kann aĞ vera skemmdur, ¢forsniĞinn eĞa ¢samh‘fur stìrikerfinu. Til aĞ koma ¡ veg fyrir aĞ mikilv‘g g”gn glatist çarf aĞ laga çessa villu  Ğur en forritiĞ er notaĞ aftur. Ekki nota nein diskforrit   gagnagrunninn.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+Ef villan kom upp   diski çarf aĞ tryggja aĞ hann s‚ forsniĞinn. Annars çarf aĞ kanna hvort villur eru   harĞa diskinum og laga ç‘r. NauĞsynlegt getur veriĞ aĞ forsn¡Ğa diskinn og endurheimta ”ryggisafrit. 
+Upplìsingar um çetta eru ¡ fylgig”gnum stìrikerfisins. N‘st çegar forritiĞ er r‘st skal kanna gagnagrunninn meĞ forritseiginleikanum dbtest=min Kerfisstj¢ri getur gefiĞ n nari upplìsingar.
+@2@26@0@
+StìrikerfiĞ getur ekki lesiĞ çennan disk.
+
+èetta boĞ v¡sar til skr rinnar %1 %2.
+
+Diskurinn er annaĞhvort skaddaĞur eĞa ekki forsniĞinn fyrir stìrikerfiĞ eĞa nauĞsynlegur skr akerfisrekill hefur ekki veriĞ settur upp. Kerfisstj¢rinn getur gefiĞ n nari upplìsingar um çetta.
+@2@27@0@
+ViĞv”run: StìrikerfiĞ finnur ekki umbeĞinn geira   diskinum. Diskurinn kann aĞ vera skemmdur, ¢forsniĞinn eĞa ¢samh‘fur stìrikerfinu. Til aĞ koma ¡ veg fyrir aĞ mikilv‘g g”gn glatist çarf aĞ laga çessa villu  Ğur en forritiĞ er notaĞ aftur. Ekki nota nein diskforrit   gagnagrunninn.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+Ef villan kom upp   diski çarf aĞ tryggja aĞ hann s‚ forsniĞinn. Annars çarf aĞ kanna hvort villur eru   harĞa diskinum og laga ç‘r. NauĞsynlegt getur veriĞ aĞ forsn¡Ğa diskinn og endurheimta ”ryggisafrit. 
+Upplìsingar um çetta eru ¡ fylgig”gnum stìrikerfisins. N‘st çegar forritiĞ er r‘st skal kanna gagnagrunninn meĞ forritseiginleikanum dbtest=min Kerfisstj¢ri getur gefiĞ n nari upplìsingar.
+@2@28@0@
+StìrikerfiĞ getur ekki lokiĞ viĞ prentun.
+
+AĞg‘ta çarf hvort kveikt s‚   prentaranum, hvort hann s‚ ¡ sambandi og r‚tt upp settur og hvort papp¡r s‚ ¡ honum. Ef veriĞ er aĞ prenta   netprentara çarf aĞ tryggja aĞ n‘gilegt rìmi s‚   diskinum ¡ çj¢ninum.
+@2@29@0@
+StìrikerfiĞ getur ekki prentaĞ   %1 %2.
+
+Athuga çarf hvort t‘kiĞ er uppsett og tengt, hvort çaĞ s‚ kveikt   çv¡, çaĞ s‚ tilt‘kt, tilb£iĞ til aĞ taka viĞ g”gnum og forsniĞiĞ (ef um disk er aĞ r‘Ğa).
+@2@30@0@
+StìrikerfiĞ getur ekki lesiĞ g”gn fr  %1 %2.
+
+Athuga çarf hvort t‘kiĞ er uppsett og tengt, hvort çaĞ s‚ kveikt   çv¡, çaĞ s‚ tilt‘kt, stillt   sendingu og forsniĞiĞ (ef um disk er aĞ r‘Ğa).
+@2@31@0@
+T‘kiĞ %1 %2, sem er tengt kerfinu, virkar ekki.
+
+Athuga çarf hvort t‘kiĞ er uppsett og tengt, hvort çaĞ s‚ kveikt   çv¡, çaĞ s‚ tilt‘kt, stillt   sendingu og forsniĞiĞ (ef um disk er aĞ r‘Ğa). 
+Ef um er aĞ r‘Ğa diskadrif çarf aĞ kanna hvort diskurinn s‚ af r‚ttri gerĞ, hann s‚ forsniĞinn og hafi veriĞ settur r‚tt ¡ drifiĞ.
+@2@32@0@
+Ekki er h‘gt aĞ nota skr  %1 %2 çar sem h£n er çegar ¡ notkun.
+@2@33@0@
+Ekki er h‘gt aĞ nota skr  %1 %2 çar sem veriĞ er aĞ nota hana ¡ annarri vinnslu.
+@2@34@0@
+Skipt hefur veriĞ   rangan disk.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+Setja çarf r‚ttan disk ¡.
+@2@53@0@
+Sl¢Ğin finnst ekki   netinu.
+
+èessi boĞ eiga viĞ skr na %1 %2.
+
+Netçj¢nninn kann aĞ vera ¢virkur eĞa sl¢Ğin ¢t‘k.
+@2@80@0@
+Skr in %1 %2 er çegar til.
+@2@82@0@
+StìrikerfiĞ getur hvorki stofnaĞ skr  n‚ skr asafn meĞ heitinu %1 %2. µst‘Ğan er ein eĞa fleiri af eftirt”ldum villum:
+
+* Skr asafniĞ eĞa skr in er çegar til.
+* StìrikerfiĞ finnur ekki sl¢Ğina   skr asafniĞ.
+* R¢tarskr asafniĞ er fullt eĞa ekki meira rìmi   diskinum.
+* Ö heiti skr asafnsins eru ¢leyfilegir stafir eĞa çaĞ er aĞeins ‘tlaĞ til afnota fyrir stìrikerfiĞ.
+* Diskurinn var ekki r‚tt forsniĞinn.
+@2@100@0@
+StìrikerfiĞ getur ekki myndaĞ fleiri semaf¢rur.
+
+Stilla çarf stìrikerfiĞ çannig aĞ çaĞ heimili fleiri semaf¢rukenni. Ef keyrt er ¡ UNIX çarf aĞ auka gildiĞ fyrir SEMMNI og b£a til nìjan UNIX-kjarna. Frekari upplìsingar er aĞ finna ¡ fylgig”gnum stìrikerfisins.
+Kerfisstj¢ri getur gefiĞ n nari upplìsingar. 
+@2@108@0@
+AnnaĞ forrit er aĞ nota diskinn.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+B¡Ğa çarf uns hitt forritiĞ lìkur vinnslu.
+@2@112@0@
+èaĞ er ekki meira rìmi   diskinum.
+
+èessi skilaboĞ eiga viĞ skr na %1 %2.
+
+Nota çarf annan disk eĞa eyĞa einhverjum skr m.
+@2@123@0@
+Skr rheitiĞ %1 %2 inniheldur staf sem ekki m  nota.
+
+Athuga çarf skr rheitiĞ. Frekari upplìsingar um skr rheiti er aĞ finna ¡ fylgig”gnum stìrikerfisins.
+@2@126@0@
+StìrikerfiĞ gat ekki hlaĞiĞ DLL-hlutanum %1.
+
+Kanna çarf hvort DLL-eining er til og hvort einhverjar aĞrar DLL-einingar sem h£n notar s‚u einnig til.
+@2@127@0@
+StìrikerfiĞ gat ekki fundiĞ DLL hluta %1.
+@2@166@0@
+Ekki er h‘gt aĞ framkv‘ma aĞgerĞina sem var valin çar sem netiĞ er ekki uppsett.
+
+èessi boĞ eiga viĞ skr na %1 %2.
+
+GangiĞ £r skugga um aĞ netiĞ s‚ r‚tt upp sett og starfi r‚tt.
+@2@190@0@
+Ekki er h‘gt aĞ keyra forritiĞ %1 %2 ¡ çessu stìrikerfi.
+
+èessi villa kemur upp ef reynt er aĞ keyra DLL-einingu sem venjulegt forrit eĞa ef reynt er aĞ keyra venjulegt forrit sem DLL-einingu. H£n getur einnig komiĞ upp er forritiĞ er uppbyggt   annan h tt en viĞ var b£ist. YfirfariĞ uppbyggingu kerfisins og hvernig çaĞ er r‘st.
+@2@191@0@
+Ekki er h‘gt aĞ keyra forritiĞ %1 %2 ¡ çessu stìrikerfi.
+
+GangiĞ £r skugga um aĞ forritiĞ s‚ r‚tt upp sett og hvort h‘gt s‚ aĞ keyra çaĞ ¡ çessu stìrikerfi.
+@2@192@0@
+StìrikerfiĞ getur ekki keyrt forritiĞ %1 %2.
+
+GangiĞ £r skugga um aĞ forritiĞ s‚ r‚tt upp sett og r‚tt tengt.
+@2@193@0@
+Ekki er h‘gt aĞ keyra forritiĞ %1 %2 ¡ çessu stìrikerfi.
+
+GangiĞ £r skugga um aĞ forritiĞ s‚ r‚tt upp sett og hvort h‘gt s‚ aĞ keyra çaĞ ¡ çessu stìrikerfi.
+@2@203@0@
+StìrikerfiĞ fann ekki umhverfisbreytu %1.
+@2@206@0@
+HeitiĞ   m”ppunni eĞa skr nni %1 %2 er of langt.
+
+N nari upplìsingar er aĞ finna ¡ fylgig”gnum meĞ stìrikerfinu.
+@2@700@0@
+Ekki t¢kst aĞ frumstilla OLE.
+@2@800@0@
+Ekki er h‘gt aĞ opna skr na %1 ¡ NFS (Network File System) vegna çess aĞ ekki er b£iĞ aĞ r‘sa "statd" daemon   NFS-biĞlaranum.
+
+N nari upplìsingar eru ¡ fylgig”gnum meĞ stìrikerfinu."
+@2@801@0@
+Ekki er h‘gt aĞ opna skr na %1 ¡ NFS (Network File System) vegna çess aĞ ekki er b£iĞ aĞ r‘sa "lockd" daemon   NFS-biĞlaranum.
+
+N nari upplìsingar eru ¡ fylgig”gnum meĞ stìrikerfinu.
+
+@2@802@0@
+Ekki er h‘gt aĞ opna skr na %1 ¡ NFS (Network File System) vegna çess aĞ ekki er b£iĞ aĞ r‘sa "lockd" daemon   NFS-biĞlaranum.
+
+N nari upplìsingar eru ¡ fylgig”gnum meĞ stìrikerfinu.
+
+@2@899@0@
+KerfiĞ getur ekki tengst viĞ vinnslu ¡ çj¢ninum.
+
+èaĞ er vegna çess aĞ çj¢nninn er keyrĞur sem çj¢nusta sem notar kerfisreikning. KeyriĞ biĞlarann   netinu ¡ staĞinn.
+@2@951@0@
+StìrikerfiĞ getur ekki myndaĞ fleiri semaf¢rur.
+
+Endursamskipa çarf stìrikerfinu til aĞ nota fleiri semaf¢rur. N nari upplìsingar er aĞ finna ¡ skr nni readme.txt og fylgig”gnum meĞ stìrikerfinu.
+@2@952@0@
+StìrikerfiĞ getur ekki stofnaĞ meira samnìtt minni.
+
+Endursamskipa çarf stìrikerfinu til aĞ nota meira samnìtt minni. N nari upplìsingar er aĞ finna ¡ skr nni readme.txt og fylgig”gnum meĞ stìrikerfinu.
+@2@953@0@
+StìrikerfiĞ getur ekki b£iĞ til samnìtt minni af tilgreindri st‘rĞ.
+
+Endursamskipa çarf stìrikerfinu til aĞ h‘gt s‚ aĞ nota st‘rra eĞa minna "samnìtt minni". N nari upplìsingar er aĞ finna ¡ skr nni readme.txt og fylgig”gnum meĞ stìrikerfinu.
+@2@958@0@
+StìrikerfiĞ styĞur ekki skr r sem eru st‘rri en 2 GB.
+@2@995@0@
+StìrikerfiĞ svaraĞi meĞ villuboĞi (%18):
+
+%99
+@2@998@0@
+Ekki er h‘gt aĞ nota valmyndaratriĞiĞ eĞa aĞgerĞina ¡ çessu stìrikerfi.
+@2@999@0@
+Skipunin sem r‘sir utanaĞkomandi forrit %1 er of l”ng.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ Lang ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Multilanguage							      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@7@0@
+@2@3@0@
+àçekkt tungum l var valiĞ ('%1').
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  UT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Usertypes                                                               ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@9@0@
+@2@002@0@
+Tegundin '%1' var ekki skilgreind fyrir aĞgerĞina.
+@2@6@0@
+Gildin eru ¢samrìmanleg:
+
+GildiĞ '%4', sem er af tegundinni '%1',
+
+er ekki samrìmanlegt meĞ 
+
+gildinu '%104', sem er af tegundinni '%101'.
+@2@7@0@
+L‘gsta heimila gildi er %4.
+@2@8@0@
+H‘sta heimila gildi er %4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  STACK  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÙ                                                              ³
+// ³                                                                          ³
+// ³  Stack Manager                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@15@0@
+@2@1@0@
+Ekki er n‘gilegt minni til aĞ framkv‘ma aĞgerĞina.
+
+èetta getur stafaĞ af çv¡ hvernig endurkv‘m aĞgerĞak”ll eru notuĞ ¡ forritinu. LeitiĞ til kerfisstj¢ra.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  FILE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  File                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@17@0@
+@2@1006@0@
+Skr rheiti, drif og sl¢Ğ mega ekki vera lengri en 255 stafir.
+
+èessi boĞ tengjast skr nni %1.
+@2@1009@0@
+Ö skr nni %1 er f‘rsla sem ekki er h‘gt aĞ lesa aĞ fullu.
+@2@1010@0@
+Ö skr nni %1 er l¡na sem er of l”ng fyrir innri breytu.
+@2@1014@0@
+Ekki er h‘gt aĞ leita ¡ "stafat‘kjum".
+
+èessi boĞ eiga viĞ skr na %1.
+@2@1015@0@
+Ö skr nni %1 er skr rstaĞa sem er ekki lengur fyrir hendi.
+@2@1016@0@
+Ekki er h‘gt aĞ afrita skr  ¡ sj lfa sig.
+
+èessi boĞ eiga viĞ skr na %1.
+@2@1017@0@
+Ekki er h‘gt aĞ afrita skr  ¡ sj lfa sig.
+
+èessi boĞ eiga viĞ skr na %1.
+@2@1018@0@
+SniĞ   çjappaĞri skr  %1 er ¢gilt.
+@2@2100@0@
+Skr in %1 er of st¢r.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EVAL  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Evaluation                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@41@0@
+@2@100@0@
+%5 m  ekki vera eyĞa.
+
+%5 vantar eĞa er ¢t‘kt ¡ segĞinni.
+@2@101@0@
+Textinn '%10' er of langur. %5 m  vera ¡ mesta lagi %3 stafir.
+@2@104@0@
+Textinn '%10' er of langur. Yfirlit valkosta m  vera ¡ mesta lagi %3 stafir.
+@2@111@0@
+%5 m  ekki vera %10.
+
+%5 verĞur aĞ vera   bilinu %1 - %2.
+@2@112@0@
+Ekki m  rita '%10' ¡ %5.
+@2@113@0@
+Ekki m  rita '%10' ¡ %5.
+@2@120@0@
+'%10' er of st¢rt fyrir innri breytuna '%5'.
+@2@141@0@
+'%10' er ekki valkostur.
+
+Valkostirnir sem eru til eru:
+
+%4
+@2@142@0@
+'%10' er ekki valkostur.
+
+Valkostirnir sem eru til eru:
+
+%4
+@2@151@0@
+Textinn '%10' er of langur. Textinn ¡ k¢tareitnum m  ¡ mesta lagi vera %3 stafir.
+@2@161@0@
+'%10' er ekki gild dagsetning.
+@2@162@0@
+'%10' er ekki gild dagsetning.
+@2@171@0@
+'%10' er ekki gildur t¡mi.
+@2@172@0@
+'%10' er ekki gildur t¡mi.
+@2@175@0@
+'%10' er ekki gildur DateTime.
+@2@180@0@
+'%5' m  ekki innihalda '%7' oftar en einu sinni.
+
+%10
+@2@181@0@
+'%5' m  ekki innihalda '%7' oftar en einu sinni.
+
+%10
+@2@182@0@
+Tegundin '%5' er ekki skilgreind aĞ fullu.
+
+%10
+@2@183@0@
+Skilgreindur hefur veriĞ ¢gildur reitur eĞa eigindi fyrir eiginleikann 'Format'.
+
+%10
+
+@2@184@0@
+'%10' inniheldur ¢t‘k staft kn.
+
+@2@185@0@
+'%1' er ekki yfir DataItem. F‘rĞu inn yfir DataItem.
+@2@186@0@
+Ekki er h‘gt aĞ f‘ra "%1" inn çv¡ d lkurinn er ekki gildur ¡ çessari fyrirspurn.
+@2@187@0@
+Eiginleikinn DataItemLink hefur ekki tilgreint sv‘Ği.
+@2@188@0@
+Eiginleikinn DataItemLink hefur ekki tilgreint 'Referenced DataItem'.
+@2@189@0@
+Eiginleikinn DataItemLink hefur ekki tilgreint 'Referenced Field'.
+@2@190@0@
+FlowField er ekki h‘gt aĞ nota ¡ DataItem Link.
+@2@191@0@
+Flowfilter er aĞeins h‘gt aĞ tengja viĞ venjulegt sv‘Ği.
+@2@300@0@
+Gert var r Ğ fyrir '%5' h‚r.
+
+%10
+@2@301@0@
+Villan kom upp ¡ eftirfarandi skr :
+
+Skr rheiti: %50
+L¡nun£mer: %51
+L¡na: %10
+D lkur: %11
+@2@500@0@
+Innri villa:
+
+Tegundin %5 er ¢çekkt.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  FMT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Format                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@42@0@
+@2@2@0@
+StaĞalsniĞ n£mer %1 er ekki til fyrir tegundina '%2'.
+@2@4@0@
+Lengd çessara upplìsinga fer fram £r lengd çess staĞar sem ç‘r eru lesnar inn.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  RecConv  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Conversion Utility                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@43@0@
+@2@1@0@
+GildiĞ sem f‘rt er inn ¡ reitinn Heiti   Gagnahlut m  ekki vera lengra en 30 stafir.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  STR  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  String                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@45@0@
+@2@6@0@
+Strengur %3 er of stuttur til çess aĞ setja inn %# reiti.
+
+èessi villuboĞ komu fram vegna:
+Nr.: %1
+Gildi: %2
+@2@7@0@
+Textinn h‚r   eftir m  ekki fara yfir %1 stafi.
+
+'%2' +
+'%3'
+@2@5@0@
+Alpha-breytan m  ekki vera lengri en %1 stafir.
+
+'%2'
+@2@11@0@
+Lengd textastrengja fer fram yfir st‘rĞ strengjabiĞminnis.
+@2@300@0@
+V¡sir er utan marka viĞ aĞgang aĞ streng.
+
+Strengur: %3
+Lengd strengs: %1
+V¡sir: %5
+@2@301@0@
+%6 getur ekki veriĞ %3.
+@2@302@0@
+Tilgreina çarf %6.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DATE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Date                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@46@0@
+@2@1@0@
+Ekki m  nota ¢skilgreinda dagsetningu viĞ £treikning dagsetninga.
+@2@2@0@
+Dagsetningin er ekki gild.
+@2@3@0@
+Ekki m  nota lokadagsetningu viĞ £treikning dagsetninga.
+@2@4@0@
+Ekki er h‘gt aĞ nota ¢skilgreindan t¡ma viĞ t¡ma£treikning.
+@2@5@0@
+Dagsetningin er ekki gild.
+@2@8@0@
+Dagsetningarreiknireglan er of st¢r.
+@2@201@0@
+Ö dagsetningarreiknireglunni '%10' verĞur aĞ vera pl£s (+) eĞa m¡nus (-).
+@2@202@0@
+Ö dagsetningarreiknireglunni '%10'   aĞ vera tala.
+@2@203@0@
+Ö dagsetningarreiknireglunni '%10' ‘tti aĞ vera t¡maeining.
+
+T¡maeiningar geta veriĞ: D, VD, V, M, F eĞa µ.
+H‘gt er aĞ tilgreina L, ¡ merkingunni l¡Ğandi t¡maeining miĞaĞ viĞ dagsetningu, sem forskeyti   undan t¡maeiningunni.
+@2@204@0@
+Ö dagsetningarreiknireglunni '%10'   aĞ vera tala.
+@2@205@0@
+Ö dagsetningarreiknireglunni '%10' er of h  tala.
+
+Talan ‘tti aĞ vera   bilinu %1 - %2.
+@2@206@0@
+étreikningur dagsetningarreiknireglunnar %10 leiddi af s‚r ¢t‘ka dagsetningu: %1.
+
+AĞeins m  nota dagsetningar   bilinu 1. jan. 0000 til 31. des 9999.
+@2@207@0@
+Gildunarvilla (¢gildur einingarstrengur, %4, fyrir dagsetningarskilyrĞi ¡ .stx skr nni).
+
+Innri villa: 41-%0 
+
+@2@208@0@
+Ekki er h‘gt aĞ byggja £treikning dagsetningar   ¢skilgreindri dagsetningu.
+
+Dagsetning: 0D
+Reikniregla: %10
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  TEXTCONV  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ³                                                                          ³
+// ³  Text Conversion                                                         ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@47@0@
+@2@1@0@
+Villur ¡ textayfirf‘rslu çar sem texti nr. %1-%2 er ekki til ¡ .stx skr nni.
+
+Innri villa: 47-%0
+@2@2@0@
+Villur ¡ textayfirf‘rslu çar sem texti nr. %1-%2 er of langur fyrir innra biĞminni.
+
+Innri villa: 47-%0
+@2@3@0@
+Villur ¡ textayfirf‘rslu çar sem r”ng lengd innra biĞminnis ¡ tengslum viĞ texta nr. %1-%2.
+
+Innri villa: 47-%0
+@2@5@0@
+Eftirtaldar skr r hafa veriĞ innsiglaĞar:
+
+%1
+@2@7@0@
+Ekki er h‘gt aĞ innsigla.
+
+LeyfiĞ heimilar ekki aĞ fin.stx skr nni s‚ breytt. 
+
+HafiĞ samband viĞ kerfisstj¢ra ef ç”rf er   hj lp.
+@2@101@0@
+Villur eru ¡ textayfirf‘rslunni. Villan koma fram ¡ skr nni %11 ¡ l¡nu %12 ¡ texta '%13'.
+
+M lskipanin er ¢t‘k fyrir stx-skr na. R‚tta m lskipanin er:
+<ModuleNo.>-<TextNo.>-<MaximumLength>-<Translate>: <Text>
+
+Fj”ldi t”lustafa ¡ m lskipaninni:
+
+ModuleNo.: 5 stafir
+TextNo.: 5 stafir
+MaximumLength: 3 stafir
+èìĞa: 1 stafur
+
+D‘mi:
+
+00040-01003-256-1: M nudagur,èriĞjudagur,MiĞvikudagur,...
+Innri villa: 47-%0
+@2@102@0@
+Villur ¡ textayfirf‘rslu çar sem l¡nan er of l”ng.
+
+Villan kom upp ¡ skr nni %11 ¡ l¡nu %12 ¡ texta '%13'.
+
+Innri villa: 47-%0 
+@2@103@0@
+Villur ¡ textayfirf‘rslu çar sem sami textinn er skilgreindur oftar en einu sinni.
+
+Villan kom upp ¡ skr nni %11 ¡ l¡nu %12 ¡ texta '%13'.
+
+Innri villa: 47-%0 
+@2@104@0@
+èaĞ eru villur ¡ textayfirf‘rslu vegna çess aĞ textinn er of langur.
+
+Villan kom upp ¡ skr nni %11 ¡ l¡nu %12 ¡ texta '%13'.
+
+Innri villa: 47-%0
+@2@105@0@
+Villur ¡ textayfirf‘rslu vegna ¢gildrar .stx m lskipan.
+
+Villan kom upp ¡ skr nni %11 ¡ l¡nu %12 ¡ texta '%13'.
+
+Innri villa: 47-%0 
+@2@106@0@
+Pr¢fsummuvilla er ¡ skr nni fin.stx. Skr nni hefur veriĞ breytt eĞa h£n hefur skemmst s¡Ğan h£n var sett upp.
+
+Ef aĞstoĞar er ç”rf skal haft samband viĞ kerfisstj¢ra.
+@2@109@0@
+èaĞ eru villur ¡ textayfirf‘rslu çar sem r‚tt stig af skr  çarf aĞ vera ¡ fyrstu l¡nu fin.stx.
+
+Villan kom upp ¡ skr nni %11 l¡nu %12 ¡ texta '%13'.
+
+Innri villa: 47-%0 
+@2@110@0@
+èaĞ er pr¢fsummuvilla ¡ fin.stx skr nni. Skr in hefur breyst eĞa skemmst eftir uppsetningu.
+
+Villan varĞ ¡ skr nni %11.
+
+HafiĞ samband viĞ kerfisstj¢ra.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  BCD  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Binary Coded Decimal (Decimal No.)                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@50@0@
+@2@1@0@
+Deilt meĞ n£lli.
+
+%2 / %3
+@2@2@0@
+Eftirfarandi aĞgerĞ gefur of st¢ra t”lu ¡ tugakerfinu.
+
+%1
+@2@4@0@
+Eftirfarandi aĞgerĞ gefur of st¢ra t”lu ¡ tugakerfinu.
+
+%1
+@2@5@0@
+Heiltala er of st¢r.
+
+%2
+@2@6@0@
+™nnur eftirfarandi villa kom fram:
+
+* Neikv‘Ğ tala var hafin ¡ veldi meĞ veldisv¡si sem ekki var heil tala.
+* N£ll var hafiĞ ¡ neikv‘tt veldi.
+
+VELDI(%2,%4)
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EXEC  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Execute External Program                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@80@0@
+@2@1@0@
+Ytra forritiĞ %1 sendi villuk¢tann %0.
+
+Meiri upplìsingar eru ¡ fylgig”gnunum meĞ ytra forritinu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ATT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Attributes                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@11@0@
+@2@1@0@
+Eiginleikinn er of st¢r fyrir biĞminniĞ.
+@2@100@0@
+Innri villa:
+Eiginleikinn %1 er ekki skilgreindur   eiginleikalistanum.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  MT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  MiniTree                                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@24@0@
+@2@3@0@
+EitthvaĞ er aĞ skr nni %2. EyĞa çarf skr nni eĞa gefa henni nìtt heiti  Ğur en haldiĞ er  fram.
+@2@8@0@
+Textinn ¡ skìrslunni er lengri en %11 stafa m”rkin leyfa.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  HELP ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Help Lookup Subsystem                                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@25@0@
+@2@001@0@
+Hj lparkerfiĞ hefur skemmst.
+G‘ta skal aĞ çv¡ hvort .hh-skr rnar s‚u r‚tt uppsettar.
+@2@002@0@
+L¡na (%4) ¡ hj lparskr nni %1 er of l”ng. L¡nur mega ekki vera lengri en 1023 stafir.
+@2@003@0@
+M lskipunarvilla er ¡ hj lparskr nni %1 ¡ l¡nu %2, stafbili %3.
+
+%4
+@2@004@0@
+M lskipanarvilla er ¡ hj lparskr nni %1 ¡ l¡nu %2, stafbili %3. B£ist var viĞ #define.
+
+%4
+@2@005@0@
+M lskipanarvilla er ¡ hj lparskr nni %1 ¡ l¡nu %2, stafbili %3. B£ist var viĞ kenni.
+
+%4
+@2@006@0@
+M lskipanarvilla er ¡ hj lparskr nni %1 ¡ l¡nu %2, stafbili %3. B£ist var viĞ t”lu.
+
+%4
+@2@007@0@
+àt‘kt efni fannst ¡ hj lparskr nni %1.
+
+%4
+@2@008@0@
+àv‘nt merki fannst ¡ hj lparskr nni %1.
+
+%4
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´RUNTIME ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@40@0@
+@2@001@0@
+%1 er ekki ¡ notkun.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´Assert        ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@255@0@
+@2@027@0@
+Innri villa: %1
+
+%2 l¡na %3
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  L4    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ  License File                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@160@0@
+@2@200@0@
+SniĞ skr rinnar er ¢gilt. Skr in er ekki gild leyfisskr .
+@2@201@0@
+BitaaĞgerĞir m  aĞeins framkv‘ma meĞ jafnst¢rum g”gnum.
+@2@204@0@
+BiĞminni fyrir svarg”gn er ekki n¢gu st¢rt.
+@2@205@0@
+G”gnin eru çegar fyrir hendi.
+@2@206@0@
+NotuĞ var ¢t‘k f‘ribreyta.
+@2@208@0@
+.dll-skr  ¡ Windows API hefur skemmst.
+
+Innri villa: 160-%0
+
+Hafa skal samband viĞ kerfisstj¢ra.
+@2@210@0@
+Ekki er h‘gt aĞ t£lka g”gnin sem %18.
+@2@211@0@
+Ekki er h‘gt aĞ nota gagnategundina %18 h‚r.
+@2@220@0@
+Meira rìmi er ekki tilt‘kt.
+@2@242@0@
+Ekki er h‘gt aĞ nota leyfisskr na meĞ çessari £tg fu kerfisins.
+@2@248@0@
+Landsk¢tinn ¡ leyfinu passar ekki viĞ landsk¢ta (%1) v”runnar.
+@2@END@0@
+ 
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´ BCMIA ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Large Fixed Decimal Numbers                                             ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@18@0@
+@2@1@0@
+Yfirfl‘Ği ¡ aukast”fum.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´ DB ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Database System                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@19@0@
+@2@1@0@
+ViĞv”run: Villa er ¡ uppbyggingu gagnagrunnsins. èetta gerist ef gagnagrunnsskr nni er breytt af ”Ğru forriti eĞa ef t”lvurekill virkar ekki r‚tt.
+
+LeiĞr‚tta verĞur villuna  Ğur en haldiĞ er  fram. T”lvan eĞa forrit g‘ti hafa orsakaĞ villuna (%18 ¡ einingu %23).
+
+Tafla: %1.1
+Fyrirt‘ki: %1.9
+Lykilreitir: %6
+
+Athuga skal gagnagrunninn. èaĞ gert meĞ çv¡ aĞ opna valmyndina Skr  og smella   Gagnagrunnur, Pr¢fa og s¡Ğan   H mark. Ef sama villan kemur enn upp skal:
+
+1. Gera ”ryggisafrit af gagnagrunninum meĞ çv¡ aĞ afrita gagnagrunnsskr na/-skr rnar   annan staĞ.
+
+2. Nota innbyggĞar aĞgerĞir til aĞ gera ”ryggisafrit.
+
+3. Ef çetta virkar er nìr gagnagrunnur myndaĞur  n çess aĞ eyĞa gagnagrunninum sem villan/-urnar er(u) ¡.
+™ryggisafritiĞ sem tekiĞ var meĞ innbyggĞri ”ryggisafritun er flutt inn ¡ nìja gagnagrunninn. Hann er pr¢faĞur meĞ çv¡ aĞ velja valmyndina Skr  og smella   Gagnagrunnur, Pr¢fa og s¡Ğan H mark.
+
+Ef çessi aĞferĞ dugar ekki glatast breytingar sem gerĞar voru   gagnagrunninum eftir s¡Ğasta ”ryggisafrit. Endurheimta skal s¡Ğasta ”ryggisafrit sem var tekiĞ meĞ innbyggĞri afritunaraĞgerĞ og pr¢fa çaĞ.
+Til ”ryggis ‘tti aĞ geyma gamla gagnagrunninn çangaĞ til reynsla er kominn   nìja gagnagrunninn.
+
+Ef aĞstoĞar er ç”rf skal haft samband viĞ kerfisstj¢ra.
+@2@3@0@
+Ekki er n‘gilegt rìmi til r Ğst”funar ¡ gagnagrunninum til aĞ vinna çetta verk. H‘gt er aĞ f  meira rìmi meĞ çv¡ aĞ:
+
+* St‘kka gagnagrunninn.
+* EyĞa ¢ç”rfum g”gnum.
+* Dagsetningarçjappa eldri f‘rslum sem eru utan l¡Ğandi t¡mabils.
+* Besta gagnagrunninn.
+@2@4@0@
+AĞrar samhliĞa aĞgerĞir hafa endurnìtt tilt‘kt rìmi ¡ gagnagrunninum çar sem gagnastaĞan var geymd. èetta getur gerst ¡ t¡mafrekum verkhlutum eins og prentun eĞa afritun.
+è  skal dokaĞ viĞ çar til meira svigr£m er ¡ gagnagrunninum og reyna aftur.
+
+Ef çetta kemur oft fyrir skal auka tilt‘kt rìmi ¡ gagnagrunninum. H‘gt er aĞ auka rìmiĞ ¡ gagnagrunninum meĞ çv¡ aĞ:
+
+* St‘kka gagnagrunninn.
+* EyĞa ¢ç”rfum g”gnum.
+* Dagsetningarçjappa eldri f‘rslum sem eru utan l¡Ğandi t¡mabils.
+* Besta gagnagrunninn.
+@2@5@0@
+Taflan %1.1 er ekki til.
+@2@7@0@
+Ekki er leyfilegt aĞ gera breytingar ¡ gagnagrunninum fyrr en f‘rsla hefur veriĞ hafin.
+@2@9@0@
+Tegund reits er ekki skilgreind fyrir reit n£mer %2.2 ¡ t”flunni %1.1.
+@2@13@0@
+Ekki er h‘gt aĞ eyĞa reit sem er SumIndexField ¡ virkum lykli. Reiturinn er:
+
+Reitur nr.: %2.2
+Tafla: %1.1
+SumIndexFields: %6
+@2@14@0@
+Ekki er h‘gt aĞ eyĞa reit ¡ virkum lykli. Reiturinn er:
+
+Reitur nr.: %2.2
+Tafla: %1.1
+Lykilreitir: %6
+@2@15@0@
+Tegund SumIndexField verĞur aĞ vera Decimal. Reiturinn er:
+
+Reitur: %2.1
+Tafla: %1.1
+SumIndexFields: %6
+@2@17@0@
+Ekki er h‘gt aĞ l‘sa eĞa breyta t”flu %1.1 çv¡ aĞ notandi meĞ notandakenni %13 hefur çegar l‘st henni.
+
+B¡Ğa skal çar til notandinn er b£inn og reyna ç  aftur.
+@2@20@0@
+EyĞublaĞiĞ og hlutir af tegundinni GagnahliĞ eru ekki studd. Fjarl‘gja skal çessa tegund hluta fr  gagnagrunninum meĞ fyrri £tg fu af Microsoft Dynamics NAV Development Environment.
+@2@1000@0@
+%1.3 %1.2 er çegar fyrir hendi.
+@2@1001@0@
+%1.3 %1.2 er ekki fyrir hendi.
+@2@1002@0@
+%1.1 %6.1.1 '%6.1.5' er ekki fyrir hendi. %12
+@2@1003@0@
+Virkir reitir ¡ f‘rslu mega ekki taka meira rìmi en %8 b‘ti. Virku reitirnir ¡ t”flunni %1.1 nota %7 b‘ti.
+
+AnnaĞhvort verĞur aĞ f‘kka virku reitunum eĞa stytta ç .
+@2@1004@0@
+Fleiri en ein skilgreining er fyrir reit nr. %2.2 ¡ t”flunni %1.1.
+@2@1005@0@
+Reitur nr. %2.2 er ekki skilgreindur ¡ t”flunni %1.1.
+@2@1007@0@
+Taflan %1.1 hefur ekki virkan lykil sem byrjar   eftirfarandi reit (reitum): %6.
+@2@1008@0@
+%1.1 er ekki til. %12
+
+Skilgreiningarreitir og gildi:
+
+%6
+
+%1.10
+@2@1009@0@
+%1.1 er çegar fyrir hendi.
+
+Skilgreiningarreitir og gildi:
+
+%6
+@2@1010@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 verĞur aĞ vera FlowFilter.
+@2@1011@0@
+Ekki er h‘gt aĞ reikna samt”lu gildanna ¡ reitnum %2.1.
+
+Notandi ‘tti aĞ skilgreina, virkja og velja lykil sem inniheldur lykilreitina sem koma fram h‚r fyrir neĞan, ¡ hvaĞa r”Ğ sem er. Reiturinn %2.1 ‘tti aĞ vera tengdur viĞ lykilinn sem SumIndexField.
+
+Tafla: %1.1
+Lykilreitir: %1.6
+@2@1013@0@
+ReitaheitiĞ '%2.1' ¡ t”flunni %1.1 er of langt (%7). H markslengd er %8.
+@2@1014@0@
+%1.1 %6.1.1 '%6.1.5' er çegar fyrir hendi.
+@2@1015@0@
+Lykillinn er çegar fyrir hendi.
+
+Reitirnir fr  frumlyklinum b‘tast sj lfkrafa viĞ alla undirlyklana.
+
+Tafla: %1.1
+Lykilreitir: %6
+@2@1018@0@
+Lykill getur mest innihaldiĞ %8 reiti.
+
+Reitirnir fr  frumlyklinum b‘tast sj lfkrafa viĞ alla undirlyklana.
+
+Reitir: %7
+Tafla: %1.1
+Lykilreitir: %6
+@2@1019@0@
+Lykill getur mest haft %8 SumIndexFields.
+
+Reitir: %7
+Tafla: %1.1
+SumIndexFields: %6
+@2@1020@0@
+Tafla getur mest haft %8 lykla.
+
+Lyklar: %7
+Tafla: %1.1
+@2@1021@0@
+Annar notandi hefur breytt skilgreiningu t”flunnar %1.1 eftir aĞ vinnsla var r‘st.
+
+ByrjiĞ aftur.
+@2@1022@0@
+Annar notandi hefur breytt f‘rslu fyrir viĞkomandi %1.1 eftir aĞ h£n var s¢tt ¡ gagnagrunninn.
+
+F‘ra çarf breytingar aftur ¡ uppf‘rĞa gluggann eĞa r‘sa vinnslu   nì.
+
+Skilgreiningarreitir og gildi:
+
+%6
+@2@1023@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 getur ekki veriĞ FlowFilter.
+@2@1024@0@
+àgilt t kn er ¡ leitarskilyrĞinu '%12'.
+
+Ö Find-segĞum m  nota =, > og < ¡ samsetningum çar sem nota m  hvert merki aĞeins einu sinni, eĞa nota - eĞa +.
+@2@1027@0@
+Ekki er h‘gt aĞ reikna samt”lu gildanna ¡ reitnum %2.1 çar sem ¡ viĞeigandi lykli eru ekki allir reitir afmarkaĞir.
+
+Velja verĞur lykil meĞ ”llum reitunum ¡ afm”rkuninni ¡ hvaĞa r”Ğ sem er.
+
+Afmarkanir: %1.10
+Tafla: %1.1
+Lykilreitir: %1.6
+@2@1029@0@
+Ekki er h‘gt aĞ reikna samt”lu gildanna ¡ reitnum %2.1 çar sem ¡ afm”rkununum eru spurningarmerki (%19), stj”rnur (%20) eĞa ' '-merki (%21).
+
+Afmarkanir: %1.10
+Tafla: %1.1
+@2@1030@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 verĞur aĞ vera FlowField.
+@2@1031@0@
+Afm”rkunin ¡ t”flunni %1.1 er of l”ng (%7 b‘ti). H£n m  mest vera %8 b‘ti.
+@2@1032@0@
+Afm”rkunin '%2.10' ¡ reitnum %2.1 ¡ t”flunni %1.1 skal tilgreina l gmarksgildi.
+
+èaĞ eru çrj£ leyfileg sniĞ fyrir afmarkanir meĞ l gmarksgildiĞ A:
+
+* A     èessi afm”rkun velur £r gildi sem eru j”fn A.
+* A..   èessi afm”rkun velur £r gildi sem eru j”fn eĞa h‘rri en A.
+* A..Z  èessi afm”rkun velur £r gildi   bilinu A til Z, aĞ b Ğum meĞt”ldum.
+@2@1033@0@
+Afm”rkunin '%2.10' ¡ reitnum %2.1 ¡ t”flunni %1.1 skal tilgreina h marksgildi.
+
+èaĞ eru çrj£ leyfileg sniĞ fyrir afmarkanir meĞ h‘st gildiĞ Z:
+
+* Z     èessi afm”rkun velur £r gildi sem eru j”fn Z.
+* ..Z   èessi afm”rkun velur £r gildi sem eru j”fn eĞa l‘gri en Z.
+* A..Z  èessi afm”rkun velur £r gildi   bilinu A til Z, aĞ b Ğum meĞt”ldum.
+@2@1034@0@
+Afm”rkunin '%2.10' ¡ reitnum %2.1 ¡ t”flunni %1.1 skal tilgreina millibil.
+
+Tv” heimil sniĞ eru fyrir afmarkanir sem tilgreina millibil:
+
+* A     èessi afm”rkun velur £r gildi sem eru j”fn A.
+* A..Z  èessi afm”rkun velur £r gildi   bilinu A til Z, aĞ b Ğum meĞt”ldum.
+@2@1035@0@
+Vinsamlega tilgreiniĞ afm”rkun fyrir reitinn %2.1 ¡ t”flunni %1.1.
+
+Upplìsingar um afmarkanir er aĞ finna ¡ hj lpinni.
+@2@1036@0@
+N£mer reits %2.2 ¡ t”flunni %1.1 verĞur aĞ hafa heiti.
+@2@1037@0@
+Lengd afm”rkunarstrengsins %7 er lengri en h markslengdin %8.
+
+Tafla: %1.1
+@2@1038@0@
+Taflan %1.1 er auĞ.
+@2@1039@0@
+Ekki er h‘gt aĞ reikna gildiĞ FlowField.
+
+Skilgreina çarf og virkja lykilinn meĞ lykilreitunum sem koma fram h‚r fyrir neĞan, ¡ hvaĞa r”Ğ sem er, og s¡Ğan çarf aĞ tengja viĞ hann tilgreindan SumIndexField.
+
+Lykilreitir: %6
+SumIndexField: %2.1
+Tafla: %1.1
+@2@1040@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 verĞur aĞ vera virkur.
+@2@1041@0@
+%2.1 reiturinn ¡ t”flunni %1.1 getur ekki veriĞ FlowField.
+@2@1042@0@
+Annar notandi hefur breytt f‘rslunni fyrir %1.1 %6.1.1 '%6.1.5' s¡Ğan h£n var s¢tt ¡ gagnagrunninn.
+
+F‘ra çarf breytingarnar aftur inn ¡ uppf‘rĞa gluggann eĞa hefja aĞgerĞina   nì.
+@2@1043@0@
+Reitirnir tveir h‚r fyrir neĞan verĞa aĞ vera af s”mu tegund:
+
+Reitur: %2.1 <-- %92.1
+Tafla: %1.1 <-- %91.1
+Tegund: %2.3 <-- %92.3
+@2@1044@0@
+ViĞv”run: Gagnagrunnurinn hefur skemmst. èessi tegund villu kemur upp ef annaĞ forrit breytir gagnagrunnsskr nni eĞa ef t‘kisrekillinn starfar ekki r‚tt.
+
+èessa villu verĞur aĞ laga  Ğur en haldiĞ er  fram. Ekki skal nota neins konar diskforrit   gagnagrunninn.
+
+Athuga çarf gagnagrunninn. èaĞ er gert ¡ valmyndinni Skr  meĞ çv¡ aĞ smella   Gagnagrunnur, Pr¢fa og s¡Ğan   H mark. Ef sama villan kemur enn upp skal:
+
+1 Gera ”ryggisafrit af gagnagrunninum meĞ çv¡ aĞ afrita gagnagrunnsskr na/-skr rnar   annan staĞ.
+
+2 Nota innbyggĞar aĞgerĞir til aĞ gera ”ryggisafrit.
+
+3 Ef çetta virkar er nìr gagnagrunnur myndaĞur  n çess aĞ eyĞa gagnagrunninum sem inniheldur villuna/villurnar.
+™ryggisafritiĞ sem tekiĞ var meĞ innbyggĞu ”ryggisafritunaraĞgerĞinni er flutt inn ¡ nìja gagnagrunninn. Hann er pr¢faĞur meĞ çv¡ aĞ velja valmyndina Skr  og smella   Gagnagrunnur, Pr¢fa og s¡Ğan H mark.
+
+Ef çessi aĞferĞ dugar ekki glatast breytingar sem gerĞar voru   gagnagrunninum eftir s¡Ğasta ”ryggisafrit. Endurheimta skal s¡Ğasta ”ryggisafrit sem tekiĞ var meĞ innbyggĞri afritunaraĞgerĞ og pr¢fa çaĞ.
+Til ”ryggis skal geyma gamla gagnagrunninn çar til reynsla er komin   çann nìja.
+
+Ef aĞstoĞar er ç”rf skal haft samband viĞ kerfisstj¢ra.
+@2@1046@0@
+Gagnagrunnur hefur ekki veriĞ valinn.
+@2@1047@0@
+Skr in er ekki gagnagrunnur.
+@2@1048@0@
+Ekki er h‘gt aĞ opna gagnagrunninn meĞ çessari £tg fu Microsoft Dynamics NAV Development Environment. Gagnagrunninum hefur çegar veriĞ breytt meĞ nìrri £tg fu kerfisins.
+
+Uppf‘ra verĞur ¡ nìjustu £tg fu Microsoft Dynamics NAV Development Environment til aĞ opna gagnagrunninn.
+@2@1049@0@
+Gagnagrunnsskr rnar tilheyra ekki sama gagnagrunni.
+@2@1050@0@
+Gagnagrunnsskr rnar eru ekki samh‘far.
+
+T¡mastimplarnir eru ekki eins. Ein eĞa fleiri skr r hafa veriĞ notaĞar s¡Ğar en hinar. Ors”kin kann aĞ vera aĞ ”ryggisafrit hafi aĞeins veriĞ endurheimt aĞ hluta. Finna çarf gagnagrunnsskr r sem eru allar stimplaĞar meĞ s”mu dagsetningu og t¡ma.
+@2@1051@0@
+R”Ğ gagnagrunnsskr nna er r”ng. èaĞ getur stafaĞ af einu af eftirt”ldu:
+
+* Valin gagnagrunnsskr  er ekki fyrsta skr in ¡ gagnagrunninum.
+* R”Ğin ¡ 'gagnagrunnur=skr 1+skr 2+skr 3' er r”ng.
+@2@1052@0@
+Gagnagrunnur getur mest haft 16 skr r.
+@2@1055@0@
+Ekki er h‘gt aĞ framkv‘ma çessa aĞgerĞ meĞan aĞrir notendur eru aĞ nota gagnagrunninn.
+@2@1075@0@
+Ekki er h‘gt aĞ eyĞa t”fluskilgreiningu (%1.1 tafla) ef ¡ t”flunni eru f‘rslur.
+
+EyĞa skal ”llum f‘rslum ¡ t”flunni fyrir ”ll fyrirt‘ki  Ğur en skilgreiningunni er eytt.
+@2@1077@0@
+K¢tar fyrir tegund texta, k¢ta og tv¡undar mega ekki vera lengri en %8 stafir.
+
+Reiturinn %2.1 ¡ t”flunni %1.1 er %7 stafir aĞ lengd.
+@2@1078@0@
+Reitur ¡ virkum lykli m  ekki vera meira en %8 b‘ti. St‘rĞ lykilreitanna %6 ¡ t”flunni %1.1 er %7 b‘ti.
+
+AnnaĞhvort verĞur aĞ f‘kka virku reitunum eĞa stytta ç .
+@2@1079@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 kemur tv¡vegis fyrir ¡ sama lykli (lykilreitirnir eru %6).
+@2@1080@0@
+Reiturinn %2.1 kemur tv¡vegis fyrir sem SumIndexField fyrir sama lykil.
+
+Tafla: %1.1
+SumIndexFields: %6
+@2@1081@0@
+Frumstillingargildi ¡ reitnum %2.1 ¡ t”flunni %1.1 er of langt fyrir tegund reitsins (%2.3).
+@2@1082@0@
+Virku lyklarnir ¡ t”flunni %1.1 eru of fl¢knir eĞa of margir, eĞa b‘Ği. H‘gt er aĞ laga çetta meĞ çv¡ aĞ f‘kka einu af eftirfarandi:
+
+* Virkum lyklum
+* Reitum ¡ lyklum eĞa
+* SumIndexFields ¡ tengslum viĞ lyklana
+@2@1083@0@
+Velja çarf fyrirt‘ki  Ğur en h‘gt er aĞ nota t”fluna %1.1.
+@2@1087@0@
+Ekki er h‘gt aĞ eyĞa eĞa breyta tegund reitsins %2.1 (¡ t”flunni %1.1) fyrr en gildiĞ ¡ reitnum er l‘kkaĞ niĞur ¡ 0 (n£ll) eĞa '' (eyĞu) ¡ ”llum f‘rslum. èessi boĞ birtust vegna çess aĞ gildi sem var ekki n£ll fannst ¡ f‘rslunni %6 ¡ fyrirt‘kinu %1.9.
+@2@1088@0@
+Breytingin ¡ skilgreiningu   frumlykli hefur valdiĞ tveimur f‘rslum meĞ sama gildi frumlykils.
+
+Frumlykillinn er fyrsti lykill ¡ lista yfir lykla.
+
+Tafla: %1.1
+Fyrirt‘ki: %1.9
+F‘rsla: %6
+@2@1090@0@
+Ekki er h‘gt aĞ setja afm”rkun   reitinn %2.1 s”kum çess aĞ afm”rkunin og reiturinn eru ekki af s”mu tegund.
+
+Tafla: %1.1
+@2@1092@0@
+Gildi ¡ afm”rkuninni '%2.10' ¡ reitnum %2.1 ¡ t”flunni %1.1 er of langt fyrir tegund reitsins.
+
+Tegund: %2.3
+@2@1093@0@
+Tegund fasta verĞur aĞ vera ¡ samr‘mi viĞ tegund reitsins %2.1 og lengd fastans m  ekki vera meiri en lengd reitsins.
+
+Tegund: %2.3 <-- %3
+Reitur: %2.1 <-- %5
+Tafla: %1.1
+@2@1094@0@
+NauĞsynlegt er aĞ skilgreina £treikningsreglu (CalcFormula) fyrir %2.1 FlowField ¡ t”flunni %1.1.
+@2@1095@0@
+Engin %1.1 er ¡ afm”rkuninni.
+
+Afmarkanir: %1.10
+@2@1097@0@
+Afm”rkunin '%10' er ¢t‘k.
+
+RituĞ hefur veriĞ ¢t‘k segĞ fyrir afm”rkunina ¡ reitnum %2.1 ¡ t”flunni %1.1.
+@2@1098@0@
+Afm”rkunin '%10' er ¢t‘k.
+
+A ')' vantar ¡ afm”rkunina ¡ reitnum %2.1 ¡ t”flunni %1.1.
+@2@1100@0@
+Afm”rkunin '%10' er ¢t‘k.
+
+Gildi vantar ¡ afm”rkunina ¡ reitnum %2.1 ¡ t”flunni %1.1.
+@2@1101@0@
+Afm”rkunin '%10' er ¢t‘k.
+
+Gildi eĞa bil vantar ¡ afm”rkunina ¡ reitnum %2.1 ¡ t”flunni %1.1.
+@2@1102@0@
+Afm”rkunin '%10' er ¢t‘k.
+
+Afm”rkunin ¡ reitnum %2.1 ¡ t”flunni %1.1 er of st¢r.
+@2@1103@0@
+Afm”rkunin '%10' er ¢t‘k.
+
+érfellingarmerki (') vantar ¡ afm”rkuninni ¡ reitnum %2.1 ¡ t”flunni %1.1.
+@2@1104@0@
+NauĞsynlegt er aĞ tilgreina eiginleikann Valstrengur fyrir reitinn %2.1.
+
+Tegund: %2.3
+Tafla: %1.1
+@2@1107@0@
+Frumlykillinn (fyrsti lykillinn ¡ lyklalista) verĞur aĞ vera virkur.
+
+Tafla: %1.1
+@2@1108@0@
+Ekki er h‘gt aĞ lj£ka f‘rslunni çv¡ h£n veldur ¢samkv‘mni ¡ t”flunni %1.1.
+
+Kanna çarf hvar og hvernig aĞgerĞin CONSISTENT er notuĞ ¡ f‘rslunni til aĞ finna  st‘Ğuna fyrir villunni.
+
+HafiĞ samband viĞ kerfisstj¢ra.
+
+H‘gt er aĞ merkja t”flur sem ¢samkv‘mar ¡ yfirgripsmiklum aĞgerĞum eins og b¢kunum. èaĞ kemur ¡ veg fyrir ranga uppf‘rslu gagna.
+@2@1109@0@
+N£mer reita verĞa aĞ vera h‘rri en n£ll.
+
+Tafla: %1.1
+
+Rita çarf reitn£mer fyrir hverja l¡nu eĞa eyĞa auĞum l¡num.
+@2@1111@0@
+èj¢nninn og biĞlarinn eru ekki meĞ sama £tg fun£mer   kerfinu.
+@2@1112@0@
+KerfisleyfiĞ heimilar ekki aĞ fleiri notendur vinni samt¡mis.
+
+B¡Ğa çarf çar til annar notandi hefur h‘tt ¡ kerfinu.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef heimila   fleiri notendur samt¡mis   kerfinu.
+@2@1115@0@
+Tengingin viĞ çj¢ninn var rofin s”kum samskiptavillu.
+
+BiĞlarinn er r‘stur   nì.
+@2@1117@0@
+Engir reitir hafa veriĞ skilgreindir ¡ t”flunni %1.1.
+@2@1118@0@
+Lykill verĞur aĞ innihalda aĞ minnsta kosti einn reit.
+@2@1119@0@
+Heiti reitsins getur aĞeins birst einu sinni ¡ t”flu:
+
+Heiti reits: %2.1
+Tafla: %1.1
+@2@1123@0@
+Ekki er heimild til aĞ lesa t”fluna %1.1.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1126@0@
+èetta leyfi heimilar ekki notkun   svo st¢rum gagnagrunni.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef st‘kka   gagnagrunninn.
+@2@1133@0@
+KerfisleyfiĞ gildir ekki fyrir çetta stìrikerfi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi ¢skar eftir aĞ vinna ¡ çessu stìrikerfi.
+@2@1134@0@
+Eftirfarandi C/AL aĞgerĞir er aĞeins h‘gt aĞ nota aĞ takm”rkuĞu leyti   meĞan aĞgerĞir sem vista g”gn eru ¡ gangi, çar sem ein eĞa fleiri t”flur eru l‘star   meĞan svo er.
+
+Form.RunModal m  ekki skrifa hreyfingar.
+
+CodeUnit.Run er aĞeins heimilt ¡ skriff‘rslum ef skilagildiĞ er ekki notaĞ. 'OK := CodeUnit.Run()' er til d‘mis ekki heimilt.
+
+Report.RunModal er aĞeins heimilt ¡ skriff‘rslu ef 'RequestForm = FALSE'. 'Report.RunModal(...,FALSE)' er til d‘mis heimilt.
+
+DataPort.RunModal er aĞeins heimilt ¡ skriff‘rslu ef 'RequestForm = FALSE'. 'DataPort.RunModal(...,FALSE)' er til d‘mis heimilt.
+
+Nota skal aĞgerĞina COMMIT til aĞ vista breytingarnar   undan kallinu, eĞa byggja k¢tann ”Ğruv¡si upp.
+@2@1141@0@
+Ekki er h‘gt aĞ breyta t”flug”gnum ¡ hlutat”flunni. Breyta skal skilgreiningu t”flu ¡ staĞinn.
+
+Tafla: %1.1
+@2@1143@0@
+Afritun allra afmarkana getur aĞeins orĞiĞ milli f‘rslna ¡ s”mu t”flunni.
+
+Tafla: %91.1 <-- %1.1
+
+Afrita skal nauĞsynlegar afmarkanir, eina og eina ¡ einu.
+@2@1145@0@
+%1.3 '%1.1' er auĞ.
+@2@1146@0@
+Ekki er h‘gt aĞ breyta eiginleikanum 'DataPerCompany' çegar f‘rslur eru ¡ t”flunni %1.1. Fylgja skal eftirfarandi leiĞbeiningum:
+
+* Flytja £t allar f‘rslur ¡ t”flunni yfir ¡ skr .
+* EyĞa ”llum f‘rslum ¡ t”flunni.
+* Breyta skilgreiningu t”flu.
+* Flytja inn allar f‘rslur ¡ skr nni.
+@2@1163@0@
+Ekki er h‘gt aĞ afrita efni reitsins %92.1 yfir ¡ reit %2.1 s”kum çess aĞ reiturinn %2.1 er of l¡till.
+
+Tegund: %2.3 <-- %92.3
+Reitur: %2.1 <-- %92.1
+Tafla: %1.1 <-- %91.1
+@2@1168@0@
+Skr in er ekki gagnagrunnsskr .
+@2@1172@0@
+Ekki er h‘gt aĞ gera breytingar n£na çar sem forritiĞ var r‘st meĞ eiginleikanum 'dbreadonly' (aĞeins lesh‘ft).
+
+Hafa skal samband viĞ kerfisstj¢rann.
+@2@1174@0@
+Ekki er h‘gt aĞ reikna samt”lu gildanna ¡ reitnum %2.1 s”kum çess aĞ taflan er afm”rkuĞ meĞ 'AĞeins markaĞ'.
+
+Tafla: %1.1
+@2@1175@0@
+Skilgreiningin fyrir reitinn %2.1 ¡ t”flunni %1.1, sem er inni sem SumIndexField, verĞur aĞ vera 'Active'' (Virk).
+
+Lykilreitir: %6
+@2@1176@0@
+Setja verĞur reitinn fyrir neĞan   'Active' ¡ skilgreiningu reits. Reiturinn er hluti af virkum lykli.
+
+Reitur: %2.1
+Tafla: %1.1
+Lykilreitir: %6
+@2@1177@0@
+FlowField getur ekki veriĞ SumIndexField.
+
+Reitur: %2.1
+Tafla: %1.1
+Lykilreitir: %6
+@2@1178@0@
+FlowField getur ekki veriĞ hluti af lykli.
+
+Reitur: %2.1
+Tafla: %1.1
+Lykilreitir: %6
+@2@1179@0@
+FlowFilter getur ekki veriĞ SumIndexField.
+
+Reitur: %2.1
+Tafla: %1.1
+Lykilreitir: %6
+@2@1180@0@
+FlowFilter getur ekki veriĞ hluti af lykli.
+
+Reitur: %2.1
+Tafla: %1.1
+Lykilreitir: %6
+@2@1214@0@
+Eftirfarandi boĞ komu fr  çj¢ninum.
+@2@1215@0@
+Lengd gagnagrunnsins sem skr Ğ er ¡ skr nni er ”nnur en lengdin sem stìrikerfiĞ skr Ği. èaĞ merkir aĞ annaĞ forrit hefur breytt gagnagrunnsskr nni eĞa t‘kisrekillinn starfar ekki r‚tt.
+
+B£a çarf til nìja gagnagrunnsskr  og flytja inn nìjasta ”ryggisafritiĞ. Pr¢fa skal skr na meĞ çv¡ aĞ smella   Skr , Gagnagrunnur, Pr¢fa og s¡Ğan smella   H mark.
+
+Ef aĞstoĞar er ç”rf skal hafa samband viĞ kerfisstj¢ra.
+@2@1224@0@
+™nnur £tg fa forritsins hefur çegar veriĞ r‘st   t”lvunni.
+
+Ekki er h‘gt aĞ keyra margar £tg fur af forritinu samhliĞa.
+@2@1226@0@
+Textinn '%2.5' er of langur til aĞ h‘gt s‚ aĞ afrita hann yfir ¡ reitinn:
+
+Reitur: %2.1
+Tegund: %2.3
+Tafla: %1.1
+@2@1232@0@
+NetiĞ starfar ekki r‚tt. Pakki var sendur   rangt vistfang.
+
+Villan sìnir aĞ netiĞ s‚ ekki aĞ ”llu leyti  reiĞanlegt. Fylgjast çarf meĞ çv¡ hve oft villa af çessu tagi kemur fyrir. Hafa skal samband viĞ kerfisstj¢ra.
+@2@1233@0@
+NetiĞ starfar ekki r‚tt. 'Pakki' hefur skemmst og skilar pr¢fsummuvillu.
+
+Villan gefur til kynna aĞ netiĞ s‚ ekki aĞ ”llu leyti  reiĞanlegt. Fylgjast çarf meĞ çv¡ hve oft villa af çessu tagi kemur fyrir   netinu. Hafa skal samband viĞ kerfisstj¢ra.
+@2@1237@0@
+Notandakenni og aĞgangsorĞ eru r”ng. ReyniĞ aftur.
+@2@1243@0@
+Ekki er h‘gt aĞ afrita reit. Upprunareitur er ekki tilgreindur:
+
+Tafla: %91.1 <-- %1
+Reitur: %92.1 <-- %2
+@2@1244@0@
+Reiturinn aĞ neĞan verĞur aĞ vera k¢ta- eĞa textareitur.
+
+Reitur: %2.1
+Tegund: %2.3
+Tafla: %1.1
+@2@1263@0@
+Taflan %1.1 er aĞeins lesh‘f.
+@2@1266@0@
+Ö t”flunni %1.1 verĞur reiturinn %2.1 aĞ vera aĞ minnsta kosti einn stafur.
+@2@1267@0@
+'=' vantar ¡ %3.
+
+%5
+@2@1269@0@
+')' vantar ¡ %3.
+
+%5
+@2@1270@0@
+M lskipanarvilla er ¡ %3.
+
+%5
+@2@1272@0@
+'(' vantar ¡ %3.
+
+%5
+@2@1273@0@
+'.' vantar ¡ %3.
+
+%5
+@2@1274@0@
+Ekki er h‘gt aĞ reikna samt”lu gildanna ¡ reitnum %2.1 ¡ t”flunni %1.1. AĞeins er h‘gt aĞ leggja saman Decimal-reiti.
+@2@1275@0@
+%2.1 FlowField ¡ t”flunni %1.1 er ekki Boole-reitur. Ef CalcFormula fyrir FlowField hefst   'Exist(...', verĞur FlowField aĞ vera reitur af Boole-tegundinni.
+@2@1276@0@
+%2.1 FlowField ¡ t”flunni %1.1 er ekki heilt”lureitur. Ef CalcFormula fyrir FlowField hefst   'Count(...', verĞur FlowField aĞ vera reitur af heilt”lutegundinni.
+@2@1277@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 hefur reikningsreglu (CalcFormula) en er ekki FlowField.
+@2@1279@0@
+Ekki er h‘gt aĞ reikna samt”lu gildanna ¡ reitnum %2.1 ¡ t”flunni %1.1. AĞeins er h‘gt aĞ leggja saman Normal-reiti.
+@2@1281@0@
+Reiturinn aĞ neĞan verĞur aĞ vera hluti af frumlykli t”flunnar.
+
+Reitur: %2.1
+Tafla: %1.1
+@2@1286@0@
+Lengd reits vantar ¡ reitinn aĞ neĞan.
+
+Reitur: %2.1
+Tafla: %1.1
+@2@1290@0@
+Gagnategund upphafsgildis (InitValue) fyrir eftirfarandi reit samrìmist ekki gagnategund reitsins.
+
+Reitur: %2.1
+Tafla: %1.1
+@2@1291@0@
+GildiĞ sem slegiĞ var inn er st‘rra en h markiĞ %3.
+@2@1292@0@
+Eftirfarandi reitur getur ekki veriĞ SumIndexField çv¡ tegund hans er BLOB.
+
+Reitur: %2.1
+Tafla: %1.1
+Lykilreitir: %6
+@2@1293@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 getur ekki veriĞ hluti af lykli çv¡ aĞ tegund hans er BLOB.
+
+Lykilreitir: %6
+@2@1294@0@
+Ekki er h‘gt aĞ skilgreina undirv¡sa (secondary indexes) fyrir skammt¡mat”flur.
+
+Tafla: %1.1
+@2@1295@0@
+Heimild til aĞ b‘ta ¡ t”fluna %1.1 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1296@0@
+Heimild til aĞ eyĞa £r t”flunni %1.1 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1297@0@
+Heimild til aĞ breyta f‘rslum ¡ t”flunni %1.1 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1298@0@
+Heimild til aĞ keyra t”fluna %1.1 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1299@0@
+Heimild til aĞ lesa '%1.1' %1.3 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1300@0@
+Heimild til aĞ stofna '%1.1' %1.3. er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1301@0@
+Heimild til aĞ eyĞa ¡ t”flunni '%1.1' %1.3 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1302@0@
+Heimild til aĞ breyta '%1.1' %1.3 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1303@0@
+Heimild til aĞ keyra '%1.1' %1.3 er ekki fyrir hendi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  aĞgangsheimildum s¡num breytt.
+@2@1304@0@
+Ekki er h‘gt aĞ eyĞa eĞa breyta notandakenni %13 çar sem s  notandi er meĞ viĞb¢tarheimildir.
+@2@1305@0@
+Ekki er h‘gt aĞ eyĞa eĞa breyta innskr ningunni vegna çess aĞ h£n er meĞ viĞb¢tarheimildir.
+@2@1306@0@
+Ekki er h‘gt aĞ nota aĞgerĞina 'MODIFYALL' çar sem reiturinn fyrir neĞan er hluti af frumlykli.
+
+Reitur: %2.1
+Tafla: %1.1
+@2@1307@0@
+Ekki er h‘gt aĞ nota aĞgerĞina 'MODIFY' çar sem h£n breytir frumlykli.
+
+F‘rslur fyrir: %6
+F‘rslur eftir: %96
+Tafla: %1.1
+@2@1308@0@
+Ekki m  gefa f‘rslu nìtt heiti çv¡ aĞ nìja gildiĞ fyrir reitinn fyrir neĞan er '%2.5'.
+
+Reitur: %2.1
+Tafla: %1.1
+@2@1309@0@
+Ekki m  gefa f‘rslu nìtt heiti çv¡ aĞ gamla gildiĞ fyrir reitinn fyrir neĞan er '%2.5'.
+
+Reitur: %2.1
+Tafla: %1.1
+@2@1311@0@
+'%91.1' er ekki fyrir hendi. %91.9
+
+%91.10
+
+Reiturinn %2.1 ¡ t”flunni %1.1 hefur t”flutengsl viĞ reitinn %92.1 ¡ t”flunni %91.1.
+
+'%1.1' hefur eftirfarandi kennireiti og gildi:
+
+%6
+@2@1313@0@
+BiĞminni gagnagrunnsins er of l¡tiĞ. MinniĞ çarf aĞ vera minnst 0,012% af st‘rĞ grunnsins.
+Ö çessu tilfelli çarf minniĞ aĞ vera st‘rra en 7%.
+@2@1314@0@
+Notandakenni er falliĞ £r gildi.
+@2@1315@0@
+N£mer reitsins er ¢t‘kt. N£mer reits verĞur aĞ vera   milli 1 og 999999999.
+
+Reitur: %2.1
+Reitur nr.: %2.2
+Tafla: %1.1
+@2@1317@0@
+Taflan %1.1 hefur veriĞ stofnuĞ ¡ nìrri £tg fu kerfisins. Notkun er ekki m”guleg ¡ çessari £tg fu.
+@2@1318@0@
+Ö heiti reitsins '%2.1' ¡ t”flunni %1.1 eru ¢leyfilegir stafir.
+@2@1319@0@
+Ekki er h‘gt aĞ reikna samt”lu gildanna ¡ reitnum %2.1 çar sem afm”rkun er   eftirfarandi FlowField.
+
+Reitur: %92.1
+Tafla: %1.1
+@2@1320@0@
+Ekki er h‘gt aĞ breyta çessum eiginleika ¡ gagnagrunni.
+@2@1322@0@
+ViĞv”run: LeyfiĞ fyrir forritseiningu %15 fellur £r gildi eftir %16 dag(a).
+
+Hafa çarf samband viĞ kerfisstj¢rann ¢ski notandi eftir aĞ halda  fram aĞ nota ofangreinda einingu.
+@2@1323@0@
+LeyfiĞ fyrir forritseininguna %15 er falliĞ £r gildi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ¢ski notandi eftir aĞ halda  fram aĞ nota eininguna.
+@2@1324@0@
+KerfisleyfiĞ heimilar ekki marga notendur samt¡mis ¡ Microsoft Windows.
+
+B¡Ğa çarf uns annar notandi hefur h‘tt ¡ kerfinu. Hafa çarf samband viĞ kerfisstj¢rann ef heimila   fleiri notendur samt¡mis   kerfinu.
+@2@1325@0@
+KerfisleyfiĞ heimilar ekki marga notendur samt¡mis ¡ Microsoft Windows NT.
+
+B¡Ğa çarf uns annar notandi hefur h‘tt ¡ kerfinu. Hafa çarf samband viĞ kerfisstj¢rann ef heimila   fleiri notendur samt¡mis   kerfinu.
+@2@1326@0@
+KerfisleyfiĞ heimilar ekki marga notendur samt¡mis ¡ C/ODBC.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef heimila   fleiri notendur samt¡mis   kerfinu.
+@2@1327@0@
+KerfisleyfiĞ heimilar ekki marga notendur samt¡mis ¡ C/FRONT.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef heimila   fleiri notendur samt¡mis   kerfinu.
+@2@1328@0@
+ForritsleyfiĞ heimilar mest %8 fyrirt‘ki sem ekki eru sìnifyrirt‘ki.
+Hafa skal samband viĞ kerfisstj¢rann ef setja çarf upp fleiri fyrirt‘ki.
+
+è¢ er h‘gt aĞ stofna ¢takmarkaĞan fj”lda sìnifyrirt‘kja.
+Heiti çeirra verĞur aĞ hefjast   "CRONUS".
+@2@1329@0@
+MeĞ çessu kerfisleyfi er aĞeins h‘gt aĞ vinna viĞ fyrirt‘ki meĞ heiti sem byrjar   %10.
+@2@1330@0@
+Ekki er h‘gt aĞ nota çetta kerfisleyfi.
+@2@1331@0@
+Ekki er h‘gt aĞ opna annan gagnagrunn eĞa stofna nìjan çv¡ aĞ gagnagrunnurinn var opnaĞur   çj¢ninum og kerfiseiginleikinn gagnagrunnur=<heiti gagnagrunns> notaĞur.
+Ef velja   annan gagnagrunn verĞur aĞ r‘sa çj¢ninn aftur meĞ sama forritseiginleika og tilgreina annaĞ gagnagrunnsheiti.
+@2@1332@0@
+Taflan %1.1 er ekki çìdd.
+@2@1335@0@
+Ekki er h‘gt aĞ breyta leyfum fyrir h¢pinn '%14'.
+@2@1336@0@
+AĞ minnsta kosti einn notandi verĞur aĞ vera ¡ h¢pi '%14'.
+@2@1337@0@
+AĞ minnsta kosti einn notandi verĞur aĞ vera ¡ h¢pi '%14' ¡ ”llum fyrirt‘kjum.
+@2@1341@0@
+Ekki er h‘gt aĞ setja inn t”flug”gn ¡ hlutat”flunni.
+@2@1342@0@
+ViĞv”run: KerfisleyfiĞ fyrir %1.3 %1.2 fellur £r gildi eftir %16 dag(a).
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi ¢skar enn eftir aĞ nota %1.3 %1.2.
+@2@1343@0@
+KerfisleyfiĞ fyrir %1.3 %1.2 er falliĞ £r gildi.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi ¢skar enn eftir aĞ nota %1.3 %1.2.
+@2@1344@0@
+AĞeins m  veita keyrsluleyfi fyrir hlut af tegundinni T”flug”gn.
+@2@1345@0@
+AĞeins er h‘gt aĞ veita çessum tegundum hluta keyrsluleyfi:
+
+Tafla, Gluggi, Skìrsla, Codeunit, System, XMLPort og GagnahliĞ.
+@2@1346@0@
+Ekki er h‘gt aĞ nota skyndiminniĞ Commit Cache meĞ Windows stìrikerfinu.
+@2@1347@0@
+Reiknireglan (CalcFormula) fyrir %2.1 FlowField ¡ t”flunni %1.1 ‘tti aĞ byrja   'Sum(...'.
+@2@1348@0@
+Tegund %2.1 FlowField ¡ t”flunni %1.1 verĞur aĞ vera Decimal.
+@2@1349@0@
+FieldClass fyrir reitinn %2.1 ¡ t”flunni %1.1 verĞur aĞ vera Normal.
+@2@1350@0@
+Tegund reitsins %2.1 ¡ t”flunni %1.1 verĞur aĞ vera Decimal.
+@2@1351@0@
+Frumlykillinn ¡ t”flunni %1.1 getur aĞeins haft aĞ geyma einn reit og tegund hans verĞur aĞ vera heiltala.
+@2@1352@0@
+Kerfisheimildin veitir ekki leyfi til aĞ stofna reitinn %2.1 ¡ t”flunni %1.1.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  kerfisleyfiĞ uppf‘rt.
+@2@1353@0@
+KerfisleyfiĞ heimilar ekki aĞ reitnum %2.1 ¡ t”flunni %1.1 s‚ eytt.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  kerfisleyfiĞ uppf‘rt.
+@2@1354@0@
+KerfisleyfiĞ heimilar ekki breytingar   reitnum %2.1 ¡ t”flunni %1.1.
+
+Hafa çarf samband viĞ kerfisstj¢rann ef notandi çarf aĞ f  kerfisleyfiĞ uppf‘rt.
+@2@1356@0@
+Ekki er heimild fyrir fleiri skrifhreyfingum ¡ çessu kerfisleyfi.
+
+Vinsamlegast hafiĞ samband viĞ kerfisstj¢ra ef v¡kka çarf çessi takm”rk.
+@2@1358@0@
+B£ist var viĞ '%22' ¡ %3.
+
+%5
+%25
+@2@1360@0@
+Ekki er h‘gt aĞ st‘kka gagnagrunn um minna en 16 KB.
+@2@1361@0@
+BiĞminni  fangastaĞar er of l¡tiĞ.
+
+St‘rĞ biĞminnis  fangastaĞar: %8
+St‘rĞ upprunaskr r: %7
+Upprunagildi: %5
+@2@1362@0@
+Umbreyta çarf gagnagrunninum  Ğur en h‘gt er aĞ nota hann ¡ çessari £tg fu Microsoft Dynamics NAV Development Environment.
+
+Ef gagnagrunninum er umbreytt er ekki h‘gt aĞ nota hann ¡ eldri £tg fum af kerfinu.
+
+R Ğlagt er aĞ:
+
+* TekiĞ s‚ ”ryggisafrit af gagnagrunninum fyrir umbreytinguna.
+* AĞeins einn notandi vinni ¡ gagnagrunninum   meĞan honum er umbreytt.
+* Minnst 50MB af lausu rìmi s‚u tilt‘k ¡ gagnagrunninum.
+
+Smellt er   Ö lagi ef umbreyta   gagnagrunninum eĞa   H‘tta viĞ til aĞ h‘tta.
+@2@1363@0@
+ViĞv”run: KerfisleyfiĞ fellur £r gildi eftir %16 dag(a).
+@2@1364@0@
+KerfisleyfiĞ er falliĞ £r gildi.
+@2@1365@0@
+èessi b£naĞur er çegar meĞ gagnagrunnsskiptingu.
+
+Ef haldiĞ er  fram glatast s£ gagnagrunnsskipting.
+
+µ ”rugglega aĞ halda  fram?
+@2@1366@0@
+ViĞv”run: èessi valkostur   aĞeins viĞ ef stìrikerfi netçj¢nsins styĞur Windows-sannvottun.
+Ef samr‘md innskr ning er heimil fyrir çennan gagnagrunn verĞur Windows-sannvottun notuĞ   çj¢ninum til aĞ auĞkenna notendur Microsoft Dynamics NAV Development Environment gagnagrunna.
+Ef sannvottaĞa notandakenniĞ er til ¡ notandat”flunni ¡ gagnagrunni Microsoft Dynamics NAV Development Environment er aĞgangsorĞiĞ ¡ gagnagrunninum hunsaĞ.
+Ef notandakenniĞ er ekki ¡ notandat”flunni çarf notandinn aĞ fylgja hefĞbundnu innskr ningarferli Microsoft Dynamics NAV Development Environment.
+@2@1367@0@
+Taflan er ekki tilgreind.
+@2@1369@0@
+%1
+@2@1370@0@
+Ekki er h‘gt aĞ breyta tegund hlutar.
+
+Hlutf‘rsla   undan: %6
+Hlutf‘rsla eftir: %96
+Tafla: %1.1
+@2@1371@0@
+T”flurnar eru ¢samh‘far.
+
+Tafla 1: %1
+Tafla 2: %91
+@2@1372@0@
+SkrifaĞgerĞir ¡ gagnagrunninum (INSERT, DELETE og MODIFY) eru ekki leyfĞar ¡ çeirri tegund aĞgerĞarlotu sem var valin.
+@2@1373@0@
+Eiginleiki reitsins verĞur aĞ vera '%5'.
+
+Eigandi: %3
+Reitur: %2.1
+Tafla: %1.1
+@2@1374@0@
+KerfisleyfiĞ heimilar ekki notkun   çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Hafa skal samband viĞ kerfisstj¢ra til aĞ f  uppf‘rslu   leyfinu.
+@2@1375@0@
+Uppf‘rslusamningur vegna Microsoft Dynamics NAV Development Environment er £trunninn.
+
+Hafa skal samband viĞ samstarfsaĞila Microsoft Business Solutions.
+@2@1376@0@
+LeyfiĞ heimilar ekki aĞ notaĞ s‚ tungum liĞ %24.
+@2@1377@0@
+Eiginleiki lykilsins verĞur aĞ vera '%5' fyrir aĞallykilinn.
+
+Eigandi: %3
+Tafla: %1.1
+@2@1378@0@
+Heiti hlutarins er til fyrir.
+
+Hlutur: %1
+@2@1379@0@
+Ekki er h‘gt aĞ breyta tegund aĞgerĞarlotu eftir aĞ h£n er hafin.
+
+AĞgerĞarlota hefst çegar forritiĞ framkv‘mir fyrstu gagnagrunnsaĞgerĞina, t.d. FIND, NEXT, INSERT, DELETE, MODIFY, SUM og COUNT.
+
+Villan varĞ vegna çess aĞ notandi reyndi aĞ breyta f‘rslutegund £r %8 ¡ %7.
+@2@1380@0@
+KerfisleyfiĞ heimilar ekki keyrslu   Microsoft Dynamics NAV Development Environment fyrir Microsoft SQL Server.
+@2@1381@0@
+AĞgerĞin verĞur st”ĞvuĞ vegna çess aĞ Windows er çessa stundina aĞ reyna aĞ fara ¡ dvala, hv¡ldarst”Ğu eĞa biĞst”Ğu.
+@2@1382@0@
+Innskr ning ¡ Windows er ekki fyrir hendi ¡ t”lvunni.
+@2@1384@0@
+Innskr ning ¡ Windows er ekki fyrir hendi   çj¢ninum sem var valinn.
+@2@1385@0@
+Eiginleiki %3 verĞur aĞ vera '%5'.
+
+Hlutur: %1
+@2@1386@0@
+Tv¡punkt ':' vantar ¡ %3.
+
+%5
+@2@1387@0@
+Afmarkanirnar eru of st¢rar til aĞ h‘gt s‚ aĞ afrita ç‘r ¡ tegundina '%3'.
+
+Afmarkanir: %1.10
+@2@1388@0@
+KerfisleyfiĞ heimilar ekki samhliĞa keyrslu   fleiri en einum Application Server.
+
+HafiĞ samband viĞ kerfisstj¢ra ef tengja   fleiri en einn Application Server samhliĞa viĞ kerfiĞ.
+@2@1389@0@
+™ryggisafritun er ¡ gangi. B¡ĞiĞ çar til henni lìkur.
+@2@1394@0@
+AutoIncrement-reitur getur aĞeins komiĞ einu sinni fyrir ¡ t”flu.
+
+Reitur: %2.1
+Tafla: %1.1
+@2@1395@0@
+AutoIncrement-reitur verĞur aĞ vera af gerĞinni Integer eĞa BigInteger.
+
+Reitur: %2.1
+Tafla: %1.1
+
+Tegund reits:%2.3
+@2@1396@0@
+Ekki er h‘gt aĞ breyta gildi ¡ AutoIncrement-reit.
+
+Reitur: %2.1
+Tafla: %1.1
+
+Skilgreiningarreitir og gildi:
+
+%6
+@2@1397@0@
+Ekki er h‘gt aĞ b‘ta reitareiginleikanum AutoIncrement viĞ çar sem reiturinn hefur engin gildi.
+
+Reitur: %2.1
+Tafla: %1.1
+
+Skilgreiningarreitir og gildi:
+
+%6
+@2@1398@0@
+Yfirfl‘Ği ¡ £treikningi   %7 %26 %8.
+
+@2@1401@0@
+H‘tt var viĞ f‘rsluna vegna fyrri villu.
+@2@1402@0@
+Ekki er h‘gt aĞ eyĞa biĞlaralotu çegar tenging viĞ çj¢n er ekki virk.
+@2@1403@0@
+Ekki er h‘gt aĞ eyĞa biĞlaralotu %7, çv¡ h£n er ekki tengd viĞ sama çj¢n og notandinn.
+@2@1404@0@
+Ekki er h‘gt aĞ eyĞa biĞlaralotu %7, çv¡ h£n er biĞlaralota notandans.
+@2@1406@0@
+KalliĞ er £relt. Nota skal DBL_ConnectServerAndOpenDatabase ¡ staĞinn.
+@2@1407@0@
+Notandi hefur ekki heimild til aĞ lesa t”fluna %1.1.
+@2@1408@0@
+Notandi hefur ekki heimild til aĞ b‘ta ¡  t”fluna %1.1.
+@2@1409@0@
+Notandi hefur ekki heimild til aĞ eyĞa £r t”flunni %1.1.
+@2@1410@0@
+Notandi hefur ekki heimild til aĞ breyta f‘rslum ¡ t”flunni %1.1.
+@2@1411@0@
+Klasalykill getur aĞeins birst einu sinni ¡ t”flu.
+
+Tafla: %1.1
+@2@1412@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@1413@0@
+StaĞfesta skal valiĞ um aĞ umbreyta gagnagrunninum.
+
+Smellt er   Ö lagi til aĞ umbreyta gagnagrunninum eĞa   H‘tta viĞ til aĞ h‘tta viĞ gildandi aĞgerĞ.
+@2@1414@0@
+AĞeins er h‘gt aĞ nota FINDSET aĞgerĞina meĞ h‘kkandi lyklar”Ğ.
+
+Tafla: %1.1
+@2@1415@0@
+AĞeins er h‘gt aĞ stilla FINDSET aĞgerĞarf‘ribreytuna UpdateKey   TRUE ef f‘ribreytan ForUpdate er l¡ka TRUE.
+
+Tafla: %1.1
+@2@1416@0@
+Notandi hefur ekki aĞgangsheimild aĞ %1.3 %1.2. èaĞ er ekki  ritaĞ og er çv¡ ekki t‘kur kerfishlutur.
+@2@1417@0@
+Umbreyta çarf gagnagrunninum  Ğur en h‘gt er aĞ nota hann meĞ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Opna skal gagnagrunninn aftur  n ritvarnar.
+@2@1418@0@
+SQLIndex sem skilgreint er fyrir frumlykilinn  verĞur aĞ innihalda s”mu reiti og lykillinn.
+
+Tafla: %1.1
+SQLIndex reitir: %6
+
+@2@1419@0@
+URL-strengurinn er of langur. H markslengd er %8 stafir.
+@2@1421@0@
+Gildi %3 m  ekki vera meira en %7 b‘ti.
+
+Tafla: %1.1
+@2@1422@0@
+%1.1 er çegar til meĞ sj lfgefiĞ Mitt hlutverk.
+
+Skilgreiningarreitir og gildi:
+
+%6
+@2@1423@0@
+Ekki er h‘gt aĞ r‘sa Microsoft Dynamics NAV Development Environment çv¡ VIEW SERVER STATE heimildina   SQL Server vantar.
+
+Hafa skal samband viĞ kerfisstj¢ra.
+@2@1424@0@
+B‘Ği mark- og upprunat”flur çurfa aĞ v¡sa ¡ s”mu t”fluna.
+@2@1425@0@
+Reiturinn %2.1 çarf aĞ vera auĞur.
+
+Hlutur: %1
+@2@1426@0@
+Hlutnum hefur veriĞ l‘st af '%22' og honum er ekki h‘gt aĞ breyta eĞa eyĞa.
+
+Hlutur: %1
+@2@1427@0@
+Gildi reitsins %2.1 er ekki h‘gt aĞ breyta fyrir l‘stan hlut.
+
+Hlutur: %1
+@2@1428@0@
+è£ çarft aĞ hafa kerfisstj¢rar‚ttindi til aĞ framkv‘ma çetta.
+@2@1429@0@
+Ekki er h‘gt aĞ endurnefna f‘rslu %6 ¡ t”flu %1.1 çv¡ ç  myndi f‘rsla %96 breytast ¡ t”flu %91.1 og forrit er stillt   aĞ rekja breytingar til %91.1. 
+Tenglum er h‘gt aĞ skipta niĞur handvirkt fr  ”llum f‘rslum ¡ t”flu %91.1 til %1.1 %6, endurnefndu f‘rsluna og endurgerĞu tenglana. 
+@2@1431@0@
+Sumir hlutir eru l‘stir ¡ gagnagrunninum. Afl‘sa verĞur çessum hlutum  Ğur en gagnagrunnurinn er uppf‘rĞur.
+@2@1432@0@
+AthugiĞ aĞ %5 skìrslur eru til staĞar sem ekki er h‘gt aĞ endurçìĞa meĞan   umbreytingu gagnagrunns stendur.
+@2@1433@0@
+Taflan %1 inniheldur eitt eĞa fleiri sv‘Ği af gerĞinni Tv¡und sem ekki er h‘gt aĞ uppf‘ra ¡ Microsoft Dynamics NAV-çr¢unarumhverfiĞ. 
+
+Breyta £tliti t”flunnar fyrir uppf‘rslu.
+@2@1434@0@
+Ekki er h‘gt aĞ breyta hlutarkenni ¡ t”flu
+
+Hlutf‘rsla   undan: %6
+Hlutf‘rsla   eftir: %96
+@2@1435@0@
+Ekki t¢kst aĞ endurnefna t”fluna. 
+@2@END@0@
+@1@93@0@
+@2@50001@0@
+ODBC-villa varĞ, en ekki t¢kst aĞ s‘kja neinar upplìsingar um villuna.
+
+Hafa skal samband viĞ kerfisstj¢rann.
+@2@50002@0@
+Ekki t¢kst aĞ r‘sa umhverfi ODBC-rekils.
+
+Hafa skal samband viĞ kerfisstj¢rann.
+@2@50003@0@
+Eftirfarandi ODBC-villa varĞ:
+
+%101.151
+@2@50004@0@
+Eftirfarandi ODBC-villa varĞ:
+
+St”Ğukenni: %101.152
+@2@50005@0@
+Eftirfarandi ODBC-villa varĞ:
+
+Villa: %101.151
+St”Ğukenni: %101.152
+@2@50006@0@
+Eftirfarandi villur urĞu ¡ SQL-çj¢ni:
+
+%103
+@2@50007@0@
+Eftirfarandi villur urĞu   SQL-çj¢ni viĞ opnun t”flunnar %1.1:
+
+%103
+@2@50008@0@
+NEXT aĞgerĞarkall fannst   f‘rslu  n samsvarandi FIND/FINDSET kalls.
+@2@51002@0@
+Tengingu viĞ gagnagrunninn %102.155   çj¢ninum %102.154 hefur çegar veriĞ komiĞ  .
+@2@51003@0@
+Tengingu viĞ çj¢n og gagnagrunn hefur ekki veriĞ komiĞ  .
+@2@51004@0@
+F‘rsla hefur çegar hafist. FaldaĞar f‘rslur eru ekki studdar.
+@2@51005@0@
+Ekki er h‘gt aĞ gera çetta ¡ f‘rslu.
+@2@51008@0@
+Reynt er uppf‘ra eĞa eyĞa einni eĞa fleiri f‘rslum utan tilskilinnar aĞgerĞarlotu.
+@2@51009@0@
+èetta er aĞeins h‘gt aĞ gera ¡ aĞgerĞarlotunum Update eĞa UpdateNoLocks.
+@2@51010@0@
+èetta er aĞeins h‘gt aĞ gera ¡ aĞgerĞarlotunni Snapshot.
+@2@51011@0@
+èetta er aĞeins h‘gt aĞ gera ¡ aĞgerĞarlotunni Browse.
+@2@51012@0@
+Ekki er studd beiĞni um aĞ l‘sa t”flunni %1.1 meĞ TRUE ¡ Wait-f‘ribreytu.
+@2@51013@0@
+èetta er aĞeins h‘gt aĞ gera ¡ f‘rslunni Update eĞa Snapshot.
+@2@52001@0@
+Gagnagrunnurinn %102.155 er ekki til   çj¢ninum %102.154.
+@2@52002@0@
+Gagnagrunnurinn %102.155 er çegar til   çj¢ninum %102.154.
+@2@52003@0@
+Gagnagrunninn %102.155   netçj¢ninum %102.154 er ekki h‘gt aĞ opna ¡ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Uppf‘ra skal gagnagrunninn ¡ Microsoft Dynamics NAV 2013  Ğur en hann er opnaĞur meĞ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+@2@52004@0@
+Samh‘fisstigiĞ %102.161 fyrir gagnagrunninn er of l gt fyrir çessa £tg fu af Microsoft Dynamics NAV Development Environment. 
+
+Breyta çarf samh‘fisstiginu ¡ %102.162  Ğur en gagnagrunnurinn er opnaĞur aĞ nìju. 
+@2@52005@0@
+Netçj¢nninn %102.154 hefur ekki leyfisupplìsingar fyrir Microsoft Dynamics NAV Development Environment. èessar upplìsingar eru nauĞsynlegar svo h‘gt s‚ aĞ f  aĞgang aĞ çj¢ninum.
+
+Svo h‘gt s‚ aĞ setja leyfisskr  inn   netçj¢ninn çarf notandinn aĞ vera meĞ gagnagrunnshlutverkiĞ db_owner ¡ aĞalgagnagrunninum.
+
+Smellt er   Ö lagi til aĞ velja leyfisskr  til aĞ setja inn eĞa H‘tta viĞ til aĞ h‘tta.
+@2@52006@0@
+Ekki er h‘gt aĞ opna %102.155 gagnagrunninn   netçj¢ninum %102.154 ¡ çessari £tg fu af Microsoft Dynamics NAV Development Environment. Gagnagrunninum hefur çegar veriĞ breytt ¡ nìrri £tg fu af kerfinu.
+
+Uppf‘ra çarf Microsoft Dynamics NAV Development Environment ¡ nìjustu £tg fu til aĞ opna gagnagrunninn.
+@2@52007@0@
+Gagnagrunnurinn %102.155   netçj¢ninum %102.154 inniheldur ekki kerfishluti Microsoft Dynamics NAV Development Environment og ekki er h‘gt aĞ opna hann.
+@2@52008@0@
+èj¢nninn %102.154 finnst ekki. Reyna skal aftur s¡Ğar eĞa hafa samband viĞ kerfisstj¢ra.
+@2@52009@0@
+èj¢nninn %102.154 keyrir ekki studda £tg fu af SQL Server.
+
+µĞur en h‘gt er aĞ nota çj¢ninn meĞ Microsoft Dynamics NAV Development Environment çarf aĞ uppf‘ra hann ¡ %1 £tg fu %22 eĞa nìrri.
+@2@52010@0@
+GildiĞ %102.160 sem fylgir fyrir nettegund er ekki t‘kt. Tilt‘kar nettegundir eru: %22.
+@2@52011@0@
+ODBC-rekill SQL Server   t”lvunni er ekki studdur.
+
+µĞur en h‘gt er aĞ nota rekilinn meĞ Microsoft Dynamics NAV Development Environment çarf aĞ uppf‘ra hann ¡ £tg fu %22 eĞa nìrri.
+@2@52012@0@
+èj¢nninn %102.154 svarar ekki lengur. µst‘Ğan er hugsanlega ein af eftirfarandi:
+
+* Sl”kkt hefur veriĞ   çj¢ninum, annaĞhvort handvirkt eĞa vegna villu.
+* Kerfisstj¢ri hefur st”ĞvaĞ lotuna.
+* Netvilla varĞ.
+* OrĞiĞ hefur bilun ¡ v‚lb£naĞi ¡ çj¢ninum eĞa t”lvu notanda.
+
+Reyna skal aftur s¡Ğar eĞa hafa samband viĞ kerfisstj¢ra.
+@2@52014@0@
+Engin kerfisstafatafla er   t”lvunni sem hìsir Microsoft Dynamics NAV Server sem passar viĞ stafat”fluna %7 ¡ r”Ğuninni %22 fyrir gagnagrunninn %102.155.
+
+Kerfisstafat”flur Microsoft Dynamics NAV Server eru: %1.
+
+Tryggja çarf aĞ landsvalkostir ¡ t”lvunni sem hìsir Microsoft Dynamics NAV Server noti r‚tt kerfistungum l og landsstaĞal svo stafat”flurnar stemmi.
+
+Til aĞ komast hj  çessum villuboĞum getur kerfisstj¢ri gert stillinguna 'StaĞfesta r”Ğun' ¢virka ¡ glugganum Breyta gagnagrunni ¡ Microsoft Dynamics NAV Development Environment.
+@2@52015@0@
+Engin kerfisstafatafla er ¡ t”lvunni sem samsvarar stafat”flunni %7 ¡ r”Ğuninni %22 fyrir gagnagrunninn %102.155.
+
+Kerfisstafat”flur notanda eru: %1.
+
+Tryggja skal aĞ landsvalkostir t”lvunnar noti r‚tt kerfistungum l og landsstaĞal svo aĞ stafat”flurnar stemmi.
+
+Til aĞ komast hj  çessum villuboĞum getur kerfisstj¢ri gert stillinguna 'StaĞfesta r”Ğun' ¢virka ¡ glugganum Breyta gagnagrunni Microsoft Dynamics NAV Development Environment.
+@2@52016@0@
+R”Ğunin %22 er ekki studd ¡ Microsoft Dynamics NAV Development Environment.
+@2@52017@0@
+Breyta çarf gagnagrunninum %102.155   çj¢ninum %102.154  Ğur en h‘gt er aĞ nota hann ¡ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Ef gagnagrunninum er breytt verĞur ekki h‘gt aĞ opna hann ¡ eldri £tg fum Microsoft Dynamics NAV Development Environment.
+
+ViĞ m‘lum meĞ çv¡ aĞ tekiĞ s‚ ”ryggisafrit af gagnagrunni eĞa yfirlitsskr  yfir hreyfingar ¡ SQL Server fyrir breytingu.
+
+Smellt er   Ö lagi til aĞ breyta gagnagrunninum eĞa H‘tta viĞ til aĞ h‘tta viĞ gildandi aĞgerĞ.
+@2@52018@0@
+Umbreyta çarf gagnagrunninum %102.155   çj¢ninum %102.154  Ğur en h‘gt er aĞ nota hann meĞ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Ef  gagnagrunninum er umbreytt verĞur honum umbreytt ¡ Unicode og r”Ğunin uppf‘rĞ ¡ ç  Windows r”Ğun sem samsvarar best. Ekki verĞur ç  h‘gt aĞ opna hann meĞ eldri £tg fum af Microsoft Dynamics NAV Development Environment.
+
+M‘lt er meĞ çv¡ aĞ tekiĞ s‚ ”ryggisafrit af gagnagrunni eĞa yfirlitsskr  yfir hreyfingar ¡ SQL Server fyrir breytingu.
+
+Smella skal   Ö lagi til aĞ umbreyta gagnagrunninum eĞa H‘tta viĞ til aĞ h‘tta.
+@2@52020@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@52021@0@
+Umbreyting   gagnagrunni %102.155 krefst çess aĞ gagnagrunnsvalkosturinn "Umbreyta kennum" s‚ virkur.
+
+Nota skal fyrri £tg fu af çr¢unarumhverfi Microsoft Dynamics NAV til aĞ gera valkostinn virkan og hefja umbreytingu   nì.
+@2@52022@0@
+Ekki er h‘gt aĞ fjarl‘gja neinn eftirfarandi stafa £r kennum: [%22].
+@2@52023@0@
+ValiĞ hefur veriĞ aĞ breyta kennum sem hluta af breytingu   gagnagrunni.
+
+Smellt er   Ö lagi ef halda    fram aĞ breyta gagnagrunninum eĞa   H‘tta viĞ til aĞ h‘tta viĞ.
+@2@52024@0@
+Ekki er h‘gt aĞ breyta stillingunum 'ViĞhalda yfirlitum', 'ViĞhalda venslum' eĞa 'ViĞhalda sj lfgildum'   meĞan kennum er breytt.
+@2@52025@0@
+Ö kenninu [%1] er einn af eftirfarandi ¢t‘kum st”fum: [%22].
+@2@52026@0@
+Ekki  er h‘gt aĞ breyta gagnagrunnsr”Ğun   meĞan samç‘ttingarstillingum er breytt.
+@2@52027@0@
+ValiĞ hefur veriĞ aĞ breyta stillingum gagnagrunnsr”Ğunar sem hluta af gagnagrunnsbreytingum.
+
+Smellt er Ö lagi ef halda    fram aĞ breyta gagnagrunninum eĞa H‘tta viĞ til aĞ h‘tta viĞ gildandi aĞgerĞ.
+@2@52028@0@
+Ganga skal £r skugga um aĞ notandinn s‚ eini notandinn sem hefur aĞgang aĞ gagnagrunninum %102.155 og gera stillinguna 'Einn notandi' virka til aĞ framkv‘ma valdar gagnagrunnsbreytingar.
+@2@52029@0@
+Gagnagrunnsbreytingum er lokiĞ.
+
+N£ çarf aĞ loka gagnagrunninum og opna hann aftur svo aĞ stillingarnar taki gildi. Gera skal stillinguna 'Einn notandi' ¢virka svo aĞ aĞrir notendur geti notaĞ gagnagrunninn.
+@2@52030@0@
+Hluta-/d lkheitiĞ '%1' ¡ gagnagrunninum %102.155 inniheldur einn af eftirt”ldum st”fum:
+
+[%22]
+
+Ekki er h‘gt aĞ breyta çessum st”fum   r‚ttan h tt çegar skipt er ¡ nìju r”Ğunina.
+
+AnnaĞ hvort skal velja aĞra r”Ğun sem getur birt stafina ¡ hlutnum eĞa endurnefna hlutinn.
+@2@52031@0@
+%1
+@2@52032@0@
+%1
+@2@52034@0@
+Ekki er b£iĞ aĞ frumstilla çj¢ninn %102.154 meĞ leyfi fr  Microsoft Dynamics NAV Development Environment.
+@2@52035@0@
+Umbreyta çarf %102.155 gagnagrunninum   %102.154 çj¢ninum af Microsoft Dynamics NAV Development Environment  Ğur en h‘gt er aĞ nota hann meĞ Microsoft Dynamics NAV Server.
+@2@52036@0@
+µĞur en h‘gt er aĞ umbreyta gagnagrunninum çarf aĞ nota eldri £tg fu af Microsoft Dynamics NAV Development Environment til aĞ gera ¢virkar samç‘ttingarstillingar fyrir 'ViĞhalda yfirlitum', 'ViĞhalda venslum' og 'ViĞhalda sj lfgildum'. AĞgangur aĞ çessum stillingum f‘st meĞ çv¡ aĞ opna valmyndina Skr  og smella   Gagnagrunnur og svo   Breyta.
+@2@52037@0@
+ValiĞ hefur veriĞ aĞ breyta stillingum gagnagrunnsr”Ğunar sem hluta af gagnagrunnsbreytingum.
+
+AĞeins er h‘gt aĞ breyta r”Ğun ef çegar var hakaĞ viĞ stillinguna 'StaĞfesta r”Ğun'  Ğur en gagnagrunninum var breytt.
+@2@52040@0@
+AĞgerĞin verĞur st”ĞvuĞ vegna çess aĞ Windows er çessa stundina aĞ reyna aĞ fara ¡ dvala, hv¡ldarst”Ğu eĞa biĞst”Ğu.
+@2@52041@0@
+èaĞ er engin stafatafla ¡ t”lvunni sem passar viĞ stafat”fluna %7 ¡ r”Ğuninni %22 fyrir gagnagrunninn %102.155.
+
+Stafat”flurnar eru: %1.
+
+Tryggja çarf aĞ landsvalkostir t”lvunnar noti r‚tt kerfistungum l og landsstaĞal svo stafat”flurnar stemmi.
+
+Einnig er h‘gt aĞ gera stillinguna 'StaĞfesta r”Ğun' ¢virka fyrir çennan gagnagrunn. Hugsanlega verĞur tilteknum textag”gnum ekki umbreytt   r‚ttan m ta çegar çau eru vistuĞ ¡ gagnagrunninum.
+
+Smellt er   Ö lagi til aĞ gera stillinguna 'StaĞfesta r”Ğun' ¢virka og halda  fram aĞ breyta gagnagrunninum eĞa   H‘tta viĞ til aĞ h‘tta.
+@2@52042@0@
+StaĞfesting gagnagrunnsr”Ğunar var ekki valin viĞ breytingar   gagnagrunninum.
+
+èar meĞ geta t”lvur meĞ stafat”flur sem ekki stemma viĞ r”Ğunina notaĞ gagnagrunninn. Hugsanlega verĞur tilteknum textag”gnum ekki umbreytt   r‚ttan m ta çegar çau eru vistuĞ ¡ gagnagrunninum, çegar hann er notaĞur af sl¡kum t”lvum.
+
+Smellt er   Ö lagi til aĞ halda  fram aĞ breyta gagnagrunninum eĞa H‘tta viĞ til aĞ h‘tta.
+@2@52043@0@
+Gagnagrunnurinn %102.155   çj¢ninum %102.154 krefst çess aĞ leyfi fyrir gagnagrunn s‚ opnaĞ   %22.
+@2@52044@0@
+Umbreyta çarf gagnagrunninum %102.155   çj¢ninum %102.154  Ğur en h‘gt er aĞ nota hann meĞ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Umbreyta çarf gagnagrunni  Ğur en hann er notaĞur   %22 çj¢ni.
+@2@52045@0@
+Ekki er h‘gt aĞ b£a til gagnagrunn   %102.154 %22 çj¢ninum.
+@2@52046@0@
+Ekki er h‘gt aĞ stilla valkostinn "Einn notandi" fyrir gagnagrunninn %102.155   çj¢ninum %102.154.
+
+Ganga skal £r skugga um aĞ engin ”nnur lota SQL-çj¢ns s‚ aĞ nota gagnagrunninn.
+@2@52047@0@
+Umbreyta çarf gagnagrunninum %102.155   çj¢ninum %102.154  Ğur en h‘gt er aĞ nota hann meĞ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Umbreyting   gagnagrunni getur ekki haldiĞ  fram çv¡ aĞrar lotur SQL-çj¢ns eru aĞ nota gagnagrunninn.
+
+Loka skal ”llum ”Ğrum lotum og reyna svo aftur.
+@2@52048@0@
+Til staĞar eru %1 skìrslur sem voru çìddar fyrir umbreytingu gagnagrunnsins en sem ekki er h‘gt aĞ çìĞa n£na.
+@2@53003@0@
+NauĞsynlegar heimildir fyrir SQL Server eru ekki fyrir hendi til aĞ framkv‘ma çessar ”ryggisaĞgerĞir.
+@2@53011@0@
+Umbreyta çarf gagnagrunninum %102.155   çj¢ninum %102.154  Ğur en h‘gt er aĞ nota hann meĞ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+
+Notandinn çarf aĞ tilheyra db_owner gagnagrunnshlutverkinu ¡ çessum gagnagrunni til aĞ umbreyta honum.
+@2@53015@0@
+Innskr ning mist¢kst çegar tengst var viĞ SQL Server %102.154.
+@2@54001@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 er ekki ¡ t”flu eĞa yfirliti SQL-çj¢nsins.
+@2@54002@0@
+AĞallykill t”flunnar %1.1 er umfram %22-d lka h mark atriĞaskr r SQL-çj¢ns.
+
+Lykilreitir: %6
+@2@54003@0@
+Tafla %1.2 hefur ekkert heiti.
+@2@54004@0@
+Taflan %1.1 er ekki til sem tilskiliĞ hlutheiti %1.157 ¡ çessum gagnagrunni.
+@2@54005@0@
+Taflan %1.1 er br ĞabirgĞatafla ¡ SQL Server. Ekki er h‘gt aĞ breyta heiti hennar eĞa reitum ¡ henni.
+@2@54006@0@
+Taflan %1.1 er br ĞabirgĞatafla ¡ SQL Server. Microsoft Dynamics NAV Development Environment styĞur ekki notkun br ĞabirgĞataflna ¡ SQL Server.
+@2@54007@0@
+Ö t”flunni %1.1 eru engar h”mlur   aĞallyklum ¡ t”flulìsingu SQL-çj¢ns.
+@2@54008@0@
+Taflan %1.1 hefur ekki ROWVERSION d lk ¡ SQL çj¢ns t”flulìsingu.
+@2@54010@0@
+Taflan %1.1 hefur marga ROWVERSION d lka ¡ SQL Server lìsingu. Lìsingin getur innihaldiĞ aĞ h marki einn ROWVERSION d lk.
+@2@54012@0@
+Heiti t”flunnar %1.1 stangast   viĞ hlut sem til er ¡ SQL Server %1.157.
+@2@54013@0@
+T”fluheitiĞ %1.1 stangast   viĞ fyrirliggjandi SQL Server hlutinn %1.157.
+
+Velja skal annaĞ t”fluheiti eĞa stilla t”flueiginleikann LinkedObject   J  ef tengja   viĞ çennan hlut.
+@2@54014@0@
+Taflan %1.1 v¡sar ¡ hlut %1.157 ¡ SQL Server. Ekki er h‘gt aĞ endurhanna tengda hluti.
+@2@54016@0@
+Taflan %1.1 v¡sar ¡ SQL Server hlut. Ekki er h‘gt aĞ endurhanna tengda hluti.
+@2@54017@0@
+Taflan %1.1 v¡sar ¡ SQL Server hlutinn %1.157. Ekki er h‘gt aĞ tengja viĞ hlutinn çegar SumIndexFields hafa veriĞ skilgreindir.
+@2@54018@0@
+Taflan %1.1 v¡sar ¡ SQL Server hlutinn %1.157. Ekki er h‘gt aĞ tengja viĞ br ĞabirgĞat”fluhlut ¡ SQL Server.
+@2@54019@0@
+SQL Server hluturinn %1.157 sem v¡saĞ er ¡ ¡ t”flunni %1.1 er ekki til.
+@2@54020@0@
+Taflan %1.1 v¡sar ¡ SQL Server hlutinn %1.157 sem er kerfistafla eĞa yfirlit. Ekki er h‘gt aĞ breyta t”flueiginleikanum LinkedObject ¡ Nei fyrir çessar hlutategundir.
+@2@54021@0@
+Taflan %1.1 hefur enga ROWVERSION d lk ¡ SQL Server lìsingu. ROWVERSION d lks er krafist çegar BLOB reitir eru skilgreindir.
+@2@54022@0@
+Taflan %1.1 er meĞ BLOB-reit meĞ ¢t‘kum çj”ppunarg”gnum:
+
+F‘rsla: %6
+Reitur: %2.1
+@2@54023@0@
+TableRelation-eiginleikar ¡ Microsoft Dynamics NAV Development Environment og "foreign keys" ¡ SQL Server hafa ekki veriĞ samstilltir.
+
+Taflan %1.1 v¡sar ¡ t”flu ¡ TableRelation-reitseiginleika reitsins %2.1 sem ekki er til.
+@2@54024@0@
+SumIndexField-lykill t”flunnar %1.1 fer yfir h mark %22 heimilla d lka.
+
+Lykilreitir: %6
+@2@54025@0@
+AĞgerĞin lenti ¡ sj lfheldu çar sem annar notandi var aĞ breyta t”flunni %1.1.
+
+ByrjiĞ aftur.
+@2@54026@0@
+The %1.1 table cannot be changed because it is locked by another user. This can be caused by one of the following tasks:
+
+* Objects are being compiled.
+* Table schema is synchronizing.
+* Objects are being imported.
+
+Wait until the user is finished and then try again.
+@2@56001@0@
+Taflan %1.1 er meĞ reit sem hefur gagnagerĞ ¡ SQL Server sem ekki er h‘gt aĞ vinna meĞ ¡ gildandi aĞgerĞ ¡ Microsoft Dynamics NAV Development Environment:
+
+Reitur: %2.1
+SQL-tegund: %104.159
+@2@56003@0@
+Taflan %1.1 er meĞ reit sem hefur gildi ¡ SQL Server sem er utan leyfilegra marka ¡ Microsoft Dynamics NAV Development Environment:
+
+Reitur: %2.1
+Tegund: %2.3
+@2@56004@0@
+Ö t”flunni %1.1 er reitur meĞ dagsetningargildi sem ekki er h‘gt aĞ nota meĞ SQL-çj¢ni:
+
+F‘rsla: %6
+Reitur: %2
+@2@56005@0@
+Taflan %1.1 er meĞ reit sem hefur gagnagerĞ reitar ¡ Microsoft Dynamics NAV Development Environment sem ekki er samh‘f viĞ gagnagerĞ ¡ SQL Server:
+
+Reitur: %2.1
+Tegund: %2.3
+SQL-tegund: %104.159
+@2@56006@0@
+Taflan %1.1 er meĞ gildi ¡ heilt”luk¢tareit sem ekki er h‘gt aĞ nota ¡ SQL Server:
+
+F‘rsla: %6
+Reitur: %2
+@2@56007@0@
+Taflan %1.1 inniheldur gildi ¡ k¢tareit sem ekki er h‘gt aĞ nota ¡ Microsoft Dynamics NAV Development Environment:
+
+Reitur: %2.1
+Gildi: %22
+@2@56008@0@
+Taflan %1.1 er meĞ gildi ¡ heilt”luk¢tareit sem ekki er h‘gt aĞ nota ¡ Microsoft Dynamics NAV Development Environment:
+
+Reitur: %2.1
+Gildi: %22
+@2@56009@0@
+Ekki er h‘gt aĞ nota gildiĞ sem lagt var til ¡ heilt”luk¢tareit:
+
+Tafla: %1.1
+Reitur: %2.1
+Gildi: %22
+@2@56010@0@
+Ö t”flunni %1.1 er reitgildi sem ekki er h‘gt aĞ umbreyta:
+
+F‘rsla: %6
+Reitur: %2.1
+@2@56011@0@
+Taflan %1.1 inniheldur k¢ta, texta eĞa v¡Ğtextagildi sem er of st¢rt fyrir gagnategundina ¡ SQL Server:
+F‘rsla: %6
+Reitur: %2
+SQL-tegund: %104.159
+@2@56012@0@
+Ö t”flunni %1.1 er heilt”lu-, val- eĞa boole-reitur sem notar DECIMAL eĞa FLOAT SQL Server gagnategund. àt‘kt gildi hefur fundist ¡ çessum reit:
+
+Reitur: %2.1
+SQL-tegund: %104.159
+Gildi: %22
+@2@56014@0@
+Ö t”flunni %1.1 er t¡mareitur sem notar ¢t‘k g”gn fyrir gagna¡hlut gildisins DAGSETNINGARTÖMI:
+
+Reitur: %2.1
+Gildi: %22
+@2@56015@0@
+Ö t”flunni %1.1 er dagsetningarreitur sem notar ¢t‘k g”gn fyrir t¡ma¡hlutinn ¡ gildinu DAGSETNINGARTÖMI:
+
+Reitur: %2.1
+Gildi: %22
+@2@56016@0@
+Ö t”flunni %1.1 er Boole-reitur sem notar ekki BIT SQL Server gagnategund. Gildi sem ekki er 0 eĞa 1 hefur fundist ¡ çessum reit:
+
+Reitur: %2.1
+SQL-tegund: %104.159
+Gildi: %22
+@2@56017@0@
+Ö t”flunni %1.1 eru ¢samkv‘m SumIndexField-gildi:
+
+Lykilreitir: %6
+SumIndexField taflan: %22
+
+HafiĞ samband viĞ kerfisstj¢ra.
+@2@56018@0@
+Taflan %1.1 inniheldur reit meĞ AutoIncrement-gildi sem samsvarar ekki IDENTITY-st”Ğu SQL Server:
+
+Reitur: %2.1
+@2@56019@0@
+Taflan %1.1 inniheldur reit meĞ Variant SQL gagnategund sem aĞeins er h‘gt aĞ breyta ¡ Varchar SQL gagnategundina:
+
+Reitur: %2.1
+@2@END@0@
+@1@30@0@
+@2@1@0@
+%1.1-kenni (%1.3) er notaĞ af %1.2 meĞ heitinu '%1.4'.
+@2@2@0@
+%1.1-Heiti ('%1.4') er notaĞ af %1.2 meĞ kenni %1.3.
+@2@4@0@
+Eiginleiki '%3'   ekki viĞ (n) %1.2.
+@2@5@0@
+Ekki er h‘gt aĞ virkja (n) %1.2.
+@2@6@0@
+Ekki er h‘gt aĞ uppf‘ra (n) %1.2 (aĞeins er h‘gt aĞ uppf‘ra gagnastìringar).
+@2@7@0@
+Ekki m  breyta eiginleika '%3'   %1.2 meĞan hann er opinn!
+(%3 var kallaĞ fyrir %1.2 meĞ heitinu '%1.4'.)
+@2@8@0@
+Eiginleikinn '%3' er ekki kvikur   %1.2.
+(%3 var kallaĞ fyrir %1.2 meĞ heitinu '%1.4'.)
+@2@9@0@
+Kenni (n) %1.2 m  ekki vera n£ll.
+@2@10@0@
+%1.2 meĞ heitinu '%1.4' tilgreindi kenni sem ekki er til (%5) sem yfirstig.
+@2@11@0@
+%1.2 meĞ heitinu '%1.4' getur ekki veriĞ %2.2 meĞ heitinu '%2.4'.
+@2@12@0@
+Reynt var aĞ setja inn stìringu meĞ heitinu '%2.4' sem fyrirs”gn ¡ t”flu eĞa fylkisreit meĞ heitinu '%1.4', og enginn samsvarandi d lkur fannst.
+@2@13@0@
+Reynt var aĞ setja inn stìringu meĞ heitinu '%2.4' sem fylkisfyrirs”gn ¡ fylkisreit meĞ heitinu '%1.4', og fylkishlutinn er t¢mur.
+@2@14@0@
+àleyfilegt blaĞs¡Ğun£mer (%5)   d lkstìringu meĞ heitinu '%1.4'.
+(%3 var stillt   %4 ¡ %2.2 '%2.4').
+@2@15@0@
+Ekki m  setja inn stìringu meĞ heitinu '%2.4' ¡ fylkishluta fylkisreitsins meĞ heitinu '%1.4' çv¡ aĞ stìring meĞ heitinu '%6.4' er çar fyrir.
+@2@16@0@
+Ekki m  setja inn stìringu meĞ heitinu '%2.4' sem fylkisfyrirs”gn fylkisreitsins meĞ heitinu '%1.4' çv¡ aĞ fyrirs”gnin er stìring meĞ heitinu '%6.4'.
+@2@17@0@
+Ekki m  setja inn stìringu meĞ heitinu '%2.4' sem fyrirs”gn t”flureitsins meĞ heitinu '%1.4' çv¡ aĞ stìring meĞ heitinu '%6.4' er çegar s£ fyrirs”gn.
+@2@18@0@
+'%8' er ekki bitamynda-skr  (bitmap) sem ¢h Ğ er skj upplausn.
+@2@19@0@
+èetta er ¢gild bitamynda-skr  sem er ¢h Ğ skj upplausn.
+@2@20@0@
+'%8' er ekki teiknskr .
+@2@21@0@
+'%8' er ¢gild teiknskr .
+@2@22@0@
+Eiginleikinn '%3' er skilyrĞi fyrir (n) %1.2.
+Reynt var aĞ eyĞa '%3' £r %1.2 meĞ heitinu '%1.4'.
+@2@23@0@
+Ekki m  setja inn stìringu meĞ heitinu '%2.4' sem fylkishluta '%1.4' çv¡ aĞ '%1.4' er ekki fylkisreitur.
+@2@24@0@
+Ekki m  setja stìringuna meĞ heitinu '%2.4' sem fyrirs”gn lista, t”flu eĞa fylkisreits '%1.4' çv¡ aĞ tilgreint var aĞ '%1.4' skuli ekki hafa fyrirs”gn.
+@2@25@0@
+Kvikum eiginleika '%3' m  ekki breyta ¡ çessu samhengi.
+
+Reynt var aĞ breyta '%3' ¡ %4 ¡ '%1.2 meĞ heitinu '%1.4'.
+@2@26@0@
+Eiginleikann '%3' m  ekki setja   %4 fyrir %1.2 meĞ heitinu '%1.4'.
+@2@28@0@
+Bitamynd nr. %5 er ekki hluti af forritinu.
+
+ForritiĞ innheldur bitamyndir meĞ n£mer   bilinu 1 - 53.
+@2@29@0@
+Ekki var tekiĞ tillit til s¡Ğustu breytingaraĞgerĞar (oft 'l¡ma') çar sem h£n hefĞi fariĞ yfir h marksfj”lda stafa (%5) fyrir textasv‘ĞiĞ %1.4.
+@2@30@0@
+Ekki er h‘gt aĞ loka '%1.5' çv¡ aĞ viĞkomandi er l‘st(ur) af  '%2.5'.
+
+Lj£ka çarf '%2.5'  Ğur en lokaĞ er.
+@2@31@0@
+Eiginleikinn '%3'   %1.2 meĞ heitinu '%1.4' er utan marka (bil h mark %4).
+@2@32@0@
+%3 getur ekki veriĞ %8.
+
+Heimil gildi eru: 'infinite', 'default' eĞa heilt”lur fr  0 til %5.
+@2@33@0@
+St‘rĞ l¡mda d lksins %1.5 var breytt svo aĞ hann st‘kkaĞi sj lfkrafa og fyllti autt sv‘Ği.
+@2@34@0@
+%3 getur ekki veriĞ %8.
+
+Nota çarf t‘ka lyklasamsetningu, eins og Ctrl+F5.
+@2@35@0@
+Ekki er h‘gt aĞ nota %4 sem kenni çar sem çaĞ hefur çegar veriĞ notaĞ ¡ valmynd.
+@2@36@0@
+%3 getur ekki innifaliĞ %8.
+
+H marksst‘rĞ   %3 (meĞ skr rheiti og sl¢Ğ) er 32 K (32756 b‘ti).
+@2@37@0@
+%3 getur ekki innifaliĞ %8.
+
+H marksst‘rĞ bitamyndalistans ¡ heild ¡ %3 (meĞ skr rheitum og sl¢Ğum) er 32 K (32756 b‘ti).
+@2@38@0@
+Ekki m  loka '%1.5' çar sem kerfiĞ er starfandi.
+@2@39@0@
+%3 af %1.2 meĞ heitinu '%1.4' getur ekki veriĞ %4 çar sem niĞurstaĞan yrĞi hringv¡sun - %1.2 meĞ heitinu '%1.4' sem yfirstig %2.2 meĞ heitinu '%2.4'
+@2@43@0@
+Ekki m  breyta eĞa eyĞa handvirkt %3 £r %1.2 meĞ heitinu '%1.4'.
+
+Ef breyta   geyminum er '%1.4' ¡ staĞinn dregiĞ meĞ m£sinni.
+@2@44@0@
+Ekki er h‘gt aĞ breyta eĞa eyĞa %3 £r %2.2 meĞ heitinu '%2.4' çar sem çaĞ er hluti af %1.2 meĞ heitinu '%1.4'.
+@2@45@0@
+Ekki geta veriĞ fleiri en eitt virkt biĞlaraverk af Microsoft Dynamics NAV Development Environment ¡ gangi ¡ einu ¡ 16-bita Windows. 
+@2@47@0@
+C/SIDE tengill br st.
+
+Reynt var aĞ nota tengil til aĞ tengjast çessu marki:
+%8
+
+µ aĞ setja tengilsmarkiĞ   klemmuspjaldiĞ?
+@2@49@0@
+C/SIDE gat ekki hlaĞiĞ Windows-tilfang (resource).
+
+Windows-tilf”ng kunna aĞ vera l¡til.
+Loka çarf nokkrum gluggum og reyna aftur.
+@2@50@0@
+%3 getur ekki veriĞ %4.
+
+LeyfĞ gildi eru heilt”lur fr  220 til %5.
+@2@52@0@
+Sl¢Ğin er of l”ng. Lengd sl¢Ğarinnar m  ekki vera meiri en %5 b‘ti.
+@2@53@0@
+Ekki er h‘gt aĞ virkja undirglugga  n virka aĞalgluggans.
+@2@54@0@
+Ekki er h‘gt aĞ virkja undirglugga  n virka aĞalgluggans.
+Kenni aĞalglugga=%1.
+@2@55@0@
+Fj”ldi f‘rslna ¡ t”flunni er meiri en tiltekinn h marksfj”ldi %1.
+
+AnnaĞ hvort çarf aĞ velja afm”rkun til aĞ draga £r fj”lda f‘rslna ¡ t”flunni eĞa smella   Verkf‘ri, 
+Valkostir og auka h marksfj”lda f‘rslna sem m  flytja £t.
+
+étflutningur margra f‘rslna ¡ einu getur dregiĞ £r afk”stum kerfisins.
+@2@56@0@
+Alvarleg innri villa.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ The Connection between the Database and Forms                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@60@0@
+@2@1@0@
+Glugginn çekkir ekki stìringu %6.
+@2@2@0@
+Ekki er h‘gt aĞ setja %1 ¡ gluggann.
+@2@3@0@
+Ekki er h‘gt aĞ breyta %1 ¡ çessum glugga.
+@2@4@0@
+Ekki er h‘gt aĞ eyĞa %1 ¡ çessum glugga.
+@2@5@0@
+Felli-val er ekki h‘gt aĞ nota h‚r çar sem um enga valkosti er aĞ r‘Ğa.
+@2@6@0@
+Ekki er h‘gt aĞ kalla   CurrForm.UPDATE h‚Ğan.
+@2@7@0@
+T¡makveikjur eru ekki fyrir hendi.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA_Control  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ Controls used in the Connection between                 ³
+// ³                  the Database and Forms                                  ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@61@0@
+@2@1@0@
+'%3' er ekki leyfilegt gildi.
+@2@2@0@
+Stìringin %9(%6) hefur ¢leyfileg g”gn af tegundinni %7. Leyfilegar tegundir gagna eru: %8.
+@2@3@0@
+'%3' er ekki leyfilegt gildi. H‘gt er aĞ nota eftirtalin gildi: %5.
+@2@4@0@
+Reiturinn m  ekki vera auĞur. Rita çarf gildi.
+@2@5@0@
+Ö reitnum er ¢t‘kur stafur (%1). H‘gt er aĞ nota eftirtalda stafi: %4.
+@2@6@0@
+Ö çennan reit ‘tti aĞ f‘ra t”lu.
+@2@7@0@
+H‚r er ekki h‘gt aĞ tilgreina lokunardagsetningu.
+@2@10@0@
+H‚r skal tilgreina tugastaf eĞa £treikningsm ta.
+@2@11@0@
+Reiturinn m  hafa mest %5 aukastafi.
+@2@13@0@
+Ekki m  breyta stìringunni %9(%6) çv¡ aĞ ekki er h‘gt aĞ breyta tengdum gagnagrunnsreit.
+@2@14@0@
+'CharAllowed' verĞur aĞ vera stafapar. Fyrsti stafurinn ¡ parinu verĞur aĞ vera jafn eĞa minni en s  s¡Ğari.
+@2@15@0@
+AĞgangsorĞiĞ er meĞ ¢gildan staf.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ADSI ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Active Directory Services Interface                                     ³
+// ³                                                                          ³
+// ³  ID values:    1- 199   General errors                                   ³
+// ³              200- 249   AD Schema errors                                 ³
+// ³              250- 269   Service Connection Point errors                  ³
+// ³                                                                          ³
+// ³             1xxx        Information (success) message corresponding to   ³
+// ³                                               the xxx error message      ³
+// ³                                                                          ³
+// ³  Symbol   Substitution   Explanation/Examples                            ³
+// ³  ------   ------------   --------------------                            ³
+// ³                                                                          ³
+// ³    %1     Text           Error text retrieved from ADSI                  ³
+// ³                                                                          ³
+// ³    %2     Text           Error context                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@142@0@
+@2@1@0@
+Ekki t¢kst aĞ frumstilla Active Directory Service.
+@2@2@0@
+Hringing ¡ çj¢nustuskil Active Directory heppnaĞist ekki.
+
+Eftirfarandi villa kom upp:
+%1
+Hafa skal samband viĞ kerfisstj¢ra.
+@2@3@0@
+KerfiĞ gat ekki s¢tt hlutinn %2 £r Active Directory.
+
+KerfiĞ skilaĞi eftirfarandi villu:
+%1
+HafiĞ samband viĞ kerfisstj¢ra eĞa s”luaĞila til aĞ f  aĞstoĞ.
+@2@4@0@
+KerfiĞ s¢tti ekki alt‘ka efnisskr  £r Active Directory.
+èetta getur stafaĞ af netvandam lum eĞa af çv¡ aĞ Active Directory aĞgerĞir vantar ¡ t”lvunni eĞa   netinu.
+
+KerfiĞ skilaĞi eftirfarandi villu:
+%1
+
+Active Directory virkni er ekki tilt‘k.
+HafiĞ samband viĞ kerfisstj¢ra eĞa s”luaĞila til aĞ f  aĞstoĞ.
+@2@5@0@
+KerfiĞ s¢tti ekki alt‘ka efnisskr  £r Active Directory.
+èaĞ kann aĞ stafa af netvandam lum eĞa çv¡ aĞ Active Directory er ekki virkt   t”lvunni eĞa netinu.
+
+Active Directory er ekki tilt‘kt.
+HafiĞ samband viĞ kerfisstj¢ra eĞa s”luaĞila til aĞ f  aĞstoĞ.
+@2@250@0@
+Kerfinu t¢kst ekki aĞ kynna eĞa uppf‘ra gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic  Service Connection Point ¡ Active Directory.
+
+KerfiĞ skilaĞi eftirfarandi villu:
+%1
+Kerfisstj¢ri eĞa s”luaĞili veita n nari aĞstoĞ.
+@2@251@0@
+Kerfinu t¢kst ekki aĞ skrifa gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic Database Server Service Connection Point GUID ¡ stìriskr .
+èj¢nninn getur ekki uppf‘rt Service Connection Point.
+@2@252@0@
+Kerfinu t¢kst ekki aĞ birta gagnagrunnsnetçj¢n fyrir Microsoft Dynamics NAV Classic Database Server Service Connection Point ¡ Active Directory.
+
+Ef Microsoft Dynamics NAV Classic Database Server   aĞ geta kynnt Service Connection Point çarf aĞ auka grind Active Directory ¡ l‚nsstj¢ra netsins. Kerfisstj¢ri veitir n nari upplìsingar.
+
+Nota skal verkf‘riĞ SchemaXt sem er   uppsetningardiskinum til aĞ b‘ta çessum stuĞningi viĞ Active Directory.
+
+Til athugunar: Microsoft Dynamics NAV Classic Database Server virkar  n Service Connection Point. Hinsvegar geta biĞlarar ekki birt lista yfir çj¢na   netinu.
+@2@253@0@
+KerfiĞ gat ekki uppf‘rt gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic Service Connection Point ¡ Active Directory.
+Stìriskr rf‘rslan er ekki til.
+@2@254@0@
+KerfiĞ gat ekki birt gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic Service Connection Point ¡ Active Directory.
+StìrikerfiĞ styĞur ekki birtingu   çj¢nustu. StìrikerfiĞ verĞur aĞ vera Microsoft Windows 2000 eĞa nìrra.
+èetta hefur ekki  hrif   virkni gagnagrunnsçj¢ns Microsoft Dynamics NAV Classic. Hinsvegar geta biĞlarar ekki flett upp   çessum çj¢ni.
+@2@260@0@
+KerfiĞ gat ekki fjarl‘gt gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic Service Connection Point £r Active Directory.
+
+KerfiĞ skilaĞi eftirfarandi villu:
+%1
+Kerfisstj¢ri eĞa s”luaĞili veita n nari stuĞning.
+@2@261@0@
+KerfiĞ gat ekki fjarl‘gt gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic Service Connection Point £r Active Directory.
+Stìriskr rf‘rslan er ekki til.
+@2@1250@0@
+KerfiĞ birti gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic Service Connection Point ¡ Active Directory.
+@2@1260@0@
+KerfiĞ fjarl‘gĞi gagnagrunnsçj¢n fyrir Microsoft Dynamics NAV Classic Service Connection Point £r Active Directory.
+@2@END@0@
+//   ÚÄÄÄÄÄ¿
+// ÚÄ´ OIO ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÙ                                                                  ³
+// ³                                                                          ³
+// ³  Module_OIO                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@27@0@
+@2@2@0@
+Diskurinn sem valinn var til aĞ vista ”ryggisafritiĞ   er of l¡till fyrir auĞkennab lkinn. Velja çarf geymslumiĞil meĞ meira rìmi.
+@2@3@0@
+Ekki er n‘gilegt rìmi   diskinum. Nota çarf disk meĞ meira geymslurìmi.
+@2@4@0@
+™ryggisafritiĞ er skemmt (r”ng pr¢fsumma).
+@2@6@0@
+™ryggisafritiĞ er skemmt (¢v‘nt tegund gagna).
+@2@8@0@
+Keyrslan afrita/endurheimta hefur veriĞ st”ĞvuĞ.
+@2@16@0@
+™ryggisafritiĞ er ekki ”ryggisafrit £r Microsoft Dynamics NAV Development Environment.
+@2@17@0@
+™ryggisafrit og forrit eru meĞ mismunandi £tg fun£mer.
+@2@18@0@
+Skr asniĞiĞ "%1" er ekki stutt ¡ çessari £tg fu af Microsoft Dynamics NAV Development Environment.
+@2@20@0@
+™ryggisafritiĞ er ekki ”ryggisafrit £r Microsoft Dynamics NAV Development Environment.
+@2@21@0@
+èessi .fob-skr  er g”mul £tg fa sem virkar ekki meĞ Microsoft Dynamics NAV Development Environment. Nota skal Microsoft Dynamics NAV 2013 Development Environment til aĞ flytja hana inn ¡ Microsoft Dynamics NAV 2013 gagnagrunn og flytja s¡Ğan £t uppf‘rĞa forritshlutinn ¡ nìja .fob-skr .
+@2@100@0@
+Endurheimt ”ryggisafritsins var rofin çar sem fyrirt‘ki '%10' er çegar til ¡ gagnagrunni.
+@2@101@0@
+KerfiĞ sem bìr til ”ryggisafrit finnur ekki skr na %1. Athuga çarf hvort notaĞur er r‚ttur diskur.
+@2@102@0@
+Diskurinn sem valinn var fyrir ”ryggisafritiĞ er of l¡till fyrir allt ”ryggisafritiĞ. Velja çarf geymslumiĞil meĞ meira rìmi.
+@2@103@0@
+Endurheimt var st”ĞvuĞ çar sem g”gn sameiginleg ”llum fyrirt‘kjum eru ¡ gagnagrunni.
+@2@200@0@
+Einn eĞa fleiri hlutir sem reynt er aĞ flytja inn er ekki meĞ  ritun og er çv¡ ekki
+t‘kur kerfishlutur. H‘tt er viĞ innflutning.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  IE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Binary Object Import/Export                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@169@0@
+@2@1@0@
+Stofnun er aĞeins leyfĞ fyrir nìja hluti.
+@2@2@0@
+Yfirskrift er aĞeins leyfĞ fyrir nìja hluti.
+@2@3@0@
+AĞeins er h‘gt aĞ tvinna (merge) t”flur.
+@2@4@0@
+AĞeins er leyft aĞ eyĞa t¢mum hlutum.
+@2@5@0@
+AĞeins m  nota t¢ma hluti til çess aĞ eyĞa ”Ğrum hlutum.
+
+Velja skal annaĞhvort Sleppa eĞa EyĞa.
+@2@101@0@
+B£iĞ er aĞ lesa alla hluti og engir  rekstrar komu ¡ lj¢s.
+
+ValiĞ er J  til aĞ flytja inn alla hluti, Nei til aĞ opna innflutningsgluggann eĞa H‘tta viĞ til aĞ st”Ğva innflutninginn.
+@2@102@0@
+Ekki er h‘gt aĞ flytja inn hlutina ¡ %1 s”kum çess aĞ stillingar   vinnublaĞinu ¡ innflutningsskr  eiga ekki viĞ hlutina ¡ viĞkomandi gagnagrunni og/eĞa hlutina sem veriĞ er aĞ reyna aĞ flytja inn.
+
+ValiĞ er Ö lagi til aĞ opna innflutningsgluggann eĞa H‘tta viĞ til aĞ st”Ğva innflutninginn.
+@2@103@0@
+Ekki er h‘gt aĞ flytja inn hlutina ¡ %1 s”kum çess aĞ çaĞ komu upp £tg fu rekstrar viĞ hluti sem çegar voru ¡ gagnagrunni.
+
+ValiĞ er Ö lagi til aĞ opna innflutningsgluggann eĞa H‘tta viĞ til aĞ st”Ğva innflutninginn.
+@2@400@0@
+'%1' ”ryggisafritun lokiĞ meĞ g¢Ğum  rangri.
+@2@401@0@
+™ryggisafritiĞ '%1' var endurheimt meĞ g¢Ğum  rangri.
+@2@404@0@
+™ryggisafritiĞ '%1' var endurheimt.
+
+Ekki t¢kst aĞ s‘kja notandaupplìsingar (Windows-villuk¢ti '%2'). B‘ta ‘tti Windows-innskr ningu handvirkt viĞ til aĞ virkja ”ryggiskerfiĞ.
+@2@600@0@
+Ekki er n‘gilegt rìmi   diskinum fyrir allan auĞkennab lkinn. Velja çarf geymslumiĞil meĞ meira rìmi.
+@2@602@0@
+Skr in er skemmd (r”ng pr¢funarsumma).
+@2@603@0@
+Skr in er skemmd (¢v‘nt tegund gagna).
+@2@604@0@
+VerkiĞ hefur veriĞ st”ĞvaĞ.
+@2@605@0@
+Skr in er ekki hlutaskr  Microsoft Dynamics NAV Development Environment.
+@2@606@0@
+Hlutskr in og forritiĞ eru meĞ mismunandi £tg fun£mer.
+@2@607@0@
+Ekki er h‘gt aĞ nota hlutskr na meĞ çessari £tg fu kerfisins.
+@2@608@0@
+Skr in er ekki hlutaskr  Microsoft Dynamics NAV Development Environment.
+@2@609@0@
+Skr in %1 finnst ekki. Athuga çarf hvort notaĞur er r‚ttur diskur.
+@2@610@0@
+Ekki er n‘gilegt rìmi   diskinum fyrir alla hlutskr na. Velja çarf geymslumiĞil meĞ meira rìmi.
+@2@700@0@
+Ekki er h‘gt aĞ flytja hluti ¡ gagnagrunninn. Eftirfarandi  rekstrar fundust:
+
+%1
+@2@END@0@
+
+
+//   ÚÄÄÄÄ¿
+// ÚÄ´ WZ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Wizards                                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@111@0@
+@2@1@0@
+Ekki er h‘gt aĞ nota leiĞsagnarforrit nema tilgreina t”flu.
+@2@2@0@
+Kenni t”flu %1 er ekki til. 
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  DM  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Data Manager                                                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@110@0@
+@2@1@0@
+Of margir FlowField eru ¡ glugganum. Ö glugga geta mest birst %1 FlowFields.
+
+Fjarl‘gja çarf nokkra reiti £r glugganum.
+@2@4@0@
+F‘rslan er çegar fyrir hendi.
+@2@6@0@
+Ö sìnifyrirt‘ki er aĞeins h‘gt aĞ nota dagsetningar ¡ m nuĞunum n¢vember, desember, jan£ar og febr£ar. Afm”rkunin '%1', tilgreind meĞ leyfisskr nni, stj¢rnar çessu.
+@2@7@0@
+%1 çarf aĞ fylla £t. F‘ra çarf inn gildi.
+@2@8@0@
+Ekki er h‘gt aĞ setja inn f‘rslu £r annarri t”flu.
+@2@9@0@
+Ekki er h‘gt aĞ l¡ma inn ¡ çessa t”flu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  AO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Object                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@70@0@
+@2@001@0@
+Hlutur af tegundinni '%6' nìtur ekki stuĞnings.
+@2@021@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1.
+
+H‚r er gert r Ğ fyrir '{' (ListBegin).
+@2@022@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1.
+
+H‚r er gert r Ğ fyrir '}' (ListEnd).
+@2@023@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1.
+
+H‚r er gert r Ğ fyrir '=' (EqualSign).
+@2@024@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1.
+
+H‚r er gert r Ğ fyrir '{' (ElemBegin).
+@2@025@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1.
+
+H‚r er gert r Ğ fyrir '}' (ElemEnd).
+@2@026@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1.
+
+Skr in   ekki aĞ enda h‚r.
+@2@027@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1.
+
+K¢tinn AL er ekki jafnmikiĞ inndreginn og fyrsta l¡nan.
+@2@028@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1. 
+
+Nìr hlutur   aĞ byrja h‚r.
+@2@029@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3 ¡ s‘ti %2 : %1. 
+
+Flytja çarf inn ControlAddIn-¡hlutinn til aĞ flytja inn atburĞakveikjur hans.
+
+@2@030@0@
+M lskipanarvilla er ¡ innflutningi ¡ l¡nu %3, ¡ s‘ti %2 : %1. 
+
+Word-£tlitiĞ er of st¢rt.
+
+@2@031@0@
+Tilgreina çarf hlutakenni.
+@2@032@0@
+Tilgreina çarf hlutaheiti.
+@2@041@0@
+M lskipanarvilla er ¡ 'Translation Import'. Ekki mega vera neinar auĞar l¡nur.
+@2@042@0@
+M lskipanarvilla er ¡ 'Translation Import'. M¡nus verĞur aĞ vera ¡ strengnum.
+
+%5
+@2@043@0@
+M lskipanarvilla er ¡ 'Translation Import'. Tv¡punktur verĞur aĞ vera ¡ strengnum.
+
+%5
+@2@045@0@
+M lskipanarvilla er ¡ 'Translation Import'. Textinn er of langur.
+
+%5
+@2@051@0@
+'%7' er ekki gild skr  fyrir tungum lseiningu.
+@2@052@0@
+Tungum lsskr in (Language Module) '%7' er ¢samh‘fĞ £tg fa.
+@2@053@0@
+Pr¢fsummuvilla er ¡ tungum lsskr nni '%7'.
+@2@400@0@
+étflutningssniĞiĞ er ¢stutt: %1. Studd sniĞ eru 0: txt og 1: xml.
+@2@401@0@
+F‘rsla sem er send ¡ EXPORTOBJECTS verĞur aĞ vera hlutat”fluf‘rsla.
+@2@420@0@
+InnflutningssniĞiĞ er ekki stutt: %1. Studd sniĞ eru 0: txt og 1: xml.
+@2@421@0@
+Innflutningurinn st”ĞvaĞist viĞ l¡nu %1 meĞ villuboĞunum:
+
+%2
+@2@423@0@
+Innflutningurinn st”ĞvaĞist viĞ l¡nu %1 (¢çekkt villa).
+@2@500@0@
+Fr lagsskr in er ekki opin.
+@2@800@0@
+Ekki var h‘gt aĞ hlaĞa inn XML-skjali %7.
+@2@801@0@
+Ekki var h‘gt aĞ hlaĞa MSXML
+@2@802@0@
+àv‘nt atriĞi %1. V‘ntanlegt atriĞi er %2.
+@2@803@0@
+èaĞ var ekki h‘gt aĞ vista XML-skjaliĞ %7.
+@2@900@0@
+Ekki er h‘gt aĞ l‘sa %1. '%22' hefur çegar l‘st çv¡.
+@2@902@0@
+è£ getur ekki l‘st %1. è£ ert çegar b£inn aĞ l‘sa çv¡.
+@2@903@0@
+Ekki er h‘gt aĞ afl‘sa %1. èaĞ er ¢l‘st.
+@2@904@0@
+Ekki er h‘gt aĞ afl‘sa %1 çv¡ çaĞ er n£ çegar l‘st af "%22".  
+
+Til aĞ afl‘sa hlut sem annar notandi hefur l‘st skal hafa samband viĞ kerfisstj¢ra.
+@2@905@0@
+Ekki er h‘gt aĞ vista hlut sem er ritvarinn.
+@2@906@0@
+Ekki er h‘gt aĞ vista hlutinn meĞ çessu auĞkenni.
+@2@907@0@
+Hlutur af tegundinni Gluggi er ekki studdur.
+@2@908@0@
+Hlutur af tegundinni GagnahliĞ er ekki studdur.
+@2@909@0@
+Keyrsla   AL-k¢ta er ekki studd ¡ çessu samhengi.
+@2@910@0@
+Hlutinn "%1" verĞur aĞ vista   çìddu sniĞi  Ğur en h‘gt er aĞ keyra hann.
+@2@915@0@
+The FOB file contains table objects.\
+\
+Some changes in the table objects may require data upgrade instructions. In this case, if this FOB file contains the upgrade toolkit objects, such as upgrade codeunits and upgrade tables, then you can choose to synchronize schema now. If the upgrade toolkit objects are included in a separate FOB file, then you can choose to synchronize schema later, after you have imported that FOB file.\
+\
+We recommend that you make a backup of all of your application objects by exporting all your current objects in the FOB format before you proceed.\
+\
+Select the option for synchronizing the schema changes after the table objects are imported into the application.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´COMCÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                                          ³
+// ³  COMponent Controller                                                                           ³
+// ³                                                                                                 ³
+// ³  This section provides a short explanation of the %x symbols used below.                        ³
+// ³                                                                                                 ³
+// ³  Symbol   Substitution   Explanation/Examples                                                   ³
+// ³  ------   ------------   --------------------                                                   ³
+// ³                                                                                                 ³
+// ³  %1.1     Name.                                                                                 ³
+// ³  %1.2     GUID.          This is a Global Unique ID.                                            ³
+// ³                          Example:{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}                         ³
+// ³   2       Filename                                                                              ³
+// ³   3       Symbolname     The name of a method or a property.                                    ³
+// ³                          Examples: CTERM, PV or Caption                                         ³
+// ³   4       Number         A numeric value (integer).                                             ³
+// ³   5       MaxArgs        A numeric value. The maximum number of allowed                         ³
+// ³                          arguments when calling methods or properties in                        ³
+// ³                          an OLE control or Automation server.                                   ³
+// ³   6       CLSID          This is a Class ID path.                                               ³
+// ³                          Example: HKEY_CLASSES_ROOT\CLSID\{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}³
+// ³   7       Text           A text string.                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@35@0@
+@2@1@0@
+Ekki t¢kst aĞ frumstilla OLE.
+
+Kanna çarf hvort kerfis-dll OLE s‚u r‚tt settar upp.
+@2@2@0@
+subtype (GUID) fyrir OCX eĞa sj lfvirknibreytu hefur ekki veriĞ tilgreind.
+
+Tilgreina çarf GUID meĞ çv¡ aĞ fylla £t reitinn Subtype ¡ glugganum C/AL Locals eĞa C/AL Globals.
+@2@4@0@
+Ekki t¢kst aĞ hlaĞa tegundasafn fyrir OLE-stìringuna eĞa sj lfvirkniçj¢n sem v¡saĞ er til sem %1.1.
+%1.2
+
+Tegundasafninu kann aĞ hafa veriĞ eytt eĞa çaĞ flutt   annan staĞ.
+Reyna skal aĞ endurskr  OLE-stìringu eĞa sj lfvirkniçj¢n ¡ stìriskr .
+@2@7@0@
+àt‘kt sniĞ   GUID-streng. R‚tt sniĞ   GUID streng er 
+
+{CDEF7890-ABCD-0123-1234-567890ABCDEF}
+
+çar sem 0-9, A-F t kna sext nskar t”lur.
+@2@8@0@
+Ekki var h‘gt aĞ f  upplìsingar um tegund £r tegundasafninu.
+
+TegundasafniĞ g‘ti hafa skemmst eĞa veriĞ meĞ ¢t‘ku sniĞi.
+Reyna skal aĞ endurskr  OLE-stìringar eĞa sj lfvirkniçj¢n.
+@2@10@0@
+KerfiĞ gat ekki lesiĞ upplìsingar um eiginleika ¡ tegundasafninu.
+
+Reyna skal aĞ endurskr  OLE-stìringu eĞa sj lfvirkniçj¢n ¡ stìriskr .
+@2@12@0@
+Ekki var h‘gt aĞ f  lìsingu   eiginleikum ¡ tegundasafni.
+
+Reyna skal aĞ endurskr  OLE-stìringu eĞa sj lfvirkniçj¢n ¡ stìriskr .
+@2@13@0@
+Ekki var h‘gt aĞ f  lìsingu   aĞferĞum ¡ tegundasafn.
+
+Reyna skal aĞ endurskr  OLE-stìringu eĞa sj lfvirkniçj¢n ¡ stìriskr .
+@2@14@0@
+Ekki var h‘gt aĞ f  m lskipanarlìsingu ¡ tegundasafni.
+
+Reynt skal aĞ setja OLE-stìringuna eĞa sj lfvirkniçj¢n upp aftur.
+@2@16@0@
+Ekki t¢kst aĞ f  upplìsingar ¡ tegundasafninu
+um t kniĞ %3 meĞan   çìĞingu st¢Ğ.
+
+TegundasafniĞ kann aĞ hafa skemmst. Reyna skal aĞ endurskr  OLE-stìringu
+eĞa sj lfvirkniçj¢n.
+@2@17@0@
+TegundasafniĞ skilgreinir ekki aĞferĞ eĞa eiginleika meĞ heitinu %3.
+
+Nota skal T knavalmyndina til aĞ skoĞa aĞferĞirnar og eiginleikana sem skilgreindir eru af
+OLE-stìringu eĞa sj lfvirkniçj¢ni.
+@2@18@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+FariĞ hefur veriĞ upp fyrir h marksfj”lda f‘ribreyta. %3 çarf %4
+f‘ribreytur. C/SIDE styĞur mest %5 f‘ribreytur.
+@2@19@0@
+Engin aĞferĞ eĞa eiginleiki sem nefnist %3 er skilgreindur af OLE-stìringu eĞa sj lfvirkniçj¢ni.
+
+Nota skal T knavalmyndina til aĞ skoĞa aĞferĞir og eiginleika sem skilgreindir eru
+meĞ OLE-stìringunni eĞa sj lfvirkniçj¢ninum.
+@2@20@0@
+èessi boĞ eru til C/AL forritara:
+
+èessi gagnategund er ekki studd ¡ C/SIDE. H‘gt er aĞ s‘kja g”gn
+£r einhverjum af eftirt”ldum gagnategundum:
+VT_VOID, VT_I2, VT_I4, VT_R4, VT_R8, VT_CY, VT_DATE, VT_BSTR og VT_BOOL
+@2@21@0@
+èessi boĞ eru til C/AL forritara:
+
+OLE-stìringin eĞa sj lfvirkniçj¢nninn skilaĞi ¢çekktri gagnategund.
+@2@26@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ s‘kja kenni heita £r OLE-stìringu eĞa sj lfvirkniçj¢ni.
+@2@27@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ s‘kja gildi eiginleikans %3.
+@2@28@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+Fj”ldi eininga (elements) er annar en fj”ldi yrĞinga sem
+samçykktur er ¡ aĞferĞinni eĞa eiginleikanum.
+@2@30@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ stofna einindatilvik OLE-stìringar
+eĞa sj lfvirkniçj¢ns sem GUID=%3 ber kennsl  .
+Athuga çarf hvort OLE-stìringin eĞa sj lfvirkniçj¢nninn s‚u r‚tt uppsett og skr Ğ ¡ stìriskr .
+@2@34@0@
+Ekki t¢kst aĞ opna lykilinn HKEY_CLASSES_ROOT\%6
+¡ stìriskr nni.
+@2@35@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+SvargildiĞ fr  OLE-stìringunni eĞa sj lfvirkniçj¢ninum (af gagnategundinni float)
+hefur ¢gilt sniĞ.
+OLE-stìringin eĞa sj lfvirkniçj¢nninn r‘Ğur ekki viĞ ¡lagsf‘ribreytur.
+AĞ ”llum l¡kindum varĞ deiling meĞ n£lli eĞa yfirfl‘Ği til çess aĞ skilagildi varĞ ¢gilt.
+@2@36@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Svargildi fr  OLE-stìringu eĞa sj lfvirkniçj¢ni (gagnategund double)
+hefur ¢gilt sniĞ.
+OLE-stìringin eĞa sj lfvirkniçj¢nninn r‘Ğur ekki viĞ ¡lagsf‘ribreytur.
+AĞ ”llum l¡kindum varĞ deiling meĞ n£lli eĞa yfirfl‘Ği til çess aĞ skilagildi varĞ ¢gilt.
+@2@37@0@
+Ekki t¢kst aĞ virkja AboutBox-aĞferĞina fyrir çessa OLE-stìringu.
+
+GUID: %6
+@2@38@0@
+Ekki t¢kst aĞ skr  OLE-stìringuna.
+
+Sl¢Ğ: %2
+@2@39@0@
+èaĞ t¢kst aĞ b‘ta upplìsingum
+um OLE-stìringuna viĞ kerfisskr na.
+
+Sl¢Ğ: %2
+@2@40@0@
+Ekki t¢kst aĞ afskr  OLE-stìringuna.
+
+Sl¢Ğ: %2
+@2@41@0@
+èaĞ t¢kst aĞ fjarl‘gja upplìsingar
+um OLE-stìringuna £r kerfisskr nni.
+
+Sl¢Ğ: %2
+@2@42@0@
+Ekki t¢kst aĞ hlaĞa OLE-stìringuna.
+
+Sl¢Ğ: %2
+@2@44@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja liĞinn %3. OLE-stìringin eĞa sj lfvirkniçj¢nninn sendi
+ eftirfarandi boĞ:
+Ein af yrĞingunum er ekki t‘k VARIANT-tegund.
+@2@45@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+KalliĞ   liĞinn %3 br st. %2 skilaĞi eftirfarandi boĞum:
+%7
+@2@46@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+StakiĞ sem beĞiĞ er um er ekki fyrir hendi, eĞa meĞ kallinu
+ var reynt aĞ stilla gildi eiginleikans aĞeins lesh‘f.
+@2@47@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+èessi innleiĞing   IDispatch styĞur ekki yrĞingar meĞ heitum.
+@2@48@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+Ein frumbreytan f‚ll ekki aĞ tilgreindri tegund
+eĞa yfirfl‘Ği varĞ.
+@2@49@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+Eitt af afgreiĞslukennum f‘ribreytunnar er ekki
+¡ aĞferĞinni.
+@2@50@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+Ekki t¢kst aĞ fella aĞ eina eĞa fleiri yrĞingar.
+@2@51@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+Kenni viĞm¢tsins sem sent var meĞ riid er ekki IID_NULL.
+@2@52@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+StakiĞ sem veriĞ er aĞ virkja t£lkar strengi frumbreyta
+samkv‘mt staĞbundnu kenni (LCID) og LCID çekkist ekki.
+@2@53@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3. OLE-stìringin
+eĞa sj lfvirkniçj¢nninn sendi eftirfarandi boĞ:
+NauĞsynlegri f‘ribreytu var sleppt.
+@2@54@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki t¢kst aĞ virkja stakiĞ %3.
+OLE-stìringin eĞa sj lfvirkniçj¢nninn skilaĞi ¢çekktum villuk¢ta.
+@2@56@0@
+Ekki t¢kst aĞ finna tilgreint viĞm¢t ¡ tegundasafni.
+@2@57@0@
+Ekki t¢kst aĞ hlaĞa tilgreint tegundasafn.
+@2@58@0@
+Ö tegundasafni eru nokkur viĞm¢t meĞ heitinu sem var tilgreint.
+Smellt er   hnappinn assist-edit til aĞ velja r‚tta viĞm¢tiĞ.
+@2@59@0@
+TegundasafniĞ %7 virĞist vera skemmt.
+
+Enduruppsetning   viĞeigandi forriti g‘ti leyst vandann.
+@2@60@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Ekki er m”gulegt aĞ £thluta auĞum hlut.
+@2@61@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+àt‘k £thlutun. Ekki er m”gulegt aĞ £thluta %9   %8.
+@2@62@0@
+Ekki t¢kst aĞ çìĞa OLE-stìringuna (GUID: %6) vegna çess aĞ h£n var ekki r‚tt skr Ğ ¡ stìriskr na.
+
+Reynt skal aĞ skr  OLE-stìringuna meĞ çv¡ aĞ smella   Verkf‘ri, Custom Controls, Browse.
+@2@63@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Breytan hefur çegar veriĞ b£in til.
+@2@64@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+èessi sj lfvirknibreyta hefur ekki veriĞ eintekin (instantiated).
+H‘gt er aĞ eintaka (instantiate) hana annaĞhvort meĞ çv¡ aĞ b£a hana til eĞa £thluta henni.
+@2@65@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+Strengurinn:
+"%7"
+er of langur fyrir C/AL.
+@2@66@0@
+èetta boĞ er fyrir C/AL-forritara:
+
+OLE-stìringin eĞa sj lfvirkniçj¢nninn sem auĞkenndur er meĞ
+%3
+çarf leyfi fyrir h”nnunart¡ma. Ekki t¢kst aĞ afla çessa leyfis.
+Sj  skal til çess aĞ OLE-stìringin eĞa sj lfvirkniçj¢nninn s‚u r‚tt upp sett meĞ viĞeigandi leyfi.
+@2@67@0@
+èessi boĞ eru til C/AL forritara:
+
+UtanaĞkomandi ¡hluturinn lagĞi ekki til IID_IStream eĞa IID_ISequentialStream skil fyrir IUnknown skilin.
+@2@68@0@
+èessi boĞ eru til C/AL forritara:
+
+AfbrigĞi er autt og çv¡ er ekki h‘gt aĞ senda gildi.
+@2@69@0@
+èessi skilaboĞ eru fyrir C/AL forritara:
+
+Undantekning kom upp ¡ aĞferĞ %3. OLE-stìring eĞa sj lfvirkniçj¢nn hefur skilaĞ villu (HRESULT) %7.
+Öhlutirinn gaf ekki skìringu   undantekningunni.
+@2@70@0@
+èessi boĞ eru til C/AL forritara:
+
+Ekki var h‘gt aĞ breyta £r %11.20 ¡ %10.20.
+SkilagildiĞ ¡ stika %7 atburĞakveikju
+'%6' er hugsanlega utan leyfilegra marka fyrir 
+OLE-stìringu eĞa sj lfvirkniçj¢n.
+@2@71@0@
+èessi boĞ eru til C/AL forritara:
+
+Tegundabreyting   %1 er ekki m”guleg. %2 var sennilega marktegundin.
+@2@END@0@
+
+
+// OCX_Type ---------------------------------------------------
+
+@1@36@0@
+@2@1@0@
+H‘gt er aĞ varpa heitinu %3 ¡ %4 GUIDs.
+C/SIDE valdi %6.
+@2@2@0@
+%3 er hvorki çekkt sem GUID n‚ sem heiti OLE-stìringar eĞa sj lfvirkniçj¢ns.
+Kanna çarf hvort f‘rslan er misrituĞ.
+@2@7@0@
+%3 er hvorki çekkt sem GUID n‚ sj lfvirkniçj¢nn.
+Kanna çarf hvort f‘rslan er misrituĞ.
+@2@END@0@
+@1@165@0@
+@2@1@0@
+N£mer reitsins er ¢t‘kt. N£mer reits verĞur aĞ vera   milli %1 og %2.
+@2@2@0@
+étg fa hlutarins %3 er ¢gild.
+@2@3@0@
+àt‘kri gagnategund skilaĞ £r %4. Gagnategundin   aĞ vera Heiltala.
+@2@4@0@
+FIELDREF-f‘ribreytan var ekki frumstillt.
+@2@5@0@
+RECORDREF-f‘ribreytan var ekki frumstillt.
+@2@6@0@
+KEYREF-f‘ribreytan var ekki frumstillt.
+@2@7@0@
+RECORDID-f‘ribreytan var ekki frumstillt.
+@2@8@0@
+RECORDREF-f‘ribreytan notar t”flu %1 - ekki er h‘gt aĞ £thluta henni til f‘ribreytu RECORD ¡ t”flu %2.
+@2@9@0@
+Reitlykillinn '%1' er utan marka (verĞur aĞ vera   bilinu %2 til %3).
+@2@10@0@
+Lykillinn '%1' er utan marka (verĞur aĞ vera   bilinu %2 til %3).
+@2@11@0@
+àt‘kt t”fluhald. F‘ribreyta f‘rslunnar hefur ekki veriĞ r‚tt frumstillt.
+@2@12@0@
+RECORDREF-f‘ribreytan er enn opin. Loka çarf RECORDREF meĞ CLOSE  Ğur en nì tafla er opnuĞ.
+@2@13@0@
+àgild gagnagerĞ ¡ reit çegar eiginleikinn 'ExtendedDatatype' er stilltur   '%1'.
+
+Gildar gagnagerĞir eru Integer, BigInteger eĞa Decimal.
+@2@14@0@
+RECORDREF-breytan notar t”flu %1. Ekki er h‘gt aĞ nota falliĞ GET meĞ RecordID fyrir t”flu %2.
+@2@15@0@
+Gagnategundin "%20" er ekki gild çegar Width eiginleikinn er valinn.
+
+Gildar tegundir gagnagerĞa eru textar, k¢tar, Integer, BigInteger eĞa Decimal.
+@2@50@0@
+Heiti reitah¢psins %1 inniheldur bil.
+@2@51@0@
+èaĞ er meira en ein skilgreining   kennisn£meri %1 ¡  reitah¢pum.
+@2@52@0@
+èaĞ er meira en ein skilgreining   Heitinu %1 ¡ reitah¢pum.
+@2@53@0@
+HeitiĞ ¡ reitah¢pnum m  ekki vera autt.
+@2@54@0@
+Ekki er h‘gt aĞ vinna t”flubreytingar vegna çess aĞ Microsoft Dynamics NAV Development Environment getur ekki tengst viĞ tiltekiĞ tilvik Microsoft Dynamics NAV Server:
+
+Heiti çj¢ns: %1
+èj¢nstilvik: %2
+Stj¢rnunarg tt: %3
+
+Microsoft Dynamics NAV Development Environment greinir virkan çj¢n sj lfkrafa. 
+
+AthugiĞ hvort:
+1. Microsoft Dynamics NAV Server s‚ virkt
+2. Stj¢rnunarçj¢nustan s‚ grunnstillt
+3. Eldveggurinn s‚ opinn fyrir stj¢rnunarg ttina ef h£n er fjartengd
+4. Netçj¢nninn keyri aĞeins meĞ einn leigjanda
+5. Microsoft Dynamics NAV Development Environment s‚ keyrt meĞ stj¢rnandaheimild eĞa 
+6. Sl”kkt s‚   UAC.
+@2@55@0@
+Hlutir £r .fob skr  voru fluttir inn en çeir innihalda skemabreytingar sem ekki er h‘gt aĞ samstilla viĞ gagnagrunninn meĞ Microsoft Dynamics NAV Server-tilvikinu.
+Hafa skal samband viĞ kerfisstj¢ra meĞ eftirfarandi upplìsingar:
+
+Heiti çj¢ns: %1
+èj¢nstilvik: %2
+Stj¢rnunarg tt: %3
+
+Microsoft Dynamics NAV Development Environment greinir virkan çj¢n sj lfkrafa. 
+
+AthugiĞ hvort:
+1. Microsoft Dynamics NAV Server s‚ virkt
+2. Stj¢rnunarçj¢nustan s‚ grunnstillt
+3. Eldveggurinn s‚ opinn fyrir stj¢rnunarg ttina ef h£n er fjartengd
+4. Microsoft Dynamics NAV Development Environment s‚ keyrt meĞ stj¢rnandaheimild eĞa 
+5. Sl”kkt s‚   UAC.
+@2@56@0@
+T”flubreytingar voru vistaĞar en ç‘r innihalda skemabreytingar sem ekki er h‘gt aĞ samstilla viĞ gagnagrunninn meĞ Microsoft Dynamics NAV Server-tilvikinu.
+Hafa skal samband viĞ kerfisstj¢ra meĞ eftirfarandi upplìsingar:
+
+Heiti çj¢ns: %1
+èj¢nstilvik: %2
+Stj¢rnunarg tt: %3
+
+Microsoft Dynamics NAV Development Environment greinir virkan çj¢n sj lfkrafa. 
+
+AthugiĞ hvort:
+  1. Microsoft Dynamics NAV Server s‚ virkt
+  2. Stj¢rnunarçj¢nustan s‚ grunnstillt
+  3. Eldveggurinn s‚ opinn fyrir stj¢rnunarg ttina ef h£n er fjartengd
+  4. Microsoft Dynamics NAV Development Environment s‚ keyrt meĞ stj¢rnandaheimild eĞa 
+  5. Sl”kkt s‚   UAC.
+@2@57@0@
+Ekki er h‘gt aĞ vinna t”flubreytingar vegna çess aĞ valda Microsoft Dynamics NAV Server tilvikiĞ getur ekki meĞh”ndlaĞ beiĞnina:
+
+Netçj¢nsheiti: %1
+Netçj¢nstilvik: %2
+Stj¢rnunarg tt: %3
+
+TryggiĞ aĞ:
+1. Microsoft Dynamics NAV Server s‚ ¡ gangi
+2. AĞeins einn leigjandi s‚ tengdur viĞ netçj¢nstilvikiĞ.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  FO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Form Object                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@81@0@
+@2@005@0@
+Hlutinn '%1' verĞur aĞ çìĞa  Ğur en h‘gt er aĞ keyra hann.
+@2@101@0@
+àgild gagnategund fyrir 'SegĞ' ¡ 'MenuItem'. Tegund   aĞ vera 'Boolean'.
+@2@102@0@
+àgild gagnategund fyrir 'DataCaption'. Tegund   aĞ vera 'Text'.
+@2@103@0@
+Gagnastìringar verĞa aĞ hafa skilyrĞi.
+@2@104@0@
+Eiginleikinn '%10' verĞur aĞ vera fyrir hendi.
+@2@105@0@
+àgild gagnategund fyrir '%10'. Tegund   aĞ vera 'Text'.
+@2@120@0@
+èetta er ¢t‘k tegund frumlykils fyrir aĞgerĞina Autosplitkey. H£n ‘tti aĞ vera Integer/BigInteger/Decimal/GUID.
+@2@121@0@
+Autosplitkey-aĞgerĞin finnur ekki lykilinn milli n£verandi f‘rslu og fyrri f‘rslu.
+@2@130@0@
+Tilgreinda taflan (%3) er fr brugĞin t”flunni sem notuĞ er ¡ glugganum (%4).
+@2@131@0@
+Ekki er h‘gt aĞ opna undirglugga ¡ undirglugga.
+@2@132@0@
+Glugginn hefur veriĞ keyrĞur. Nota skal aĞgerĞina CLEAR(Form).
+@2@133@0@
+Glugginn er ekki opinn.
+@2@134@0@
+Ekki er h‘gt aĞ virkja gluggann.
+@2@135@0@
+Ekki hefur veriĞ tilgreint hvaĞa hlut   aĞ keyra (ef notuĞ er aĞgerĞin 'RunObject' verĞur aĞ tilgreina hlut).
+@2@136@0@
+Ekki er h‘gt aĞ keyra undirglugga.
+@2@137@0@
+Eiginleikinn RunFormOnRec er aĞeins gildur ef Source-tafla (upprunatafla) og Dest-tafla eru eins.
+Ö çessu tilviki, SourceTable: %7 og DestTable: %8.
+@2@138@0@
+Ekki er h‘gt aĞ keyra glugga fr  Application Server.
+
+Gluggi: %2
+@2@200@0@
+étg fa gluggahlutarins %1 er ¢gild.
+@2@400@0@
+%5 er ¢gilt MenuLevel (verĞur aĞ vera milli 0 og 9).
+@2@401@0@
+MenuLevel m  aĞeins vera 1 h‘rra en çaĞ sem var n‘st   undan.
+
+Ö çv¡ tilviki er hiĞ nìja MenuLevel '%5' en hiĞ eldra MenuLevel var '%6'.
+@2@402@0@
+NotaĞ var kenni stìringar %9.
+@2@403@0@
+Breidd og h‘Ğ gluggans verĞur aĞ vera   milli 0 og 100.000 [1/100 mm].
+@2@404@0@
+Fyrsta valmyndarstig (MenuLevel) verĞur aĞ vera 0.
+@2@500@0@
+Ekkert sj lfgefiĞ st¡lblaĞ er til staĞar fyrir forritiĞ sem veriĞ er aĞ flytja ¡. 
+
+HafiĞ samband viĞ kerfisstj¢ra.
+@2@501@0@
+ForritiĞ sem   aĞ opna hefur ekki veriĞ tilgreint ¡ t”flunni '%1'. 
+
+HafiĞ samband viĞ kerfisstj¢ra.
+@2@502@0@
+F‘ribreytustrengurinn '%1' fyrir forritiĞ '%2' er ekki gildur. 
+
+HafiĞ samband viĞ kerfisstj¢ra.
+@2@503@0@
+ForritiĞ '%1' finnst ekki ¡ t”lvunni. 
+
+HafiĞ samband viĞ kerfisstj¢ra.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  RE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Report Object                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@71@0@
+@2@200@0@
+èetta er ¢gild £tg fa af skìrsluhlut %1.
+@2@203@0@
+Tilgreina çarf eiginleikann '%4'.
+@2@300@0@
+Skìrslan %5 hefur ekki DataItem sem notar t”fluna (%2) sem tilgreind er ¡ aĞgerĞinni SetTableView.
+@2@301@0@
+Skìrslan hefur veriĞ keyrĞ. Nota skal aĞgerĞina CLEAR(Report).
+@2@302@0@
+Fyrsta DataItem verĞur aĞ hafa DataItemIndent=0.
+@2@303@0@
+Eiginleikinn DataItemIndent fyrir DataItem m  aĞeins vera einum h‘rri en eiginleikinn   fyrra DataItem.
+@2@304@0@
+Ekkert DataItem ber heitiĞ '%6'.
+@2@305@0@
+StìringarkenniĞ %7 er çegar ¡ notkun.
+@2@306@0@
+Stj¢rneiginleikinn DataSetFieldName value '%10' er çegar ¡ notkun.
+@2@307@0@
+Eiginleikinn DataItemIndent fyrir DataItem getur ekki innihaldiĞ neikv‘tt gildi.
+@2@308@0@
+Eiginleikinn MaxIteration fyrir DataItem getur ekki innihaldiĞ neikv‘tt gildi.
+@2@309@0@
+Lengd sl¢Ğar fyrir DataItems er umfram £thlutaĞa st‘rĞ biĞminnis vegna stiga faldaĞra DataItems. Endurhanna çarf gagnamengiĞ til aĞ draga £r fl‘kjustigi og stigi faldaĞra DataItems.
+@2@310@0@
+™ll DataItems ¡ h”nnuninni verĞa aĞ hafa heiti çegar skìrslan er meĞ Word-£tliti.
+@2@311@0@
+Autt Word-£tlit meĞ XML-hluta fyrir n£verandi gagnamengi hefur veriĞ stofnaĞ ¡ skìrslunni.
+@2@312@0@
+WordMergeDataItem eiginleikinn er stilltur   DataItem '%6'. AĞeins gagnahlutir meĞ DataItemIndent=0 geta veriĞ tilgreindir ¡ WordMergeDataItem.
+@2@313@0@
+WordMergeDataItem eiginleikinn er stilltur   DataItem '%6', sem er ekki til.
+@2@400@0@
+AĞeins er h‘gt aĞ b‘ta viĞ %3 FlowFields.
+@2@402@0@
+Ekki er h‘gt aĞ prenta ¡ skìrslu çar sem eiginleikinn 'ProcessingOnly' er settur   'J '.
+@2@403@0@
+AĞeins er h‘gt aĞ kalla   aĞgerĞina fr  rofanum DataItem.
+@2@404@0@
+AĞeins er h‘gt aĞ kalla   aĞgerĞina fr  rofanum Section.
+@2@405@0@
+AĞeins er h‘gt aĞ kalla   aĞgerĞina fr  rofanum DataItem eĞa rofanum Section.
+@2@406@0@
+Reitirnir sem tilgreindir eru ¡ eiginleikanum TotalFields verĞa vera af tegundinni decimal. %2.1 FlowField ¡ t”flunni %1.1 er ekki decimal-reitur.
+@2@502@0@
+Breidd ç ttar (section) getur ekki veriĞ minni en jaĞarinn ¡ kringum allar stìringarnar ¡ ”llum ç ttum.
+@2@503@0@
+H‘Ğ Section getur ekki veriĞ minni en jaĞarinn ¡ kringum stìringarnar ¡ çeirri Section.
+@2@600@0@
+Ekki er h‘gt aĞ prenta skìrsluna £r forskoĞun. H‘tta skal ¡ forskoĞun og keyra skìrsluna.
+@2@601@0@
+Ef skipt er um prentara eĞa papp¡rsst‘rĞ eĞa s¡Ğustillingu er breytt, hefur çaĞ  hrif   st‘rĞ prentsv‘Ğis.
+èetta g‘ti breytt £tliti skìrslunnar.
+
+µ aĞ prenta?
+@2@602@0@
+Ekki er h‘gt aĞ prenta £r PrentskoĞun fyrr en skìrslugerĞ er lokiĞ.
+@2@603@0@
+Ekki er h‘gt aĞ keyra skìrslur meĞ beiĞnigluggum ¡ Application Server fyrir Microsoft Dynamics NAV.
+@2@604@0@
+Ekki er h‘gt aĞ hafa mismunandi upprunat”flur fyrir beiĞnigluggann og beiĞnis¡Ğuna.
+@2@700@0@
+àt‘k beiĞni um XML skìrslu
+@2@701@0@
+Ekki er h‘gt aĞ flytja inn uppsetningar (RDLC-skr r) sem eru st‘rri en %8 b‘ti.
+@2@703@0@
+Innri villa: %1
+@2@704@0@
+Ekki er m”gulegt aĞ eintaka Microsoft.Dynamics.Nav.DotNetBridge.dll.
+@2@705@0@
+RDLC-skr in er ekki r‚tt gert XML-skjal.  
+
+N kv‘m lìsing: %9
+@2@706@0@
+Ekki er m”gulegt aĞ opna skìrsluna fyrir breytingar. 
+
+Ötarleg lìsing: %9
+@2@707@0@
+Ekki var h‘gt aĞ afrita skr asafn skìrsluuppsetningar. 
+
+N kv‘m lìsing: %9
+@2@708@0@
+Ekki er h‘gt aĞ breyta uppsetningu meĞ Report Designer. 
+
+Ötarleg lìsing: %9
+@2@709@0@
+Lìsig”gn sem gefin eru upp eru ekki gild.
+@2@710@0@
+Ekki er h‘gt aĞ b£a til gagnamengi meĞ çeim lìsig”gnum sem gefin eru upp.
+@2@711@0@
+Ekki t¢kst aĞ hreinsa t¡mabundna skìrslum”ppu.
+@2@712@0@
+RDLC-skr in er ekki gild miĞaĞ viĞ eigin grind. AĞgerĞin mist¢kst.
+@2@713@0@
+RDLC-skr in er ekki   r‚ttu sniĞi.
+@2@714@0@
+Ekki t¢kst aĞ hreinsa t¡mabundna m”ppu fyrir skìrslulausnir.
+@2@715@0@
+Villa kom upp çegar nì t¡mabundin skr  var b£in til.
+@2@716@0@
+Villa kom upp çegar t¡mabundinni skr  var eytt.
+@2@717@0@
+Ekki t¢kst aĞ umbreyta sniĞi beiĞni: %9
+@2@718@0@
+Villa kom upp çegar samband var haft viĞ Microsoft.Dynamics.Nav.DotNetBridge.dll.
+@2@719@0@
+Villa kom upp çegar beiĞniglugganum var umbreytt.
+@2@720@0@
+Skìrslan inniheldur ekki stìringar og ekki er h‘gt aĞ umbreyta henni.
+@2@721@0@
+Villa kom upp çegar RDL-efni var sannpr¢faĞ:
+%9
+@2@722@0@
+Villa kom upp çegar Report Designer var opnaĞ. Ekki var h‘gt aĞ finna studda £tg fu af Visual Studio.
+@2@723@0@
+Skìrslur sem eru ProcessingOnly geta ekki innihaldiĞ uppsetningu, t.d. RDL-gagnahluta.
+@2@724@0@
+èessi skìrsla er meĞ tilv¡sun ¡ reit sem er ekki til staĞar ¡ gagnamenginu.%9
+H‘gt er aĞ stofna gagnamengiĞ aftur meĞ çv¡ aĞ opna uppsetningu skìrslunnar, vista hana og endurçìĞa svo skìrsluna ¡ C/SIDE.
+@2@725@0@
+RDLC-myndin '%9' ¡ skìrslunni er skilgreind sem ytri. Eiginleikinn EnableExternalImages hefur ekki veriĞ gerĞur virkur.
+@2@726@0@
+RDLC-stìringin '%9' ¡ skìrslunni inniheldur ytri tengil. Eiginleikinn EnableHyperlinks hefur ekki veriĞ gerĞur virkur.
+@2@727@0@
+RDLC %9 ¡ skìrslu inniheldur ytri tengil. Eiginleikinn EnableHyperlinks hefur ekki veriĞ gerĞur virkur.
+@2@728@0@
+Ekki var h‘gt aĞ finna ReportLayout-skr asafniĞ: %9
+@2@729@0@
+Microsoft Dynamics NAV Development Environment og Report Designer verĞa aĞ keyra meĞ s”mu r‚ttindum: %9
+@2@730@0@
+étlit skìrslu er opiĞ ¡ Report Designer. Loka çarf glugganum Report Designer  Ğur en skìrsluhlutnum er lokaĞ.
+@2@731@0@
+Ekki er h‘gt aĞ keyra DataSet-skìrslu  n uppsetningar.
+@2@732@0@
+Ekki t¢kst aĞ f  sj lfgefiĞ RDL: %9
+@2@733@0@
+étlit skìrslunnar er çegar opiĞ ¡ Report Designer.
+@2@734@0@
+Skìrsla inniheldur tilv¡sun ¡ ytri samsetningu. Virkja skal eiginleikann EnableExternalAssemblies fyrir skìrsluhlutinn eĞa fjarl‘gja tilv¡sunina ¡ ytri samsetninguna ¡ £tlitinu.
+@2@735@0@
+Skr in sem veriĞ er aĞ flytja inn er ekki byggĞ   RDL 2010-skemanu. èaĞ verĞur aĞ uppf‘ra hana ¡ RDL 2010-skemaĞ.
+@2@736@0@
+Skìrslan er ekki studd og verĞur aĞ uppf‘ra hana  Ğur en h‘gt er aĞ breyta henni eĞa birta.
+@2@737@0@
+Vinnsla skìrslna eing”ngu m  ekki innihalda Word-£tlit.
+@2@738@0@
+Til aĞ uppf‘ra skìrslur çarf Microsoft SQL Server 2014 Report Builder 3.0 aĞ vera uppsett.
+@2@739@0@
+Ekki var h‘gt aĞ frumstilla Microsoft SQL Server 2014 Report Builder 3.0: %9
+GangiĞ £r skugga um aĞ Report Builder 3.0 s‚ r‚tt uppsett.
+@2@740@0@
+Ekki t¢kst aĞ uppf‘ra RDL   %1.
+%9
+@2@741@0@
+Ekki t¢kst aĞ stofna RDL   %1.
+%9
+@2@742@0@
+èìĞa ‘tti %1  Ğur en h‘gt er aĞ uppf‘ra hann
+@2@743@0@
+RDLC-myndin "%9" BackgroundImage er skilgreind sem ytri. Eiginleikinn EnableExternalImages hefur ekki veriĞ stilltur.
+@2@744@0@
+Villa kom upp çegar Report Designer var opnaĞ. Ekki var h‘gt aĞ finna studda £tg fu af Report Builder.
+@2@745@0@
+DefaultLayout er stillt   Word en ekkert Word £tlit er skilgreint fyrir skìrsluna.
+@2@800@0@
+Fyrsta l¡nan verĞur aĞ vera DataItem.
+@2@801@0@
+Fyrsta l¡nan çarf aĞ hafa inndr tt sem er jafn 0.
+@2@802@0@
+DataItem verĞur aĞ vera yfir.
+@2@804@0@
+NafngildiĞ verĞur aĞ vera einkv‘mt. Annar d lkur eĞa merki meĞ heitiĞ "%6" er til n£ çegar.
+@2@805@0@
+Gagnaveita eĞa SourceExpr getur ekki veriĞ t¢mt.
+@2@807@0@
+Gildi kennisins verĞur aĞ vera einkv‘tt. AnnaĞ DataItem, d lkur eĞa merki meĞ kenniĞ "%7" er til n£ çegar.
+@2@808@0@
+Gagnaveita eĞa SourceTable geta ekki veriĞ t¢m.
+@2@809@0@
+HeitiĞ "%6" inniheldur einn eĞa fleiri stafi sem ekki er h‘gt aĞ nota vegna çess aĞ çeir stangast   viĞ almennu tungum lauppsetninguna. Fyrsti stafurinn verĞur aĞ vera b¢kstafur. Stafir sem koma çar   eftir geta veriĞ hvaĞa samsetning sem er af b¢kst”fum, heilt”lum og undirstrikum. 
+@2@810@0@
+"%11" er ¢t‘k d lktegund.
+@2@812@0@
+H marksinndr ttarstig   DataItems er %12.
+@2@813@0@
+Heitisreiturinn "%6" er of langur.
+
+H markslengd heitisreitsins er %13 stafir.
+@2@814@0@
+D lkur er stilltur   aĞ innihalda texta en er ekki meĞ uppsprettu sem er reitur meĞ heiti. H‘gt er aĞ stofna texta fyrir çennan d lk meĞ Label Designer.
+@2@816@0@
+ParentDataItem v¡sar ekki   gilt DataItem.
+@2@817@0@
+ParentColumn v¡sar ekki   gildan d lk.
+@2@818@0@
+SkjaliĞ meĞ Word-£tlitinu er autt.
+@2@819@0@
+SkjaliĞ meĞ Word-£tlitinu er of st¢rt.
+@2@820@0@
+SkjaliĞ meĞ Word-£tlitinu er illa m¢taĞ. Ekki var h‘gt aĞ lesa skjaliĞ.
+@2@821@0@
+Ekki t¢kst aĞ stofna nìtt autt skjal meĞ Word-£tliti fyrir n£verandi skìrsluh”nnun.
+@2@822@0@
+Ekki t¢kst aĞ endurnefna eĞa uppf‘ra gagnatengsl ¡ skjalinu meĞ Word-£tlitinu.
+@2@823@0@
+Ekki t¢kst aĞ uppf‘ra skjal meĞ Word-£tliti vegna eftirfarandi villu:
+
+%9
+@2@824@0@
+Ekki t¢kst aĞ staĞfesta skjal meĞ Word-£tliti vegna eftirfarandi villu:
+
+%9
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	AB  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Base                                                        ³
+// ³                                                                          ³
+// ³  NOTE: Message 1004 is intended for use in the event viewer,             ³
+// ³        message 1005 for use in the console.                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@205@0@
+@2@100@0@
+Tilgreina çarf çj¢ninn og/eĞa gagnagrunninn sem   aĞ tengjast viĞ çegar Application Server er r‘stur fyrir Microsoft Dynamics NAV.
+
+Ö handb¢kinni Uppsetning er listi yfir r‚tta kerfiseiginleika.
+@2@101@0@
+Tilgreina çarf hvaĞa SQL Server og/eĞa gagnagrunn   aĞ tengjast viĞ çegar Application Server er r‘stur fyrir Microsoft Dynamics NAV.
+
+Ö handb¢kinni Uppsetning er listi yfir r‚tta kerfiseiginleika.
+@2@102@0@
+Tilgreina çarf fyrirt‘kiĞ sem   aĞ opna çegar Application Server er r‘stur fyrir Microsoft Dynamics NAV.
+
+Ö handb¢kinni Uppsetning er listi yfir r‚tta kerfiseiginleika.
+@2@103@0@
+Tilgreina çarf f‘ribreytu fyrir Codeunit 1 kveikju 99. èessi kveikja er keyrĞ çegar Application Server er r‘stur fyrir Microsoft Dynamics NAV.
+
+Ö handb¢kinni Uppsetning er listi yfir r‚tta kerfiseiginleika.
+@2@110@0@
+Kveikja 99 ¡ Codeunit 1 er ekki til. 
+
+Keyra çarf çessa kveikju til aĞ koma   tengingu viĞ boĞabrautina.
+@2@120@0@
+ForritiĞ gat ekki lokaĞ Application Server fyrir Microsoft Dynamics NAV.
+@2@121@0@
+Ekki t¢kst aĞ frumstilla Application Server Microsoft Dynamics NAV %1 r‚tt.
+èj¢nninn reynir aĞ frumstillast   %2 sek£ndna fresti çar til çaĞ tekst.
+
+@2@122@0@
+Sl”kkt verĞur   Application Server fyrir Microsoft Dynamics NAV %1.
+Ekki t¢kst aĞ endursamskipa forritinu meĞ eftirfarandi samskipan:
+  èj¢nsheiti = %2
+  Gagnagrunnur = %3
+  Fyrirt‘ki = %4
+  R‘sif‘ribreyta = %5
+@2@130@0@
+T”lvan er meĞ %2 ”rgj”rva. AĞeins er heimild til aĞ keyra VIP Application Server fyrir Microsoft Dynamics NAV   t”lvu meĞ %1 ”rgj”rva.
+@2@200@0@
+MarkiĞ "%1" finnst ekki.
+@2@201@0@
+URL of langt:
+"%1%2..."
+@2@202@0@
+èetta er ekki tengill ¡ Microsoft Dynamics NAV Development Environment
+"%1".
+@2@203@0@
+Samhengi tengils samsvarar ekki gildandi samhengi ¡ Microsoft Dynamics NAV Development Environment.
+URL-samhengi:
+  èj¢nsheiti = %1
+  Gagnagrunnur = %2
+  Fyrirt‘ki = %3
+  Tegund çj¢ns = %4
+Gildandi samhengi:
+  èj¢nsheiti = %5
+  Gagnagrunnur  = %6
+  Fyrirt‘ki = %7
+  Tegund çj¢ns = %8
+@2@204@0@
+Ekki er h‘gt aĞ nota samskiptareglur Navision til aĞ keyra glugga.
+@2@300@0@
+èetta stìrikerfi styĞur ekki Microsoft Dynamics NAV Development Environment.
+@2@1000@0@
+Application Server fyrir Microsoft Dynamics NAV %1 hefur veriĞ settur upp sem çj¢nusta.
+
+@2@1001@0@
+èj¢nustan sem fyrir var, Application Server fyrir Microsoft Dynamics NAV %1, hefur veriĞ tekin £t sem çj¢nusta.
+
+@2@1003@0@
+Application Server for Microsoft Dynamics NAV version 8.00 (Build 38206)
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+@2@1004@0@
+Application Server fyrir Microsoft Dynamics NAV %1 var r‘stur meĞ çessa samskipan:
+  Heiti gagnagrunnsçj¢ns = %2
+  Gagnagrunnur = %3
+  Fyrirt‘ki = %4
+  R‘sif‘ribreyta = %5
+@2@1005@0@
+Application Server fyrir Microsoft Dynamics NAV %1 var r‘stur meĞ çessa samskipan:
+  Heiti gagnagrunnsçj¢ns = %2
+  Gagnagrunnur = %3
+  Fyrirt‘ki = %4
+  R‘sif‘ribreyta = %5
+  
+Stutt er   ESC til aĞ sl”kkva   Application Server fyrir Microsoft Dynamics NAV %1.
+
+@2@1006@0@
+S¡Ğustu %1 tilkynntu tilvik voru çau s”mu .
+
+Til çess aĞ ofmetta ekki boĞakladdakerfiĞ verĞa eins tilvik ekki skr Ğ fyrr en kerfiĞ hefur tilkynnt annars konar tilvik.
+@2@1007@0@
+Sl”kkt verĞur   Application Server fyrir Microsoft Dynamics NAV çegar vinnslu gildandi beiĞni lìkur.
+
+@2@1020@0@
+Sl”kkt var   Application Server fyrir Microsoft Dynamics NAV %1.
+
+@2@1021@0@
+Application Server fyrir Microsoft Dynamics NAV %1 var endurheimtur meĞ çessa samskipan og er n£ fullstarfh‘fur:
+  Heiti gagnagrunnsçj¢ns = %2
+  Gagnagrunnur = %3
+  Fyrirt‘ki = %4
+  R‘sif‘ribreyta = %5
+@2@1022@0@
+UnniĞ £r beiĞni um aĞ endursamskipa Application Server fyrir Microsoft Dynamics NAV %1...
+
+@2@1023@0@
+Application Server fyrir Microsoft Dynamics NAV %1 var endursamskipaĞur meĞ çessari samskipan:
+  Heiti gagnagrunnsçj¢ns = %2
+  Gagnagrunnur = %3
+  Fyrirt‘ki = %4
+  R‘sif‘ribreyta = %5
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´	DS -> AB ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Texts moved from DS to AB             						                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@1@0@
+Kerfiseiginleikinn '%1' er ¢çekktur.
+
+Ö handb¢kinn Uppsetning er listi yfir r‚tta kerfiseiginleika.
+@2@2@0@
+NauĞsynlegt er aĞ tilgreina gildi fyrir kerfiseiginleikann '%1'.
+
+Ö handb¢kinni Uppsetning er listi meĞ r‚ttu forritseiginleikunum.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	DS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Development System						      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@20@0@
+K¢ti: '%1' -> Seljandi -> DreifingaraĞili -> FramleiĞandi -> AĞgangsorĞ: '%2'.
+
+Samband skal haft viĞ seljanda og honum gefinn upp k¢tinn h‚r aĞ ofan. Hann l‘tur notanda ¡ t‚ aĞgangsorĞ sem aĞeins er h‘gt aĞ nota einu sinni.
+
+µr¡Ğandi! EKKI fara £t £r innskr ningarglugganum  Ğur en nìja aĞgangsorĞiĞ hefur veriĞ tilgreint. N‘sta tilraun til çess aĞ komast inn ¡ kerfiĞ krefst annars aĞgangsorĞs.
+@2@21@0@
+àgilt aĞgangsorĞ.
+@2@80@0@
+R”kheitiĞ %1 er til fyrir. Tilgreina verĞur eingild heiti r”kgagna- og f‘rslukladdaskr r.
+@2@81@0@
+Ekki er h‘gt aĞ eyĞa %1 skr  fyrir aĞalg”gn eĞa aĞgerĞarlotur £r gagnagrunninum.
+@2@83@0@
+Engin leyfisskr  hefur veriĞ uppf‘rĞ.
+@2@84@0@
+Tilgreina verĞur r”kheiti fyrir allar kladdaskr r fyrir g”gn og aĞgerĞarlotur.
+@2@85@0@
+Tilgreina verĞur r”Ğunarlìsingu fyrir gagnagrunninn   flipanum R”Ğun.
+@2@110@0@
+àkunnur notandi Windows.
+@2@111@0@
+Notandi er til fyrir.
+@2@120@0@
+Leyfisskr in heimilar notanda ekki aĞ keyra User Portal Application Server. Hafa skal samband viĞ kerfisstj¢ra.
+@2@121@0@
+User Portal Application Server getur ekki £thlutaĞ ”ryggislìsingi fyrir t‚Ğa p¡pu.
+@2@122@0@
+User Portal Application Server getur ekki frumstillt ”ryggislìsing fyrir t‚Ğa p¡pu.
+@2@123@0@
+User Portal Application Server getur ekki stillt ”ryggislìsing fyrir t‚Ğa p¡pu.
+@2@124@0@
+User Portal Application Server getur ekki stofnaĞ t‚Ğa p¡pu.
+@2@125@0@
+User Portal Application Server getur ekki pers¢nugert notanda t‚Ğrar p¡pu.
+@2@126@0@
+User Portal Application Server getur ekki h‘tt viĞ pers¢nugervingu notanda t‚Ğrar p¡pu.
+@2@130@0@
+Uppf‘rslan verĞur n£ rofin.
+
+AnnaĞ hvort er uppf‘rsluskr in eĞa uppf‘rslukenniĞ '%1' ekki t‘kt eĞa h‘tt hefur veriĞ uppf‘rsluna.
+@2@131@0@
+Mist¢kst aĞ setja upp kenniĞ '%1'. Uppf‘rslan verĞur n£ st”ĞvuĞ.
+@2@132@0@
+Ekki t¢kst aĞ stofna ”ryggisafrit af gagnagrunninum. Uppf‘rslan verĞur n£ rofin çv¡ ekki er h‘gt aĞ setja uppf‘rsluna upp fyrr en ”ryggisafrit hefur veriĞ tekiĞ af gagnagrunninum.
+
+Til aĞ stofna ”ryggisafritiĞ og setja upp uppf‘rsluna skal endurr‘sa Microsoft Dynamics NAV Development Environment.
+@2@301@0@
+H”fundarr‚ttur (c) Microsoft Corporation. Allur r‚ttur  skilinn.
+@2@400@0@
+èetta er ¡ fyrsta skipti sem tengill viĞ eftirfarandi viĞt”kustaĞ er virkjaĞur:
+
+èj¢nn: %1
+Gagnagrunnur: %2
+
+Hafa skal ¡ huga aĞ hugsanlega er veriĞ aĞ f  aĞgang aĞ k¢ta sem g‘ti 
+skaĞaĞ t”lvuna.
+
+Er çessum viĞt”kustaĞ treyst?
+@2@600@0@
+BiĞlari Microsoft Dynamics NAV Development Environment var opnaĞur fr  ¢traustum ç‘tti.
+
+Hafa skal samband viĞ kerfisstj¢ra.
+@2@701@0@
+Engin %1 tilvik eru tilt‘k fyrir çennan gagnagrunn. Tryggja verĞur aĞ %1 tilvik s‚ keyrt og grunnstillt til aĞ nota gagnagrunninn  Ğur en çessi aĞgerĞ er framkv‘md.
+@2@702@0@
+Tilgreina verĞur sl¢Ğ Azure-tilviks ¡ Netçj¢nstilvikseiginleikum  Ğur en çessi aĞgerĞ er framkv‘md. Til aĞ gera çaĞ skal fara ¡ valmyndina Verkf‘ri og velja Valkostir.
+@2@703@0@
+F‘ra verĞu inn atvikssl¢Ğina   forminu <servername>:<port>/<serverinstance>. Til aĞ gera çaĞ skal fara ¡ valmyndina Verkf‘ri og velja Valkostir.
+@2@800@0@
+Skipunin "%1" er ekki gild.
+@2@801@0@
+Tilgreina verĞur f‘ribreytuna "%22" fyrir skipunina "%1".
+@2@802@0@
+F‘ribreytan "%1" er ekki gild.
+@2@803@0@
+Skr in "%1" verĞur aĞ hafa skr rendinguna .fob eĞa .txt.
+@2@804@0@
+Skilgreina verĞur afm”rkunina "%1"   eftirfarandi h tt: field1=segĞ; ... fieldn=segĞ.
+@2@805@0@
+Tilgreina verĞur f‘ribreytuna "%1" og verĞur h£n aĞ hafa gildiĞ "No" er nota   f‘ribreyturnar "%13" og "%22".
+@2@806@0@
+Tilgreina verĞur f‘ribreytuna "%1" ef f‘ribreytan "%22" er "No".
+@2@807@0@
+Villa kom upp ¡ greiningu   gagnagrunnsuppf‘rslunni. 
+
+Nota Microsoft Dynamics NAV 2013-çr¢unarumhverfiĞ til aĞ leiĞr‚tta villur sem birtast ¡ villulistanum  Ğur en haldiĞ er  fram meĞ uppf‘rsluna.
+@2@808@0@
+Ekki t¢kst aĞ flytja inn .fob-skr na. Umbreyta çarf skìrslukenninu %2 ¡ gagnamengisskìrslu  Ğur en h‘gt er aĞ flytja çaĞ inn.
+
+Nota Microsoft Dynamics NAV 2013-çr¢unarumhverfiĞ til aĞ umbreyta skìrslunni  Ğur en h£n er flutt aftur inn.
+@2@809@0@
+Skìrslan %1 er ekki gagnamengisskìrsla.
+@2@810@0@
+Ekki er h‘gt aĞ çìĞa XMLport-kenniĞ %2 eftir uppf‘rslu.
+@2@900@0@
+Kerfishlutir çj¢ns voru stofnaĞir.
+@2@901@0@
+Kerfishlutir çj¢ns voru stofnaĞir meĞ villum ¡ sumum hlutum. Nota skal villulistann til aĞ sj  allar villur.
+@2@902@0@
+Ekkert gagnauppf‘rsluferli stendur yfir eins og er.
+@2@903@0@
+Ekki er h‘gt aĞ halda  fram meĞ gagnauppf‘rslu sem ekki hefur veriĞ gert hl‚  .
+@2@904@0@
+Gagnauppf‘rsla stendur yfir. St”Ğva çarf ferliĞ  Ğur en nìtt er sett af staĞ.
+@2@1000@0@
+Engar t”flubreytingar eru til staĞar sem çarfnast samstillingar.
+@2@1001@0@
+Microsoft Dynamics NAV Server mun pr¢fa allar t”flubreytingar  n çess aĞ jafna ç‘r viĞ samsvarandi SQL-t”flur. Ef pr¢funin leiĞir ¡ lj¢s aĞ ekki s‚ h‘gt aĞ jafna allar breytingarnar  n çess aĞ eyĞa g”gnum ¡ tengdum reitum eĞa t”flum mun hann birta villu. 
+
+Ef ekki er haldiĞ  fram munu t”flubreytingarnar vera ¢samstilltar og notendur munu ekki geta unniĞ meĞ ç‘r. èetta getur tekiĞ nokkrar m¡n£tur til nokkurra klukkustunda, allt eftir st‘rĞ breyttu taflanna.   
+
+µ aĞ halda  fram?
+@2@1002@0@
+Microsoft Dynamics NAV Server mun pr¢fa allar t”flubreytingar og samstilla ç‘r viĞ samsvarandi SQL-t”flur. Ef pr¢funin leiĞir ¡ lj¢s aĞ ekki s‚ h‘gt aĞ jafna allar breytingarnar  n çess aĞ eyĞa g”gnum ¡ tengdum reitum eĞa t”flum mun hann birta villu og ç‘r breytingar munu ekki vera samstilltar. 
+
+Ef ekki er haldiĞ  fram munu t”flubreytingarnar vera ¢samstilltar og notendur munu ekki geta unniĞ meĞ ç‘r. èetta getur tekiĞ nokkrar m¡n£tur til nokkurra klukkustunda, allt eftir st‘rĞ breyttu taflanna.   
+
+µ aĞ halda  fram?
+@2@1003@0@
+Microsoft Dynamics NAV Server mun samstilla allar t”flubreytingar meĞ samsvarandi SQL-t”flum. Hann mun ekki sannvotta breytingarnar og çv¡ kann netçj¢nninn aĞ eyĞa g”gnum £r tengdum reitum eĞa t”flum viĞ samstillingu. 
+
+Ef ekki er haldiĞ  fram munu t”flubreytingarnar vera ¢samstilltar og notendur munu ekki geta unniĞ meĞ ç‘r. èetta getur tekiĞ nokkrar m¡n£tur til nokkurra klukkustunda, allt eftir st‘rĞ breyttu taflanna.   
+
+µ aĞ halda  fram?
+@2@1004@0@
+All table schema changes validated correctly. You can synchronize changes with no risk of deleting data.
+@2@1005@0@
+All table schema changes synchronized with force.
+@2@END@0@
+// Module XMLPort
+
+@1@210@0@
+@2@1@0@
+àt‘k £tg fa af XMLport-hlut: %1.
+@2@2@0@
+àt‘kt MagicNo ¡ XMLport hlut: %1.
+@2@3@0@
+Hlutinn %1 verĞur aĞ çìĞa  Ğur en h‘gt er aĞ keyra hann.
+@2@8@0@
+K¢tunin %13 er ekki studd.
+@2@9@0@
+Kennin£meriĞ %12 fr  merki '%6' hefur veriĞ notaĞ ¡ l¡nu %7, çaĞ verĞur aĞ vera einkv‘mt.
+@2@10@0@
+Inndr ttur r¢taratriĞisins verĞur aĞ vera 0.
+@2@11@0@
+Inndr ttarmunurinn   milli merkis '%6' og yfirmerkis er meiri en 1.
+@2@12@0@
+Ekki er h‘gt aĞ  kvarĞa gildi gagnategundar SourceExpr %10 ¡ streng.
+@2@13@0@
+Taflan %5 er ekki til.
+@2@14@0@
+Reitnum er ekki £thlutaĞ   t‘kt TableVariableName.
+@2@15@0@
+Uppgefna t”fluheitiĞ %14 verĞur aĞ vera çaĞ sama og yfirt”fluheitiĞ %5.
+@2@16@0@
+Nafnbilsforskeytinu %16 hefur çegar veriĞ lìst.
+@2@17@0@
+B£ist er viĞ '%24' ¡ %21 ¡ st”Ğu %23.
+@2@18@0@
+'%24' er fr tekiĞ orĞ ¡ %21 ¡ st”Ğu %23.
+@2@19@0@
+àt‘kur upphafsstafur nafnbils.
+%21
+@2@20@0@
+àt‘kur nafnbilsstafur ¡ st”Ğu %22.
+%21
+@2@21@0@
+G‘sal”pp passar ekki ¡ st”Ğu %22 ¡ %23.
+%21
+@2@22@0@
+G‘sal”pp vantar ¡ st”Ğu %22 ¡ %23.
+%21
+@2@23@0@
+MerkiĞ ':' vantar ¡ %23.
+%21
+@2@24@0@
+MerkiĞ '=' vantar ¡ %23.
+%21
+@2@25@0@
+Einfalda g‘sal”ppin ' getur ekki birst ¡ %21.
+Textinn er ¡ einf”ldum g‘sal”ppum.
+@2@26@0@
+Tv”f”ldu g‘salappirnar " geta ekki birst ¡ %21.
+Textinn er ¡ tv”f”ldum g‘sal”ppum.
+@2@27@0@
+BiĞminni  fangastaĞar er of l¡tiĞ.
+@2@28@0@
+Vinstri svigann '(' vantar ¡ %21 ¡ st”Ğunni %22.
+@2@29@0@
+H‘gri svigann ')' vantar ¡ %21 ¡ st”Ğunni %22.
+@2@30@0@
+Reiturinn %15 er ekki gildur reitur £r t”flu %14.
+@2@31@0@
+Nafnbilsforskeytinu %16 hefur ekki veriĞ lìst.
+@2@32@0@
+Min Occurs getur aĞeins veriĞ 0 eĞa 1.
+Gildi %26.
+@2@33@0@
+Max Occurs verĞur aĞ vera h‘rra en 1.
+Gildi %25.
+@2@34@0@
+Max Occurs reits getur aĞeins veriĞ 0 eĞa 1.
+Gildi %25.
+@2@35@0@
+AĞeins er h‘gt aĞ £thluta t”flunni SourceType Table fyrir merkiĞ <%6>   TagType-atriĞi.
+@2@36@0@
+Engin upprunatafla tilgreind fyrir merki <%6>.
+@2@37@0@
+Ekkert XML TagName skilgreint.
+@2@38@0@
+EigindiĞ '%6' verĞur aĞ vera inndregiĞ undir yfiratriĞinu.
+@2@39@0@
+EigindiĞ '%6' verĞur aĞ hafa sama inndr tt og einkenniĞ   undan.
+@2@40@0@
+Inndr tturinn verĞur aĞ vera   milli 0 og %7.
+@2@41@0@
+AĞeins r¢taratriĞi geta haft inndr ttinn 0.
+@2@42@0@
+Ekkert DataSource skilgreint fyrir merkiĞ <%6>
+@2@43@0@
+Tilgreina verĞur Table DataSource  Ğur en Field DataSource er valiĞ.
+@2@44@0@
+Heiti tagsins ¢gilt.
+@2@45@0@
+Ekki mega vera auĞ bil ¡ heiti XML-tagsins.
+@2@46@0@
+MerkiĞ <%6> er meĞ eiginleikana AutoReplace og AutoUpdate virka. Gera skal b Ğa eiginleika ¢virka eĞa velja annaĞhvort AutoUpdate eĞa AutoReplace.
+@2@51@0@
+AtriĞiĞ <%6> finnst ekki fr  hlutalìsingu.
+@2@52@0@
+EyĞilegging undiratriĞis mist¢kst.
+@2@53@0@
+NafnbiliĞ %17 hefur ekki veriĞ skilgreint sem hlutur.
+@2@54@0@
+G”gnin stangast   viĞ LinkTable og LinkFields uppsetningu t”flu %14.
+@2@55@0@
+XML ç ttari skilar eftirfarandi villu:
+%21
+@2@56@0@
+XML ç ttari skilar eftirfarandi afdrifar¡kri villu:
+%21
+@2@57@0@
+Uppsetning XML ç ttara mist¢kst.
+%21
+@2@58@0@
+EigindiĞ <%6> er variĞ fyrir hlutalìsingu.
+@2@59@0@
+EigindiĞ <%21> er  skiliĞ og passar ekki viĞ eigindi <%6>.
+@2@60@0@
+AtriĞiĞ <%6> kom fyrir oftar en einu sinni.
+@2@61@0@
+B£ist er viĞ atriĞinu <%21> ¡ Min Occurs-gildinu: %26.
+M¢ttekiĞ atriĞi: <%6>. 
+@2@62@0@
+AtriĞiĞ <%6> er ¢v‘nt.
+@2@63@0@
+EigindiĞ <%6> er ¢v‘nt.
+@2@64@0@
+àçekkt upprunategund fyrir atriĞi <%6>.
+@2@65@0@
+%4 XMLport er ekki meĞ XMLItem sem notar t”fluna (%2) sem tilgreind er ¡ aĞgerĞinni SetTableView.
+@2@66@0@
+GildiĞ "%21" hefur lengdina %27, sem er lengri en h marksst‘rĞ viĞt”kutegundarinnar %20.
+@2@67@0@
+XMLport "%4" er eing”ngu ‘tlaĞ fyrir £tflutning.
+@2@68@0@
+XMLport "%4" er eing”ngu ‘tlaĞ fyrir innflutning.
+@2@69@0@
+UndiratriĞi eru ekki studd h‚r.
+@2@70@0@
+Eining meĞ t”flu upprunagerĞar getur ekki haft undiratriĞi t”flu.
+@2@71@0@
+Ef r¢taratriĞi er meĞ upprunagerĞ Texta çurfa ”ll ”nnur atriĞi aĞ vera meĞ upprunagerĞ t”flu.
+@2@72@0@
+Ef Fixed Text er valiĞ fyrir XML-g tt ‘tti eiginleiki Width aĞ vera meiri en 0   ”llum sv‘Ğa- og textaeiningum.
+@2@73@0@
+S‚ eining meĞ upprunagerĞina Tafla getur h£n ekki haft undirç‘tti.
+@2@74@0@
+S‚ XMLport Fixed Text eĞa Variable Text valinn çarf r¢tareiningin aĞ hafa texta af upprunagerĞ.
+@2@75@0@
+MinOccurs fyrir atriĞi çarf aĞ vera h‘rra en n£ll ef UseLax er virkjaĞ.
+@2@76@0@
+AtriĞiĞ <%6> er meĞ ¢v‘nt undiratriĞi.
+@2@77@0@
+Eiginleikann "àbundinn" er einungis h‘gt aĞ stilla   s¡Ğasta hn£ti XMLPort.
+@2@END@0@
+// Module MenuSuite
+
+@1@220@0@
+@2@1@0@
+BiĞminni  fangastaĞar er of l¡tiĞ.
+@2@200@0@
+èetta er ¢t‘k MenuSuite fyrir skìrsluhlut %1.
+@2@201@0@
+àt‘kt MagicNo MenuSuite hlutar: %1.
+@2@202@0@
+MenuSuite fyrir biĞlara Classic styĞur eftirfarandi gerĞir:
+
+Table, Form, Report, Dataport og Codeunit.
+@2@203@0@
+MenuSuite fyrir hlutverkamiĞaĞan biĞlara styĞur eftirfarandi gerĞir:
+
+Table, Report, Codeunit, XMLport og Page.
+@2@204@0@
+MenuItem %1 fyrir hlutverkamiĞaĞa biĞlarann çarf aĞ hafa deildarflokk.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  Page  ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Module Page                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@214@0@
+@2@10@0@
+Inndr ttur çarf aĞ vera   milli 0 og %4.
+@2@11@0@
+Inndr ttur geymis verĞur aĞ vera 0.
+@2@12@0@
+Fyrsta stìring çarf aĞ vera geymir.
+@2@13@0@
+Munur   inndr‘tti   milli stìringar '%6' og m¢Ğurhluta er meiri en 1.
+@2@14@0@
+Inndr ttur   eftir stìringunni '%6' er ekki leyfĞur.
+@2@15@0@
+Stìring '%6' getur ekki veriĞ   sama stigi og geymirinn.
+@2@20@0@
+Inndr ttur ActionContainer verĞur aĞ vera 0.
+@2@21@0@
+Inndr ttur   eftir aĞgerĞinni '%6' er ekki leyfĞur.
+@2@22@0@
+AĞgerĞ og ActionGroup geta ekki veriĞ   sama stigi undir ActivityButton.
+@2@23@0@
+ActionContainers ¡ CueGroups eru bannaĞir.
+@2@24@0@
+AĞgerĞir   CueGroups çurfa aĞ vera   r¢tarstigi.
+@2@25@0@
+AĞgerĞ '%6', undir aĞgerĞah¢pi ¡ aĞgerĞahnappi, getur eing”ngu haft s¡ĞutegundargildiĞ Listi fyrir eiginleikann RunObject.
+@2@26@0@
+AĞgerĞ "%6", sem er ¡ HomeItem-geymi, getur eing”ngu haft s¡ĞutegundargildiĞ Listi fyrir eiginleikann RunObject.
+@2@27@0@
+Inndr ttur fyrir fyrsta Action eĞa ActionGroup verĞur aĞ vera 0.
+@2@30@0@
+F‘rt var inn gildi sem fer yfir h marksst‘rĞina %20.
+@2@40@0@
+Stìrikenni %40 er çegar ¡ notkun.
+@2@41@0@
+Eiginleikinn RunObject Action styĞur aĞeins eftirfarandi gerĞir:
+
+Page, Report, XMLPort, Codeunit
+@2@42@0@
+StìringarkenniĞ m  ekki vera autt.
+@2@43@0@
+Stìriheiti "%6" er çegar ¡ notkun. Stìriheiti verĞa aĞ vera einkv‘m.
+@2@44@0@
+AĞgerĞaheiti "%6" er çegar ¡ notkun. AĞgerĞaheiti verĞa aĞ vera einkv‘m.
+@2@45@0@
+Stìring '%6' notar sama heiti og algild breyta. Velja verĞur einkv‘mt stìringarheiti.
+@2@46@0@
+AĞgerĞakenni %40 er çegar ¡ notkun.
+@2@50@0@
+Ekki er h‘gt aĞ hlaĞa Visual Page Preview-biĞlarasamsetningunni eĞa einhverjum af tengslum hennar.
+@2@101@0@
+àgild gagnategund fyrir '%10'. Tegund   aĞ vera 'Text'.
+@2@102@0@
+Hlutastìringar meĞ PartType 'S¡Ğa' verĞa aĞ hafa PagePartID.
+@2@103@0@
+UIPart stìringar meĞ PartType 'Kerfi' geta ekki haft 'Ekkert' sem SystemPartID.
+@2@104@0@
+UIPart stìringin PartType 'Chart' getur ekki veriĞ meĞ 'Ekkert' sem ChartPartID.
+@2@105@0@
+Hlutastìringar meĞ PartType 'S¡Ğa' verĞa aĞ v¡sa ¡ s¡Ğur af gerĞinni 'CardPart' eĞa 'ListPart'.
+@2@106@0@
+Geymir verĞur aĞ hafa subtype.
+@2@107@0@
+S¡Ğa af gerĞinni CardPart eĞa ListPart getur ekki innihaldiĞ FactBoxArea-geymir.
+@2@108@0@
+S¡Ğa getur aĞeins innihaldiĞ einn FactBoxArea-geymi.
+@2@109@0@
+S¡Ğa getur aĞeins innihaldiĞ einn RoleCenterArea-geymi.
+@2@110@0@
+RoleCenterArea-geymir getur aĞeins veriĞ   s¡Ğu af gerĞinni Mitt hlutverk.
+@2@111@0@
+S¡Ğa getur aĞeins innihaldiĞ einn ContentArea-geymi.
+@2@112@0@
+FactBoxArea-geymir getur aĞeins innihaldiĞ hluta.
+@2@113@0@
+RoleCenterArea-geymir getur aĞeins innihaldiĞ h¢pa og hluta.
+@2@114@0@
+IndentationColumnName verĞur aĞ v¡sa ¡ sv‘Ği eĞa breytu af gerĞinni int.
+@2@115@0@
+HomeItems og ActivityButtons geta aĞeins veriĞ   s¡Ğum fyrir Mitt hlutverk.
+@2@117@0@
+S¡Ğur af gerĞunum 'CardPart' og 'ListPart' geta aĞeins innihaldiĞ ActionItems-geyma.
+@2@118@0@
+FreezeColumnID er aĞeins h‘gt aĞ tilgreina   repeater.
+@2@119@0@
+ShowAsTree er aĞeins h‘gt aĞ tilgreina   repeater.
+@2@120@0@
+èegar ShowAsTree er stillt çarf aĞ tilgreina IndentationColumnName.
+@2@121@0@
+MinValue getur ekki veriĞ st‘rra en MaxValue.
+@2@122@0@
+MaxValue getur ekki veriĞ st‘rra en MaxValue   t”flusv‘Ği.
+@2@123@0@
+MinValue getur ekki veriĞ minna en MinValue   t”flusv‘Ği.
+@2@124@0@
+Stìringu er ekki h‘gt aĞ breyta ef ekki er h‘gt aĞ breyta t”flusv‘Ğinu.
+@2@125@0@
+Ef t”flureitur er meĞ 'NotBlank' getur stìringin ekki leyft auĞ gildi.
+@2@126@0@
+Tugabrotastafir çurfa aĞ vera f‘rri en tugabrotastafir ¡ t”flusv‘Ğinu.
+@2@127@0@
+IndentationColumnName getur aĞeins veriĞ tilgreint   endurtekningu.
+@2@128@0@
+Ekki er h‘gt aĞ nota SystemPardIDs 'Notes' og 'RecordLinks'   s¡Ğum meĞ LinksAllowed stillt   'Nei'.
+@2@129@0@
+IndentationControls geta aĞeins veriĞ tilgreindar   Repeater.
+@2@130@0@
+èaĞ m  aĞeins vera einn ActivityButtons-geymir   s¡Ğu.
+@2@131@0@
+èaĞ m  aĞeins vera einn ActivityItems-geymir   s¡Ğu.
+@2@132@0@
+èaĞ m  aĞeins vera einn HomeItems-geymir   s¡Ğu.
+@2@133@0@
+èaĞ m  aĞeins vera einn NewDocumentItems-geymir   s¡Ğu.
+@2@134@0@
+èaĞ m  aĞeins vera einn RelatedInformation-geymir   s¡Ğu.
+@2@135@0@
+ActionGroup myndeiginleika er aĞeins h‘gt aĞ stilla ¡ ActionContainer af SubType 'ActivityButtons'.
+@2@136@0@
+Ekki er h‘gt aĞ stilla aĞgerĞina myndeiginleikar ¡ ActionContainer af SubType 'ActivityButtons' eĞa SubType 'HomeItems'.
+@2@137@0@
+èaĞ m  aĞeins vera einn Reports-geymir   s¡Ğu.
+@2@138@0@
+Ekki er h‘gt binda stìringar viĞ sv‘Ği meĞ FieldClass 'FlowFilter'.
+@2@139@0@
+S¡Ğur af gerĞunum 'CardPart' og 'ListPart' mega ekki innihalda hlutastìringu.
+@2@140@0@
+Kveikik¢ti er ekki leyfĞur   s¡Ğum af gerĞinni Mitt hlutverk.
+@2@141@0@
+GildiĞ verĞur aĞ vera af Boolean-gerĞ.
+@2@143@0@
+MultiLine-eiginleiki sem stilltur er   "Yes" og ExtendedDatatype-eiginleiki sem stilltur er   "Masked" eru ekki leyfĞir.
+@2@144@0@
+Reitir af tegundinni "Cha" meĞ ExtendedDatatype stillt   "Ratio" eru ekki leyfĞir.
+@2@145@0@
+Gagnategundin "%20" er ekki gild çegar Width eiginleikinn er valinn.
+
+Gildar tegundir gagnagerĞa eru textar, k¢tar, Integer, BigInteger eĞa Decimal.
+@2@146@0@
+Gagnategundin "%20" er ekki gild fyrir eiginleikann StyleExpr.
+
+Gildar gagnategundir eru Boole, Texti eĞa K¢ti.
+@2@1000@0@
+Engin v”rpun lìsigagna.
+@2@END@0@
+
+@1@224@0@
+@2@1@0@
+àgild £tg fa af fyrirspurnarhlut: %1.
+@2@2@0@
+àgild MagicNo af fyrirspurnarhlut: %1.
+@2@3@0@
+Hlutinn %1 verĞur aĞ çìĞa  Ğur en h‘gt er aĞ keyra hann.
+@2@4@0@
+Ekki er h‘gt aĞ velja reit meĞ gagnategundina Blob sem gagnaveitugildi fyrir Column-l¡nur. Velja skal annan reit.
+@2@5@0@
+"%4" er ekki reitur ¡ t”flunni "%6".
+@2@6@0@
+B£ist er viĞ '%24' ¡ %21 ¡ st”Ğu %23.
+@2@7@0@
+BiĞminni  fangastaĞar er of l¡tiĞ.
+@2@8@0@
+Upprunatafla fyrir DataItem <%4> var ekki skilgreind.
+@2@9@0@
+DataSource var ekki skilgreint fyrir <%6>
+@2@10@0@
+D lkurinn er ¢çekktur.
+@2@11@0@
+Fyrsta l¡nan verĞur aĞ vera DataItem.
+@2@12@0@
+Fyrsta l¡nan çarf aĞ hafa inndr tt sem er jafn og 0.
+@2@13@0@
+DataItem verĞur aĞ vera yfir.
+@2@14@0@
+Eiginleikinn Indentation fyrir DataItem getur ekki innihaldiĞ neikv‘tt gildi.
+@2@15@0@
+Eiginleikinn DataItemIndent fyrir DataItem m  aĞeins vera einum h‘rri en eiginleikinn   fyrra DataItem.
+@2@16@0@
+H marksinndr ttarstig   DataItems er %28.
+@2@17@0@
+Column eĞa DataItem verĞa aĞ koma   eftir Column meĞ sama inndr tt eĞa DataItem meĞ inndr ttinn - 1.
+@2@18@0@
+GildiĞ Heiti m  ekki vera autt.
+@2@19@0@
+™nnur DataItem- eĞa Column-l¡na meĞ heitiĞ "%4" er til n£ çegar. Allar DataItem- og Column-l¡nur verĞa aĞ hafa einkv‘m heiti.
+@2@20@0@
+HeitiĞ "%4" inniheldur einn eĞa fleiri stafi sem ekki er h‘gt aĞ nota vegna çess aĞ hann stangast   viĞ almennu tungum lauppsetninguna. Fyrsti stafurinn verĞur aĞ vera b¢kstafur. Stafir sem koma çar   eftir geta veriĞ hvaĞa samsetning sem er af b¢kst”fum, heilt”lum og undirstrikum. 
+@2@21@0@
+Gildi kennisins verĞur aĞ vera j kv‘tt.
+@2@22@0@
+™nnur DataItem- eĞa Column-l¡na meĞ kenniĞ "%12" er til n£ çegar. Allar DataItem- og Column-l¡nur verĞa aĞ hafa einkv‘m kenni.
+@2@23@0@
+Ekki er h‘gt aĞ velja sìndart”flu sem gagnaveitugildiĞ fyrir DataItem. Velja skal aĞra t”flu.
+@2@24@0@
+Fyrirspurnin ‘tti aĞ innihalda aĞ minnsta kosti einn gagnad lk.
+@2@42@0@
+Efsta samtala l¡na m  ekki vera neikv‘Ğ.
+@2@43@0@
+Einungis er h‘gt aĞ bakf‘ra merki reita sem eru meĞ t”lulega gagnategund.
+@2@25@0@
+Einungis er h‘gt aĞ nota samt”luaĞferĞir   reiti sem eru meĞ gagnategundina Decimal. Velja skal reit meĞ gagnategundina Decimal.
+@2@26@0@
+Einungis er h‘gt aĞ tilgreina allt aĞ %29 d lka sem   aĞ taka saman ¡ stakri fyrirspurn. Velja skal f‘rri d lka til aĞ taka saman.
+@2@27@0@
+Einungis er h‘gt aĞ tilgreina allt aĞ %29 d lka sem eru ekki teknir saman ¡ stakri fyrirspurn sem felur ¡ s‚r samt”lu. Velja skal f‘rri d lka sem ekki eru teknir saman.
+@2@28@0@
+Ekki er h‘gt aĞ telja tiltekinn reit ¡ fyrirspurn. Til aĞ telja allar l¡nur ¡ fyrirspurnarniĞurst”Ğum skal skilja reitinn Gagnaveita eftir auĞan.
+@2@29@0@
+Ekki er h‘gt aĞ velja reit meĞ gagnategundina FlowFilter sem gagnaveitugildi fyrir Column-l¡nur. Velja skal annan reit.
+@2@30@0@
+Ekki er h‘gt aĞ velja reit meĞ gagnategundina Binary sem gagnaveitugildi fyrir Column-l¡nur. Velja skal annan reit.
+@2@31@0@
+Annar samt”lud lkur er meĞ sama heiti. Allir d lkar verĞa aĞ hafa einkv‘mt heiti.
+@2@33@0@
+Ekki er h‘gt aĞ sameina tv” DataItems   sama stigi çv¡ f‚l”g eru ekki studd.
+@2@37@0@
+Reiturinn Flokka eftir er skrifvarinn. Hann er sj lfkrafa reiknaĞur £t fr  skilgreindu d lkunum. Allir d lkar sem ekki eru meĞ aĞferĞartegundina Samt”lur verĞa notaĞir ¡ flokkuninni. 
+@2@38@0@
+AĞeins er h‘gt aĞ velja d lk einu sinni çegar r”Ğin   niĞurst”Ğugagnamengi fyrirspurnarinnar er skilgreind.  EyĞa skal v”ldum tv¡teknum d lkum og vista aftur.
+@2@39@0@
+Eiginleikinn DataItemLink m  ekki vera auĞur.
+@2@40@0@
+Eiginleikinn DataItemLink verĞur aĞ vera auĞur çegar eiginleikinn SQLJoinType er stilltur   Cross Join.
+@2@41@0@
+Ekki er h‘gt aĞ velja aĞferĞ   d lkum meĞ tegund gagnaveitureits sem FlowField.  Breyta skal tegund aĞgerĞar ¡ Engin og vista svo aftur.
+@2@44@0@
+Einungis er h‘gt aĞ nota aĞferĞirnar Dagur, M nuĞur og µr   reiti sem eru meĞ gagnategundina DateTime. Velja skal reit sem er meĞ gagnategundina DateTime.
+@2@45@0@
+Ekki er h‘gt aĞ flytja inn hlut sem er ekki meĞ %4 kafla.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DotNet InteropÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  DotNet Interop                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@226@0@
+@2@1@0@
+èessi skilaboĞ eru fyrir C/AL-forritara:
+
+èessi DotNet gagnagerĞ er ekki studd af C/SIDE. H‘gt er aĞ opna g”gn af eftirfarandi gagnagerĞum:
+object, bool, char, sbyte, byte, short,
+ushort, int, uint, long, ulong, float,
+double, decimal, DateTime, TimeSpan,
+string, Guid, Stream
+@2@2@0@
+.NET gagnvirkni: Innri villa kom upp. BiĞminni var of l¡tiĞ.
+@2@3@0@
+Ekki var h‘gt aĞ hlaĞa tegund "%1".
+@2@4@0@
+GerĞin '%1' er ¢çekkt.
+@2@5@0@
+èaĞ eru of margar fj”lbundnar aĞferĞir.
+@2@7@0@
+Ekki er b£iĞ aĞ tilgreina undirgerĞ fyrir DotNet-f‘ribreytuna.
+
+Tilgreina çarf gerĞ meĞ çv¡ aĞ fylla £t undirgerĞarreitinn ¡ glugganum C/AL Locals eĞa C/AL Globals.
+@2@8@0@
+Samsetning '%1' fannst ekki.
+@2@9@0@
+.NET gagnvirki: innri villa, skemmt auĞkenni '%1'.
+@2@10@0@
+.NET gagnvirkni: fr vik kom upp, "%1".
+@2@11@0@
+%1 er ekki samçykkt sem heiti   .NET gerĞ.
+R‚tta sniĞiĞ er: 'Fullt heiti samsetningar'.gerĞarheiti
+Kanna çarf hvort f‘rslan s‚ r‚tt stafsett.
+@2@12@0@
+.NET gagnvirkni: TegundarheitiĞ er of langt (er lengra en 128 stafir): "%1".
+@2@13@0@
+.NET gagnvirkni: Ekki t¢kst aĞ hlaĞa .NET £tg fu 4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CSDotNet  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@228@0@
+@2@1@0@
+Innri villa: %1
+@2@2@0@
+%1
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CodeUnit    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  Codeunits                                              ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@103@0@
+@2@1@0@
+AĞgerĞina %1.2818 verĞur aĞ kalla fram meĞ %2 f‘rslu. H£n   aĞ vera %3-f‘rsla.
+@2@2@0@
+AĞgerĞina %1.2818 verĞur aĞ kalla fram meĞ %3 f‘rslu.
+@2@3@0@
+AĞgerĞina %1.2818 verĞur aĞ kalla fram meĞ %2 f‘rslu. H£n hefur engar f‘ribreytur.
+@2@4@0@
+étg fa hlutarins %4 er ¢gild.
+@2@5@0@
+Tilraunak¢tasafn %1.2818 var kallaĞ fram meĞ %2 skr . Tilraunak¢tas”fn styĞja ekki skr ningarf‘ribreytur.
+@2@6@0@
+Tilraunak¢tasafn %1.2818 var hannaĞ meĞ t”flunni %1.26370. Tilraunak¢tas”fn styĞja ekki t”flur. è.e. TableNo çarf aĞ vera <Undefined>.
+@2@7@0@
+Tilraunak¢tasafn %1.2818 var kallaĞ fram £r ”Ğru tilraunak¢tasafni. Tilraunak¢tas”fn styĞja ekki f”ldun.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  C/AL_Edit ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Compiler and Editors                                ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@102@0@
+@2@6@0@
+AtburĞarkveikjur eru tengdar viĞ stìringuna %6. Ef ControlAddin er breytt verĞur atburĞakveikjum og k¢tum çeirra eytt.
+
+µ ”rugglega aĞ breyta gildinu fyrir ControlAddin?
+@2@7@0@
+L¡nan verĞur of l”ng.
+@2@8@0@
+AtburĞarkveikjur eru tengdar viĞ alt‘ku breytuna %6. Ef breytunni er eytt eyĞast atburĞakveikjurnar og k¢ti çeirra.
+
+µ ”rugglega aĞ eyĞa çessarri alt‘ku breytu?
+@2@9@0@
+EF gildunum ¡ reitunum DataType eĞa Subtype fyrir alt‘ku breytuna %6 er breytt eyĞast allar tengdar atburĞakveikjur og k¢tar çeirra.
+
+µ ”rugglega aĞ gera breytingar   çessari alt‘ku breytu?
+@2@198@0@
+Ekki er heimilt aĞ £thluta   breytu meĞ eiginleikann WithEvents=Yes.
+@2@199@0@
+Lengd breytunnar verĞur aĞ vera   milli 1 og %1.
+@2@200@0@
+Ö setningu meĞ IF, WHILE eĞa REPEAT verĞur aĞ vera 'TRUE/FALSE' segĞ. N£verandi segĞ er Boole-fylki.
+
+Velja skal eitt 'TRUE/FALSE' gildi meĞ skilyrĞi   borĞ viĞ:
+
+BooleanArray[...]
+@2@201@0@
+YrĞingin er %10.1. Ö setningu meĞ IF, WHILE eĞa REPEAT verĞur aĞ vera 'TRUE/FALSE' segĞ. D‘mi:
+
+SATT (TRUE)
+àSATT (FALSE)
+Customer.Blocked
+Customer.Balance > 100
+... AND ...
+... OR ...
+@2@202@0@
+Ekki m  nota çessa aĞgerĞ sem forliĞ   %10.1.
+@2@203@0@
+V‘nst var reits £r t”flubreytu. D‘mi:
+
+Record.Field
+Customer.Name
+@2@204@0@
+V‘nst var breytu. D‘mi:
+
+MyVar
+Customer.Name
+@2@205@0@
+Ekki er h‘gt aĞ framkv‘ma %3   fylki.
+
+Nota skal eins fylkis gildi sem notar yrĞingu eins og:
+
+MyArray[...]
+@2@206@0@
+Ekki er h‘gt aĞ nota tegundina sem frumbreytu.
+@2@207@0@
+èegar aĞgerĞin er k”lluĞ fram skal nota l gmarksfj”lda af f‘ribreytum. D‘mi:
+
+MyFunc( .. , .. , .. )
+ROUND(MyVar)
+ROUND(MyVar,0.05)
+@2@210@0@
+Mest m  nota %7 f‘ribreytur çegar aĞgerĞ er k”lluĞ fram. D‘mi:
+
+MyFunc( .. , .. , .. ) , .. , .. )
+ROUND(MyVar)
+ROUND(MyVar,0.05)
+@2@212@0@
+Of margar v¡ddir. Breytan er skilgreind meĞ f‘rri v¡ddum. D‘mi:
+
+MyVar
+MyArray[MyVar]
+MyArray[1,2]
+MyArray[1][2]
+@2@214@0@
+Breytan er ekki f‘rsla. 'Variable.Field' er ¢t‘kt.
+@2@215@0@
+Nota verĞur '[' çv¡ aĞ breytan er ekki fylki. D‘mi:
+
+MyArray[...]
+MyArray[MyVar]
+MyArray[1,2]
+MyArray[1][2]
+@2@216@0@
+Tegundabreyting er ekki m”guleg çar sem ¡ einum virkjanum (operator) er ¢leyfileg tegund.
+
+%10.1 %3 %11.1
+@2@217@0@
+Gert var r Ğ fyrir gildi eĞa segĞ. D‘mi:
+
+100
+MyVar
+MyVar + 100
+MyVar = 100
+@2@223@0@
+Breytan er af tegundinni %10.1. Teljari ¡ FOR-setningu   aĞ vera tala, boole, dagsetning, t¡mi, b‘ti eĞa char-breyta. D‘mi:
+
+FOR Counter := 1 TO 10 DO ... ;
+@2@224@0@
+Teljarinn ¡ FOR setningu   aĞ vera t”lubreyta. D‘mi:
+
+FOR Counter := 1 TO 10 DO ... ;
+@2@234@0@
+èetta m  ekki vera fyrsta orĞiĞ ¡ setningu.
+@2@235@0@
+èaĞ verĞur aĞ vera ':=' ¡ gildingunni (assignment). D‘mi:
+
+MyVar := ... ;
+MyVar := 100 + 10 ;
+@2@237@0@
+Ö WITH-setningu verĞur aĞ vera t”flubreyta. N£verandi breyta er af annarri tegund. D‘mi:
+
+WITH MyRec DO ... ;
+@2@238@0@
+Ö WITH-setningu verĞur aĞ vera t”flubreyta. D‘mi:
+
+WITH .. DO ... ;
+WITH .. DO BEGIN ... ; ... ; END ;
+WITH MyRec DO ... ;
+@2@244@0@
+Of m”rg l”g af f”lduĞum WITH-setningum.
+@2@249@0@
+MeĞ ELSE-setningu verĞur aĞ vera IF-setning. D‘mi:
+
+IF ... THEN ... ELSE ... ;
+IF ... THEN IF ... ELSE ... ELSE ... ;
+IF ... THEN BEGIN ... ; ... ; END ELSE BEGIN ... ; END ;
+
+èessi villa verĞur oft vegna çess aĞ semikomma (;) er   undan ELSE-setningu.
+@2@250@0@
+V‘nst er REPEAT-setningar meĞ UNTIL-setningu. D‘mi:
+
+REPEAT ... ; ... ; UNTIL ... ;
+@2@251@0@
+V‘nst er BEGIN setningar meĞ END setningu. D‘mi:
+
+BEGIN ... ; ... ; END ;
+@2@254@0@
+Breytan %10.1 verĞur aĞ tilheyra %10.5 en ekki %11.5.
+@2@256@0@
+Fylkisv¡ddirnar(st‘rĞirnar) verĞa aĞ vera eins.
+@2@262@0@
+Ekki m  nota WITH skilyrĞi fyrir f‘rslufylki.
+@2@263@0@
+Nota skal svargildiĞ fyrir çessa aĞgerĞ.
+@2@264@0@
+Tilgreina çarf val   eftir '::'.
+@2@266@0@
+èessi m”guleiki er ekki leyfĞur.
+@2@268@0@
+Gilding er ekki leyfĞ fyrir çessa breytu.
+@2@269@0@
+AĞgangsorĞi '%9' er çegar r ĞstafaĞ.
+@2@270@0@
+Sami rofi var lesinn inn tvisvar.
+@2@272@0@
+H marksfj”ldi staka ¡ fylki er 1000000.
+@2@273@0@
+V¡dd verĞur aĞ vera j kv‘Ğ tala.
+@2@274@0@
+Kenni aĞgerĞarinnar vantar. Allar notandaskilgreindar aĞgerĞir verĞa aĞ vera tengdar kenni.
+
+MyFunction@23();
+@2@275@0@
+AĞgerĞarkenni %1 er notaĞ b‘Ği af aĞgerĞ %2 og aĞgerĞ %3.
+@2@276@0@
+MESSAGE aĞgerĞin meĞ breytilegu gagnategundinni er ¢t‘k çv¡ FORMAT aĞgerĞina vantar.
+@2@277@0@
+BreytukenniĞ %1 er b‘Ği notaĞ ¡ breytunni %2 og breytunni %3.
+@2@278@0@
+StikakenniĞ %1 er notaĞ ¡ stikanum %2 og stikanum %3 ¡ kveikjunni %4.
+@2@279@0@
+KenniĞ %1 fyrir staĞbundna breytu er b‘Ği notaĞ fyrir staĞbundnu breytuna %2 og staĞbundnu breytuna %3 ¡ kveikjunni %4.
+@2@280@0@
+BreytukenniĞ %1 fyrir breytuna %2 er fr tekiĞ fyrir C/SIDE-skilgreindar breytur einv”rĞungu. L‘gsta heimila kennin£meriĞ er %3.
+@2@281@0@
+AuĞkenniĞ %1 fyrir breituna %2 er utan h marks. H marks auĞkennisins er %3.
+@2@282@0@
+AuĞkenniĞ %1 fyrir aĞgerĞina %2 er utan h marks. H mark auĞkennisins er %3.
+@2@283@0@
+Eiginleikunum FunctionType og HandlerFunctions hefur veriĞ eytt.
+@2@284@0@
+Textinn sem veriĞ er aĞ çìĞa er st‘rri en h markst knst‘rĞin 64 KB.
+@2@285@0@
+DotNet-breytan %1 getur ekki haft b‘Ği RunOnClient og WithEvents stillt   "Yes".
+@2@286@0@
+éthlutun til d lks ¡ fyrirspurn er ekki leyfĞ.
+@2@287@0@
+Ekki er h‘gt aĞ senda d lk ¡ fyrirspurn til VAR-breytu.
+@2@288@0@
+V‘nst var d lks £r fyrirspurnarbreytu. D‘mi:
+
+Query.Column
+Customer.Name
+@2@289@0@
+Tegundin %1 er ekki studd. Nota skal tegundina %2 ¡ staĞinn.
+@2@290@0@
+Uppf‘rslueiginleikum hefur veriĞ eytt.
+@2@291@0@
+AĞgerĞareigindin [%6] er ¢gild ¡ çessu samhengi.
+@2@302@0@
+Eftirfarandi villa kom upp çegar rofpunktsskr  kembiforritsins var vistuĞ.
+
+%1
+Gildi: %2
+@2@303@0@
+Rofpunktur hefur n£ çegar veriĞ skilgreindur fyrir çennan hlut utan viĞ ritilinn, ¡ "%6" ¡ l¡nu %4. Ekki er h‘gt aĞ velja rofpunkt.
+@2@304@0@
+Enginn notandi samsvaraĞi gildandi notandakenni. Ekki er h‘gt aĞ velja rofpunktinn ef veriĞ er aĞ nota gagnagrunnssannvottun til aĞ skr  inn ¡ Microsoft Dynamics NAV Development Environment og engu Microsoft Dynamics NAV notandakenni er varpaĞ ¡ gagnagrunnsinnskr ninguna.
+@2@400@0@
+àgild undirskrift pr¢funaraĞferĞar fyrir fall %1.
+
+F”ll sem eru merkt TestMethod mega ekki vera meĞ skilagildi eĞa f‘ribreytur.
+@2@401@0@
+àgild undirskrift MESSAGE-rekils fyrir aĞgerĞ %1.
+
+AĞgerĞir MESSAGE-rekils çurfa aĞ vera meĞ undirskriftina (h‘gt er aĞ velja hvaĞa f‘ribreytuheiti sem er):
+<heiti aĞgerĞar>(Message : Text[1024])
+@2@402@0@
+àgild undirskrift CONFIRM-rekils fyrir aĞgerĞ %1.
+
+AĞgerĞir CONFIRM-rekils çurfa aĞ vera meĞ undirskriftina (h‘gt er aĞ velja hvaĞa f‘ribreytuheiti sem er):
+<heiti aĞgerĞar>(Question : Text[1024];VAR Reply : Boolean)
+@2@403@0@
+àgild undirskrift STRMENU-rekils fyrir aĞgerĞ %1.
+
+AĞgerĞir STRMENU-rekils çurfa aĞ vera meĞ undirskriftina (h‘gt er aĞ velja hvaĞa f‘ribreytuheitu sem er):
+<heiti aĞgerĞar>(Options : Text[1024];VAR Choice : Integer;Instruction : Text[1024])
+@2@404@0@
+àgild undirskrift PAGE.RUN-rekils fyrir fall %1. 
+
+F”ll PAGE.RUN-rekils çurfa aĞ vera meĞ undirskriftina (h‘gt er aĞ velja hvaĞa f‘ribreytuheiti sem er):
+
+<function name>(VAR<variable name> : Page <id>))
+eĞa
+<function name>(VAR <variable name> : TestPage <id>)
+@2@405@0@
+àgild undirskrift PAGE.RUNMODAL-rekils fyrir fall %1.
+
+F”ll PAGE.RUNMODAL-rekils çurfa aĞ hafa undirskriftina (h‘gt er aĞ velja hvaĞa f‘ribreytuheiti sem er):
+
+<function name>(VAR <form name> : Page <form id>;VAR Response : Action)
+or
+<function name>(VAR <variable name> : TestPage <id>)
+@2@406@0@
+àgild undirskrift REPORT-rekils fyrir aĞgerĞ %1.
+
+AĞgerĞir REPORT-rekils çurfa aĞ hafa undirskriftina (h‘gt er aĞ velja hvaĞa f‘ribreytuheiti sem er):
+<heiti aĞgerĞar>(VAR <report name> : Report <report id>)
+@2@407@0@
+àgild undirskrif REQUESTPAGE-rekils fyrir aĞgerĞ %1.
+
+AĞgerĞir REQUESTPAGE-rekils çurfa aĞ vera meĞ undirskriftina (h‘gt er aĞ velja hvaĞa f‘ribreytuheiti sem er):
+<heiti aĞgerĞar>(VAR <heiti skìrslu> : TestRequestPage <auĞkenni skìrslu>)
+@2@413@0@
+àgild undirskrift OnBeforeTestRun-kveikju
+
+Kveikjan er k”lluĞ fram  Ğur en hver pr¢funaraĞferĞ pr¢funark¢tasafns er keyrĞ. H£n çarf aĞ hafa eftirfarandi undirskrift çar sem h‘gt er aĞ tilgreina eigin f‘ribreytuheiti en verĞur aĞ nota aĞferĞarheitiĞ OnBeforeTestRun og eftirfarandi f‘ribreytugerĞir:
+OnBeforeTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128]) : Boolean
+F‘ribreyturnar segja til um aĞferĞina og skilagildiĞ tilgreinir hvort taka   falliĞ meĞ ¡ pr¢funarkeyrslunni. FALSE merkir aĞ fallinu er sleppt.
+@2@414@0@
+àgild undirskrift OnAfterTestRun-kveikju
+
+Kveikjan er k”lluĞ fram eftir keyrslu hverrar pr¢funaraĞferĞar pr¢funark¢tasafns. H£n çarf aĞ hafa eftirfarandi undirskrift çar sem notandi getur tilgreint s¡n eigin f‘ribreytuheiti, en verĞur aĞ nota heiti fallsins OnAfterTestRun og eftirfarandi f‘ribreytutegundir:
+OnAfterTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128];Success : Boolean)
+Fyrstu çrj r f‘ribreyturnar tilgreina aĞferĞina. Success-f‘ribreytan er TRUE ef keyrslan tekst, en FALSE ef h£n mistekst.
+@2@415@0@
+èaĞ vantar %1 viĞm¢tsrekil (fyrir hlutarkenni : %2).
+@2@416@0@
+Eftirfarandi viĞm¢tsreklar voru ekki keyrĞir.
+
+%1
+@2@420@0@
+AĞgerĞin %1 getur ekki veriĞ staĞbundin.
+
+Uppf‘rsluaĞgerĞir fyrir k¢Ğaeiningar verĞa aĞ vera ¢staĞbundnar til aĞ çj¢nninn geti framkv‘mt ç‘r viĞ uppf‘rslur.
+@2@421@0@
+àgild undirskrift fyrir aĞgerĞ %1.
+
+Uppf‘rslu- og athugunaraĞgerĞir verĞa aĞ hafa çessa undirskrift çv¡ ç‘r samçykkja ekki f‘ribreytur og skila ekki neinum gildum:
+<function name>()
+@2@422@0@
+àgild undirskrift falls %1.
+
+TableSyncSetup-f”ll verĞa aĞ hafa undirskrift (frj lst val   heiti falls og f‘ribreytu):
+<function name>(VAR <record name> : Record "Table Synch. Setup")
+@2@503@0@
+NotiĞ t kniĞ {   undan athugasemd. D‘mi: {Venjuleg athugasemd}.
+@2@504@0@
+NotiĞ t kniĞ } til aĞ lj£ka athugasemd. D‘mi: {Venjuleg athugasemd}.
+@2@505@0@
+Villa ¡ fasta.
+@2@506@0@
+M lskipanarvilla.
+@2@507@0@
+Minnka çarf segĞina svo h£n verĞi einfaldari.
+@2@509@0@
+àçekkt breyta var tilgreind.
+
+%6
+
+SkilgreiniĞ breytuna undir 'Global C/AL symbols'.
+@2@510@0@
+Breytan %6 er skilgreind oftar en einu sinni.
+
+D‘mi g‘ti veriĞ: 'File' er b‘Ği gagnategund og alt‘k breyta.
+@2@511@0@
+'%9' ‘tti aĞ koma h‚r.
+@2@512@0@
+%6 er ekki aĞgerĞ og aĞeins er h‘gt aĞ kalla   aĞgerĞir meĞ '(....'.
+@2@513@0@
+KalliĞ virkar   b Ğar eftirfarandi aĞgerĞir:
+'%1'
+og
+'%2'
+@2@514@0@
+AĞgerĞarkalliĞ var tv¡r‘tt. Engin samsvarandi aĞferĞ fannst.
+@2@515@0@
+Engar fj”lbindur eru til fyrir aĞferĞ "%1" sem notar "%2" yrĞingar.
+@2@516@0@
+Athugasemdal¡nan er st‘rri en h marksst‘rĞin %2 stafir.
+@2@602@0@
+ViĞkomandi kerfisleyfi heimilar ekki notkun   gagnategund %6.
+@2@700@0@
+Heimilum fj”lda heimilda er n Ğ.
+@2@701@0@
+FariĞ hefur veriĞ yfir heimilan fj”lda heimilda. S¡Ğustu %1 f‘rslur verĞa ekki vistaĞar.
+@2@702@0@
+FariĞ hefur veriĞ yfir st‘rĞ innra biĞminnis. Fjarl‘gja çarf eitt tungum l eĞa stytta textafastann '%1'. 
+Bent er   aĞ upplìsingar munu glatast ef hluturinn er vistaĞur!
+@2@703@0@
+Eiginleikar v¡dda çurfa aĞ vera t¢mir  Ğur en h‘gt er aĞ stilla "IncludeInDataset" fyrir breytuna %1.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Run   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Stack Machine Interpreter                            ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@101@0@
+@2@1@0@
+V¡ddir (st‘rĞir) fylkja ‘ttu aĞ vera eins.
+@2@2@0@
+Ekki er h‘gt aĞ nota %3 sem virkja (operator).
+
+%10.1 %3 %11.1
+@2@3@0@
+Gildi %6   f‘ribreytu %7 er utan leyfĞra marka.
+
+N£verandi gildi er: %11.20.
+Leyfilegt bil er: fr  %1 til %2.
+@2@4@0@
+V¡sasetning (indexing) %11.20 ¡ fylkinu er utan leyfilegra marka.
+@2@6@0@
+Yfirfl‘Ği er ¡ £treikningi   %10.20 %3 %11.20.
+@2@7@0@
+Deilt meĞ n£lli.
+@2@9@0@
+Yfirfl‘Ği viĞ tegundarbreytingu   %11.1 to %10.1.
+
+Gildi: %11.20
+@2@10@0@
+Ekki er n‘gjanlegt rìmi ¡ C/AL minnisstafla til aĞ vinna çetta verk.
+
+Of margar aĞgerĞir eru framkv‘mdar samt¡mis vegna çess hvernig endurkv‘mt aĞgerĞarkall er notaĞ ¡ forritinu. H‘gt er aĞ leysa vandann til br ĞabirgĞa meĞ çv¡ aĞ loka nokkrum opnum aĞgerĞum (en çr tt fyrir çaĞ er ekki h‘gt aĞ framkv‘ma aĞgerĞina).
+@2@14@0@
+AĞgerĞin %6 nìtur ekki lengur stuĞnings.
+
+Fjarl‘gja skal aĞgerĞarkalliĞ og çìĞa C/AL-hlutinn aftur.
+@2@16@0@
+Ekki m  tagskipta segĞinni %11.1 ¡ gildiĞ %10.1.
+@2@21@0@
+Ekki t¢kst aĞ leysa tilv¡sun ¡ stakiĞ %6 ¡ breytunni %20.
+@2@22@0@
+Efni '%11.20' ¡ %6 f‘ribreytu nr. %7 er ekki leyfilegt.
+@2@23@0@
+AĞgerĞin %6 var k”lluĞ meĞ %11.1 ¡ f‘ribreytunni %7.
+
+H£n hefĞi  tt aĞ vera %10.1.
+@2@24@0@
+Breyta m  ekki taka meira en 2 MB.
+@2@27@0@
+Skilgreiningu   reitnum %6 var breytt eftir aĞ hluturinn var vistaĞur.
+
+Gamla tegundin: %10.1
+Nìja tegundin: %11.1
+@2@31@0@
+%6
+@2@32@0@
+Ekki er h‘gt aĞ vista C/AL-hlutinn ¡ çìddu formi.
+@2@34@0@
+STRCHECKSUM gerir eing”ngu r Ğ fyrir t”lum   bilinu 0 til 9 til notkunar ¡ f‘ribreytu nr. %7. '%11.20'
+@2@35@0@
+CONVERTSTR gerir r Ğ fyrir aĞ strengirnir tveir ¡ umbreytingunni s‚u jafnlangir:
+
+VeriĞ er aĞ umbreyta £r: '%10.20' ¡: '%11.20'
+@2@55@0@
+Textinn '%11.20' ¡ %6 f‘ribreytu nr. %7 er of langur.
+@2@69@0@
+Notandaskilgreinda C/AL aĞgerĞin %1 finnst ekki.
+@2@70@0@
+Notandaskilgreinda C/AL aĞgerĞin %1 sem tekur %3 f‘ribreytur var k”lluĞ meĞ %2 f‘ribreytum.
+@2@71@0@
+Gagnategundin sem notuĞ er er ¢t‘k fyrir çessa aĞgerĞ.
+@2@72@0@
+Ekki er h‘gt aĞ kalla C/AL aĞgerĞina %6   meĞan Application Server fyrir Microsoft Dynamics NAV er ¡ keyrslu.
+@2@73@0@
+Ekki er h‘gt aĞ nota C/AL breytur af gerĞinni %6   meĞan Application Server fyrir Microsoft Dynamics NAV er ¡ keyrslu.
+@2@75@0@
+AĞgerĞin VARIANT2TIME hefur rekist   f‘ribreytu sem ekki er h‘gt aĞ breyta.
+Nota skal annaĞ hvort t¡ma eĞa afbrigĞi sem frumbreytu.
+@2@76@0@
+AĞgerĞin VARIANT2DATE hefur rekist   f‘ribreytu sem ekki er h‘gt aĞ breyta.
+Nota skal annaĞ hvort dagsetningu eĞa afbrigĞi sem frumbreytu.
+@2@77@0@
+B£ist var viĞ villu ¡ ASSERTERROR-setningu.
+@2@78@0@
+Ekki er stuĞningur fyrir f”ldun ASSERTERROR-setningar   sama sviĞi.
+@2@79@0@
+èessi skilaboĞ eru fyrir C/AL-forritara:
+
+Ekki er h‘gt aĞ keyra %1 hlutarkenniĞ %2 çegar skìrsla er opnuĞ £r hlutverkamiĞuĞum biĞlara.
+@2@80@0@
+èessi skilaboĞ eru fyrir C/AL-forritara:
+
+Keyrslut¡mi %6-hlutar er ekki studdur ¡ C/SIDE Development Environment.
+@2@90@0@
+Skr in er ekki opin.
+@2@91@0@
+Skr in er çegar opin.
+@2@92@0@
+Ekki er h‘gt aĞ lesa eĞa skrifa breytu af çessari tegund ¡ tv¡undamynd.
+@2@93@0@
+Villa varĞ çegar skr in var streymd.
+@2@94@0@
+Ekki er h‘gt aĞ nota .NET-gagnvirknigerĞ ¡ k¢ta fyrir C/SIDE-keyrslut¡mann.
+@2@96@0@
+Ekki er h‘gt aĞ nota aĞgerĞina CURRENTEXECUTIONMODE ¡ k¢ta fyrir C/SIDE-keyrslut¡mann.
+@2@97@0@
+Ekki er h‘gt aĞ f  aĞgang aĞ skr ningaraĞgerĞum og eiginleikum fyrir C/SIDE-keyrslut¡mann.
+@2@120@0@
+Samskiptaglugginn er ekki opinn.
+@2@130@0@
+Ekki er h‘gt aĞ flytja £t autt BLOB (%6).
+@2@131@0@
+Ekki er h‘gt aĞ streyma auĞu BLOB (%6).
+@2@132@0@
+Ekki t¢kst aĞ streyma ¡ BLOB.
+@2@140@0@
+Ekki  er h‘gt aĞ kalla CONFIRM ¡ Application Server. 
+SkilaboĞin eru: 
+ 
+%12
+@2@141@0@
+Ekki  er h‘gt aĞ kalla STRMENU ¡ Application Server. 
+ValmyndaratriĞin eru: 
+
+%13
+@2@142@0@
+Ekki er h‘gt aĞ biĞja um SAMSKIPTI.ÖLAG ¡ Application Server.
+@2@150@0@
+Straumurinn skilaĞi lesvillu.
+@2@151@0@
+Ekki er h‘gt aĞ streyma auĞ straumskil (%6).
+@2@152@0@
+Straumurinn skilaĞi skrifvillu.
+@2@200@0@
+Of margir lykilreitir voru tilgreindir og çv¡ ekki h‘gt aĞ s‘kja %1.1. Fj”ldi reita ¡ aĞallykli er %4.
+@2@201@0@
+Engin vensl hafa veriĞ tilgreind fyrir reitinn %2.1 ¡ %1.1.
+@2@301@0@
+Rekist var   CONFIRM meĞ eftirfarandi skilaboĞum:
+
+%10
+
+KerfiĞ svaraĞi spurningunni meĞ %11.
+@2@400@0@
+èetta er ¡ fyrsta skipti sem eftirfarandi keyrsluskr  er keyrĞ:
+
+Keyrsluskr : %1
+F‘ribreyta: %2
+
+Hafa skal ¡ huga aĞ hugsanlega er veriĞ aĞ keyra keyrsluskr  sem g‘ti 
+skaĞaĞ t”lvuna.
+
+Er çessari keyrsluskr  og f‘ribreytu hennar treyst?
+@2@401@0@
+Af ”ryggis st‘Ğum er ekki heimilt aĞ keyra eftirfarandi
+keyrsluskr  ¡ SHELL-aĞgerĞinni çegar h£n er send sem breyta:
+
+Keyrsluskr : %1
+F‘ribreyta: %2
+
+Fyrir AL h”nnuĞi: Ö staĞinn skal nota textafasta sem innihalda 
+sl¢Ğina aĞ keyrsluskr nni.
+@2@1101@0@
+%2.1 %3 ¡ %1.1 %5.
+@2@1102@0@
+%2.1 m  ekki vera %2.5 ¡ %1.1 %5.
+@2@1103@0@
+%2.1 verĞur aĞ vera %2.5 ¡ %1.1 %5.
+@2@1104@0@
+%6 hefur veriĞ eytt £r t”flunni %1.1.
+@2@1105@0@
+Reiturinn %2.1 ¡ t”flunni %1.1 er ekki virkur.
+@2@1106@0@
+Ekki er h‘gt aĞ nota aĞgerĞina LOCKTABLE ¡ t”flunni %1.1 meĞ gildinu FALSE ¡ f‘ribreytunni Wait eĞa gildiĞ TRUE ¡ f‘ribreytunni VersionCheck meĞan tengst er viĞ SQL Server.
+@2@1107@0@
+AĞgerĞina COPY m  aĞeins nota meĞ frumbreytuna shareTable stillta   "true" ef b Ğar skr r eru t¡mabundnar.
+@2@1112@0@
+Tilgreina verĞur %2.1 ¡ %1.1 %5.
+@2@1113@0@
+Ekki m  tilgreina %2.1 ¡ %1.1 %5.
+@2@1122@0@
+%2.1 m  ekki vera %2.5 ¡ %1.1 %5.
+@2@1123@0@
+%2.1 verĞur aĞ vera %2.5 ¡ %1.1 %5.
+@2@1132@0@
+%2.1 m  ekki vera %2.5 ¡ %1.1 %5.
+@2@1133@0@
+%2.1 verĞur aĞ vera %2.5 ¡ %1.1 %5.
+@2@1134@0@
+Textafastinn %4 ¡ skìrslunni er %5 st”fum lengri en leyft er.
+
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Streams   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Streams Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@120@0@
+@2@1@0@
+Streymisvilla varĞ.
+@2@2@0@
+èessi boĞ eru til C/AL-forritara:
+
+Lesin st‘rĞ samsvarar ekki st‘rĞ breytu eĞa umbeĞinni lengd.
+@2@3@0@
+èessi boĞ eru til C/AL-forritara:
+
+SkrifuĞ st‘rĞ samsvarar ekki st‘rĞ breytu eĞa umbeĞinni lengd.
+@2@4@0@
+èessi boĞ eru til C/AL forritara:
+
+Straumurinn geymir g”gn sem ekki er h‘gt aĞ t£lka r‚tt.
+@2@5@0@
+èessi boĞ eru til C/AL forritara:
+
+Straumurinn fann ekki n£ll-lokaĞan streng.
+Straumurinn kann aĞ vera ¢t‘kur eĞa st‘rĞ (breytu eĞa  skilin) of l¡til.
+@2@6@0@
+èessi boĞ eru til C/AL forritara:
+
+µskilin st‘rĞ ¡ straumnum samsvarar ekki breytust‘rĞinni.
+@2@7@0@
+èessi boĞ eru til C/AL forritara:
+
+Straumurinn er annaĞhvort utan sviĞs eĞa hefur ekki veriĞ frumstilltur.
+@2@8@0@
+èessi boĞ eru til C/AL forritara:
+
+Skrifst‘rĞin ¡ straumnum samsvarar ekki breytust‘rĞinni eĞa  skilinni lengd.
+@2@9@0@
+Villa varĞ çegar reynt var aĞ skrifa ¡ strauminn.
+
+@2@10@0@
+Ekki er h‘gt aĞ nota COPYSTREAM til aĞ afrita g”gn   milli tveggja strauma sem byggjast   s”mu gagnaveitunni.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Variant   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Variant Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@121@0@
+@2@1@0@
+Fr viksvilla hefur orĞiĞ.
+@2@2@0@
+èessi boĞ eru til  C/AL forritara:
+
+AfbrigĞiĞ er autt eĞa çv¡ hefur veriĞ £thlutaĞ ¢çekktu gildi.
+@2@3@0@
+èessi boĞ eru til  C/AL forritara:
+
+AfbrigĞiĞ hefur rekist   ¢samh‘fa gagnategund.
+@2@4@0@
+AĞbgerĞin VARIANT2TIME hefur rekist   frumbreytu sem kerfiĞ getur ekki breytt.
+Nota skal annaĞhvort t¡ma eĞa afbrigĞi sem frumbreytu.
+@2@5@0@
+AĞgerĞin VARIANT2DATE hefur rekist   frumbreytu sem ekki er h‘gt aĞ breyta ¡ kerfinut.
+Nota skal afbrigĞi eĞa dagsetningu sem frumbreytu.
+@2@6@0@
+Ekki er h‘gt aĞ afrita afbrigĞiĞ.
+@2@7@0@
+Ekki er h‘gt aĞ £thluta annari tegund en %1 çegar h£n er innifalin ¡ afbrigĞi meĞ VAR.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Bigstr   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Bigstr Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@148@0@
+@2@1@0@
+èessi boĞ eru til C/AL forritara:
+
+Ekki er h‘gt aĞ £thluta st‘rri streng en 2147483647 fyrir BigText-breytu.
+@2@2@0@
+èessi skilaboĞ eru fyrir C/AL-forritara:
+
+Ekki er h‘gt aĞ tilgreina neikv‘Ğa st”Ğu ¡ BigText-breytu.
+@2@3@0@
+èessi boĞ eru til C/AL forritara:
+
+Ekki er h‘gt aĞ tilgreina neikv‘Ğa lengd ¡ BigText-breytu.
+@2@4@0@
+èessi boĞ eru til C/AL forritara:
+
+ViĞt”kureiturinn myndi yfirfyllast çegar afritaĞ er £r breytunni BigText.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_NCLTypeConv    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL to NCL type convertion Errors                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@109@0@
+@2@1@0@
+Tegundin %1 er ekki studd ¡ klasasafni Microsoft Dynamics NAV Development Environment Class Library.
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  Module_AL_2Cs    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  AL 2 C# and Metadata generation errors                     ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@108@0@
+@2@1@0@
+Ekki var h‘gt aĞ hlaĞa MSXML
+@2@2@0@
+Lìsig”gn eru skemmd
+@2@END@0@

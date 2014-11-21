@@ -1,0 +1,4841 @@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  OS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Operating System                                                        ³
+// ³                                                                          ³
+// ³  All texts should be based on the operating system documentation in      ³
+// ³  your language to ensure correct translation.                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@1@0@
+@2@2@0@
+K„ytt”j„rjestelm„ ei l”yd„ tiedostoa %1 %2.
+
+Tarkista, ett„ aseman, hakemiston ja tiedoston nimet ovat oikein.
+@2@3@0@
+K„ytt”j„rjestelm„ ei l”yd„ tiedostolle %1 %2 m„„ritetty„ asemaa ja hakemistoa.
+
+Tarkista, ett„ aseman, hakemiston ja tiedoston nimet ovat oikein.
+@2@4@0@
+Tiedostoa %1 %2 ei voi avata, koska tiedostoja ei voi avata lis„„ juuri nyt.
+
+MS-DOS- ja OS/2-j„rjestelmiss„ ongelma voidaan ratkaista kasvattamalla CONFIG.SYS-tiedoston FILES-arvoa.
+@2@5@0@
+K„ytt”j„rjestelm„ ei pysty k„ytt„m„„n tiedostoa %1 %2.
+
+Tarkista, ett„ tiedostotyyppi ja m„„ritteet ovat oikein.
+@2@8@0@
+Muisti ei riit„ t„m„n toiminnon suorittamiseen.
+
+Jos k„yt”ss„si on yhden k„ytt„j„n asennus, yrit„ pienent„„ ohjelman ominaisuuden "cache" arvoa. Lis„tietoja k„ytt”j„rjestelm„n optimoinnista on k„ytt”j„rjestelm„n oppaissa.
+@2@14@0@
+Tietokoneessa, jossa on Microsoft Dynamics NAV -palvelin, ei ole riitt„v„sti muistia nykyisen toiminnon suorittamiseen.
+@2@15@0@
+K„ytt”j„rjestelm„ ei l”yd„ tiedostolle %1 %2 m„„ritetty„ asemaa.
+
+Tarkista asema ja tarkista, ett„ aseman nimi on kirjoitettu oikein.
+@2@17@0@
+Tiedostoa ei voi nimet„ uudelleen, eik„ sit„ voi siirt„„ toiseen asemaan.
+
+T„ss„ sanomassa viitataan tiedostoihin %1 %2.
+
+Molemmat tiedostot tulee sijoittaa samaan asemaan.
+@2@19@0@
+Levy on kirjoitussuojattu.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Tarkista, ett„ k„yt”ss„ on oikea levy, ja poista kirjoitussuojaus. Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa.
+@2@20@0@
+K„ytt”j„rjestelm„ ei l”yd„ laitetta %1 %2.
+
+Tarkista, ett„ olet oikeassa hakemistossa ja ett„ nimi on kirjoitettu oikein.
+@2@21@0@
+Levyasema ei ole k„ytt”valmis.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Tarkista, ett„ levy on asemassa, ett„ asema on suljettu ja ett„ mik„„n toinen ohjelma ei k„yt„ asemaa.
+@2@23@0@
+Varoitus: K„ytt”j„rjestelm„ l”ysi levyst„ vioittuneen alueen. T„m„ virhe on korjattava, ennen kuin ohjelmaa k„ytet„„n uudelleen, jotta t„rkeit„ tietoja ei menetett„isi. l„ k„sittele tietokantaa levyapuohjelmilla.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Jos virhe ilmeni levyss„, tarkista, ett„ levy on alustettu. Muussa tapauksessa tarkista kiintolevy ja korjaa mahdolliset virheet. Levy on ehk„ alustettava ja varmuuskopio palautettava.
+Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa. Kun k„ynnist„t ohjelman seuraavan kerran, testaa tietokanta ohjelman ominaisuudella dbtest=min. Saat lis„tietoja j„rjestelm„n p„„k„ytt„j„lt„.
+@2@25@0@
+Varoitus: K„ytt”j„rjestelm„ ei l”yd„ levylt„ tietty„ uraa tai aluetta. Levy saattaa olla vahingoittunut, sit„ ei ole ehk„ alustettu tai se ei ole yhteensopiva k„ytt”j„rjestelm„n kanssa. Jotta t„rkeit„ tietoja ei menetett„isi, t„m„ virhe on korjattava ennen ohjelman k„ytt„mist„ uudelleen. l„ k„sittele tietokantaa levyapuohjelmilla.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Jos virhe ilmeni levyll„, varmista, ett„ levy on alustettu. Muussa tapauksessa tarkista kiintolevy ja korjaa mahdolliset virheet. Levy on ehk„ alustettava ja varmuuskopio palautettava. 
+Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa. Kun k„ynnist„t ohjelman seuraavan kerran, testaa tietokanta ohjelman ominaisuudella dbtest=min. Saat lis„tietoja j„rjestelm„n p„„k„ytt„j„lt„.
+@2@26@0@
+K„ytt”j„rjestelm„ ei voi lukea t„t„ levy„.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Levy on vaurioitunut tai sit„ ei ole alustettu k„ytt”j„rjestelm„lle sopivaksi, tai tarvittavaa tiedostoj„rjestelm„ohjainta ei ole asennettu. J„rjestelm„valvoja voi antaa lis„tietoja t„st„.
+@2@27@0@
+Varoitus: K„ytt”j„rjestelm„ ei l”yd„ pyydetty„ sektoria levylt„. Levy saattaa olla vahingoittunut, sit„ ei ole ehk„ alustettu tai se ei ole yhteensopiva k„ytt”j„rjestelm„n kanssa. Jotta t„rkeit„ tietoja ei menetett„isi, t„m„ virhe on korjattava ennen ohjelman k„ytt„mist„ uudelleen. l„ k„sittele tietokantaa levyapuohjelmilla.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Jos virhe ilmeni levyll„, varmista, ett„ levy on alustettu. Muussa tapauksessa tarkista kiintolevy ja korjaa mahdolliset virheet. Levy on ehk„ alustettava ja varmuuskopio palautettava. 
+Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa. Kun k„ynnist„t ohjelman seuraavan kerran, testaa tietokanta ohjelman ominaisuudella dbtest=min. Saat lis„tietoja j„rjestelm„n p„„k„ytt„j„lt„.
+@2@28@0@
+K„ytt”j„rjestelm„ ei pysty p„„tt„m„„n tulostusty”t„.
+
+Tarkista, ett„ tulostimessa on virta kytkettyn„, ett„ se on liitetty ja asennettu oikein ja ett„ siin„ on paperia. Jos tulostat verkkotulostimella, varmista, ett„ palvelimen levyll„ on tarpeeksi tilaa.
+@2@29@0@
+K„ytt”j„rjestelm„ ei pysty tulostamaan kohteeseen %1 %2.
+
+Tarkista, ett„ se on asennettu ja liitetty, ett„ siin„ on virta kytkettyn„ ja ett„ se on valmis vastaanottamaan dataa ja (jos kyseess„ on levy) ett„ se on alustettu.
+@2@30@0@
+K„ytt”j„rjestelm„ ei pysty lukemaan dataa kohteesta %1 %2.
+
+Varmista, ett„ kohde on asennettu ja liitetty oikein ja ett„ se on k„yt”ss„, l„hetystilassa sek„ (jos kyseess„ on levy) alustettu.
+@2@31@0@
+J„rjestelm„„n kytketty laite %1 %2 ei toimi.
+
+Varmista, ett„ laite on asennettu ja liitetty oikein ja ett„ laite on k„ytett„viss„ ja l„hetystilassa sek„ (jos kyseess„ on levy) alustettu. 
+Jos kyseess„ on levyasema, tarkista, ett„ levyn tyyppi on oikea ja ett„ levy on alustettu sek„ asetettu asemaan oikein.
+@2@32@0@
+Tiedostoa %1 %2 ei voi k„ytt„„, koska se on jo k„yt”ss„.
+@2@33@0@
+Tiedostoa %1 %2 ei voi k„ytt„„, koska jokin toinen prosessi k„ytt„„ sit„.
+@2@34@0@
+Olet vaihtanut v„„r„n levyn.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Aseta asemaan oikea levy.
+@2@53@0@
+Verkon polkua ei l”ydy.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Verkon palvelin saattaa olla poissa k„yt”st„ tai polku on virheellinen.
+@2@80@0@
+Tiedosto %1 %2 on jo olemassa.
+@2@82@0@
+K„ytt”j„rjestelm„ ei pysty luomaan tiedostoa tai hakemistoa, jonka nimi on %1 %2. Syyn„ on jokin tai jotkin seuraavista virheist„:
+
+* Hakemisto tai tiedosto on jo olemassa.
+* Hakemiston polkua ei l”ydy.
+* Juurihakemisto on t„ynn„ tai levyll„ ei ole en„„ tilaa.
+* Hakemiston nimess„ on virheellisi„ merkkej„ tai hakemisto on varattu k„ytt”j„rjestelm„n k„ytt””n.
+* Levy„ ei ole alustettu oikein.
+@2@100@0@
+K„ytt”j„rjestelm„ ei pysty luomaan lis„„ semaforeja.
+
+M„„rit„ k„ytt”j„rjestelm„ sallimaan lis„semaforien tunnukset. Jos k„yt”ss„ on UNIX-j„rjestelm„, kasvata SEMMNI-arvoa ja luo uusi UNIX-ydin. Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa.
+Ota tarvittaessa yhteytt„ j„rjestelm„n p„„k„ytt„j„„n. 
+@2@108@0@
+Jokin toinen ohjelma k„ytt„„ levy„.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Odota, kunnes toinen ohjelma on p„„ttynyt.
+@2@112@0@
+Levyll„ ei ole en„„ vapaata tilaa.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+K„yt„ jotakin toista levy„ tai poista tiedostoja.
+@2@123@0@
+Tiedostonimi %1 %2 sis„lt„„ merkin, jota ei saa k„ytt„„.
+
+Tarkista tiedostonimi. Lis„tietoja tiedostonimist„ on k„ytt”j„rjestelm„n dokumentaatiossa.
+@2@126@0@
+K„ytt”j„rjestelm„ ei pysty lataamaan DLL-moduulia %1.
+
+Tarkista, ett„ DLL-moduuli on olemassa ja ett„ sen k„ytt„m„t muut DLL-moduulit ovat my”s olemassa.
+@2@127@0@
+K„ytt”j„rjestelm„ ei l”yd„ DLL-moduulia %1.
+@2@166@0@
+Valitsemaasi toimintoa ei voi suorittaa, koska verkkoa ei ole asennettu.
+
+T„ss„ sanomassa viitataan tiedostoon %1 %2.
+
+Varmista, ett„ verkko on asennettu oikein ja ett„ se on toiminnassa.
+@2@190@0@
+K„ytt”j„rjestelm„ ei pysty suorittamaan ohjelmaa %1 %2.
+
+T„m„ virhe ilmenee yritett„ess„ suorittaa DLL-moduulia tavallisena ohjelmana tai tavallista ohjelmaa DLL-moduulina. Virhe voi my”s ilmet„, jos ohjelman rakenne ei ole odotettu. Tarkista ohjelman rakenne ja k„ynnistystapa.
+@2@191@0@
+K„ytt”j„rjestelm„ ei pysty suorittamaan ohjelmaa %1 %2.
+
+Varmista, ett„ ohjelma on asennettu oikein ja ett„ sit„ voidaan k„ytt„„ tietokoneesi k„ytt”j„rjestelm„ss„.
+@2@192@0@
+K„ytt”j„rjestelm„ ei pysty suorittamaan ohjelmaa %1 %2.
+
+Varmista, ett„ ohjelma on asennettu ja linkitetty oikein.
+@2@193@0@
+K„ytt”j„rjestelm„ ei pysty suorittamaan ohjelmaa %1 %2.
+
+Varmista, ett„ ohjelma on asennettu oikein ja ett„ sit„ voidaan k„ytt„„ tietokoneesi k„ytt”j„rjestelm„ss„.
+@2@203@0@
+K„ytt”j„rjestelm„ ei l”yd„ ymp„rist”muuttujaa %1.
+@2@206@0@
+Hakemiston tai tiedoston nimi %1 %2 on liian pitk„.
+
+Lis„tietoja on k„ytt”j„rjestelm„n oppaissa.
+@2@700@0@
+OLE:n alustus ei onnistunut.
+@2@800@0@
+Tiedostoa %1 ei voi avata NFS (Network File System) -tiedostoj„rjestelm„ss„, koska statd-daemonia ei ole k„ynnistetty NFS-asiakasohjelmassa.
+
+Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa."
+@2@801@0@
+Tiedostoa %1 ei voi avata NFS (Network File System) -tiedostoj„rjestelm„ss„, koska lockd-daemonia ei ole k„ynnistetty NFS-asiakasohjelmassa.
+
+Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa.
+
+@2@802@0@
+Tiedostoa %1 ei voi avata NFS (Network File System) -tiedostoj„rjestelm„ss„, koska lockd-daemonia ei ole k„ynnistetty NFS-asiakasohjelmassa.
+
+Lis„tietoja on k„ytt”j„rjestelm„n dokumentaatiossa.
+
+@2@899@0@
+Ohjelma ei voi muodostaa yhteytt„ palvelimen prosessiin.
+
+Syyn„ on se, ett„ palvelinohjelmaa suoritetaan j„rjestelm„tili„ k„ytt„v„n„ palveluna. Suorita asiakasohjelma k„ytt„m„ll„ verkkoa.
+@2@951@0@
+K„ytt”j„rjestelm„ ei pysty luomaan lis„„ semaforeja.
+
+K„ytt”j„rjestelm„n kokoonpano on m„„ritett„v„ lis„semaforien k„ytt”„ varten. Lis„tietoja on readme.txt-tiedostossa ja k„ytt”j„rjestelm„n dokumentaatiossa.
+@2@952@0@
+K„ytt”j„rjestelm„ ei pysty luomaan enemp„„ jaettua muistia.
+
+K„ytt”j„rjestelm„n kokoonpano on m„„ritett„v„ uudelleen, jos halutaan k„ytt„„ enemm„n jaettua muistia. Lis„tietoja on readme.txt-tiedostossa ja k„ytt”j„rjestelm„n dokumentaatiossa.
+@2@953@0@
+K„ytt”j„rjestelm„ ei pysty luomaan m„„ritetyn kokoista jaettua muistia.
+
+K„ytt”j„rjestelm„n kokoonpano on m„„ritett„v„ uudelleen siten, ett„ k„ytt”j„rjestelm„ k„ytt„„ suurempaa tai pienemp„„ jaettua muistia. Lis„tietoja on readme.txt-tiedostossa ja k„ytt”j„rjestelm„n dokumentaatiossa.
+@2@958@0@
+K„ytt”j„rjestelm„ ei tue tiedostoja, joiden koko on suurempi kuin 2 gigatavua.
+@2@995@0@
+K„ytt”j„rjestelm„ palautti virheen (%18):
+
+%99
+@2@998@0@
+Valikon vaihtoehtoa tai toimintoa ei voi k„ytt„„ t„ss„ k„ytt”j„rjestelm„ss„.
+@2@999@0@
+Komento, jolla ulkoinen ohjelma %1 k„ynnistet„„n, on liian pitk„.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ Lang ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Multilanguage							      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@7@0@
+@2@3@0@
+Valittu tuntematon kieli ("%1").
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  UT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Usertypes                                                               ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@9@0@
+@2@002@0@
+Tyyppi„ "%1" ei ole m„„ritetty toiminnolle.
+@2@6@0@
+Arvot eiv„t ole yhteensopivia:
+
+Arvo "%4" (jonka tyyppi on "%1")
+
+ei ole yhteensopiva
+
+arvon "%104" (jonka tyyppi on "%101") kanssa.
+@2@7@0@
+Minimi hyv„ksytty arvo on %4.
+@2@8@0@
+Maksimi hyv„ksytty arvo on %4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  STACK  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÙ                                                              ³
+// ³                                                                          ³
+// ³  Stack Manager                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@15@0@
+@2@1@0@
+Muistia ei ole tarpeeksi t„m„n toiminnon suorittamiseen.
+
+T„m„ saattaa johtua tavasta, jolla toistuvia toimintokutsuja k„ytet„„n ohjelmassa. Ota tarvittaessa yhteys j„rjestelm„nvalvojaan.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  FILE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  File                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@17@0@
+@2@1006@0@
+Tiedostonimess„, asemassa ja polussa ei saa olla yhteens„ enemp„„ kuin 255 merkki„.
+
+T„ss„ sanomassa viitataan tiedostoon %1.
+@2@1009@0@
+Tiedosto %1 sis„lt„„ tietueen, jota ei voi lukea kokonaan.
+@2@1010@0@
+Tiedostossa %1 on rivi, joka on liian pitk„ sis„ist„ muuttujaa varten.
+@2@1014@0@
+Merkkilaitteista ei voi hakea.
+
+T„ss„ sanomassa viitataan tiedostoon %1.
+@2@1015@0@
+Tiedosto %1 sis„lt„„ tiedostosijainnin, jota ei en„„ ole.
+@2@1016@0@
+Tiedostoa ei voi kopioida omalla nimell„„n.
+
+T„ss„ sanomassa viitataan tiedostoon %1.
+@2@1017@0@
+Tiedostoa ei voi kopioida omalla nimell„„n.
+
+T„ss„ sanomassa viitataan tiedostoon %1.
+@2@1018@0@
+Tiivistetyn tiedoston %1 muoto on virheellinen.
+@2@2100@0@
+Tiedosto %1 on liian suuri.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EVAL  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Evaluation                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@41@0@
+@2@100@0@
+%5 ei saa olla tyhj„.
+
+%5 puuttuu tai on virheellinen lausekkeessa.
+@2@101@0@
+Teksti "%10" on liian pitk„. Kohteen %5 enimm„ispituus on %3 merkki„.
+@2@104@0@
+Teksti "%10" on liian pitk„. Vaihtoehtoluettelon enimm„ispituus on %3 merkki„.
+@2@111@0@
+%5 ei saa olla %10.
+
+%5 on oltava %1 - %2.
+@2@112@0@
+Teksti„ "%10" ei voi sy”tt„„ kohteeseen %5.
+@2@113@0@
+Teksti„ "%10" ei voi sy”tt„„ kohteeseen %5.
+@2@120@0@
+"%10" on liian pitk„ sis„iselle muuttujalle "%5".
+@2@141@0@
+'%10' ei ole vaihtoehto.
+
+Olemassa olevat vaihtoehdot ovat:
+
+%4
+@2@142@0@
+'%10' ei ole vaihtoehto.
+
+Olemassa olevat vaihtoehdot ovat:
+
+%4
+@2@151@0@
+Teksti "%10" on liian pitk„. Koodikenttien tekstiss„ saa olla enint„„n %3 merkki„.
+@2@161@0@
+'%10' ei ole kelvollinen p„iv„m„„r„.
+@2@162@0@
+'%10' ei ole kelvollinen p„iv„m„„r„.
+@2@171@0@
+'%10' ei ole kelvollinen aika.
+@2@172@0@
+'%10' ei ole kelvollinen aika.
+@2@175@0@
+'%10' ei ole kelvollinen p„iv„m„„r„ ja aika.
+@2@180@0@
+"%5" ei saa sis„lt„„ kohdetta "%7" useammin kuin kerran.
+
+%10
+@2@181@0@
+"%5" ei saa sis„lt„„ kohdetta "%7" useammin kuin kerran.
+
+%10
+@2@182@0@
+Tyyppi "%5" ei ole valmis.
+
+%10
+@2@183@0@
+Ominaisuudelle "Format" on m„„ritetty virheellinen kentt„ tai m„„rite.
+
+%10
+
+@2@184@0@
+Kohteessa "%10" on virheellisi„ merkkej„.
+
+@2@185@0@
+'%1' ei ole p„„-DataItem. Sy”t„ p„„-DataItem.
+@2@186@0@
+Et voi sy”tt„„ teksti„ "%1", koska se ei ole kelvollinen sarake t„ss„ kyselyss„.
+@2@187@0@
+DataItemLink-kohteessa ei ole m„„ritetty kohdetta "Field".
+@2@188@0@
+DataItemLink-kohteessa ei ole m„„ritetty kohdetta "Referenced DataItem".
+@2@189@0@
+DataItemLink-kohteessa ei ole m„„ritetty kohdetta "Referenced Field".
+@2@190@0@
+FlowField-kentt„„ ei voi k„ytt„„ DataItemLink-kohteessa.
+@2@191@0@
+FlowFilter-kohteen voi linkitt„„ vain normaaliin kentt„„n.
+@2@300@0@
+"%5" odotettiin t„h„n.
+
+%10
+@2@301@0@
+Virhe ilmeni seuraavassa tiedostossa:
+
+Tiedostonimi: %50
+Rivinumero: %51
+Rivi: %10
+Sarake: %11
+@2@500@0@
+Sis„inen virhe:
+
+Tuntematon tyyppi %5.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  FMT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Format                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@42@0@
+@2@2@0@
+Vakiomuotonumeroa %1 ei ole tyypille "%2".
+@2@4@0@
+L„hteen pituus ylitt„„ kohdepuskurin koon.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  RecConv  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Conversion Utility                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@43@0@
+@2@1@0@
+Tietokohteen nimikent„n arvon sallittu enimm„ispituus on 30 merkki„.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  STR  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  String                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@45@0@
+@2@6@0@
+Merkkijono %3 on liian lyhyt kenttien %# lis„„mist„ varten.
+
+T„m„n virhesanoma tuli esiin seuraavien vuoksi:
+Nro: %1
+Arvo: %2
+@2@7@0@
+Seuraavat tekstit eiv„t saa olla yhteens„ yli %1 merkki„.
+
+"%2" +
+"%3"
+@2@5@0@
+Alfamuuttujan arvo ei saa olla pidempi kuin %1 merkki„.
+
+"%2"
+@2@11@0@
+Tekstin pituus ylitt„„ tekstipuskurin koon.
+@2@300@0@
+Indeksi on alueen ulkopuolella yritett„ess„ k„ytt„„ merkkijonoa.
+
+Merkkijono: %3
+Merkkijonon pituus: %1
+Indeksi: %5
+@2@301@0@
+%6 ei voi olla %3.
+@2@302@0@
+%6 on m„„ritett„v„.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DATE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Date                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@46@0@
+@2@1@0@
+M„„ritt„m„t”nt„ p„iv„m„„r„„ ei voi k„ytt„„ p„iv„m„„r„laskelmissa.
+@2@2@0@
+P„iv„m„„r„ ei kelpaa.
+@2@3@0@
+P„iv„m„„r„laskelmissa ei voi k„ytt„„ sulkemisp„iv„m„„r„„.
+@2@4@0@
+Kellonaikalaskelmissa ei voi k„ytt„„ m„„ritt„m„t”nt„ aikaa.
+@2@5@0@
+Kellonaika ei kelpaa.
+@2@8@0@
+P„iv„m„„r„n kaava ylitt„„ sallitun enimm„iskoon.
+@2@201@0@
+P„iv„m„„r„n laskukaavan "%10" on sis„llett„v„ plusmerkki (+) tai miinusmerkki (-).
+@2@202@0@
+P„iv„m„„r„n kaavan "%10" on sis„llett„v„ luku.
+@2@203@0@
+P„iv„m„„r„n kaavan "%10" on sis„llett„v„ aikayksikk”.
+
+Aikayksik”t ovat seuraavat: P, VP, VI, K, Q ja V.
+N on aikayksik”n etuliite, joka ilmaisee, ett„ kyseinen aikayksikk” on nykyinen.
+@2@204@0@
+P„iv„m„„r„n kaavan "%10" on sis„llett„v„ luku.
+@2@205@0@
+P„iv„m„„r„n kaava "%10" sis„lt„„ liian suuren luvun.
+
+Luvun on oltava v„lill„ %1 ja %2.
+@2@206@0@
+P„iv„m„„r„n laskukaavan %10 laskennan tuloksena oli virheellinen p„iv„m„„r„: %1.
+
+Vain p„iv„m„„ri„ 1.1.0000 - 31.12.9999 voidaan k„ytt„„.
+@2@207@0@
+Arviointivirhe (virheellinen yksikk”merkkijono, %4, .stx-tiedoston p„iv„m„„r„lausekkeille).
+
+Sis„inen virhe: 41-%0 
+
+@2@208@0@
+P„iv„m„„r„n laskenta ei voi perustua m„„ritt„m„tt”m„„n p„iv„m„„r„„n.
+
+P„iv„m„„r„: 0D
+Laskukaava: %10
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  TEXTCONV  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ³                                                                          ³
+// ³  Text Conversion                                                         ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@47@0@
+@2@1@0@
+Tekstin muunnoksessa on virheit„, koska .stx-tiedostossa ole teksti„ nro %1-%2.
+
+Sis„inen virhe: 47-%0
+@2@2@0@
+Tekstin muunnoksessa on virheit„, koska teksti nro %1-%2 on liian pitk„ sis„iselle puskurille.
+
+Sis„inen virhe: 47-%0
+@2@3@0@
+Tekstin muunnoksessa on virheit„, jotka aiheuttaa virheellinen sis„isen puskurin pituus suhteessa tekstiin nro %1-%2.
+
+Sis„inen virhe: 47-%0
+@2@5@0@
+Seuraavien tiedostojen sinet”iminen on onnistunut:
+
+%1
+@2@7@0@
+Sinet”inti„ ei voida suorittaa.
+
+K„ytt”oikeutesi ei salli fin.stx-tiedoston muuttamista. 
+
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+@2@101@0@
+Tekstin muunnoksessa on virheit„. Virhe tapahtui tiedoston %11 rivill„ %12 tekstiss„ "%13".
+
+Syntaksi on virheellinen .stx-tiedostolle. Oikea syntaksi on seuraava:
+<ModuuliNro>-<TekstiNro>-<Enimm„ispituus>-<K„„nn„>: <Teksti>
+
+Numeroiden lukum„„r„ syntaksissa:
+
+ModuuliNro: 5 numeroa
+TekstiNro: 5 numeroa
+Enimm„ispituus: 3 numeroa
+K„„nn„: 1 numero
+
+Esimerkki:
+
+00040-01003-256-1: Maanantai,Tiistai,Keskiviikko,...
+Sis„inen virhe: 47-%0
+@2@102@0@
+Tekstin muunnoksessa on virheit„, jotka aiheuttaa liian pitk„ rivi.
+
+Virhe tapahtui tiedoston %11 rivill„ %12 tekstiss„ "%13".
+
+Sis„inen virhe: 47-%0 
+@2@103@0@
+Tekstin muunnoksessa on virheit„, koska sama teksti on m„„ritetty useammin kuin kerran.
+
+Virhe tapahtui tiedoston %11 rivill„ %12 tekstiss„ "%13".
+
+Sis„inen virhe: 47-%0 
+@2@104@0@
+Tekstin muunnoksessa on virheit„, koska teksti on liian pitk„.
+
+Virhe tapahtui tiedoston %11 rivill„ %12 tekstiss„ "%13".
+
+Sis„inen virhe: 47-%0
+@2@105@0@
+Tekstin muunnoksessa on virheit„, jotka aiheuttaa virheellinen .stx-syntaksi.
+
+Virhe tapahtui tiedoston %11 rivill„ %12 tekstiss„ "%13".
+
+Sis„inen virhe: 47-%0 
+@2@106@0@
+Fin.stx-tiedostossa on tarkistussummavirhe. Tiedostoa on muutettu tai se on vaurioitunut asennuksen j„lkeen.
+
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+@2@109@0@
+Tekstin muunnoksessa on virheit„ (oikean tiedoston tason tulee olla fin.stx-tiedoston ensimm„isell„ rivill„).
+
+Virhe tapahtui tiedostossa %11 rivill„ %12 tekstiss„ "%13".
+
+Sis„inen virhe: 47-%0 
+@2@110@0@
+Fin.stx-tiedostossa on tarkistussummavirhe. Tiedosto on vaurioitunut tai sit„ on muutettu asennuksen j„lkeen.
+
+Virhe tapahtui tiedostossa %11.
+
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  BCD  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Binary Coded Decimal (Decimal No.)                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@50@0@
+@2@1@0@
+Jako nollalla.
+
+%2 / %3
+@2@2@0@
+Seuraavan toiminnon tuloksena oli liian suuri desimaaliluku.
+
+%1
+@2@4@0@
+Seuraavan toiminnon tuloksena oli liian suuri desimaaliluku.
+
+%1
+@2@5@0@
+Jokin kokonaisluku on liian suuri.
+
+%2
+@2@6@0@
+Jokin seuraavista virheist„ tapahtui:
+
+* Negatiivinen luku korotettiin ei-kokonaislukupotenssiin.
+* Nolla korotettiin negatiiviseen potenssiin.
+
+POWER(%2,%4)
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EXEC  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Execute External Program                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@80@0@
+@2@1@0@
+Ulkoinen ohjelma %1 l„hetti virhekoodin %0.
+
+Lis„tietoja on ulkoisen ohjelman oppaissa.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ATT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Attributes                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@11@0@
+@2@1@0@
+Ominaisuus ylitt„„ puskurin koon.
+@2@100@0@
+Sis„inen virhe:
+Ominaisuutta %1 ei ole m„„ritetty ominaisuusluettelossa.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  MT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  MiniTree                                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@24@0@
+@2@3@0@
+Tiedostossa %2 on jotakin vikaa. Et voi jatkaa, ennen kuin poistat tiedoston tai nime„t sen uudelleen.
+@2@8@0@
+Raportti sis„lt„„ teksti„ %11 merkki„ yli sallitun enimm„ism„„r„n.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  HELP ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Help Lookup Subsystem                                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@25@0@
+@2@001@0@
+Ohjej„rjestelm„ on korruptoitunut.
+Varmista, ett„ .hh tiedostot on asennettu oikein.
+@2@002@0@
+Rivi (%4) ohjetiedostossa %1 on liian pitk„. Riveill„ saa olla enint„„n 1 023 merkki„.
+@2@003@0@
+Ohjetiedostossa %1 on syntaksivirhe rivill„ %2, sijainti %3.
+
+%4
+@2@004@0@
+Ohje tiedostossa %1 on syntaksivirhe rivill„ %2, sijainti %3. #M„„rittely oli odotettu.
+
+%4
+@2@005@0@
+Ohje tiedostossa %1 on syntaksivirhe rivill„ %2, sijainti %3. Tunnistin oli odotettu.
+
+%4
+@2@006@0@
+Ohje tiedostossa %1 on syntaksivirhe rivill„ %2, sijainti %3. Numero oli odotettu.
+
+%4
+@2@007@0@
+Ohjetiedostosta %1 on l”ytynyt virheellist„ sis„lt”„.
+
+%4
+@2@008@0@
+Ohje tiedostosta %1 on l”ytynyt virheellinen tunniste.
+
+%4
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´RUNTIME ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@40@0@
+@2@001@0@
+%1 ei ole toteutettu.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´Assert        ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@255@0@
+@2@027@0@
+Sis„inen virhe: %1
+
+%2 rivi %3
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  L4    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ  License File                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@160@0@
+@2@200@0@
+Tiedostomuoto on virheellinen. Tiedosto ei ole kelvollinen k„ytt”oikeustiedosto.
+@2@201@0@
+Bittitason toimintoja voidaan suorittaa vain tiedoille, jotka ovat samankokoisia.
+@2@204@0@
+Palautusdatan puskuri ei ole tarpeeksi suuri.
+@2@205@0@
+Tiedot ovat jo olemassa.
+@2@206@0@
+K„ytetty virheellist„ parametria.
+@2@208@0@
+Windows API:n .dll-tiedosto on vioittunut.
+
+Sis„inen virhe: 160-%0
+
+Ota yhteys j„rjestelm„nvalvojaan.
+@2@210@0@
+Tietoja ei voi tulkita tyypiksi %18.
+@2@211@0@
+Tietotyyppi„ %18 ei voi k„ytt„„ t„ss„.
+@2@220@0@
+Tilaa ei ole k„ytett„viss„ enemp„„.
+@2@242@0@
+K„ytt”oikeustiedostoa ei voi k„ytt„„ ohjelman t„m„n version kanssa.
+@2@248@0@
+Lisenssitiedoston maakoodi ei vastaa tuotteen maakoodia (%1).
+@2@END@0@
+ 
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´ BCMIA ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Large Fixed Decimal Numbers                                             ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@18@0@
+@2@1@0@
+Desimaaliluvun ylivuoto.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´ DB ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Database System                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@19@0@
+@2@1@0@
+Varoitus: Tietokantarakenteessa on virhe. T„m„ virhe ilmenee, jos toinen ohjelma muuttaa tietokantatiedostoa tai jos laiteohjain ei toimi oikein.
+
+Virhe on korjattava, jotta voit jatkaa. Virhe (%18 moduulissa %23) saattaa johtua tietokoneesta tai ohjelmasta.
+
+Taulukko: %1.1
+Oma yritys: %1.9
+Avainkent„t: %6
+
+Tarkista ensin tietokanta valitsemalla Tiedosto, Tietokanta, Testaa ja valitsemalla sitten Suuri. Jos tuloksena on edelleen sama virhe, tee seuraavat toimet:
+
+1) Tee tietokannasta varmuuskopio kopioimalla tietokantatiedosto(t) toiseen sijaintiin.
+
+2) Tee varmuuskopio k„ytt„m„ll„ sis„ist„ toimintoa.
+
+3) Jos t„m„ onnistuu, luo uusi tietokanta poistamatta virheet sis„lt„v„„ tietokantaa.
+Palauta sis„isell„ varmuuskopiotoiminnolla tehty varmuuskopio uuteen tietokantaan ja testaa se valitsemalla Tiedosto, Tietokanta, Testaa ja valitsemalla sitten Suuri.
+
+Jos n„m„ toimet eiv„t onnistu, tietokantaan edellisen varmuuskopioinnin j„lkeen tehdyt muutokset on menetetty. Palauta viimeksi sis„isell„ varmuuskopiotoiminnolla tehty varmuuskopio ja testaa se.
+Vanha tietokanta on pidett„v„ tallessa varmuuden vuoksi jonkin aikaa sen j„lkeen, kun uutta tietokantaa on alettu k„ytt„„.
+
+Ota tarvittaessa yhteytt„ j„rjestelm„n p„„k„ytt„j„„n.
+@2@3@0@
+Tietokannassa ei ole tarpeeksi tilaa t„t„ teht„v„„ varten. Saat enemm„n tilaa seuraavasti:
+
+* Laajenna tietokantaa.
+* Poista tarpeettomat tiedot.
+* Tiivist„ p„iv„m„„r„n mukaan vanhemmat, ei-ajankohtaiset tiedot.
+* Optimoi tietokanta.
+@2@4@0@
+Muut samanaikaiset toimenpiteet ovat k„ytt„neet uudelleen k„ytett„viss„ olevan tilan tietokannasta, joka sis„lsi tietojesi vedoksen. N„in voi tapahtua, jos kyseess„ ovat aikaa viev„t teht„v„t, kuten tulostaminen tai varmuuskopioiden tekeminen.
+Odota, kunnes tietokannassa on v„hemm„n samanaikaisia p„ivityksi„, ja yrit„ uudelleen.
+
+Jos n„in tapahtuu usein, luo tietokantaan enemm„n k„ytett„viss„ olevaa tilaa. Voit luoda tietokantaan enemm„n tilaa tekem„ll„ seuraavat toimet:
+
+* Laajenna tietokantaa.
+* Poista tarpeettomat tiedot.
+* Tiivist„ p„iv„m„„r„n mukaan vanhat, ei-ajankohtaiset tiedot.
+* Optimoi tietokanta.
+@2@5@0@
+Kohteen %1.1 taulukkoa ei ole.
+@2@7@0@
+Tietokantaan ei voi tehd„ muutoksia, ennen kuin tapahtuma on aloitettu.
+@2@9@0@
+Kent„n tyyppi„ ei ole m„„ritetty taulukon %1.1 kent„lle numero %2.2.
+@2@13@0@
+Aktiivisen avaimen SumIndexField-kentt„„ ei voi poistaa. Kentt„ on:
+
+Kent„n nro: %2.2
+Taulukko: %1.1
+SumIndexField-kent„t: %6
+@2@14@0@
+Aktiiviseen avaimeen sis„ltyv„„ kentt„„ ei voi poistaa. Kentt„ on:
+
+Kent„n nro: %2.2
+Taulukko: %1.1
+Avainkent„t: %6
+@2@15@0@
+SumIndexField-kent„n tyypin on oltava Desimaali. Kentt„ on:
+
+Kentt„: %2.1
+Taulukko: %1.1
+SumIndexField-kent„t: %6
+@2@17@0@
+Taulukkoa %1.1 ei voi lukita tai muuttaa, koska k„ytt„j„, jonka k„ytt„j„tunnus on %13, on jo lukinnut sen.
+
+Odota, kunnes toinen k„ytt„j„ on lopettanut taulukon k„sittelyn, ja yrit„ sitten uudelleen.
+@2@20@0@
+Objektilajeja Lomake ja Dataportti ei tueta. Poista n„m„ objektilajit tietokannasta Microsoft Dynamics NAV -kehitysymp„rist”n edellisell„ versiolla.
+@2@1000@0@
+%1.3 %1.2 on jo olemassa.
+@2@1001@0@
+%1.3 %1.2 ei ole olemassa.
+@2@1002@0@
+%1.1 %6.1.1 "%6.1.5" ei ole olemassa. %12
+@2@1003@0@
+Tietueen aktiiviset kent„t eiv„t saa vied„ tilaa enemm„n kuin %8 tavua. Kohteen %1.1 taulukon aktiiviset kent„t viev„t tilaa %7 tavua.
+
+Joko aktiivisten kenttien m„„r„„ on v„hennett„v„ tai pituutta lyhennett„v„.
+@2@1004@0@
+Taulukossa %1.1 on enemm„n kuin yksi m„„ritys kent„lle nro %2.2.
+@2@1005@0@
+Kentt„„ numero %2.2 ei ole m„„ritetty kohteen %1.1 taulukossa.
+@2@1007@0@
+Kohteen %1.1 taulukossa ei ole seuraavien kenttien mukana k„ynnistyv„„ aktiivista avainta: %6.
+@2@1008@0@
+%1.1 ei ole olemassa. %12
+
+Tunnuskent„t ja arvot:
+
+%6
+
+%1.10
+@2@1009@0@
+%1.1 on jo olemassa.
+
+Tunnuskent„t ja arvot:
+
+%6
+@2@1010@0@
+Taulukon %1.1 kent„n %2.1 on oltava FlowFilter-kentt„.
+@2@1011@0@
+Kohteen %2.1 kent„n arvojen summaa ei voi laskea.
+
+M„„rit„, aktivoi ja valitse avain, joka sis„lt„„ seuraavat avainkent„t (j„rjestyksell„ ei ole merkityst„). Lis„ksi kohteen %2.1 kentt„ on liitett„v„ siihen SumIndexField-kentt„n„.
+
+Taulukko: %1.1
+Avainkent„t: %1.6
+@2@1013@0@
+Kent„n nimi "%2.1" taulukossa %1.1 on liian pitk„ (%7). Enimm„ispituus on %8.
+@2@1014@0@
+%1.1 %6.1.1 "%6.1.5" on jo olemassa.
+@2@1015@0@
+Avain on jo olemassa.
+
+Perusavaimen kent„t liitet„„n automaattisesti kaikkiin toissijaisiin avaimiin.
+
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1018@0@
+Avaimessa voi olla enint„„n %8 kentt„„.
+
+Perusavaimen kent„t liitet„„n automaattisesti kaikkiin toissijaisiin avaimiin.
+
+Kent„t: %7
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1019@0@
+Avaimessa voi olla enint„„n %8 SumIndexField-kentt„„.
+
+Kent„t: %7
+Taulukko: %1.1
+SumIndexField-kent„t: %6
+@2@1020@0@
+Taulukossa voi olla enint„„n %8 avainta.
+
+Avaimet: %7
+Taulukko: %1.1
+@2@1021@0@
+Toinen k„ytt„j„ on muuttanut kohteen %1.1 taulukon m„„rityst„ toimenpiteen k„ynnist„misen j„lkeen.
+
+K„ynnist„ toimenpide uudelleen.
+@2@1022@0@
+Toinen k„ytt„j„ on muokannut taulukon %1.1 tietuetta tietokannasta hakusi j„lkeen.
+
+Sy”t„ muutokset uudelleen p„ivitetyss„ ikkunassa tai k„ynnist„ keskeytynyt toimenpide uudelleen.
+
+Tunnuskent„t ja arvot:
+
+%6
+@2@1023@0@
+Taulukon %1.1 kentt„ %2.1 ei voi olla FlowFilter-kentt„.
+@2@1024@0@
+Etsint„lausekkeessa "%12" on virheellinen merkki.
+
+Etsint„lausekkeissa voidaan k„ytt„„ merkkej„ =, > ja < yhdistelmin„ (kukin merkki voi esiinty„ vain kerran) tai merkki„ - tai +.
+@2@1027@0@
+Kohteen %2.1 kent„n arvojen summaa ei voi laskea, koska nykyinen avain ei sis„ll„ kaikkia suodatettuja kentti„.
+
+Valitse avain, joka sis„lt„„ kaikki suodattimen kent„t. Kenttien j„rjestyksell„ ei ole merkityst„.
+
+Suodattimet: %1.10
+Taulukko: %1.1
+Avainkent„t: %1.6
+@2@1029@0@
+Kohteen %2.1 kent„n arvojen summaa ei voi laskea, koska suodatin sis„lt„„ kysymysmerkkej„ (%19), t„hti„ (%20) tai „t-merkkej„ (%21).
+
+Suodattimet: %1.10
+Taulukko: %1.1
+@2@1030@0@
+Taulukon %1.1 kent„n %2.1 on oltava FlowField-kentt„.
+@2@1031@0@
+Taulukon %1.1 suodattimen m„„ritys on liian pitk„ (%7 tavua). Se saa olla enint„„n %8 tavua.
+@2@1032@0@
+Suodattimen "%2.10" (kent„ss„ %2.1 taulukossa %1.1) tulisi m„„ritt„„ v„himm„isarvo.
+
+On olemassa kolme sallittua muotoa suodattimille, joiden v„himm„isarvo on A:
+
+* A T„m„ suodatin valitsee arvot, jotka ovat yht„ suuria kuin A.
+* A.. T„m„ suodatin valitsee arvot, jotka ovat suurempia tai yht„ suuria kuin A.
+* A..Z T„m„ suodatin valitsee arvot A:n ja Z:n v„lill„ (mukaan lukien A ja Z).
+@2@1033@0@
+Suodattimen "%2.10" (kent„ss„ %2.1 taulukossa %1.1) tulisi m„„ritt„„ enimm„isarvo.
+
+On olemassa kolme sallittua muotoa suodattimille, joiden enimm„isarvo on Z:
+
+* Z T„m„ suodatin valitsee arvot, jotka ovat yht„ suuria kuin Z.
+* ..Z T„m„ suodatin valitsee arvot, jotka ovat pienempi„ tai yht„ suuria kuin Z.
+* A..Z T„m„ suodatin valitsee arvot A:n ja Z:n v„lilt„ (mukaan lukien A ja Z).
+@2@1034@0@
+Suodattimen "%2.10" (kent„ss„ %2.1 taulukossa %1.1) tulisi m„„ritt„„ v„li.
+
+On olemassa kaksi sallittua muotoa suodattimille, jotka m„„ritt„v„t v„lin:
+
+* A T„m„ suodatin valitsee arvot, jotka ovat yht„ suuria kuin A.
+* A..Z T„m„ suodatin valitsee arvot A:n ja Z:n v„lilt„ (mukaan lukien A ja Z).
+@2@1035@0@
+Aseta suodatin kent„lle %2.1 taulukossa %1.1.
+
+Tietoa suodattimien asettamisesta saat online Helpist„.
+@2@1036@0@
+Taulukon %1.1 kent„ll„ numero %2.2 on oltava nimi.
+@2@1037@0@
+Suodatinmerkkijono %7 ylitt„„ suurimman sallitun pituuden %8 merkki„.
+
+Taulukko: %1.1
+@2@1038@0@
+Taulukko %1.1 on tyhj„.
+@2@1039@0@
+FlowField-arvoa ei voi laskea.
+
+M„„rit„ ja aktivoi avain, joka sis„lt„„ seuraavat avainkent„t (j„rjestyksell„ ei ole merkityst„), ja liit„ sitten siihen m„„ritetty SumIndexField.
+
+Avainkent„t: %6
+SumIndexField: %2.1
+Taulukko: %1.1
+@2@1040@0@
+Taulukon %1.1 kent„n %2.1 on oltava aktiivinen.
+@2@1041@0@
+Taulukon %1.1 kentt„ %2.1 ei saa olla FlowField-kentt„.
+@2@1042@0@
+Toinen k„ytt„j„ on muokannut kohteen %1.1 %6.1.1 "%6.1.5" tietuetta sen j„lkeen, kun olet hakenut sen tietokannasta.
+
+Sy”t„ muutokset uudelleen p„ivitetyss„ ikkunassa tai k„ynnist„ keskeytynyt toimenpide uudelleen.
+@2@1043@0@
+Alapuolella olevien kahden kent„n tyypin on oltava sama:
+
+Kentt„: %2.1 <-- %92.1
+Taulukko: %1.1 <-- %91.1
+Tyyppi: %2.3 <-- %92.3
+@2@1044@0@
+Varoitus: Tietokannassa on vioittunut alue. T„m„ntyyppinen virhe johtuu siit„, ett„ jokin toinen ohjelma on muuttanut tietokantaa tai laiteohjain ei toimi oikein.
+
+T„m„ virhe on korjattava, ennen kuin voit jatkaa. l„ k„sittele tietokantaa mill„„n levyapuohjelmalla.
+
+Tarkista ensin tietokanta valitsemalla Tiedosto-valikosta Tietokanta, Testi ja valitsemalla sitten Suuri. Jos tuloksena on edelleen sama virhe, tee seuraavat toimet:
+
+1) Tee tietokannasta varmuuskopio kopioimalla tietokantatiedosto(t).
+
+2) Tee varmuuskopio k„ytt„m„ll„ sis„ist„ toimintoa.
+
+3) Jos n„m„ toimet onnistuvat, luo uusi tietokanta poistamatta virheet sis„lt„v„„ tietokantaa.
+Palauta sis„isell„ varmuuskopiotoiminnolla tehty varmuuskopio uuteen tietokantaan ja testaa se valitsemalla Tiedosto-valikosta Tietokanta, Testi ja valitsemalla sitten Suuri.
+
+Jos n„m„ toimet eiv„t onnistu, tietokantaan edellisen varmuuskopion j„lkeen tehdyt muutokset menetet„„n. Palauta sis„isell„ varmuuskopiotoiminnolla viimeksi tehty tietokanta ja testaa se.
+Vanha tietokanta kannattaa varmuuden vuoksi pit„„ tallessa jonkin aikaa siit„, kun uutta tietokantaa on alettu k„ytt„„.
+
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+@2@1046@0@
+Tietokantaa ei ole valittu.
+@2@1047@0@
+Tiedosto ei ole tietokanta.
+@2@1048@0@
+Tietokantaa ei voi avata t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa. Tietokanta on jo muunnettu ohjelman uudemmalla versiolla.
+
+Tietokannan avaaminen edellytt„„, ett„ Microsoft Dynamics NAV -kehitysymp„rist” p„ivitet„„n uusimpaan versioon.
+@2@1049@0@
+Tietokantatiedostot eiv„t kuulu samaan tietokantaan.
+@2@1050@0@
+Tietokantatiedostot eiv„t ole yhteensopivia.
+
+Aikaleimaukset eiv„t ole samoja. V„hint„„n yht„ tiedostoa on k„ytetty my”hemmin kuin muita tiedostoja. Syyn„ saattaa olla se, ett„ varmuuskopio on palautettu vain osittain. Yrit„ etsi„ tietokantatiedostot, joiden aikaleimauksessa on sama p„iv„m„„r„ ja aika.
+@2@1051@0@
+Tietokantatiedostojen j„rjestys on virheellinen. Syy saattaa olla jokin seuraavista:
+
+* Valittu tietokantatiedosto ei ole tietokannan ensimm„inen tiedosto.
+* J„rjestys "tietokanta=tiedosto1+tiedosto2+tiedosto3" on virheellinen.
+@2@1052@0@
+Tietokannassa saa olla enint„„n 16 tiedostoa.
+@2@1055@0@
+T„t„ toimintoa ei voi suorittaa silloin, kun muut k„ytt„j„t k„ytt„v„t tietokantaa.
+@2@1075@0@
+Taulukon m„„rityst„ (taulukko %1.1) ei voi poistaa, jos taulukossa on tietueita.
+
+Poista taulukosta kaikkien yritysten kaikki tietueet ennen m„„rityksen poistamista.
+@2@1077@0@
+Teksti-, Koodi- ja Binaari-tyyppisten koodien enimm„ispituus on %8 merkki„.
+
+Taulukon %1.1 kent„ss„ %2.1 on %7 merkki„.
+@2@1078@0@
+Aktiivisen avaimen kenttien enimm„iskoko on %8 tavua. Kohteen %1.1 taulukon avainkenttien %6 koko on %7 tavua.
+
+Aktiivisten kenttien m„„r„„ on v„hennett„v„ tai pituutta lyhennett„v„.
+@2@1079@0@
+Taulukon %1.1 kentt„ %2.1 sis„ltyy samaan avaimeen kahdesti (avainkent„t ovat %6).
+@2@1080@0@
+Kentt„ %2.1 sis„ltyy samaan avaimeen kahdesti SumIndexField-kentt„n„.
+
+Taulukko: %1.1
+SumIndexField-kent„t: %6
+@2@1081@0@
+Taulukon %1.1 kent„n %2.1 alustusarvo on liian pitk„ kent„n tyypille (%2.3).
+@2@1082@0@
+Kohteen %1.1 taulukon aktiiviset avaimet ovat liian monimutkaisia tai niit„ on liian monta (tai molempia). Voit korjata ongelman v„hent„m„ll„ jotakin seuraavista m„„rist„:
+
+* aktiiviset avaimet
+* avainten kent„t
+* avaimiin liittyv„t SumIndexField-kent„t
+@2@1083@0@
+Sinun on valittava oma yritys ennen kuin voit k„ytt„„ taulukkoa %1.1.
+@2@1087@0@
+Kent„n %2.1 (taulukossa %1.1) tyyppi„ ei voi poistaa tai muuttaa, ennen kuin kent„n arvo on 0 (nolla) tai "" (tyhj„) kaikissa tietueissa. T„m„ sanoma johtuu siit„, ett„ oman yrityksen %1.9 tietueesta %6 l”ytyi arvo, joka ei ole nolla.
+@2@1088@0@
+Perusavaimen m„„rityksen muutos aiheutti sen, ett„ kahdella tietueella on sama perusavaimen arvo.
+
+Perusavain on avainluettelon ensimm„inen avain.
+
+Taulukko: %1.1
+Oma yritys: %1.9
+Tietue: %6
+@2@1090@0@
+Suodatinta ei voi k„ytt„„ kent„ss„ %2.1, koska suodattimen ja kent„n tyyppi eiv„t ole samat.
+
+Taulukko: %1.1
+@2@1092@0@
+Taulukon %1.1 kent„n %2.1 suodattimen "%2.10" arvon on liian pitk„ kyseiselle kentt„tyypille.
+
+Tyyppi: %2.3
+@2@1093@0@
+Vakion tyypin on oltava yhteensopiva kent„n %2.1 tyypin kanssa, eik„ vakion pituus saa ylitt„„ kent„n pituutta.
+
+Tyyppi: %2.3 <-- %3
+Kentt„: %2.1 <-- %5
+Taulukko: %1.1
+@2@1094@0@
+Taulukon %1.1 FlowField-kent„lle %2.1 on m„„ritett„v„ CalcFormula-laskukaava.
+@2@1095@0@
+Suodattimessa ei ole %1.1.
+
+Suodattimet: %1.10
+@2@1097@0@
+Suodatin "%10" ei ole kelvollinen.
+
+Suodattimelle taulukon %1.1 kent„ss„ %2.1 m„„ritetty lauseke ei kelpaa.
+@2@1098@0@
+Suodatin "%10" ei ole kelvollinen.
+
+Taulukon %1.1 kent„ss„ %2.1 olevasta suodattimesta puuttuu merkki ")".
+@2@1100@0@
+Suodatin "%10" ei ole kelvollinen.
+
+Taulukon %1.1 kent„ss„ %2.1 olevasta suodattimesta puuttuu arvo.
+@2@1101@0@
+Suodatin "%10" ei ole kelvollinen.
+
+Taulukon %1.1 kent„ss„ %2.1 olevasta suodattimesta puuttuu arvo tai arvov„li.
+@2@1102@0@
+Suodatin "%10" ei ole kelvollinen.
+
+Taulukon %1.1 kent„ss„ %2.1 oleva suodatin on liian suuri.
+@2@1103@0@
+Suodatin "%10" ei ole kelvollinen.
+
+Taulukon %1.1 kent„ss„ %2.1 olevasta suodattimesta puuttuu heittomerkki (').
+@2@1104@0@
+Kent„lle %2.1 on m„„ritett„v„ ominaisuus OptionString.
+
+Tyyppi: %2.3
+Taulukko: %1.1
+@2@1107@0@
+Perusavaimen (avainluettelon ensimm„isen avaimen) on oltava aktiivinen.
+
+Taulukko: %1.1
+@2@1108@0@
+Tapahtumaa ei voi saattaa valmiiksi, koska se aiheuttaa ep„yhten„isyyksi„ kohteen %1.1 taulukkoon.
+
+Etsi virheen syy tarkistamalla, miss„ ja miten tapahtumassa on k„ytetty CONSISTENT-funktiota.
+
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+
+Jotkin ohjelman osat merkitsev„t taulukot ep„yhten„isiksi hyvin laajojen teht„vien, kuten kirjausten, aikana. N„in estet„„n tietojen virheellinen p„ivitys.
+@2@1109@0@
+Kenttien numeroiden on oltava suurempia kuin nolla.
+
+Taulukko: %1.1
+
+Kirjoita kent„n numero jokaiselle riville tai poista tyhj„t rivit.
+@2@1111@0@
+Palvelimella ja asiakkaalla ei ole samaa ohjelman versionumeroa.
+@2@1112@0@
+Ohjelman k„ytt”oikeutesi ei salli usean k„ytt„j„n samanaikaista ty”skentely„.
+
+Odota, kunnes toinen k„ytt„j„ on sulkenut ohjelman.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos j„rjestelm„ss„ tarvitaan useita samanaikaisia k„ytt„ji„.
+@2@1115@0@
+Yhteys palvelimeen katkesi tietoliikennevirheen vuoksi.
+
+K„ynnist„ asiakasohjelma uudelleen.
+@2@1117@0@
+Kentti„ ei ole m„„ritetty taulukkoon %1.1.
+@2@1118@0@
+Avaimessa on oltava ainakin yksi kentt„.
+@2@1119@0@
+Kent„n nimi voi esiinty„ taulukossa vain kerran:
+
+Kent„n nimi: %2.1
+Taulukko: %1.1
+@2@1123@0@
+Sinulla ei ole taulukon %1.1 lukuoikeutta.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1126@0@
+T„ll„ ohjelman k„ytt”oikeudella ei voi k„ytt„„ suuria tietokantoja.
+
+Ota yhteytt„ j„rjestelm„n p„„k„ytt„j„„n, jos haluat laajentaa tietokantaa.
+@2@1133@0@
+Ohjelman k„ytt”oikeus ei koske t„t„ k„ytt”j„rjestelm„„.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat ty”skennell„ k„ytt„en t„t„ k„ytt”j„rjestelm„„.
+@2@1134@0@
+Seuraavia C/AL-funktioita voidaan k„ytt„„ vain rajoitetusti kirjoitustapahtumien aikana (ainakin yksi taulukko on lukittuna).
+
+Form.RunModal() ei ole sallittu kirjoitustapahtumissa.
+
+CodeUnit.Run() on sallittu kirjoitustapahtumissa vain, jos palautusarvoa ei k„ytet„. Esimerkiksi "OK := CodeUnit.Run()" ei ole sallittu.
+
+Report.RunModal() on sallittu kirjoitustapahtumissa vain, jos "RequestForm = FALSE". Esimerkiksi "Report.RunModal(...,FALSE)" on sallittu.
+
+DataPort.RunModal() on sallittu kirjoitustapahtumissa vain, jos "RequestForm = FALSE". Esimerkiksi "DataPort.RunModal(...,FALSE)" on sallittu.
+
+Tallenna muutokset COMMIT-funktiolla ennen t„t„ kutsua tai laadi koodin rakenne eri tavalla.
+@2@1141@0@
+Taulukon tietoja ei voi muokata objektitaulukossa. Muuta sen sijaan taulukon m„„rityst„.
+
+Taulukko: %1.1
+@2@1143@0@
+Kaikki suodattimet voidaan kopioida samalla kertaa vain, jos tietueet kuuluvat samaan taulukkoon.
+
+Taulukko: %91.1 <-- %1.1
+
+Kopioi tarvittavat suodattimet yksi kerrallaan.
+@2@1145@0@
+%1.3 "%1.1" on tyhj„.
+@2@1146@0@
+Ominaisuutta "DataPerCompany" ei voi muuttaa, jos taulukossa %1.1 on tietueita. Noudata seuraavia ohjeita:
+
+* Vie kaikki taulukon tietueet tiedostoon.
+* Poista taulukosta kaikki tietueet.
+* Muuta taulukon m„„rityst„.
+* Tuo kaikki tietueet tiedostosta.
+@2@1163@0@
+Kent„n %92.1 sis„lt”„ ei voi kopioida kentt„„n %2.1, koska kentt„ %2.1 on liian pieni.
+
+Tyyppi: %2.3 <-- %92.3
+Kentt„: %2.1 <-- %92.1
+Taulukko: %1.1 <-- %91.1
+@2@1168@0@
+Tiedosto ei ole tietokantatiedosto.
+@2@1172@0@
+Muutoksia ei voi tehd„ t„ll„ hetkell„, koska ohjelma on k„ynnistetty ohjelman ominaisuudella "dbreadonly" (vain lukuoikeus).
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@1174@0@
+Kent„n %2.1 arvojen summaa ei voi laskea, koska taulukko on suodatettu "Vain merkityt" -suodattimella.
+
+Taulukko: %1.1
+@2@1175@0@
+Taulukon %1.1 kent„n %2.1 m„„rityksen, joka on sis„llytetty SumIndexField-kentt„n„, on oltava "Aktiivinen".
+
+Avainkent„t: %6
+@2@1176@0@
+Seuraavan kent„n tilaksi on m„„ritett„v„ kentt„m„„rityksess„ "Aktiivinen". Kentt„ on osa aktiivista avainta.
+
+Kentt„: %2.1
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1177@0@
+FlowField-kentt„ ei voi olla SumIndexField-kentt„.
+
+Kentt„: %2.1
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1178@0@
+FlowField-kentt„ ei voi olla osa avainta.
+
+Kentt„: %2.1
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1179@0@
+FlowFilter-suodatin ei voi olla SumIndexField-kentt„.
+
+Kentt„: %2.1
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1180@0@
+FlowFilter-suodatin ei voi olla osa avainta.
+
+Kentt„: %2.1
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1214@0@
+Seuraava sanoma tuli palvelimesta.
+@2@1215@0@
+Tiedostoon tallennettu tietokantatiedoston pituus ei ole sama kuin k„ytt”j„rjestelm„n tallentama pituus. Jokin toinen ohjelma on muuttanut tietokantatiedostoa tai laiteohjain ei toimi oikein.
+
+Luo uusi tietokantatiedosto ja tuo uusin varmuuskopio. Testaa t„m„ tiedosto valitsemalla Tiedosto-valikosta Tietokanta, Testaa ja valitsemalla sitten Suuri.
+
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+@2@1224@0@
+T„ss„ tietokoneessa on jo k„ynnistetty toinen versio ohjelmasta.
+
+Useita ohjelman versioita ei voi suorittaa samanaikaisesti.
+@2@1226@0@
+Teksti "%2.5" on liian pitk„ kopioitavaksi kentt„„n:
+
+Kentt„: %2.1
+Tyyppi: %2.3
+Taulukko: %1.1
+@2@1232@0@
+Verkko ei toimi oikein. Paketti on l„hetetty v„„r„„n osoitteeseen.
+
+Virhe osoittaa, ett„ verkko ei ole t„ysin luotettava. Pane merkille, miten usein t„m„ntyyppisi„ virheit„ ilmenee. Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+@2@1233@0@
+Verkko ei toimi oikein. Paketti on vioittunut (tarkistussummavirhe).
+
+T„m„ virhe osoittaa, ett„ verkko ei ole t„ysin luotettava. Pane merkille, miten usein t„m„ntyyppisi„ virheit„ ilmenee verkossa. Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan.
+@2@1237@0@
+K„ytt„j„tunnus ja salasana eiv„t kelpaa. Yrit„ uudelleen.
+@2@1243@0@
+Ei pysty kopioimaan kentt„„. L„hdekentt„„ ei ole m„„ritelty:
+
+Taulukko: %91.1 <-- %1
+Kentt„: %92.1 <-- %2
+@2@1244@0@
+Seuraavan kent„n on oltava koodi- tai tekstikentt„.
+
+Kentt„: %2.1
+Tyyppi: %2.3
+Taulukko: %1.1
+@2@1263@0@
+Taulukko %1.1 on vain luku -taulukko.
+@2@1266@0@
+Taulukossa %1.1 kent„n %2.1 on oltava v„hint„„n yhden merkin pituinen.
+@2@1267@0@
+%3: "=" puuttuu.
+
+%5
+@2@1269@0@
+%3: ")" puuttuu.
+
+%5
+@2@1270@0@
+%3: syntaksivirhe.
+
+%5
+@2@1272@0@
+%3: "(" puuttuu.
+
+%5
+@2@1273@0@
+%3: "." puuttuu.
+
+%5
+@2@1274@0@
+Taulukon %1.1 kent„n %2.1 arvojen summaa ei voi laskea. Vain desimaalikent„t voidaan summata.
+@2@1275@0@
+Taulukon %1.1 FlowField-kentt„ %2.1 ei ole Totuusarvo-tyyppinen. Jos FlowField-kent„n CalcFormula-laskukaava alkaa "Exist(...", FlowField-kent„n tyypin on oltava Totuusarvo.
+@2@1276@0@
+Taulukon %1.1 FlowField-kentt„ %2.1 ei ole Kokonaisluku-tyyppinen. Jos FlowField-kent„n CalcFormula-laskukaava alkaa "Count(...", FlowField-kent„n tyypin on oltava Kokonaisluku.
+@2@1277@0@
+Taulukon %1.1 kent„ss„ %2.1 on CalcFormula-laskukaava, mutta kentt„ ei ole FlowField-kentt„.
+@2@1279@0@
+Taulukon %1.1 kent„n %2.1 arvojen summaa ei voi laskea. Vain kent„t, joiden luokka on Normaali, voidaan summata.
+@2@1281@0@
+Seuraavan kent„n on sis„llytt„v„ taulukon perusavaimeen.
+
+Kentt„: %2.1
+Taulukko: %1.1
+@2@1286@0@
+Seuraavasta kent„st„ puuttuu kent„n pituus.
+
+Kentt„: %2.1
+Taulukko: %1.1
+@2@1290@0@
+Seuraavan kent„n InitValue-tyyppi ja kent„n tyyppi eiv„t ole samat.
+
+Kentt„: %2.1
+Taulukko: %1.1
+@2@1291@0@
+M„„ritetty arvo ylitt„„ kohteen %3 enimm„iskoon.
+@2@1292@0@
+Seuraava kentt„ ei voi olla SumIndexField-kentt„, koska sen tyyppi on BLOB.
+
+Kentt„: %2.1
+Taulukko: %1.1
+Avainkent„t: %6
+@2@1293@0@
+Taulukon %1.1 kentt„ %2.1 ei voi sis„lty„ avaimeen, koska sen tyyppi on BLOB.
+
+Avainkent„t: %6
+@2@1294@0@
+Tilap„isille taulukoille ei voi m„„ritt„„ toissijaisia indeksej„.
+
+Taulukko: %1.1
+@2@1295@0@
+Sinulla ei ole lis„ysoikeutta taulukkoon %1.1.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1296@0@
+Sinulla ei ole poisto-oikeutta taulukkoon %1.1.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1297@0@
+Sinulla ei ole taulukon %1.1 tietueiden muokkausoikeutta.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1298@0@
+Sinulla ei ole taulukon %1.1 suoritusoikeutta.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1299@0@
+Sinulla ei ole kohteen "%1.1" %1.3 lukuoikeutta.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1300@0@
+Sinulla ei ole kohteen "%1.1" %1.3 luontioikeutta.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1301@0@
+Sinulla ei ole kohteen "%1.1" %1.3 poisto-oikeutta.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1302@0@
+Sinulla ei ole kohteen "%1.1" %1.3 muokkausoikeutta.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1303@0@
+Sinulla ei ole kohteen "%1.1" %1.3 suoritusoikeutta.
+
+Ota yhteys j„rjestelm„nvalvojaan, jos haluat, ett„ oikeuksiasi muutetaan.
+@2@1304@0@
+Et voi poistaa tai muuttaa k„ytt„j„tunnusta %13, koska k„ytt„j„ll„ on lis„k„ytt”oikeuksia.
+@2@1305@0@
+Et voi poistaa tai muuttaa sis„„nkirjautumista, koska sill„ on lis„k„ytt”oikeuksia.
+@2@1306@0@
+Funktiota "MODIFYALL" ei voi k„ytt„„, koska seuraava kentt„ sis„ltyy perusavaimeen.
+
+Kentt„: %2.1
+Taulukko: %1.1
+@2@1307@0@
+Funktiota "MODIFY" ei voi k„ytt„„, koska se muuttaa perusavainta.
+
+Edelt„v„ tietue: %6
+Seuraava tietue: %96
+Taulukko: %1.1
+@2@1308@0@
+Et voi nimet„ tietuetta uudelleen, koska seuraavan kent„n uusi arvo on "%2.5",
+
+Kentt„: %2.1
+Taulukko: %1.1
+@2@1309@0@
+Et voi nimet„ tietuetta uudelleen, koska seuraavan kent„n vanha arvo on "'%2.5",
+
+Kentt„: %2.1
+Taulukko: %1.1
+@2@1311@0@
+"%91.1" ei ole. %91.9
+
+%91.10
+
+Taulukon %1.1 kent„ll„ %2.1 on taulukkosuhde taulukon %91.1 kentt„„n %92.1.
+
+Taulukolla "%1.1" on seuraavat tunnuskent„t ja arvot:
+
+%6
+@2@1313@0@
+Tietokannan v„limuisti on liian pieni. V„limuistin koon on oltava v„hint„„n 0,012 % tietokannan koosta.
+T„ss„ tapauksessa v„limuistin koon on oltava v„hint„„n 7 prosenttia.
+@2@1314@0@
+K„ytt„j„tunnuksesi ei ole en„„ voimassa.
+@2@1315@0@
+Kent„n numero on virheellinen. Kent„n numeron on oltava 1 - 999999999.
+
+Kentt„: %2.1
+Kent„n nro: %2.2
+Taulukko: %1.1
+@2@1317@0@
+Taulukko %1.1 on luotu ohjelman uudemmassa versiossa, eik„ sit„ voi k„ytt„„ ohjelman t„ss„ versiossa.
+@2@1318@0@
+Taulukon %1.1 kent„n nimess„ "%2.1" on virheellisi„ merkkej„.
+@2@1319@0@
+Kent„n %2.1 arvojen summaa ei voi laskea, koska seuraavassa FlowField-kent„ss„ on suodatin.
+
+Kentt„: %92.1
+Taulukko: %1.1
+@2@1320@0@
+T„t„ tietokannan ominaisuutta ei voi muuttaa.
+@2@1322@0@
+Varoitus: Moduulin %15 k„ytt”oikeus p„„ttyy %16 p„iv„n kuluttua.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat jatkaa edell„ mainitun moduulin k„ytt”„.
+@2@1323@0@
+Moduulin %15 k„ytt”oikeus on p„„ttynyt.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat jatkaa edell„ mainitun moduulin k„ytt”„.
+@2@1324@0@
+Ohjelman k„ytt”oikeutesi ei salli t„m„nhetkist„ useamman k„ytt„j„n ty”skentely„ Microsoft Windows -j„rjestelm„ss„ samanaikaisesti.
+
+Odota, kunnes toinen k„ytt„j„ on poistunut ohjelmasta. Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat t„m„nhetkist„ useammalle samanaikaiselle k„ytt„j„lle yhteyden j„rjestelm„„n.
+@2@1325@0@
+Ohjelman k„ytt”oikeutesi ei salli t„m„nhetkist„ useamman k„ytt„j„n ty”skentely„ Microsoft Windows NT -j„rjestelm„ss„ samanaikaisesti.
+
+Odota, kunnes toinen k„ytt„j„ on poistunut ohjelmasta. Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat t„m„nhetkist„ useammalle samanaikaiselle k„ytt„j„lle yhteyden j„rjestelm„„n.
+@2@1326@0@
+Ohjelman k„ytt”oikeutesi ei salli t„m„nhetkist„ useamman C/ODBC-k„ytt„j„n samanaikaista suoritusta.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat t„m„nhetkist„ useammalle samanaikaiselle k„ytt„j„lle yhteyden j„rjestelm„„n.
+@2@1327@0@
+Ohjelman k„ytt”oikeutesi ei salli t„m„nhetkist„ useamman C/FRONT-k„ytt„j„n samanaikaista suoritusta.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat t„m„nhetkist„ useammalle samanaikaiselle k„ytt„j„lle yhteyden j„rjestelm„„n.
+@2@1328@0@
+Ohjelman k„ytt”oikeutesi sallii enint„„n %8 muuta yrityst„ kuin esittely-yrityst„.
+Ota yhteytt„ j„rjestelm„n p„„k„ytt„j„„n, jos haluat m„„ritt„„ enemm„n yrityksi„.
+
+Voit kuitenkin luoda rajoittamattoman m„„r„n esittely-yrityksi„.
+Yritysten nimen alussa on oltava sana "CRONUS".
+@2@1329@0@
+T„ll„ ohjelman k„ytt”oikeudella voidaan k„sitell„ vain omia yrityksi„, joiden nimen alussa on %10.
+@2@1330@0@
+T„t„ ohjelman k„ytt”oikeutta ei voi k„ytt„„.
+@2@1331@0@
+Toista tietokantaa ei voi avata eik„ uutta tietokantaa voi luoda, koska tietokanta on avattu palvelimessa k„ytt„m„ll„ ohjelman ominaisuutta database=<tietokannan nimi>.
+Jos haluat valita jonkin toisen tietokannan, k„ynnist„ palvelin uudelleen samalla ohjelman ominaisuudella ja m„„rit„ jokin toinen tietokannan nimi.
+@2@1332@0@
+Taulukkoa %1.1 ei ole k„„nnetty.
+@2@1335@0@
+Ryhm„n "%14" oikeuksia ei voi muuttaa.
+@2@1336@0@
+Ainakin yhden k„ytt„j„n on oltava ryhm„n "%14" j„sen.
+@2@1337@0@
+Ainakin yhden k„ytt„j„n on oltava ryhm„n "%14" j„sen kaikissa yrityksiss„.
+@2@1341@0@
+Objekitaulukkoon ei voi lis„t„ taulukon dataa.
+@2@1342@0@
+Varoitus: Ohjelman %1.3 %1.2 k„ytt”oikeus p„„ttyy %16 p„iv„n kuluttua.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat edelleen k„ytt„„ ohjelmaa %1.3 %1.2.
+@2@1343@0@
+Ohjelman %1.3 %1.2 k„ytt”oikeus ei ole en„„ voimassa.
+
+Ota yhteytt„ j„rjestelm„n p„„k„ytt„j„„n, jos haluat k„ytt„„ ohjelmaa %1.3 %1.2 uudelleen.
+@2@1344@0@
+Objektilajille Taulukon data ei voi antaa suoritusoikeuksia.
+@2@1345@0@
+Suoritusoikeudet voidaan antaa vain seuraaville objektityypeille:
+
+Taulukko, Lomake, Raportti, Koodiyksikk”, J„rjestelm„, XMLport ja Dataportti.
+@2@1346@0@
+COMMIT-v„limuistia ei voi k„ytt„„ Windows-k„ytt”j„rjestelm„ss„.
+@2@1347@0@
+Taulukon %1.1 FlowField-kent„n %2.1 CalcFormula-laskukaavan alussa on oltava "Sum(...".
+@2@1348@0@
+Taulukon %1.1 FlowField-kent„n %2.1 tyypin on oltava Desimaali.
+@2@1349@0@
+Taulukon %1.1 kent„n %2.1 FieldClass-luokan on oltava Normaali.
+@2@1350@0@
+Taulukon %1.1 kent„n %2.1 tyypin on oltava Desimaali.
+@2@1351@0@
+Kohteen %1.1 taulukon perusavain voi sis„lt„„ vain yhden kent„n, ja sen tyypin on oltava Kokonaisluku.
+@2@1352@0@
+Ohjelman k„ytt”oikeutesi ei salli kent„n %2.1 luontia taulukkoon %1.1.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat, ett„ k„ytt”oikeutesi p„ivitet„„n.
+@2@1353@0@
+Ohjelman k„ytt”oikeutesi ei salli kent„n %2.1 poistamista taulukosta %1.1.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat, ett„ k„ytt”oikeutesi p„ivitet„„n.
+@2@1354@0@
+Ohjelman k„ytt”oikeutesi ei salli kent„n %2.1 muokkausta taulukossa %1.1.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat, ett„ k„ytt”oikeutesi p„ivitet„„n.
+@2@1356@0@
+Ohjelman k„ytt”oikeutesi ei salli enemp„„ kirjoitustapahtumia.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat, ett„ rajaa nostetaan.
+@2@1358@0@
+'%22' oletettiin kohteessa %3.
+
+%5
+%25
+@2@1360@0@
+V„himm„ism„„r„, jolla tietokantaa voidaan laajentaa, on 16 kilotavua.
+@2@1361@0@
+Kohdepuskuri on liian pieni.
+
+Kohdepuskurin koko: %8
+L„hteen koko: %7
+L„hteen arvo: %5
+@2@1362@0@
+Tietokanta on muunnettava, ennen kuin sit„ voi k„ytt„„ t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa.
+
+Jos muunnat tietokannan, sit„ ei voi en„„ avata vanhemmissa versioissa.
+
+Seuraavia toimia suositellaan:
+
+* Luo tietokannasta varmuuskopio ennen muuntamista.
+* K„yt„ tietokantaa yksin muuntamisen aikana.
+* Varmista, ett„ tietokannassa on v„hint„„n 50 megatavua vapaata tilaa.
+
+Muunna tietokanta valitsemalla OK tai poistu valitsemalla Peruuta.
+@2@1363@0@
+Varoitus: Ohjelman k„ytt”oikeutesi p„„ttyy %16 p„iv„n kuluttua.
+@2@1364@0@
+K„ytt”oikeutesi ohjelmaan ei ole en„„ voimassa.
+@2@1365@0@
+T„m„ laite sis„lt„„ jo tietokantaosion.
+
+Jos jatkat, kyseinen tietokantaosio menetet„„n.
+
+Haluatko varmasti jatkaa?
+@2@1366@0@
+Varoitus: T„m„ vaihtoehto on k„ytett„viss„ vain, jos palvelimen k„ytt”j„rjestelm„ tukee Windows-todennusta.
+Jos sallit yhten„isen kirjautumisen t„h„n tietokantaan, palvelin tunnistaa Microsoft Dynamics NAV -kehitysymp„rist”n tietokannan k„ytt„j„t Windows-todennuksen avulla.
+Jos todennettu k„ytt„j„tunnus on Microsoft Dynamics NAV -kehitysymp„rist”n tietokannan k„ytt„j„taulukossa, k„ytt„j„taulukon salasanaa ei huomioida.
+Jos k„ytt„j„taulukko ei sis„ll„ k„ytt„j„tunnusta, k„ytt„j„n on noudatettava normaalia Microsoft Dynamics NAV -kehitysymp„rist”n kirjautumismenettely„.
+@2@1367@0@
+Taulukkoa ei ole m„„ritetty.
+@2@1369@0@
+%1
+@2@1370@0@
+Objektilajia ei voi muuttaa.
+
+Edelt„v„ objektitietue: %6
+Seuraava objektitietue: %96
+Taulukko: %1.1
+@2@1371@0@
+Taulukot eiv„t ole yhteensopivia.
+
+Taulukko 1: %1
+Taulukko 2: %91
+@2@1372@0@
+Tietokannan kirjoitustoiminnot (INSERT, DELETE ja MODIFY) eiv„t ole sallittuja valitulle tapahtumatyypille.
+@2@1373@0@
+Kent„n ominaisuuden on oltava "%5".
+
+Ominaisuus: %3
+Kentt„: %2.1
+Taulukko: %1.1
+@2@1374@0@
+Ohjelman k„ytt”oikeutesi ei salli t„m„n Microsoft Dynamics NAV -kehitysymp„rist”version suorittamista.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, jos haluat p„ivitt„„ k„ytt”oikeutesi.
+@2@1375@0@
+Microsoft Dynamics NAV -kehitysymp„rist”n p„ivitysohjelma on vanhentunut.
+
+Lis„tietoja saat Microsoft Business Solutions -kumppanilta.
+@2@1376@0@
+K„ytt”oikeutesi ei salli kielen %24 k„ytt”„.
+@2@1377@0@
+Avaimen ominaisuuden on oltava "%5", jos kyseess„ on perusavain.
+
+Ominaisuus: %3
+Taulukko: %1.1
+@2@1378@0@
+Objektin nimi on jo olemassa.
+
+Objekti: %1
+@2@1379@0@
+Tapahtumatyyppi„ ei voi muuttaa tapahtuman k„ynnistyksen j„lkeen.
+
+Tapahtuma k„ynnistyy, kun ohjelma suorittaa ensimm„isen tietokantatoiminnon, esimerkiksi toiminnon FIND, NEXT, INSERT, DELETE, MODIFY, SUM tai COUNT.
+
+Virhe johtui siit„, ett„ yritit muuttaa tapahtumatyypin %8 tyypiksi %7.
+@2@1380@0@
+Ohjelman k„ytt”oikeutesi ei salli Microsoft Dynamics NAV -kehitysymp„rist”n suorittamista Microsoft SQL Serveriss„.
+@2@1381@0@
+Nykyinen toimi on pys„ytetty, koska Windows yritt„„ siirty„ lepo-, horros- tai valmiustilaan.
+@2@1382@0@
+Windows-sis„„nkirjautuminen ei ole k„ytett„viss„ t„ss„ tietokoneessa.
+@2@1384@0@
+Windows-sis„„nkirjautuminen ei ole k„ytett„viss„ valitussa palvelimessa.
+@2@1385@0@
+Ominaisuuden %3 on oltava "%5".
+
+Objekti: %1
+@2@1386@0@
+A ':' puuttuu kohteesta %3.
+
+%5
+@2@1387@0@
+Suodattimet ovat liian suuria kopioitavaksi tyyppiin '%3'.
+
+Suodattimet: %1.10
+@2@1388@0@
+Ohjelman k„ytt”oikeus ei salli usean Application Server -palvelimen k„ytt„mist„ yht„ aikaa.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan, mik„li haluat liitt„„ lis„„ yht„aikaisia Application Server -palvelimia j„rjestelm„„n.
+@2@1389@0@
+Varmuuskopiointi on jo k„ynniss„. Odota sen valmistumista.
+@2@1394@0@
+AutoIncrement-kentti„ voi taulukossa olla vain yksi.
+
+Field: %2.1
+Table: %1.1
+@2@1395@0@
+AutoIncrement-kent„n tulee olla tyyppi„ Integer or BigInteger.
+
+Field: %2.1
+Table: %1.1
+
+Field type:%2.3
+@2@1396@0@
+Et voi muuttaa AutoIncrement-kent„n arvoa.
+
+Kentt„: %2.1
+Taulukko: %1.1
+
+Tunnistuskent„t ja -arvot:
+
+%6
+@2@1397@0@
+Et voi lis„t„ AutoIncrement-kent„n ominaisuutta, koska kent„ss„ on nolla-arvoja.
+
+Kentt„: %2.1
+Taulukko: %1.1
+
+Tunnistekent„t ja arvot:
+
+%6
+@2@1398@0@
+Ylivuoto kohteen %7 %26 %8 laskennassa.
+
+@2@1401@0@
+Tapahtuma peruutettiin aikaisemman virheen vuoksi.
+@2@1402@0@
+Et voi poistaa istuntoa, kun palvelinyhteytt„ ei ole muodostettu.
+@2@1403@0@
+Et voi poistaa istuntoa %7, koska et ole muodostanut yhteytt„ samaan palvelimeen kuin istunto.
+@2@1404@0@
+Et voi poistaa istuntoa %7, koska kyseess„ on oma istuntosi.
+@2@1406@0@
+Kutsu on vanhentunut. K„yt„ kutsua DBL_ConnectServerAndOpenDatabase.
+@2@1407@0@
+Sinulla ei ole lukuoikeuksia taulukkoon %1.1.
+@2@1408@0@
+Sinulla ei ole lis„ysoikeuksia taulukkoon %1.1.
+@2@1409@0@
+Sinulla ei ole poisto-oikeuksia taulukkoon %1.1.
+@2@1410@0@
+Sinulla ei ole oikeutta muokata taulukon %1.1 tietueita.
+@2@1411@0@
+Ryhmitelty avain voi olla taulukossa vain kerran.
+
+Taulukko: %1.1
+@2@1412@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@1413@0@
+Vahvista tietokannan muuntaminen.
+
+Muunna tietokanta valitsemalla OK tai peruuta toimenpide valitsemalla Peruuta.
+@2@1414@0@
+Voit k„ytt„„ FINDSET-funktiota vain nousevassa avainten j„rjestyksess„.
+
+Taulukko: %1.1
+@2@1415@0@
+Voit m„„ritt„„ FINDSET-funktioparametrin UpdateKey arvoksi TOSI vain, jos my”s ForUpdate-parametrin arvo on TOSI.
+
+Taulukko: %1.1
+@2@1416@0@
+Sinulla ei ole oikeuksia k„ytt„„ kohdetta %1.3 %1.2. Sill„ ei ole allekirjoitusta, eik„ se ole kelvollinen sovellusobjekti.
+@2@1417@0@
+Tietokanta on muunnettava, ennen kuin sit„ voi k„ytt„„ t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa.
+
+Poista vain luku -asetuksen valinta ja avaa tietokanta uudelleen.
+@2@1418@0@
+Perusavaimelle m„„ritetyn SQLIndexin on sis„llett„v„ samat kent„t kuin avain.
+
+Taulukko: %1.1
+SQLIndex-kent„t: %6
+
+@2@1419@0@
+URL-merkkijono on liian pitk„. Enimm„ispituus on %8 merkki„.
+@2@1421@0@
+Kohteen %3 arvo ei saa ylitt„„ %7 tavua.
+
+Taulukko: %1.1
+@2@1422@0@
+%1.1 on jo luotuna oletusarvon mukaisen Roolikeskuksen kanssa.
+
+Tunnistuskent„t ja arvot:
+
+%6
+@2@1423@0@
+Microsoft Dynamics NAV -kehitysymp„rist”„ ei voi k„ynnist„„, koska sinulla ei ole SQL Serverin VIEW SERVER STATE -oikeutta.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@1424@0@
+Sek„ kohde- ett„ l„hdetaulukon on viitattava samaan taulukkoon.
+@2@1425@0@
+Kent„n %2.1 arvon on oltava tyhj„.
+
+Objekti: %1
+@2@1426@0@
+'%22' on lukinnut objektin, eik„ objektia voi muuttaa tai poistaa.
+
+Objekti: %1
+@2@1427@0@
+Lukitun objektin kent„n %2.1 arvoa ei voi muokata.
+
+Objekti: %1
+@2@1428@0@
+T„m„n toiminnon voi tehd„ vain j„rjestelm„nvalvoja.
+@2@1429@0@
+Et voi nimet„ uudelleen tietuetta %6 taulukossa %1.1, koska se muuttaisi tietueen %96 taulukossa %91.1, ja sovelluksesi on m„„ritetty seuraamaan kohteen %91.1 muutoksia. 
+Voit manuaalisesti katkaista linkit mist„ tahansa taulukon %91.1 tietueesta kohteeseen %1.1 %6, nimet„ tietueen uudelleen ja luoda linkit uudelleen. 
+@2@1431@0@
+Tietokannassa on lukittuja objekteja. N„iden objektien lukitus on poistettava ennen tietokannan p„ivitt„mist„.
+@2@1432@0@
+Huomaa, ett„ sinulla on %5 raporttia, joita ei voi k„„nt„„ uudelleen tietokannan muuntamisen aikana.
+@2@1433@0@
+Taulukko %1 sis„lt„„ v„hint„„n yhden Binaari-tyyppisen kent„n, jota ei voi p„ivitt„„ Microsoft Dynamics NAV -kehitysymp„rist””n. 
+
+Muuta taulukon asettelua ennen p„ivitt„mist„.
+@2@1434@0@
+Taulukon objektitunnusta ei voi muuttaa.
+
+Edelt„v„ objektitietue: %6
+Seuraava objektitietue: %96
+@2@1435@0@
+Taulukon nime„minen uudelleen ep„onnistui. 
+@2@END@0@
+@1@93@0@
+@2@50001@0@
+Tapahtui ODBC-virhe, mutta virhetietojen nouto ei onnistunut.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@50002@0@
+ODBC-ohjainymp„rist”n alustus ei onnistunut.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@50003@0@
+Tapahtui seuraava ODBC-virhe:
+
+%101.151
+@2@50004@0@
+Tapahtui seuraava ODBC-virhe:
+
+Tilan tunnus: %101.152
+@2@50005@0@
+Tapahtui seuraava ODBC-virhe:
+
+Virhe: %101.151
+Tilan tunnus: %101.152
+@2@50006@0@
+Seuraavat SQL Server -virheet tapahtuivat:
+
+%103
+@2@50007@0@
+Seuraavat SQL Server -virheet tapahtuivat yritett„ess„ k„ytt„„ taulukkoa %1.1:
+
+%103
+@2@50008@0@
+Havaittiin NEXT-funktion kutsu tietueessa, joka ei sis„ll„ vastaavaa FIND/FINDSET-kutsua.
+@2@51002@0@
+Yhteys tietokantaan %102.155 palvelimessa %102.154 on jo muodostettu.
+@2@51003@0@
+Yhteytt„ tietokantaan ja palvelimeen ei ole muodostettu.
+@2@51004@0@
+Tapahtuma on jo alkanut. Sis„kk„isi„ tapahtumia ei tueta.
+@2@51005@0@
+Nykyist„ toimenpidett„ ei voi suorittaa tapahtumassa.
+@2@51008@0@
+Yhdelle tai usealle tietueelle yritet„„n p„ivitys- tai poistotoimintoa vaaditun tapahtuman ulkopuolella.
+@2@51009@0@
+Nykyinen toimenpide voidaan suorittaa vain p„ivitys (Update)- tai p„ivitys, ei lukituksia (UpdateNoLocks) -tapahtumassa.
+@2@51010@0@
+Nykyinen toimenpide voidaan suorittaa vain vedostapahtumassa (Snapshot).
+@2@51011@0@
+Nykyinen toimenpide voidaan suorittaa vain selaustapahtumassa (Browse).
+@2@51012@0@
+Taulukon %1.1 lukituspyynt”„ Wait-parametrilla FALSE ei ole tuettu.
+@2@51013@0@
+Nykyinen toimenpide voidaan suorittaa vain p„ivitystapahtumassa (Update) tai vedostapahtumassa (Snapshot).
+@2@52001@0@
+Tietokantaa %102.155 ei ole palvelimessa %102.154.
+@2@52002@0@
+Tietokanta %102.155 on jo palvelimessa %102.154.
+@2@52003@0@
+Palvelimessa %102.154 sijaitsevaa tietokantaa %102.155 ei voi avata t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa.
+
+P„ivit„ tietokanta Microsoft Dynamics NAV 2013 -tietokannaksi, ennen kuin avaat sen t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa.
+@2@52004@0@
+Tietokannan yhteensopivuustaso %102.161 ei riit„ t„t„ Microsoft Dynamics NAV -kehitysymp„rist”versiota varten. 
+
+Muuta yhteensopivuustasoksi %102.162 ennen tietokannan avaamista uudelleen. 
+@2@52005@0@
+Palvelin %102.154 ei sis„ll„ Microsoft Dynamics NAV -kehitysymp„rist”n k„ytt”oikeustietoja. Palvelimeen ei voi muodostaa yhteytt„ ilman n„it„ tietoja.
+
+K„ytt”oikeustiedoston voi ladata palvelimeen k„ytt„j„, joka on p„„tietokannan db_owner-tietokantaroolin j„sen.
+
+Valitse ladattava k„ytt”oikeustiedosto valitsemalla OK tai poistu valitsemalla Peruuta.
+@2@52006@0@
+Palvelimessa %102.154 sijaitsevaa tietokantaa %102.155 ei voi avata t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa. Tietokanta on jo muunnettu uudempaan versioon.
+
+Tietokannan avaaminen edellytt„„ Microsoft Dynamics NAV -kehitysymp„rist”n p„ivitt„mist„ uusimpaan versioon.
+@2@52007@0@
+Palvelimessa %102.154 sijaitseva tietokanta %102.155 ei sis„ll„ Microsoft Dynamics NAV -kehitysymp„rist”n j„rjestelm„objekteja, eik„ sit„ voi avata.
+@2@52008@0@
+Palvelinta %102.154 ei l”ydy. Yrit„ my”hemmin uudelleen tai ota yhteys j„rjestelm„nvalvojaan.
+@2@52009@0@
+Palvelimen %102.154 SQL Server -versiota ei tueta.
+
+Microsoft Dynamics NAV -kehitysymp„rist” voi k„ytt„„ t„t„ palvelinta vain, jos %1 p„ivitet„„n versioon %22 tai uudempaan versioon.
+@2@52010@0@
+Annettu verkkotyypin arvo %102.160 ei kelpaa. K„ytett„viss„ olevat verkkotyypit ovat seuraavat: %22.
+@2@52011@0@
+Tietokoneen SQL Server ODBC -ohjaimen versiota ei tueta.
+
+Microsoft Dynamics NAV -kehitysymp„rist” voi k„ytt„„ t„t„ ohjainta vain, jos ohjain p„ivitet„„n versioon %22 tai uudempaan versioon.
+@2@52012@0@
+Yhteys palvelimeen %102.154 ei en„„ vastaa. Syy on todenn„k”isesti jokin seuraavista:
+
+* Palvelin on sammutettu joko manuaalisesti tai virheen vuoksi.
+* J„rjestelm„nvalvoja on lopettanut istuntosi.
+* Verkossa on ollut h„iri”.
+* Palvelimessa tai omassa tietokoneessasi on ollut laitteistoh„iri”.
+
+Yrit„ my”hemmin uudelleen tai ota yhteys j„rjestelm„nvalvojaan.
+@2@52014@0@
+Microsoft Dynamics NAV -palvelintietokoneessa ei ole j„rjestelm„koodisivua, joka vastaa tietokannan %102.155 lajittelun %22 koodisivua %7.
+
+Microsoft Dynamics NAV -palvelimen j„rjestelm„koodisivut ovat seuraavat: %1.
+
+Varmista, ett„ Microsoft Dynamics NAV -palvelintietokoneen aluekohtaisissa asetuksissa on m„„ritetty oikea j„rjestelm„n kieli ja maa, jotka vastaavat koodisivuja.
+
+T„m„ virheilmoitus voidaan v„ltt„„, jos j„rjestelm„nvalvoja poistaa Muuta tietokantaa -valintaikkunan Tarkista lajittelu -asetuksen k„yt”st„ Microsoft Dynamics NAV -kehitysymp„rist”ss„.
+@2@52015@0@
+Tietokoneessa ei ole j„rjestelm„koodisivua, joka vastaa tietokannan %102.155 lajittelun %22 koodisivua %7.
+
+J„rjestelm„koodisivut ovat seuraavat: %1.
+
+Varmista, ett„ tietokoneen aluekohtaisissa asetuksissa on m„„ritetty oikea j„rjestelm„n kieli ja maa, jotka vastaavat koodisivuja.
+
+T„m„ virheilmoitus voidaan v„ltt„„, jos j„rjestelm„nvalvoja poistaa Muuta tietokantaa -valintaikkunan Tarkista lajittelu -asetuksen k„yt”st„ Microsoft Dynamics NAV -kehitysymp„rist”ss„.
+@2@52016@0@
+Microsoft Dynamics NAV -kehitysymp„rist” ei tue lajittelua %22.
+@2@52017@0@
+Palvelimen %102.154 tietokanta %102.155 on muunnettava, ennen kuin sit„ voidaan k„ytt„„ t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa.
+
+Jos muunnat tietokannan, et voi en„„ avata sit„ Microsoft Dynamics NAV -kehitysymp„rist”n vanhemmissa versioissa.
+
+Tietokannasta tai tapahtumalokista on suositeltavaa luoda varmuuskopio SQL Serveriss„ ennen muuntamista.
+
+Muunna tietokanta valitsemalla OK tai poistu valitsemalla Peruuta.
+@2@52018@0@
+Palvelimen %102.154 tietokanta %102.155 on muunnettava, ennen kuin sit„ voidaan k„ytt„„ Microsoft Dynamics NAV -kehitysymp„rist”n t„ll„ versiolla.
+
+Jos muunnat tietokannan, se muunnetaan Unicode-muotoon ja lajittelu p„ivitet„„n parhaiten vastaavaksi Windows-lajitteluksi. Et voi en„„ avata sit„ Microsoft Dynamics NAV -kehitysymp„rist”n vanhemmilla versioilla.
+
+On hyvin suositeltavaa, ett„ SQL Serverist„ luodaan tietokanta- tai tapahtumalokivarmuuskopio ennen muuntamista.
+
+Valitse OK-painike, jos haluat muuntaa tietokannan, tai peruuta toimenpide valitsemalla Peruuta-painike.
+@2@52020@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@52021@0@
+Tietokannan %102.155 muuntaminen edellytt„„, ett„ tietokannan asetus "Konvertoi tunnisteet" on k„yt”ss„.
+
+Ota t„m„ asetus k„ytt””n ja suorita muunto uudelleen Microsoft Dynamics NAV -kehitysymp„rist”n edellisell„ versiolla.
+@2@52022@0@
+Et voi poistaa mit„„n seuraavista merkeist„ tunnisteista: [%22].
+@2@52023@0@
+Olet valinnut tunnisteiden muuntamisen osana tietokannan muutosta.
+
+Valitse OK, jos haluat jatkaa tietokannan muuttamista, tai peruuta toimenpide valitsemalla Peruuta.
+@2@52024@0@
+S„ilyt„ n„kym„t-, S„ilyt„ relaatiot- ja S„ilyt„ oletukset -asetuksia ei voi muuttaa tunnusten muuntamisen yhteydess„.
+@2@52025@0@
+Tunnistin [%1] sis„lt„„ yhden seuraavista ep„valideista merkeist„: [%22].
+@2@52026@0@
+Tietokantalajittelua ei voi muuttaa integrointiasetusten muuttamisen yhteydess„.
+@2@52027@0@
+Olet valinnut tietokannan lajitteluasetusten muuttamisen osana tietokannan muutosta.
+
+Jatka muutosta valitsemalla OK tai peruuta toimenpide valitsemalla Peruuta.
+@2@52028@0@
+Varmista, ett„ olet ainoa k„ytt„j„, joka on yhteydess„ tietokantaan %102.155, ja valitse Yksitt„inen k„ytt„j„ -asetus valittujen tietokannan muutosten suorittamista varten.
+@2@52029@0@
+Tietokannan muutos onnistui.
+
+Sulje seuraavaksi tietokanta ja avaa se uudelleen, jotta asetukset tulevat voimaan. Poista Yksitt„inen k„ytt„j„ -asetuksen valinta, jotta muut k„ytt„j„t voivat k„ytt„„ tietokantaa.
+@2@52030@0@
+Kohteen "%1" objektin/sarakkeen nimi tietokannassa %102.155 sis„lt„„ jonkin seuraavista merkeist„:
+
+[%22]
+
+N„it„ merkkej„ ei voida muuntaa oikein vaihdettaessa uuteen lajitteluun.
+
+Valitse toinen lajittelu, joka voi n„ytt„„ kyseiset objektin merkit, tai nime„ objekti uudelleen.
+@2@52031@0@
+%1
+@2@52032@0@
+%1
+@2@52034@0@
+Palvelinta %102.154 ei ole alustettu Microsoft Dynamics NAV -kehitysymp„rist”n k„ytt”oikeudella.
+@2@52035@0@
+Palvelimen %102.154 tietokanta %102.155 on muunnettava Microsoft Dynamics NAV -kehitysymp„rist”ll„, ennen kuin sit„ voi k„ytt„„ Microsoft Dynamics NAV -palvelimessa.
+@2@52036@0@
+Ennen kuin voit muuntaa t„m„n tietokannan, sinun on poistettava k„yt”st„ tietokannan S„ilyt„ n„kym„t-, S„ilyt„ relaatiot- ja S„ilyt„ oletukset -integrointiasetukset k„ytt„m„ll„ vanhempaa Microsoft Dynamics NAV -kehitysymp„rist”versiota. Voit k„sitell„ n„it„ asetuksia valitsemalla Tiedosto-valikosta Tietokanta ja valitsemalla sitten Muuta.
+@2@52037@0@
+Olet valinnut tietokannan lajitteluasetusten muuttamisen osana tietokannan muutosta.
+
+Voit muuttaa lajittelua vain, jos "Tarkista lajittelu" -asetus oli jo valittu ennen tietokannan muuttamista.
+@2@52040@0@
+Nykyinen toimi on pys„ytetty, koska Windows yritt„„ siirty„ lepo-, horros- tai valmiustilaan.
+@2@52041@0@
+Tietokoneessa ei ole j„rjestelm„koodisivua, joka vastaa tietokannan %102.155 lajittelun %22 koodisivua %7.
+
+J„rjestelm„koodisivut ovat seuraavat: %1.
+
+Varmista, ett„ tietokoneen aluekohtaisissa asetuksissa on m„„ritetty oikea kieli ja maa, jotka vastaavat koodisivuja. 
+
+Voit my”s poistaa t„m„n tietokannan lajittelun tarkistusasetuksen k„yt”st„. Tiettyj„ tekstitietoja ei ehk„ muunneta oikein tietokantaan tallennettaessa.
+
+Poista lajittelun tarkistusasetus k„yt”st„ ja jatka tietokannan k„ytt”„ valitsemalla OK tai lopeta valitsemalla Peruuta.
+@2@52042@0@
+Valitsit, ettei tietokannan lajittelua tarkisteta osana tietokannan muutosta.
+
+T„ll”in tietokoneet voivat k„ytt„„ tietokantaa ja koodisivua, joka ei vastaa lajittelua. Tiettyj„ tekstitietoja ei ehk„ muunneta oikein tallennettaessa tietokantaan, jos niit„ k„ytet„„n t„llaisissa tietokoneissa.
+
+Jatka tietokannan muuttamista valitsemalla OK tai lopeta valitsemalla Peruuta.
+@2@52043@0@
+Tietokanta %102.155 palvelimessa %102.154 edellytt„„, ett„ tietokantakohtainen k„ytt”oikeus on avattu kohteessa %22.
+@2@52044@0@
+Palvelimen %102.154 tietokanta %102.155 on muunnettava, ennen kuin sit„ voidaan k„ytt„„ Microsoft Dynamics NAV -kehitysymp„rist”n t„ll„ versiolla.
+
+Sinun on muunnettava tietokanta, ennen kuin se otetaan k„ytt””n palvelimessa %22.
+@2@52045@0@
+Et voi luoda tietokantaa palvelimeen %102.154 %22.
+@2@52046@0@
+"Single user" -asetusta ei voi m„„ritt„„ tietokantaan %102.155 palvelimessa %102.154.
+
+Varmista, ett„ muut SQL Server -istunnot eiv„t k„yt„ tietokantaa.
+@2@52047@0@
+Palvelimen %102.154 tietokanta %102.155 on muunnettava, ennen kuin sit„ voidaan k„ytt„„ Microsoft Dynamics NAV -kehitysymp„rist”n t„ll„ versiolla.
+
+Tietokannan muuntaminen ei voi jatkua, koska muut SQL Server -istunnot k„ytt„v„t tietokantaa.
+
+Sulje kaikki muut istunnot ja yrit„ sitten uudelleen.
+@2@52048@0@
+Sinulla on %1 raporttia, jotka on k„„nnetty ennen tietokantamuunnosta, mutta joita ei voi nyt k„„nt„„.
+@2@53003@0@
+Sinulla ei ole tarvittavia SQL Server -oikeuksia t„t„ suojaustoimenpidett„ varten.
+@2@53011@0@
+Palvelimen %102.154 tietokanta %102.155 on muunnettava, ennen kuin sit„ voi k„ytt„„ t„ss„ Microsoft Dynamics NAV -kehitysymp„rist”versiossa.
+
+Jotta voit muuntaa tietokannan, sinun on oltava db_owner-tietokantaryhm„n j„sen.
+@2@53015@0@
+Kirjautuminen ep„onnistui muodostettaessa yhteytt„ SQL Serveriin %102.154.
+@2@54001@0@
+Taulukon %1.1 kentt„„ %2.1 ei ole SQL Server -taulukossa tai -n„kym„ss„.
+@2@54002@0@
+Taulukon %1.1 perusavain ylitt„„ %22 sarakkeen enimm„ism„„r„n SQL Server -indeksiss„.
+
+Avainkent„t: %6
+@2@54003@0@
+Taulukolla %1.2 ei ole nime„.
+@2@54004@0@
+Taulukkoa %1.1 ei ole pakollisena objektin nimen„ %1.157 t„ss„ tietokannassa.
+@2@54005@0@
+Taulukko %1.1 on tilap„inen SQL Server -taulukko. Sit„ tai mit„„n sen kentti„ ei voi nimet„ uudelleen.
+@2@54006@0@
+Taulukko %1.1 on SQL Serverin tilap„inen taulukko. Microsoft Dynamics NAV -kehitysymp„rist” ei tue SQL Serverin tilap„isi„ taulukoita.
+@2@54007@0@
+Taulukolla %1.1 ei ole perusavainrajoitusta SQL Server -taulukon kuvauksessa.
+@2@54008@0@
+Taulukolla %1.1 ei ole ROWVERSION saraketta SQL Server -taulukkokuvauksessa.
+@2@54010@0@
+Kohteen %1.1 taulukolla on useita ROWVERSION-sarakkeita SQL Server -n„kym„kuvauksessa. N„kymill„ voi olla vain yksi ROWVERSION-sarake.
+@2@54012@0@
+Taulukon %1.1 nimi on ristiriidassa olemassa olevan SQL-palvelinobjektin %1.157 kanssa.
+@2@54013@0@
+Kohteen %1.1 taulukon nimi on ristiriidassa aiemmin luodun SQL Server -objektin %1.157 kanssa.
+
+Valitse taulukolle jokin toinen nimi tai aseta taulukon LinkedObject-ominaisuuden arvoksi Kyll„, jos haluat muodostaa linkin t„h„n objektiin.
+@2@54014@0@
+%1.1 taulukko viittaa SQL Serverin objektiin %1.157. Linkitettyj„ objekteja ei voi suunnitella uudelleen.
+@2@54016@0@
+%1.1 taulukko viittaa SQL-palvelimen objektiin. Et voi muuttaa linkitettyj„ objekteja.
+@2@54017@0@
+%1.1 taulukko viittaa SQL-palvelimen objektiin %1.157. Et voi linkitt„„ objektiin, kun SumIndexFields on m„„ritetty.
+@2@54018@0@
+%1.1 taulukko viittaa SQL-palvelimen objektiin %1.157. Et voi linkitt„„ SQL-palvelimen v„liaikaiseen taulukko-objektiin.
+@2@54019@0@
+SQL Server -objektia %1.157, johon taulukossa %1.1 viitataan, ei ole.
+@2@54020@0@
+%1.1 taulukko viittaa SQL-palvelimen objektiin %1.157, joka on j„rjestelm„taulukko tai -n„kym„. LinkedObject-taulukko-ominaisuutta ei voi muuttaa arvoon No n„ill„ objektityypeill„.
+@2@54021@0@
+Taulukossa %1.1 ei ole ROWVERSION-saraketta SQL Server -n„kym„kuvauksessa. ROWVERSION-sarake vaaditaan, kun BLOB-kentti„ on m„„ritetty.
+@2@54022@0@
+Taulukko %1.1 sis„lt„„ BLOB-kent„n jossa on ep„kelpoa tiivistystietoa:
+
+Record: %6
+Field: %2.1
+@2@54023@0@
+Microsoft Dynamics NAV -kehitysymp„rist”n TableRelation-ominaisuuksien ja SQL Serverin viiteavainten synkronointi ep„onnistui.
+
+Taulukko %1.1 viittaa sellaisen kent„n %2.1 TableRelation-kentt„ominaisuuden taulukkoon, jota ei ole olemassa.
+@2@54024@0@
+Taulukon %1.1 SumIndexField-avain ylitt„„ enimm„ism„„r„n %22 sallittua sarakketta.
+
+Key fields: %6
+@2@54025@0@
+Teht„v„si lukkiutui, kun toinen k„ytt„j„ muokkasi taulukkoa %1.1.
+
+Aloita uudestaan.
+@2@54026@0@
+The %1.1 table cannot be changed because it is locked by another user. This can be caused by one of the following tasks:
+
+* Objects are being compiled.
+* Table schema is synchronizing.
+* Objects are being imported.
+
+Wait until the user is finished and then try again.
+@2@56001@0@
+Taulukko %1.1 sis„lt„„ kent„n, jonka SQL Server -tietotyyppi„ Microsoft Dynamics NAV -kehitysymp„rist” ei voi muokata nykyisen toiminnon avulla:
+
+Kentt„: %2.1
+SQL-tyyppi: %104.159
+@2@56003@0@
+Taulukko %1.1 sis„lt„„ kent„n, jonka SQL Server -arvo on Microsoft Dynamics NAV -kehitysymp„rist”n sallitun arvoalueen ulkopuolella:
+
+Kentt„: %2.1
+Tyyppi: %2.3
+@2@56004@0@
+Taulukko %1.1 sis„lt„„ kent„n, jonka p„iv„m„„r„arvoa ei voi k„ytt„„ SQL Serveriss„:
+
+Tietue: %6
+Kentt„: %2
+@2@56005@0@
+Taulukko %1.1 sis„lt„„ Microsoft Dynamics NAV -kehitysymp„rist”n kent„n tietotyypin, joka ei ole yhteensopiva SQL Server -tietotyypin kanssa:
+
+Kentt„: %2.1
+Tyyppi: %2.3
+SQL-tyyppi: %104.159
+@2@56006@0@
+Taulukko %1.1 sis„lt„„ arvon kokonaislukukoodikent„ss„ jota ei voida k„ytt„„ SQL Serveriss„:
+
+Record: %6
+Field: %2
+@2@56007@0@
+Taulukko %1.1 sis„lt„„ Koodi-kent„n arvon, jota ei voi k„ytt„„ Microsoft Dynamics NAV -kehitysymp„rist”ss„:
+
+Kentt„: %2.1
+Arvo: %22
+@2@56008@0@
+Taulukko %1.1 sis„lt„„ kokonaislukumuotoisen Koodi-kent„n arvon, jota ei voi k„ytt„„ Microsoft Dynamics NAV -kehitysymp„rist”ss„:
+
+Kentt„: %2.1
+Arvo: %22
+@2@56009@0@
+Annettua arvoa ei voi k„ytt„„ kokonaislukumuotoisen Koodi-kent„n kanssa:
+
+Taulukko: %1.1
+Kentt„: %2.1
+Arvo: %22
+@2@56010@0@
+Taulukko %1.1 sis„lt„„ kent„n arvon, jota ei voi muuntaa:
+
+Tietue: %6
+Kentt„: %2.1
+@2@56011@0@
+Taulukko %1.1 sis„lt„„ kent„n, jossa on SQL Server -tietotyypille liian suuri Code-, Text- tai WideText-arvo:
+Tietue: %6
+Kentt„: %2
+SQL-tyyppi: %104.159
+@2@56012@0@
+Kohteen %1.1 taulukko sis„lt„„ kokonaisluku-, vaihtoehto- tai totuusarvokent„n, joka k„ytt„„ SQL Server -tietotyyppi„ DECIMAL tai FLOAT. T„st„ kent„st„ on l”ytynyt virheellinen arvo:
+
+Kentt„: %2.1
+SQL-tyyppi: %104.159
+Arvo: %22
+@2@56014@0@
+Taulukko %1.1 sis„lt„„ Aika-kent„n, joka k„ytt„„ ep„kelpoa dataa DATETIME-arvon p„iv„m„„r„komponentille:
+
+Kentt„: %2.1
+Arvo: %22
+@2@56015@0@
+Taulukko %1.1 sis„lt„„ p„iv„m„„r„kent„n, joka k„ytt„„ ep„kelpoa dataa DATETIME-arvon aikakomponentille:
+
+Kentt„: %2.1
+Arvo: %22
+@2@56016@0@
+Taulukko %1.1 sis„lt„„ Boolean-kent„n, joka ei k„yt„ SQL Server -datatyyppi„ BIT. Arvo, joka ei ole 0 tai 1 on l”ytynyt t„st„ kent„st„:
+
+Kentt„: %2.1
+SQL-tyyppi: %104.159
+Arvo: %22
+@2@56017@0@
+Kohteen %1.1 taulukossa on ep„yhten„isi„ SumIndexField-arvoja:
+
+Avainkent„t: %6
+SumIndexField-taulukko: %22
+
+Ota yhteys j„rjestelm„nvalvojaan.
+@2@56018@0@
+Taulukko %1.1 sis„lt„„ kent„n jossa on AutoIncrement-arvo joka ei vastaa SQL Server IDENTITY -tilaa:
+
+Field: %2.1
+@2@56019@0@
+Taulukko %1.1 sis„lt„„ kent„n jossa on Variant SQL -datatyyppi joka voidaan konvertoida vain Varchar SQL -datatyypiksi:
+
+Field: %2.1
+@2@END@0@
+@1@30@0@
+@2@1@0@
+%1.2, jonka nimi on "%1.4", k„ytt„„ kohdetta %1.1-ID (%1.3).
+@2@2@0@
+%1.2, jonka tunnus on %1.3, k„ytt„„ kohdetta %1.1-Nimi ("%1.4").
+@2@4@0@
+Ominaisuus "%3" ei koske kohdetta %1.2.
+@2@5@0@
+%1.2: ei voi aktivoida.
+@2@6@0@
+Kohdetta %1.2 ei voi p„ivitt„„ (vain dataohjausobjektit voidaan p„ivitt„„).
+@2@7@0@
+Ominaisuutta "%3" ei saa muuttaa kohteessa %1.2 silloin, kun se on avoin!
+(%3 on kutsuttu kohteelle %1.2, jonka nimi on "%1.4".)
+@2@8@0@
+Ominaisuus "%3" ei ole dynaaminen kohteessa %1.2.
+(%3 on kutsuttu kohteelle %1.2, jonka nimi on "%1.4".)
+@2@9@0@
+Kohteen %1.2 tunnus ei saa olla nolla.
+@2@10@0@
+%1.2, jonka nimi on "%1.4", m„„ritti is„ksi tunnuksen, jota ei ole (%5).
+@2@11@0@
+%1.2, jonka nimi on "%1.4", ei voi sis„lt„„ kohdetta %2.2, jonka nimi on "%2.4".
+@2@12@0@
+Yritit lis„t„ ohjausobjektin, jonka nimi on "%2.4", otsikoksi taulukko- tai matriisiruutuun, jonka nimi on "%1.4", mutta vastaavaa saraketta ei l”ytynyt.
+@2@13@0@
+Yritit lis„t„ ohjausobjektin, jonka nimi on "%2.4", matriisiotsikoksi matriisiruutuun, jonka nimi on "%1.4", mutta matriisiosa on tyhj„.
+@2@14@0@
+Virheellinen sivunumero (%5) v„lilehtiohjausobjektille, jonka nimi on "%1.4".
+(%3 oli m„„ritetty %4 kohteessa %2.2 "%2.4").
+@2@15@0@
+Ohjausobjektia, jonka nimi on "%2.4", ei voi lis„t„ "%1.4"-nimisen matriisiruudun matriisiosaan, koska ohjausobjekti "%6.4" on jo siell„.
+@2@16@0@
+Ohjausobjektia, jonka nimi on "%2.4", ei voi lis„t„ "%1.4"-nimisen matriisiruudun matriisiotsikoksi, koska otsikkona on ohjausobjekti, jonka nimi on "%6.4".
+@2@17@0@
+Ohjausobjektia, jonka nimi on "%2.4" on, ei voi lis„t„ "%1.4"-nimisen taulukkoruudun otsikoksi, koska otsikkona on jo ohjausobjekti, jonka nimi on "%6.4".
+@2@18@0@
+"%8" ei ole laiteriippumaton bittikarttatiedosto.
+@2@19@0@
+T„m„ on ep„kelpo Device-Independent Bitmap -tiedosto.
+@2@20@0@
+"%8" ei ole kuvaketiedosto.
+@2@21@0@
+"%8" on virheellinen kuvaketiedosto.
+@2@22@0@
+Ominaisuus "%3" on pakollinen kohteelle %1.2.
+Yritit poistaa ominaisuuden "%3" kohteelta %1.2, jonka nimi on "%1.4".
+@2@23@0@
+Ohjausobjektia, jonka nimi on "%2.4", ei voi lis„t„ kohteen "%1.4" matriisiosana, koska "%1.4" ei ole matriisiruutu.
+@2@24@0@
+Ohjausobjektia, jonka nimi on "%2.4", ei voi lis„t„ luettelo-, taulukko- tai matriisiruudun "%1.4" otsikoksi, koska on m„„ritetty, ett„ kohteella "%1.4" ei ole otsikkoa.
+@2@25@0@
+Dynaamista ominaisuutta "%3" ei voi muuttaa t„ss„ yhteydess„.
+
+Yritit muuttaa ominaisuuden "%3" muotoon %4 kohteessa %1.2, jonka nimi on "%1.4".
+@2@26@0@
+Ominaisuutta "%3" ei voi m„„ritt„„ muotoon %4 kohteessa %1.2, jonka nimi on "%1.4".
+@2@28@0@
+Bittikarttanumero %5 ei sis„lly ohjelmaan.
+
+Ohjelma sis„lt„„ bittikartat 0 - 53.
+@2@29@0@
+Viimeist„ muokkaustoimea (usein "Liit„") ei otettu huomioon, koska merkkien enimm„ism„„r„ (%5) tekstiruudussa %1.4 olisi ylitetty.
+@2@30@0@
+Kohdetta "%1.5" ei voi sulkea, koska "%2.5" on lukinnut sen.
+
+Lopeta "%2.5" ennen sulkemista.
+@2@31@0@
+Ominaisuus "%3" kohteessa %1.2, jonka nimi on "%1.4", on alueen ulkopuolella (v„lin enimm„isarvo on %4).
+@2@32@0@
+%3 ei voi olla %8.
+
+Sallitut arvot ovat seuraavat: "infinite", "default" tai kokonaisluvut 0 - %5.
+@2@33@0@
+Muutit kiinnitetyn sarakkeen %1.5 kokoa, jonka j„lkeen sarake t„ytti automaattisesti muutoin tyhj„n tilan.
+@2@34@0@
+%3 ei voi olla %8.
+
+Sy”t„ sallittu n„pp„inyhdistelm„, kuten Ctrl+F5.
+@2@35@0@
+%4: ei voi k„ytt„„ tunnuksena, koska jokin valikon vaihtoehto k„ytt„„ jo sit„.
+@2@36@0@
+%3 ei voi sis„lt„„ kohdetta %8.
+
+Kohteen %3 enimm„iskoko (tiedostonimi ja polku mukaan lukien) on 32 kilotavua (32 756 tavua).
+@2@37@0@
+%3 ei voi sis„lt„„ kohdetta %8.
+
+Kohteen %3 koko bittikarttaluettelon enimm„iskoko (tiedostonimet ja polut mukaan lukien) on 32 kilotavua (32 756 tavua).
+@2@38@0@
+"%1.5" ei voi sulkeutua, koska j„rjestelm„ suorittaa toimintoa.
+@2@39@0@
+Kohteen %1.2, jonka nimi on "%1.4", %3 ei voi olla %4, koska tuloksena olisi syklinen isyysketju (%1.2, jonka nimi on "%1.4", olisi kohteen %2.2, jonka nimi on "%2.4", "is„").
+@2@43@0@
+Kohteen %1.2, jonka nimi on "%1.4", ominaisuutta %3 ei voi muuttaa tai poistaa manuaalisesti.
+
+Jos haluat muuttaa s„il”„, ved„ "%1.4" hiirell„.
+@2@44@0@
+Kohteen %2.2, jonka nimi on "%2.4", ominaisuutta %3 ei voi muuttaa tai poistaa, koska se kuuluu kohteeseen %1.2, jonka nimi on "%1.4".
+@2@45@0@
+16-bittisess„ Windows-k„ytt”j„rjestelm„ss„ voi olla k„ynniss„ vain yksi aktiivinen Microsoft Dynamics NAV -kehitysymp„rist”n istunto k„ynniss„. 
+@2@47@0@
+C/SIDE-hyperlinkitys ep„onnistui.
+
+Yritit hyperlinkityst„ kohteeseen:
+%8
+
+Haluatko sijoittaa hyperlinkin kohteen leikep”yd„lle?
+@2@49@0@
+C/SIDE ei pystynyt lataamaan Windowsin resurssia.
+
+Windowsin resurssit saattavat olla v„hiss„.
+Sulje joitakin ikkunoita ja yrit„ uudelleen.
+@2@50@0@
+%3 ei voi olla %4.
+
+Sallitut arvot ovat kokonaisluvut 220 - %5.
+@2@52@0@
+Polku on liian pitk„. Kent„n pituus ei voi ylitt„„ %5 tavua.
+@2@53@0@
+Alilomaketta ei voi aktivoida, ellei sen p„„lomake ole aktiivinen.
+@2@54@0@
+Alilomaketta ei voi aktivoida, ellei sen p„„lomake ole aktiivinen.
+P„„lomakkeen tunnus = %1.
+@2@55@0@
+Taulukon tietueiden m„„r„ ylitt„„ kohteen %1 enimm„ism„„r„n.
+
+V„henn„ taulun tietueiden m„„r„„ suodattimen avulla tai valitse Ty”kalut, 
+Asetukset ja lis„„ viet„vien tietueiden enimm„ism„„r„„.
+
+Usean tietueen vieminen voi heikent„„ j„rjestelm„n suorituskyky„.
+@2@56@0@
+Vakava sis„inen virhe.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ The Connection between the Database and Forms                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@60@0@
+@2@1@0@
+Lomake ei tunnista ohjausobjektia %6.
+@2@2@0@
+%1: ei voi lis„t„ t„h„n lomakkeeseen.
+@2@3@0@
+%1: ei voi muokata t„ss„ lomakkeessa.
+@2@4@0@
+%1: ei voi poistaa t„st„ lomakkeesta.
+@2@5@0@
+Avattavaa luetteloa ei voi k„ytt„„ t„ss„, koska vaihtoehtoja ei ole.
+@2@6@0@
+CurrForm.UPDATE: ei voi kutsua t„st„.
+@2@7@0@
+Ajastimen k„ynnistimet eiv„t ole k„ytett„viss„.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA_Control  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ Controls used in the Connection between                 ³
+// ³                  the Database and Forms                                  ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@61@0@
+@2@1@0@
+"%3" ei ole sallittu arvo.
+@2@2@0@
+Ohjausobjektilla %9(%6) on virheellinen tietotyyppi %7. Sallitut tietotyypit ovat seuraavat: %8.
+@2@3@0@
+"%3" ei ole sallittu arvo. Seuraavia arvoja voidaan k„ytt„„: %5.
+@2@4@0@
+Kentt„ ei saa olla tyhj„. Sy”t„ jokin arvo.
+@2@5@0@
+Kentt„ sis„lt„„ virheellisen merkin (%1). Seuraavia merkkej„ voidaan k„ytt„„: %4.
+@2@6@0@
+T„h„n kentt„„n on sy”tett„v„ luku.
+@2@7@0@
+Sulkemisp„iv„m„„r„„ ei voi m„„ritt„„ t„ss„.
+@2@10@0@
+M„„rit„ desimaali tai laskentalauseke.
+@2@11@0@
+Kent„ss„ saa olla enint„„n %5 desimaalia.
+@2@13@0@
+Ohjausobjektia %9(%6) ei voi muokata, koska taustalla olevaa tietokantakentt„„ ei voi muokata.
+@2@14@0@
+"CharAllowed" on oltava merkkipareja. Parin ensimm„isen merkin on oltava sama tai pienempi kuin toinen.
+@2@15@0@
+Salasana sis„lt„„ virheellisen merkin.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ADSI ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Active Directory Services Interface                                     ³
+// ³                                                                          ³
+// ³  ID values:    1- 199   General errors                                   ³
+// ³              200- 249   AD Schema errors                                 ³
+// ³              250- 269   Service Connection Point errors                  ³
+// ³                                                                          ³
+// ³             1xxx        Information (success) message corresponding to   ³
+// ³                                               the xxx error message      ³
+// ³                                                                          ³
+// ³  Symbol   Substitution   Explanation/Examples                            ³
+// ³  ------   ------------   --------------------                            ³
+// ³                                                                          ³
+// ³    %1     Text           Error text retrieved from ADSI                  ³
+// ³                                                                          ³
+// ³    %2     Text           Error context                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@142@0@
+@2@1@0@
+Active Directory -palvelun alustus ei onnistunut.
+@2@2@0@
+Active Directory -palvelun liittym„n kutsu ep„onnistui.
+
+Seuraava virhe palautettiin:
+%1
+Ota yhteys j„rjestelm„nvalvojaan.
+@2@3@0@
+J„rjestelm„ ei onnistunut noutamaan objektia %2 Active Directorysta.
+
+J„rjestelm„ palautti seuraavan virheen:
+%1
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan tai toimittajaan.
+@2@4@0@
+J„rjestelm„ ei onnistunut noutamaan yleist„ luetteloa Active Directorysta.
+Syyn„ saattavat olla ongelmat verkossa tai Active Directory -toiminnon puuttuminen koneesta tai verkosta.
+
+J„rjestelm„ palautti seuraavan virheen:
+%1
+
+Active Directory -toiminto ei ole k„ytett„viss„.
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan tai j„rjestelm„n toimittajaan.
+@2@5@0@
+J„rjestelm„ ei onnistunut noutamaan yleist„ luetteloa Active Directorysta.
+Syyn„ saattavat olla ongelmat verkossa tai Active Directory -toiminnon puuttuminen koneesta tai verkosta.
+
+Active Directory -toiminto ei ole k„ytett„viss„.
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan tai j„rjestelm„n toimittajaan.
+@2@250@0@
+J„rjestelm„ ei onnistunut julkaisemaan tai p„ivitt„m„„n Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspistett„ Active Directoryssa.
+
+J„rjestelm„ palautti seuraavan virheen:
+%1
+Ota yhteytt„ j„rjestelm„nvalvojaan tai j„rjestelm„n toimittajaan.
+@2@251@0@
+J„rjestelm„ ei onnistunut kirjoittamaan Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspisteen GUID-tunnusta rekisteriin.
+Palvelin ei voi p„ivitt„„ palvelun yhteyspistett„.
+@2@252@0@
+Ohjelma ei onnistunut julkaisemaan Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspistett„ Active Directoryyn.
+
+Jotta Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelin voisi julkaista palvelun yhteyspisteen, verkon toimialueohjaimen Active Directory -rakennetta on laajennettava. Lis„tietoja saat verkonvalvojalta.
+
+Lis„„ t„m„ tuki Active Directoryyn k„ytt„m„ll„ asennustietov„lineess„ olevaa SchemaXt-ty”kalua.
+
+Huomautus: Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelin toimii my”s ilman palvelun yhteyspistett„. Asiakasohjelmissa ei kuitenkaan voi tuolloin luetteloida verkossa olevia palvelimia.
+@2@253@0@
+J„rjestelm„ ei onnistunut p„ivitt„m„„n Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspistett„ Active Directoryyn.
+Rekisteritapahtumaa ei ole.
+@2@254@0@
+J„rjestelm„ ei pystynyt julkaisemaan Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspistett„ Active Directoryyn.
+K„ytt”j„rjestelm„ ei tue palveluiden julkaisemista. K„ytt”j„rjestelm„n tulee olla Microsoft Windows 2000 tai uudempi.
+T„m„ ei vaikuta Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelimen suorituskykyyn. Asiakasohjelmat eiv„t kuitenkaan l”yd„ t„t„ palvelinta selaamalla.
+@2@260@0@
+J„rjestelm„ ei voinut poistaa Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspistett„ Active Directorysta.
+
+J„rjestelm„ palautti seuraavan virheen:
+%1
+Ota tarvittaessa yhteytt„ j„rjestelm„nvalvojaan tai j„rjestelm„n toimittajaan.
+@2@261@0@
+J„rjestelm„ ei onnistunut poistamaan Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspistett„ Active Directorysta.
+Rekisteritapahtumaa ei ole.
+@2@1250@0@
+J„rjestelm„ julkaisi Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspisteen Active Directoryssa.
+@2@1260@0@
+J„rjestelm„ poisti Microsoft Dynamics NAV Classic -ohjelman tietokantapalvelinpalvelun yhteyspisteen Active Directorysta.
+@2@END@0@
+//   ÚÄÄÄÄÄ¿
+// ÚÄ´ OIO ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÙ                                                                  ³
+// ³                                                                          ³
+// ³  Module_OIO                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@27@0@
+@2@2@0@
+Tunnuslohko ei  mahdu varmuuskopiolle valitsemallesi levylle. Valitse tietov„line, jolla on enemm„n tilaa.
+@2@3@0@
+Levyll„ ei ole en„„ tilaa. Valitse levy, jonka kapasiteetti on suurempi.
+@2@4@0@
+Varmuuskopio on vioittunut (virheellinen tarkistussumma).
+@2@6@0@
+Varmuuskopio on vioittunut (odottamaton tietotyyppi).
+@2@8@0@
+Varmuuskopiointi-/palautusprosessi on keskeytetty.
+@2@16@0@
+Varmuuskopio ei ole Microsoft Dynamics NAV -kehitysymp„rist”n varmuuskopio.
+@2@17@0@
+Varmuuskopiolla ja ohjelmalla on eri ohjelmaversionumerot.
+@2@18@0@
+T„m„ Microsoft Dynamics NAV -kehitysymp„rist” versio ei tue tiedostomuotoa "%1".
+@2@20@0@
+Varmuuskopio ei ole Microsoft Dynamics NAV -kehitysymp„rist”n varmuuskopio.
+@2@21@0@
+T„m„ .fob-tiedosto on vanha versio, joka ei toimi Microsoft Dynamics NAV -kehitysymp„rist”n kanssa. Tuo se Microsoft Dynamics NAV 2013 -kehitysymp„rist”n avulla Microsoft Dynamics NAV 2013 -tietokantaan ja vie sitten p„ivitetyt sovellusobjektit uuteen .fob-tiedostoon.
+@2@100@0@
+Varmuuskopion palauttaminen keskeytyi, koska oma yritys "%10" on jo tietokannassa.
+@2@101@0@
+Varmuuskopiointij„rjestelm„ ei l”yd„ tiedostoa %1. Tarkista, ett„ k„yt”ss„ on oikea levy.
+@2@102@0@
+Varmuuskopiota varten valitsemallesi levylle ei mahdu varmuuskopion koko otsikko. Valitse tietov„line, jolla on enemm„n tilaa.
+@2@103@0@
+Palautus on keskeytetty, koska tietokannassa on kaikille omille yrityksille yhteisi„ tietoja.
+@2@200@0@
+V„hint„„n yhdell„ objektilla, jonka yrit„t tuoda, ei ole allekirjoitusta, joten se ei
+ole kelvollinen sovellusobjekti. Tuonti peruutetaan.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  IE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Binary Object Import/Export                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@169@0@
+@2@1@0@
+Luonti on sallittua vain uusille objekteille.
+@2@2@0@
+Korvaaminen ei ole sallittua uusille objekteille.
+@2@3@0@
+Vain taulukoita voidaan yhdist„„.
+@2@4@0@
+Vain tyhj„t objektit voi poistaa.
+@2@5@0@
+Tyhji„ objekteja voi k„ytt„„ vain muiden objektien poistamiseen.
+
+Valitse joko Ohita tai Poista.
+@2@101@0@
+Kaikki objektit on tutkittu, eik„ ristiriitoja l”ytynyt.
+
+Voit tuoda kaikki objektit valitsemalla Kyll„, avata Tuontilomakkeen valitsemalla Ei tai lopettaa tuonnin valitsemalla Peruuta.
+@2@102@0@
+Objektin %1 tuonti ei onnistunut, koska tuontitiedoston lomakeasetuksia ei voi k„ytt„„ tietokannan objekteille ja/tai objekteille, joita yrit„t tuoda.
+
+Avaa Tuontilomake valitsemalla OK tai lopeta tuonti valitsemalla Peruuta.
+@2@103@0@
+Kohteen %1 objektien tuonti ei onnistunut, koska tietokannassa on jo objekteja, joiden versiot ovat ristiriidassa.
+
+Avaa ###Tuontilomake valitsemalla OK tai lopeta tuonti valitsemalla Peruuta.
+@2@400@0@
+Varmuuskopio "%1" on valmis.
+@2@401@0@
+Varmuuskopio "%1" on palautettu virheitt„.
+@2@404@0@
+Kohteen %1 varmuuskopion palauttaminen onnistui.
+
+K„ytt„j„tietoja ei voitu noutaa (Windows-virhekoodi %2). Aktivoi suojausj„rjestelm„ lis„„m„ll„ Windows-sis„„nkirjautumistiedot manuaalisesti.
+@2@600@0@
+Levyll„ ei ole tarpeeksi tilaa tunnuslohkoa varten. Valitse tietov„line, jolla on enemm„n tilaa.
+@2@602@0@
+Tiedosto on vioittunut (virheellinen tarkistussumma).
+@2@603@0@
+Tiedosto on vioittunut (odottamaton tietotyyppi).
+@2@604@0@
+Ty” on keskeytetty.
+@2@605@0@
+Tiedosto ei ole Microsoft Dynamics NAV -kehitysymp„rist”n objektitiedosto.
+@2@606@0@
+Objektitiedostolla ja ohjelmalla on eri ohjelmaversionumerot.
+@2@607@0@
+Objektitiedostoa ei voi k„ytt„„ ohjelman t„ll„ versiolla.
+@2@608@0@
+Tiedosto ei ole Microsoft Dynamics NAV -kehitysymp„rist”n objektitiedosto.
+@2@609@0@
+Tiedostoa %1 ei l”ydy. Tarkista, ett„ k„yt”ss„ on oikea levy.
+@2@610@0@
+Levytila ei riit„ objektitiedoston koko otsikkoa varten. Valitse tietov„line, jolla on enemm„n tilaa.
+@2@700@0@
+Objekteja ei voi tuoda tietokantaan. Seuraavat ristiriidat l”ydettiin:
+
+%1
+@2@END@0@
+
+
+//   ÚÄÄÄÄ¿
+// ÚÄ´ WZ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Wizards                                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@111@0@
+@2@1@0@
+Taulukko on m„„ritett„v„ ohjatun toiminnon k„ytt”„ varten.
+@2@2@0@
+Taulukon tunnusta %1 ei ole. 
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  DM  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Data Manager                                                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@110@0@
+@2@1@0@
+Ikkunassa on liian monta FlowField-kentt„„. Ikkunassa voi olla enint„„n %1 FlowField-kentt„„.
+
+Poista lomakkeesta joitakin kentti„.
+@2@4@0@
+Tietue on jo olemassa.
+@2@6@0@
+Esittelyversion omaan yritykseen voidaan sy”tt„„ vain marraskuun, joulukuun, tammikuun ja helmikuun p„iv„m„„ri„. T„m„ johtuu k„ytt”oikeustiedostossa m„„ritetyst„ suodattimesta '%1'.
+@2@7@0@
+%1 on t„ytett„v„. Sy”t„ arvo.
+@2@8@0@
+Tietuetta ei voi lis„t„ toisesta taulukosta.
+@2@9@0@
+T„h„n taulukkoon ei voi liitt„„.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  AO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Object                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@70@0@
+@2@001@0@
+Objektilaji "'%6" ei ole tuettu.
+@2@021@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1.
+
+T„h„n odotettiin merkki„ "{" (ListBegin).
+@2@022@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on 0syntaksivirhe: %1.
+
+T„h„n odotettiin merkki„ "}" (ListEnd).
+@2@023@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1.
+
+T„h„n odotettiin merkki„ "=" (EqualSign).
+@2@024@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1.
+
+T„h„n odotettiin merkki„ "{" (ElemBegin).
+@2@025@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1.
+
+T„h„n odotettiin merkki„ "}" (ElemEnd).
+@2@026@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1.
+
+Tiedosto ei saa p„„tty„ t„h„n.
+@2@027@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1.
+
+AL-koodia ei ole sisennetty yht„ paljon ensimm„isell„ rivill„.
+@2@028@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1. 
+
+Uuden objektin pit„„ alkaa t„ss„.
+@2@029@0@
+Tuonnissa rivill„ %3 merkkipaikassa %2 on syntaksivirhe: %1. 
+
+ControlAddIn-komponentti on asennettava tapahtumak„ynnistimien tuontia varten.
+
+@2@030@0@
+Tuonnin rivill„ %3, merkkipaikassa %2 on virhe: %1. 
+
+Wordin asettelu on liian suuri.
+
+@2@031@0@
+M„„rit„ objektin tunnus.
+@2@032@0@
+M„„rit„ objektin nimi.
+@2@041@0@
+"K„„nn”ksen tuonnissa" on syntaksivirhe. Tyhji„ rivej„ ei saa olla.
+@2@042@0@
+"K„„nn”ksen tuonnissa" on syntaksivirhe. Merkkijonossa on oltava miinusmerkki.
+
+%5
+@2@043@0@
+"K„„nn”ksen tuonnissa" on syntaksivirhe. Merkkijonossa on oltava kaksoispiste.
+
+%5
+@2@045@0@
+"K„„nn”ksen tuonnissa" on syntaksivirhe. Teksti on liian pitk„.
+
+%5
+@2@051@0@
+"%7" ei ole sallittu kielimoduulitiedosto.
+@2@052@0@
+Kielimoduulitiedoston "%7" versio ei ole yhteensopiva.
+@2@053@0@
+Kielimoduulitiedostossa "%7" on tarkistussummavirhe.
+@2@400@0@
+Vientimuotoa ei tueta: %1. Tuetut muodot ovat 0: txt ja 1: xml.
+@2@401@0@
+Kohteeseen EXPORTOBJECTS v„litetyn tietueen on oltava objektin taulukkotietue.
+@2@420@0@
+Tuontimuotoa ei tueta: %1. Tuetut muodot ovat 0: txt ja 1: xml.
+@2@421@0@
+Tuonti pys„ytettiin rivill„ %1. Virheilmoitus:
+
+%2
+@2@423@0@
+Tuonti pys„ytettiin rivill„ %1 (tuntematon virhe).
+@2@500@0@
+Tulostustiedostoa ei ole avattu.
+@2@800@0@
+XML-asiakirjaa %7 ei voitu ladata.
+@2@801@0@
+MSXML:n lataaminen ep„onnistui
+@2@802@0@
+Odottamaton elementti %1. Odotettiin elementti„ %2.
+@2@803@0@
+XML-asiakirjaa %7 ei voitu tallentaa.
+@2@900@0@
+Objektia %1 ei voi lukita, koska '%22' on lukinnut sen.
+@2@902@0@
+Et voi lukita objektia %1, koska olet jo lukinnut sen.
+@2@903@0@
+Objektin %1 lukitusta ei voi avata, koska objektia ei ole lukittu.
+@2@904@0@
+Et voi avata objektin %1 lukitusta, koska sen on parhaillaan lukinnut "%22".  
+
+Jos haluat avata toisen k„ytt„j„n lukitseman objektin lukituksen, ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@905@0@
+Et voi tallentaa objektia, koska se on vain luku -tilassa.
+@2@906@0@
+T„m„n tunnuksen objektia ei voi tallentaa.
+@2@907@0@
+Lomake-objektityyppi„ ei tueta.
+@2@908@0@
+Dataportti-objektityyppi„ ei tueta.
+@2@909@0@
+AL-koodin suorittamista ei tueta t„ss„ kontekstissa.
+@2@910@0@
+Objekti "%1" on tallennettava k„„nnetyss„ muodossa ennen suoritusta.
+@2@915@0@
+The FOB file contains table objects.\
+\
+Some changes in the table objects may require data upgrade instructions. In this case, if this FOB file contains the upgrade toolkit objects, such as upgrade codeunits and upgrade tables, then you can choose to synchronize schema now. If the upgrade toolkit objects are included in a separate FOB file, then you can choose to synchronize schema later, after you have imported that FOB file.\
+\
+We recommend that you make a backup of all of your application objects by exporting all your current objects in the FOB format before you proceed.\
+\
+Select the option for synchronizing the schema changes after the table objects are imported into the application.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´COMCÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                                          ³
+// ³  COMponent Controller                                                                           ³
+// ³                                                                                                 ³
+// ³  This section provides a short explanation of the %x symbols used below.                        ³
+// ³                                                                                                 ³
+// ³  Symbol   Substitution   Explanation/Examples                                                   ³
+// ³  ------   ------------   --------------------                                                   ³
+// ³                                                                                                 ³
+// ³  %1.1     Name.                                                                                 ³
+// ³  %1.2     GUID.          This is a Global Unique ID.                                            ³
+// ³                          Example:{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}                         ³
+// ³   2       Filename                                                                              ³
+// ³   3       Symbolname     The name of a method or a property.                                    ³
+// ³                          Examples: CTERM, PV or Caption                                         ³
+// ³   4       Number         A numeric value (integer).                                             ³
+// ³   5       MaxArgs        A numeric value. The maximum number of allowed                         ³
+// ³                          arguments when calling methods or properties in                        ³
+// ³                          an OLE control or Automation server.                                   ³
+// ³   6       CLSID          This is a Class ID path.                                               ³
+// ³                          Example: HKEY_CLASSES_ROOT\CLSID\{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}³
+// ³   7       Text           A text string.                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@35@0@
+@2@1@0@
+OLEn alustus ei onnistunut.
+
+Tarkista, ett„ OLE-j„rjestelm„n DLL:t on asennettu oikein.
+@2@2@0@
+OCX- automaatiomuuttujan subtype-alityyppi„ (GUID) ei ole m„„ritetty.
+
+M„„rit„ GUID t„ytt„m„ll„ C/AL, paikalliset- tai C/AL, globaalit -ikkunan Subtype-kentt„.
+@2@4@0@
+Tyyppikirjaston lataus ei onnistunut OLE-ohjausobjektille tai automaatiopalvelimelle %1.1.
+%1.2
+
+Tyyppikirjasto on ehk„ poistettu tai siirretty toiseen paikkaan.
+Rekister”i OLE-ohjausobjekti tai automaatiopalvelin uudelleen.
+@2@7@0@
+Invalid format of GUID string. The correct format of the GUID string is
+
+{CDEF7890-ABCD-0123-1234-567890ABCDEF}
+
+where 0-9, A-F symbolizes hexadecimal digits.
+@2@8@0@
+Tyypin tietoja ei saada tyyppikirjastosta.
+
+Tyyppikirjasto saattaa olla vioittunut tai sen muoto on virheellinen.
+Rekister”i OLE-ohjausobjekti tai automaatiopalvelin uudelleen.
+@2@10@0@
+Ominaisuuksien tietojen luku ei onnistunut tyyppikirjastosta.
+
+Rekister”i OLE-ohjausobjekti tai automaatiopalvelin uudelleen.
+@2@12@0@
+Ominaisuuksien kuvauksen nouto tyyppikirjastosta ei onnistunut.
+
+Rekister”i OLE-ohjausobjekti tai automaatiopalvelin uudelleen.
+@2@13@0@
+Menetelmien kuvauksen nouto tyyppikirjastosta ei onnistunut.
+
+Rekister”i OLE-ohjausobjekti tai automaatiopalvelin uudelleen.
+@2@14@0@
+Syntaksin kuvauksen nouto tyyppikirjastosta ei onnistunut.
+
+Rekister”i OLE-ohjausobjekti tai automaatiopalvelin uudelleen.
+@2@16@0@
+K„„nn”ksen aikana ei ollut mahdollista noutaa tietoja tyyppikirjastosta
+symbolista %3.
+
+Tyyppikirjasto on saattanut vioittua. Rekister”i OLE-ohjausobjekti
+tai automaatiopalvelin uudelleen.
+@2@17@0@
+Tyyppikirjastossa ei ole m„„ritetty menetelm„„ tai ominaisuutta, jonka nimi on %3.
+
+Selaa OLE-ohjausobjektin tai automaatiopalvelimen m„„ritt„mi„
+menetelmi„ ja ominaisuuksia k„ytt„m„ll„ Symboli-valikkoa.
+@2@18@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Parametrien enimm„ism„„r„ on ylitetty. %3 edellytt„„ %4
+parametria. C/SIDE tukee enint„„n %5 parametria.
+@2@19@0@
+OLE-ohjausobjekti tai automaatiopalvelin ei ole m„„ritt„nyt menetelm„„ tai ominaisuutta, jonka nimi on %3.
+
+Selaa OLE-ohjausobjektin tai automaatiopalvelimen m„„ritt„mi„
+menetelmi„ ja ominaisuuksia k„ytt„m„ll„ Symboli-valikkoa.
+@2@20@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+C/SIDE ei tue t„t„ tietotyyppi„. Voit k„ytt„„ tietoja,
+joiden tyyppi on jokin seuraavista:
+VT_VOID, VT_I2, VT_I4, VT_R4, VT_R8, VT_CY, VT_DATE, VT_BSTR ja VT_BOOL
+@2@21@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The OLE control or Automation server provided an unknown data type.
+@2@26@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Nimien tunnusten nouto OLE-ohjausobjektista tai automaatiopalvelimesta ei onnistunut.
+@2@27@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Ominaisuuden %3 arvon nouto ei onnistunut.
+@2@28@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Annettu elementtien m„„r„ ei ole sama kuin
+menetelm„n tai ominaisuuden hyv„ksymien argumenttien m„„r„.
+@2@30@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+OLE-ohjausobjektin tai automaatiopalvelimen, jonka 
+GUID=%3, esiintym„n luonti ei onnistunut.
+Tarkista, ett„ OLE-ohjausobjekti tai automaatiopalvelin on asennettu ja rekister”ity oikein.
+@2@34@0@
+Avaimen HKEY_CLASSES_ROOT\%6 avaaminen rekisteriss„
+ei onnistunut.
+@2@35@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+OLE-ohjausobjektin tai automaatiopalvelimen palautusarvon (tietotyyppi liukuluku)
+muoto on virheellinen.
+OLE-ohjausobjekti tai automaatiopalvelin ei pysty k„sittelem„„n annettuja sy”tt”parametreja.
+Todenn„k”isesti jako nollalla tai ylivuoto aiheutti virheellisen palautusarvon.
+@2@36@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+OLE-ohjausobjektin tai automaatiopalvelimen palautusarvon (tietotyyppi Double)
+muoto on virheellinen.
+OLE-ohjausobjekti tai automaatiopalvelin ei pysty k„sittelem„„n annettuja sy”tt”parametreja.
+Todenn„k”isesti jako nollalla tai ylivuoto aiheutti virheellisen palautusarvon.
+@2@37@0@
+AboutBox-menetelm„n aktivointi t„lle OLE-ohjausobjektille ei onnistunut.
+
+GUID: %6
+@2@38@0@
+OLE-ohjausobjektin rekister”inti ei onnistunut.
+
+Polku: %2
+@2@39@0@
+OLE-ohjausobjektin tietojen lis„ys j„rjestelm„rekisteriin
+onnistui.
+
+Polku: %2
+@2@40@0@
+OLE-ohjausobjektin rekister”innin poistaminen ei onnistunut.
+
+Polku: %2
+@2@41@0@
+OLE-ohjausobjektin tietojen poisto j„rjestelm„rekisterist„
+onnistui.
+
+Polku: %2
+@2@42@0@
+OLE-ohjausobjektin lataus ei onnistunut.
+
+Polku: %2
+@2@44@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Jokin argumenteista ei ole sallittua VARIANT-tyyppi„.
+@2@45@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 kutsu ep„onnistui. %2 palautti seuraavan sanoman:
+%7
+@2@46@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Pyydetty„ j„sent„ ei ole, tai kutsu yritti m„„ritt„„
+vain luku -ominaisuuden arvon.
+@2@47@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 k„ynnistys ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+T„m„ IDispatch-toteutus ei tue nimettyj„ argumentteja.
+@2@48@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Jotakin argumenteista ei voitu pakottaa m„„ritettyyn tyyppiin
+tai kyseess„ oli ylivuoto.
+@2@49@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Jokin parametrin l„hetystunnuksista ei vastaa menetelm„n
+parametria.
+@2@50@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Jotakin argumenttia tai joitakin argumentteja ei voitu pakottaa.
+@2@51@0@
+T„m„ sanoma on C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Liittym„n tunnus riid:ss„ ei ole IID_NULL.
+@2@52@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Aktivoitava j„sen tulkitsee merkkijonon argumentit alueen
+tunnuksen (LCID) mukaan, eik„ LCID:t„ tunnisteta.
+@2@53@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti seuraavan
+sanoman:
+Pakollinen parametri oli j„tetty ottamatta huomioon.
+@2@54@0@
+T„m„ sanoma on C/AL-ohjelmoijille:
+
+J„senen %3 aktivointi ei onnistunut. OLE-ohjausobjekti tai automaatiopalvelin palautti tuntemattoman
+virhekoodin.
+@2@56@0@
+M„„ritetty„ liittym„„ ei l”ytynyt tyyppikirjastosta.
+@2@57@0@
+Valitun tyyppikirjaston lataus ei onnistunut.
+@2@58@0@
+Tyyppikirjastossa on useita liittymi„, joilla on m„„ritt„m„si nimi.
+Valitse oikea liittym„ napsauttamalla muokkausavustinpainiketta.
+@2@59@0@
+Tyyppikirjasto %7 n„ytt„„ olevan vioittunut.
+
+Ongelma saattaa ratketa, jos asennat asianomaisen sovelluksen uudelleen.
+@2@60@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Tyhj„n objektin m„„ritt„minen ei ole mahdollista.
+@2@61@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Virheellinen m„„ritys. Ei ole mahdollista m„„ritt„„ kohdetta %9 kohteelle %8.
+@2@62@0@
+OLE-ohjausobjektin (GUID: %6) k„„nt„minen ei onnistunut, koska sit„ ei ole rekister”ity oikein.
+
+Rekister”i OLE-ohjausobjekti valitsemalla Ty”kalut, Mukautetut ohjausobjektit, Selaa.
+@2@63@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Muuttuja on jo luotu.
+@2@64@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+T„t„ automaatiomuuttujaa ei ole vahvistettu.
+Voit vahvistaa sen joko luomalla tai m„„ritt„m„ll„.
+@2@65@0@
+Tm„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Merkkijono:
+"%7"
+on liian pitk„ k„ytett„v„ksi C/AL:ss„.
+@2@66@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+OLE-ohjausobjekti tai automaatiopalvelin, jonka 
+%3
+tunnisti, tarvitsee suunnitteluajan k„ytt”oikeuden. T„t„ k„ytt”oikeutta ei pystyt„ saamaan.
+Varmista, ett„ OLE-ohjausobjekti tai automaatiopalvelin on asennettu oikein ja oikealla k„ytt”oikeudella.
+@2@67@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The external component did not provide an IID_IStream or IID_ISequentialStream interface on the IUnknown interface.
+@2@68@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The variant is empty, so you cannot pass a value.
+@2@69@0@
+T„m„ viesti on C/AL -ohjelmoijille:
+
+An exception was raised in method %3. The OLE control or Automation server has returned error (HRESULT) %7.
+The component did not provide the exception description.
+@2@70@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+Could not convert from %11.20 to %10.20.
+The return value of parameter %7 in event trigger
+'%6' may be outside the permitted range for 
+the OLE control or Automation server.
+@2@71@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+Type conversion of %1 is not possible. %2 was probably the target type.
+@2@END@0@
+
+
+// OCX_Type ---------------------------------------------------
+
+@1@36@0@
+@2@1@0@
+Nimi %3 voidaan yhdist„„ %4 GUID:hen.
+C/SIDE on valinnut %6.
+@2@2@0@
+%3 ei ole tunnistettu GUID:ksi tai OLE-ohjausobjektin tai automaatiopalvelimen nimeksi.
+Tarkista, onko merkint„ kirjoitettu v„„rin.
+@2@7@0@
+%3 ei ole tunnistettu GUID:ksi tai automaatiopalvelimen nimeksi.
+Tarkista, onko merkint„ kirjoitettu v„„rin.
+@2@END@0@
+@1@165@0@
+@2@1@0@
+Kent„n numero on virheellinen. Kent„n numeron on oltava %1 - %2.
+@2@2@0@
+Objektin %3 versio on virheellinen.
+@2@3@0@
+V„„r„ datatyyppi palautettu kohteesta %4. Datatyypin tulisi olla Integer.
+@2@4@0@
+FIELDREF -muuttuja ei alustettu.
+@2@5@0@
+RECORDREF -muuttujaa ei alustettu.
+@2@6@0@
+KEYREF ei ole alustettu.
+@2@7@0@
+RECORDID -muuttujaa ei alustettu.
+@2@8@0@
+RECORDREF-muuttuja k„ytt„„ taulukkoa %1. Sit„ ei voi m„„ritt„„ taulukon %2 RECORD-muuttujalle.
+@2@9@0@
+Field index '%1' on alueen ulkopuolella (tulee olla %2 ja %3 v„lill„).
+@2@10@0@
+Key index '%1' on alueen ulkopuolella (tulee olla %2 ja %3 v„lill„).
+@2@11@0@
+Virheellinen taulukon k„sittely. Tietueen parametri„ ei ole alustettu oikein.
+@2@12@0@
+RECORDREF-muuttujaa ei ole suljettu. Sulje RECORDREF-muuttuja CLOSE-toiminnolla, ennen kuin avaat uuden taulukon.
+@2@13@0@
+Virheellinen kent„n tietotyyppi, kun ExtendedDatatype-ominaisuuden arvoksi on m„„ritetty %1.
+
+Kelvolliset tietotyypit ovat Integer, BigInteger ja Decimal.
+@2@14@0@
+RECORDREF-muuttuja k„ytt„„ taulukkoa %1. GET-funktiota ei voi k„ytt„„ taulukon %2 RecordID-tunnuksen kanssa.
+@2@15@0@
+Tietotyyppi "%20" ei kelpaa, kun Width-ominaisuus on asetettu.
+
+Kelvolliset tietotyypit ovat Text, Code, Integer, BigInteger ja Decimal.
+@2@50@0@
+Kentt„ryhm„n %1 nimi sis„lt„„ v„lily”ntej„.
+@2@51@0@
+Kentt„ryhm„t sis„lt„v„t useita m„„rityksi„, joiden tunnus on %1.
+@2@52@0@
+Kentt„ryhm„t sis„lt„v„t useita m„„rityksi„, joiden nimi on %1.
+@2@53@0@
+Kentt„ryhm„n nimi ei voi olla tyhj„.
+@2@54@0@
+Taulukon muutoksia ei voi k„sitell„, koska Microsoft Dynamics NAV -kehitysymp„rist” ei pysty muodostamaan yhteytt„ m„„ritettyyn Microsoft Dynamics NAV Server -instanssiin:
+
+Palvelimen nimi: %1
+Palvelininstanssi: %2
+Hallintaportti: %3
+
+Microsoft Dynamics NAV -kehitysymp„rist” havaitsee k„ynniss„ olevan palvelimen automaattisesti.
+
+Tarkista seuraavat:
+1. Microsoft Dynamics NAV Server on k„ynniss„.
+2. Hallintapalvelu on m„„ritetty.
+3. Jos kyseess„ on et„tietokone, sen palomuuri on avoin hallintaportille.
+4. Palvelu on k„ynniss„, ja siin„ on vain yksi vuokraaja.
+5. Microsoft Dynamics NAV -kehitysymp„rist”„ k„ytet„„n j„rjestelm„nvalvojatilassa.
+6. UAC ei ole k„yt”st„.
+@2@55@0@
+.fob-tiedoston objektit tuotiin, mutta ne sis„lt„v„t mallin muutoksia, joita ei voi synkronoida Microsoft Dynamics NAV Server -instanssin avulla.
+Anna j„rjestelm„nvalvojalle seuraavat tiedot:
+
+Palvelimen nimi: %1
+Palvelininstanssi: %2
+Hallintaportti: %3
+
+Microsoft Dynamics NAV -kehitysymp„rist” havaitsee k„ynniss„ olevan palvelimen automaattisesti.
+
+Tarkista seuraavat:
+1. Microsoft Dynamics NAV Server on k„ynniss„.
+2. Hallintapalvelu on m„„ritetty.
+3. Jos kyseess„ on et„tietokone, sen palomuuri on avoin hallintaportille.
+4. Microsoft Dynamics NAV -kehitysymp„rist”„ k„ytet„„n j„rjestelm„nvalvojatilassa.
+5. UAC ei ole k„yt”ss„.
+@2@56@0@
+Taulukon muutokset tallennettiin, mutta ne sis„lt„v„t mallin muutoksia, joita ei voi synkronoida tietokantaan Microsoft Dynamics NAV Server -instanssin avulla.
+Anna j„rjestelm„n p„„k„ytt„j„lle seuraavat tiedot:
+
+Palvelimen nimi: %1
+Palvelininstanssi: %2
+Hallintaportti: %3
+
+Microsoft Dynamics NAV -kehitysymp„rist” havaitsee k„ynniss„ olevan palvelimen automaattisesti.
+
+Tarkista seuraavat:
+1. Microsoft Dynamics NAV Server on k„ynniss„.
+2. Hallintapalvelu on m„„ritetty.
+3. Jos kyseess„ on et„tietokone, sen palomuuri on avoin hallintaportille.
+4. Microsoft Dynamics NAV -kehitysymp„rist”„ k„ytet„„n j„rjestelm„nvalvojatilassa.
+5. UAC ei ole k„yt”ss„.
+@2@57@0@
+Taulukon muutoksia ei voi k„sitell„, koska m„„ritetty Microsoft Dynamics NAV Server -instanssi ei pysty k„sittelem„„n pyynt”„:
+
+Palvelimen nimi: %1
+Palvelininstanssi: %2
+Hallintaportti: %3
+
+Tarkista seuraavat:
+1. Microsoft Dynamics NAV Server on k„ynniss„.
+2. Palvelininstanssissa on asennettuna vain yksi vuokraaja.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  FO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Form Object                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@81@0@
+@2@005@0@
+Objekti "%1" on k„„nnett„v„ ennen suoritusta.
+@2@101@0@
+Virheellinen tietotyyppi: "Expression", "MenuItem'. Sen pit„isi olla tyyppi„ Boolean.
+@2@102@0@
+Virheellinen tietotyyppi: "DataCaption". Sen pit„isi olla "Text".
+@2@103@0@
+Dataohjausobjekteilla on oltava lauseke.
+@2@104@0@
+Ominaisuutta "%10" on k„ytett„v„.
+@2@105@0@
+Virheellinen tietotyyppi: "%10". Sen pit„isi olla "Text".
+@2@120@0@
+T„m„ on invalid type of primary key for the autosplitkey facility. It should be Integer/BigInteger/Decimal/GUID.
+@2@121@0@
+Autosplitkey-toiminto ei l”yd„ avainta nykyisen ja edellisen tietueen v„lilt„.
+@2@130@0@
+M„„ritetty taulukko (%3) ei ole sama kuin lomakkeen k„ytt„m„ taulukko (%4).
+@2@131@0@
+Alilomaketta ei voi avata alilomakkeeseen.
+@2@132@0@
+Lomake on suoritettu. K„yt„ funktiota CLEAR(Form).
+@2@133@0@
+Lomake ei ole auki.
+@2@134@0@
+Lomaketta ei voi aktivoida.
+@2@135@0@
+Suoritettavaa objektia ei ole m„„ritetty (k„ytett„ess„ toimintoa "RunObject" my”s objekti on m„„ritett„v„).
+@2@136@0@
+Alilomaketta ei voi suorittaa.
+@2@137@0@
+Ominaisuus RunFormOnRec on sallittu vain, jos l„hdetaulukko ja kohdetaulukko ovat samat.
+T„ss„ tapauksessa l„hdetaulukko on %7 ja kohdetaulukko on %8.
+@2@138@0@
+Et voi suorittaa lomaketta sovelluspalvelimesta.
+
+Form: %2
+@2@200@0@
+Lomakeobjektin %1 versio on virheellinen.
+@2@400@0@
+%5 on virheellinen valikkotaso (MenuLevel) (tason on oltava 0 - 9).
+@2@401@0@
+Valikkotaso (MenuLevel) saa olla vain yhden ylempi kuin edellinen taso.
+
+T„ss„ tapauksessa uusi valikkotaso on "%5", kun taas vanha valikkotaso oli "%6".
+@2@402@0@
+Ohjausobjektin tunnusta %9 on k„ytetty.
+@2@403@0@
+Lomakkeen leveyden ja korkeuden on oltava 0 - 100 000 [1/100 mm].
+@2@404@0@
+Ensimm„isen valikkotason (MenuLevel) on oltava 0.
+@2@500@0@
+Ohjelmalle, johon viet kohteet, ei ole m„„ritetty oletustyylisivua. 
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@501@0@
+K„ynnistett„v„„ ohjelmaa ei ole m„„ritetty taulukossa %1. 
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@502@0@
+Ohjelman %2 parametrimerkkijono %1 ei kelpaa. 
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@503@0@
+Ohjelmaa %1 ei l”ydy tietokoneesta. 
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  RE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Report Object                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@71@0@
+@2@200@0@
+Virheellinen raporttiobjektin %1 versio.
+@2@203@0@
+Ominaisuus "%4" on m„„ritett„v„.
+@2@300@0@
+Raportissa %5 ei ole DataItem-kohdetta, joka k„ytt„„ funktiossa SetTableView m„„ritetty„ taulukkoa (%2).
+@2@301@0@
+Raportti on suoritettu. K„yt„ funktiota CLEAR(Report).
+@2@302@0@
+Ensimm„isen DataItem-kohteen on oltava DataItemIndent=0.
+@2@303@0@
+DataItem-kohteen ominaisuus DataItemIndent saa olla vain yhden suurempi kuin edellinen DataItem.
+@2@304@0@
+DataItem-kohdetta, jonka nimi on "%6", ei ole.
+@2@305@0@
+Ohjausobjektin tunnus %7 on jo k„yt”ss„.
+@2@306@0@
+Control-ominaisuuden DataSetFieldName-arvo %10 on jo k„yt”ss„.
+@2@307@0@
+DataItem-kohteen DataItemIndent-ominaisuus ei voi sis„lt„„ negatiivista arvoa.
+@2@308@0@
+DataItem-kohteen MaxIteration-ominaisuus ei voi sis„lt„„ negatiivista arvoa.
+@2@309@0@
+DataItems-polku ylitt„„ sallitun puskurin koon sis„kk„isten DataItems-tasojen vuoksi. Suunnittele tietojoukko uudelleen yksinkertaistamalla tietojoukkoa ja v„hent„m„ll„ sis„kk„isi„ DataItems-tasoja.
+@2@310@0@
+Kaikilla rakenteen DataItems-nimikkeill„ on oltava nimi, kun raportissa on Wordin asettelu.
+@2@311@0@
+Raporttiin on luotu tyhj„ Wordin asettelu, jossa on XML-osa nykyist„ tietojoukkoa varten.
+@2@312@0@
+WordMergeDataItem-ominaisuuden arvoksi on asetettu DataItem %6. Vain tietokohteet, joilla DataItemIndent=0, voidaan m„„ritt„„ WordMergeDataItem-ominaisuuteen.
+@2@313@0@
+WordMergeDataItem-ominaisuuden arvoksi on asetettu DataItem %6, jota ei ole.
+@2@400@0@
+Voit lis„t„ vain %3 FlowField-kentt„„.
+@2@402@0@
+Raporttia, jonka ominaisuuden "ProcessingOnly" arvoksi on m„„ritetty ###"Yes", ei voi tulostaa.
+@2@403@0@
+Kutsuttua funktiota voidaan kutsua vain DataItem-k„ynnistimest„.
+@2@404@0@
+Kutsuttua funktiota voidaan kutsua vain Section-k„ynnistimest„.
+@2@405@0@
+Kutsuttua funktiota voidaan kutsua vain DataItem- tai Section-k„ynnistimest„.
+@2@406@0@
+TotalFields-ominaisuudella m„„ritettyjen kenttien tyypin on oltava desimaali. Taulukon %1.1 kentt„ %2.1 ei ole desimaalikentt„.
+@2@502@0@
+Osan leveys ei saa olla pienempi kuin kaikkien osien ohjausobjekteja ymp„r”iv„t rajat.
+@2@503@0@
+Osan korkeus ei voi olla pienempi kuin osan ohjausobjekteja ymp„r”iv„t rajat.
+@2@600@0@
+T„t„ raporttia ei voi tulostaa esikatselusta. Poistu esikatselusta ja suorita raportti.
+@2@601@0@
+Tulostimen, paperikoon tai tulostussuunnan muuttaminen on vaikuttanut tulostettavan alueen kokoon.
+T„m„ saattaa vaikuttaa raportin ulkoasuun.
+
+Haluatko tulostaa?
+@2@602@0@
+Esikatselusta ei voi tulostaa, ennen kuin raportin luonti on p„„ttynyt.
+@2@603@0@
+Et voi suorittaa Microsoft Dynamics NAV -ohjelman Application Serveriss„ raportteja, jotka sis„lt„v„t pyynt”lomakkeita.
+@2@604@0@
+Pyynt”lomakkeen ja pyynt”sivun l„hdetaulukoiden on oltava samat.
+@2@700@0@
+Ep„kelpo raportti XML pyynt”
+@2@701@0@
+Tuotavien asettelujen (RDLC-tiedostojen) enimm„iskoko on %8 tavua.
+@2@703@0@
+Sis„inen virhe: %1
+@2@704@0@
+Microsoft.Dynamics.Nav.DotNetBridge.dll:„„ ei voi vahvistaa.
+@2@705@0@
+RDLC-tiedosto ei ole oikein muodostettu XML-asiakirja.
+
+Yksityiskohtainen kuvaus: %9
+@2@706@0@
+Raporttia ei voi avata muokkaamista varten. 
+
+Yksityiskohtainen kuvaus: %9
+@2@707@0@
+Raporttiasettelun hakemistoa ei voi kopioida. 
+
+Yksityiskohtainen kuvaus: %9
+@2@708@0@
+Asettelua ei voi muokata Report Designerissa. 
+
+Yksityiskohtainen kuvaus: %9
+@2@709@0@
+M„„ritetyt metatiedot eiv„t kelpaa.
+@2@710@0@
+Tietojoukkoa ei voi luoda m„„ritetyill„ metatiedoilla.
+@2@711@0@
+Tilap„isen raporttikansion tyhjent„minen ep„onnistui.
+@2@712@0@
+RDLC-tiedostoa ei voi tarkistaa sen mallin avulla. Toiminto ep„onnistui.
+@2@713@0@
+RDLC-tiedoston muoto on v„„r„.
+@2@714@0@
+Raporttiratkaisun nykyist„ tilap„ist„ kansiota ei voitu tyhjent„„.
+@2@715@0@
+Virhe luotaessa uutta tilap„ist„ tiedostoa.
+@2@716@0@
+Virhe poistettaessa tilap„ist„ tiedostoa.
+@2@717@0@
+Pyynt”lomaketta ei voitu muuntaa: %9
+@2@718@0@
+Virhe muodostettaessa yhteytt„ Microsoft.Dynamics.Nav.DotNetBridge.dll:„„n.
+@2@719@0@
+Virhe pyynt”lomaketta muunnettaessa.
+@2@720@0@
+Raportti ei sis„ll„ ohjausobjekteja, eik„ sit„ voi muuntaa.
+@2@721@0@
+Virhe RDL-sis„lt”„ tarkistettaessa:
+%9
+@2@722@0@
+Virhe avattaessa Report Designeria. Visual Studion tuettua versiota ei l”ydy.
+@2@723@0@
+ProcessingOnly-tilassa olevat raportit eiv„t voi sis„lt„„ asettelua, kuten RDL-tieto-osaa.
+@2@724@0@
+T„m„ raportti viittaa kentt„„n, jota ei ole tietojoukossa.%9
+Voit luoda tietojoukon uudelleen avaamalla raportin asettelun, tallentamalla sen ja k„„nt„m„ll„ raportin uudelleen kohteessa C/SIDE.
+@2@725@0@
+Raportin RDLC-kuva '%9' on m„„ritetty ulkoiseksi. EnableExternalImages-ominaisuutta ei ole m„„ritetty.
+@2@726@0@
+Raportin RDLC-ohjausobjekti '%9' sis„lt„„ ulkoisen linkin. EnableHyperlinks-ominaisuutta ei ole m„„ritetty.
+@2@727@0@
+Raportti RDLC %9 sis„lt„„ ulkoisen linkin. EnableHyperlinks-ominaisuutta ei ole m„„ritetty.
+@2@728@0@
+Raporttiasettelun hakemistoa ei l”ytynyt: %9
+@2@729@0@
+Microsoft Dynamics NAV -kehitysymp„rist”n ja Report Designerin on k„ytett„v„ samoja oikeuksia: %9
+@2@730@0@
+Raporttiasettelu on parhaillaan avoinna Report Designerissa. Report Designer -ikkuna on suljettava ennen raporttiobjektin sulkemista.
+@2@731@0@
+DataSet-raporttia ei voi suorittaa ilman asettelua.
+@2@732@0@
+Oletus-RDL:n nouto ei onnistunut: %9
+@2@733@0@
+Raporttiasettelu on jo avoinna Report Designerissa.
+@2@734@0@
+Raportti sis„lt„„ viittauksen ulkoiseen kokoonpanoon. Ota raporttiobjektille k„ytt””n EnableExternalAssemblies-ominaisuus tai poista asettelusta viittaus ulkoiseen kokoonpanoon.
+@2@735@0@
+Tiedosto, jota olet tuomassa, ei perustu RDL 2010 -malliin. Se on p„ivitett„v„ RDL 2010 -mallin mukaiseksi.
+@2@736@0@
+Raporttia ei tueta. Se on p„ivitett„v„, ennen kuin sit„ voi muokata tai tarkastella.
+@2@737@0@
+ProcessingOnly-raportit eiv„t saa sis„lt„„ Word-asettelua.
+@2@738@0@
+Raporttien p„ivitt„minen edellytt„„, ett„ Microsoft SQL Server 2014 Report Builder 3.0 on asennettu.
+@2@739@0@
+Microsoft SQL Server 2014 Report Builder 3.0:aa ei voitu alustaa: %9
+Varmista, ett„ Report Builder 3.0 on asennettu oikein.
+@2@740@0@
+RDL:„„ ei voitu p„ivitt„„, %1.
+%9
+@2@741@0@
+RDL:„„ ei voitu luoda, %1.
+%9
+@2@742@0@
+%1 on k„„nnett„v„, ennen kuin sen voi p„ivitt„„
+@2@743@0@
+Raportin RDLC-tiedoston %9 BackgroundImage on m„„ritetty ulkoiseksi. EnableExternalImages-ominaisuutta ei ole m„„ritetty.
+@2@744@0@
+Virhe avattaessa Report Designeria. Report Builderin tuettua versiota ei l”ydy.
+@2@745@0@
+DefaultLayout-arvoksi on asetettu Word, mutta raportille ei ole m„„ritetty Word-asettelua.
+@2@800@0@
+Ensimm„isen rivin on oltava DataItem.
+@2@801@0@
+Ensimm„isen rivin sisennyksen pit„„ olla 0.
+@2@802@0@
+P„„kohteen on oltava DataItem.
+@2@804@0@
+Nimi-arvon tulee olla yksil”iv„. Toinen sarake tai tunnus on jo olemassa nimell„ "%6".
+@2@805@0@
+Tietol„hde tai SourceExpr ei voi olla tyhj„.
+@2@807@0@
+Tunnus-arvon tulee olla yksil”iv„. Toinen tietokohde, sarake tai tunnus on jo olemassa tunnuksella "%7".
+@2@808@0@
+Tietol„hde tai l„hdetaulukko ei voi olla tyhj„.
+@2@809@0@
+Nimi "%6" sis„lt„„ v„hint„„n yhden merkin, jota ei voi k„ytt„„, koska se ei vastaa Common Language Specification -m„„rityst„. Ensimm„isen merkin on oltava kirjain. Seuraavat merkit voivat olla mik„ tahansa kirjaimien, kokonaislukujen ja alaviivojen yhdistelm„. 
+@2@810@0@
+%11 ei ole voimassa oleva saraketyyppi.
+@2@812@0@
+DataItems-kohteen suurin mahdollinen sisennystaso on %12.
+@2@813@0@
+Nimi-kentt„ "%6" on liian pitk„.
+
+Nimi-kent„n enimm„ispituus on %13 merkki„.
+@2@814@0@
+Sarake on m„„ritetty sis„lt„m„„n otsikko, mutta sill„ ei ole l„hdett„, joka on nimetty kentt„. Sarakkeen otsikon voi luoda otsikon suunnittelusovelluksen avulla.
+@2@816@0@
+ParentDataItem ei osoita kelvolliseen tietokohteeseen.
+@2@817@0@
+ParentColumn ei osoita kelvolliseen sarakkeeseen.
+@2@818@0@
+Wordin asettelutiedosto on tyhj„.
+@2@819@0@
+Wordin asettelutiedosto on liian suuri.
+@2@820@0@
+Wordin asettelutiedosto on muotoiltu v„„rin. Tiedostoa ei voi lukea.
+@2@821@0@
+Raportin nykyiseen rakenteeseen ei voi luoda uutta tyhj„„ Wordin asettelutiedostoa.
+@2@822@0@
+Wordin asettelutiedoston tietojen kytkent„„ ei voi nimet„ uudelleen eik„ p„ivitt„„.
+@2@823@0@
+Wordin asettelutiedosto ep„onnistui seuraavan virheen vuoksi:
+
+%9
+@2@824@0@
+Word-asetteluasiakirjan tarkistus ep„onnistui, ja kohdattiin seuraava virhe:
+
+%9
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	AB  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Base                                                        ³
+// ³                                                                          ³
+// ³  NOTE: Message 1004 is intended for use in the event viewer,             ³
+// ³        message 1005 for use in the console.                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@205@0@
+@2@100@0@
+M„„rit„, mihin palvelimeen ja/tai tietokantaan muodostetaan yhteys, kun Microsoft Dynamics NAV -ohjelman Application Server k„ynnistet„„n.
+
+Installation and System Management -opas sis„lt„„ oikeiden ohjelmaominaisuuksien luettelon.
+@2@101@0@
+M„„rit„, mihin SQL Serveriin ja tietokantaan muodostetaan yhteys, kun Microsoft Dynamics NAV -ohjelman Application Server k„ynnistet„„n.
+
+Installation and System Management -opas sis„lt„„ oikeiden ohjelmaominaisuuksien luettelon.
+@2@102@0@
+M„„rit„, mik„ yritys avataan, kun Microsoft Dynamics NAV -ohjelman Application Server k„ynnistet„„n.
+
+Installation and System Management -opas sis„lt„„ oikeiden ohjelmaominaisuuksien luettelon.
+@2@103@0@
+M„„rit„ parametri koodiyksik”n 1 k„ynnistimelle 99. K„ynnistin suoritetaan, kun k„ynnist„t Microsoft Dynamics NAV -ohjelman Application Serverin.
+
+Installation and System Management -opas sis„lt„„ oikeiden ohjelmaominaisuuksien luettelon.
+@2@110@0@
+K„ynnistin 99 koodiyksik”ss„ 1 ei ole olemassa. 
+
+T„m„ k„ynnistin t„ytyy ajaa, jotta voidaan muodostaa yhteys Viestiv„yl„„n.
+@2@120@0@
+Ohjelma ei saanut suljettua Microsoft Dynamics NAV -ohjelman Application Serveri„.
+@2@121@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Serveri„ ei voitu alustaa oikein.
+Palvelin yritt„„ alustusta %2 sekunnin v„lein, kunnes se onnistuu.
+
+@2@122@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Server sammutetaan.
+Sovellusta ei voitu muuttaa seuraavaan kokoonpanoon:
+  Palvelimen nimi = %2
+  Tietokanta = %3
+  Yritys = %4
+  K„ynnistysparametri = %5
+@2@130@0@
+T„ss„ tietokoneessa on %2 suoritinta. K„ytt”oikeutesi riitt„v„t Microsoft Dynamics NAV -ohjelman VIP Application Serverin k„ytt„miseen tietokoneessa, jossa on %1 prosessoria.
+@2@200@0@
+Kohdetta "%1" ei l”ytynyt.
+@2@201@0@
+URL liian pitk„:
+"%1%2..."
+@2@202@0@
+T„m„ ei ole Microsoft Dynamics NAV -kehitysymp„rist”n linkki
+"%1".
+@2@203@0@
+Linkin konteksti ei vastaa nykyist„ Microsoft Dynamics NAV -kehitysymp„rist”n kontekstia.
+URL-konteksti:
+  Palvelimen nimi = %1
+  Tietokanta  = %2
+  Yritys = %3
+  Palvelintyyppi = %4
+Nykyinen konteksti:
+  Palvelimen nimi = %5
+  Tietokanta = %6
+  Yritys = %7
+  Palvelintyyppi = %8
+@2@204@0@
+Navision-protokollaa ei voi k„ytt„„ lomakkeiden suorittamiseen.
+@2@300@0@
+Microsoft Dynamics NAV -kehitysymp„rist”„ ei tueta t„ss„ k„ytt”j„rjestelm„ss„.
+@2@1000@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Server asennettiin palveluksi.
+
+@2@1001@0@
+Olemassa olevan palvelun, Microsoft Dynamics NAV %1 -ohjelman Application Serverin, asennus poistettiin.
+
+@2@1003@0@
+Application Server for Microsoft Dynamics NAV version 8.00 (Build 38206)
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+@2@1004@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Server k„ynnistyi seuraavalla kokoonpanolla:
+  Tietokantapalvelimen nimi = %2
+  Tietokanta = %3
+  Yritys = %4
+  K„ynnistysparametri = %5
+@2@1005@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Server k„ynnistyi seuraavalla kokoonpanolla:
+  Tietokantapalvelimen nimi = %2
+  Tietokanta = %3
+  Yritys = %4
+  K„ynnistysparametri = %5
+  
+Sulje Microsoft Dynamics NAV %1 -ohjelman Application Server painamalla ESC-n„pp„int„.
+
+@2@1006@0@
+Edelliset %1 raportoitua tapahtumaa olivat identtiset.
+
+Jotta viestienkirjaamisj„rjestelm„ ei ylit„yttisi, identtisi„ tapahtumia ei tulla kirjaamaan ennen kuin tulee erinlainen tapahtuma.
+@2@1007@0@
+Microsoft Dynamics NAV -ohjelman Application Server sammutetaan, kun nykyinen pyynt” on k„sitelty.
+
+@2@1020@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Server suljettiin.
+
+@2@1021@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Server palautui k„ytt„en seuraavaa kokoonpanoa ja on nyt t„ydess„ toimintakunnossa.
+  Tietokantapalvelimen nimi = %2
+  Tietokanta = %3
+  Yritys = %4
+  K„ynnistysparametri = %5
+@2@1022@0@
+K„sitell„„n Microsoft Dynamics NAV %1 -ohjelman Application Serverin uudelleenm„„ritt„mispyynt”„ ...
+
+@2@1023@0@
+Microsoft Dynamics NAV %1 -ohjelman Application Serverin kokoonpano muutettiin seuraavanlaiseksi:
+  Tietokantapalvelimen nimi = %2
+  Tietokanta = %3
+  Yritys = %4
+  K„ynnistysparametri = %5
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´	DS -> AB ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Texts moved from DS to AB             						                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@1@0@
+Ohjelman ominaisuus '%1' on tuntematon.
+
+Manuaali Installation and System Management sis„lt„„ luettelon oikeista ominaisuuksista.
+@2@2@0@
+Ohjelmiston ominaisuudelle '%1' tulee m„„ritell„ arvo.
+
+Installation and System Management -manuaali sis„lt„„ oikeat ohjelmiston ominaisuudet.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	DS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Development System						      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@20@0@
+Koodi: "%1" -> J„lleenmyyj„ -> Jakelija -> Valmistaja -> Salasana: "%2".
+
+Ota yhteytt„ j„lleenmyyj„„n ja anna edell„ mainittu koodi. Saat sen j„lkeen salasanan, jota voidaan k„ytt„„ vain kerran.
+
+T„rke„„! L poistu sis„„nkirjautumisikkunasta ennen salasanan sy”tt„mist„. Seuraavassa yrityksess„ tarvitaan eri salasana.
+@2@21@0@
+Virheellinen salasana.
+@2@80@0@
+Looginen nimi %1 on jo olemassa. M„„rit„ ainutkertaiset loogisten tietojen ja tapahtumalokitiedostojen nimet.
+@2@81@0@
+Tietokannasta ei voi poistaa ensisijaisia tietoja %1 tai tapahtumalokitiedostoa.
+@2@83@0@
+Lisenssitiedostoa ei ole ladattu.
+@2@84@0@
+Kaikille tiedoille ja tapahtumalokitiedostoille on m„„ritett„v„ looginen nimi.
+@2@85@0@
+Tietokannalle on m„„ritett„v„ lajittelukuvaus Lajittelu-v„lilehdess„.
+@2@110@0@
+Tuntematon Windows-k„ytt„j„.
+@2@111@0@
+K„ytt„j„ on jo olemassa.
+@2@120@0@
+Lisenssitiedostosi ei salli User Portal -sovelluspalvelimen ajamista. Ota yhteytt„ j„rjestelm„valvojaan.
+@2@121@0@
+User Portalin sovelluspalvelin ei voi kohdentaa turvallisuuskuvaajaa nimetylle putkelle.
+@2@122@0@
+User Portalin sovelluspalvelin ei voi alustaa turvallisuuskuvaajaa nimetylle putkelle.
+@2@123@0@
+User Portalin sovelluspalvelin ei voi asettaa turvallisuus kuvaajaa nimetylle putkelle.
+@2@124@0@
+User Portalin sovelluspalvelin ei voi luoda nimetty„ putkea.
+@2@125@0@
+User Portal Application Server ei voi henkil”id„ nimetty„ putken k„ytt„j„„.
+@2@126@0@
+User Portal Application Server ei voi palautua nimetyn putken k„ytt„j„n tekeytymisest„.
+@2@130@0@
+P„ivitys keskeytet„„n nyt.
+
+P„ivitystunnuksen "%1" p„ivitystiedosto ei kelpaa, tai olet peruuttanut p„ivityksen.
+@2@131@0@
+P„ivityksen (tunnus %1) asennus ep„onnistui. P„ivitys keskeytet„„n.
+@2@132@0@
+Tietokannan varmuuskopiota ei voitu luoda. P„ivitys pys„ytet„„n, sill„ et voi asentaa p„ivityst„, ennen kuin tietokannan varmuuskopiointi on onnistunut.
+
+Luo varmuuskopio ja asenna p„ivitys k„ynnist„m„ll„ Microsoft Dynamics NAV -kehitysymp„rist” uudelleen.
+@2@301@0@
+Copyright (c) Microsoft Corporation. Kaikki oikeudet pid„tet„„n.
+@2@400@0@
+Olet aktivoimassa linkki„ ensimm„ist„ kertaa seuraavaan kohteeseen:
+
+Palvelin: %1
+Tietokanta: %2
+
+Kohteessa k„ytet„„n mahdollisesti ohjelmakoodia, joka saattaa vahingoittaa 
+tietokonettasi.
+
+Pid„tk” kohdetta luotettavana?
+@2@600@0@
+Microsoft Dynamics NAV -kehitysymp„rist”n asiakasohjelma avattiin komponentista, johon ei luoteta.
+
+Ota yhteytt„ j„rjestelm„nvalvojaan.
+@2@701@0@
+Tietokannalle ei ole k„ytett„viss„ instansseja %1. Varmista, ett„ instanssi %1 on k„ynniss„ ja ett„ se on m„„ritetty k„ytt„m„„n tietokantaa, ennen kuin suoritat t„m„n toiminnon.
+@2@702@0@
+M„„rit„ Azure-instanssin Palvelininstanssi-ominaisuus, ennen kuin suoritat t„m„n toiminnon. Tee t„m„ valitsemalla Ty”kalut-valikosta Asetukset.
+@2@703@0@
+Instanssin URL on sy”tett„v„ muodossa <palvelimennimi>:<portti>/<palvelininstanssi>. Tee t„m„ valitsemalla Ty”kalut-valikosta Asetukset.
+@2@800@0@
+Komento "%1" ei ole kelvollinen.
+@2@801@0@
+Komennolle "%1" on m„„ritett„v„ parametri "%22".
+@2@802@0@
+Parametri "%1" ei ole kelvollinen.
+@2@803@0@
+Tiedostolla "%1" pit„„ olla tiedoston p„„te .fob tai .txt.
+@2@804@0@
+Suodatin "%1" on m„„ritett„v„ seuraavalla tavalla: field1=lauseke; ... fieldn=lauseke.
+@2@805@0@
+Parametrin "%1" pit„„ olla m„„ritettyn„ ja sen arvon pit„„ olla "Ei", jos haluat k„ytt„„ parametreja "%13" ja "%22".
+@2@806@0@
+Parametri "%1" on m„„ritett„v„, jos parametrin "%22" arvo on "Ei".
+@2@807@0@
+Tietokantap„ivityksen esianalysoinnissa on tapahtunut virhe. 
+
+Korjaa Microsoft Dynamics NAV 2013 -kehitysymp„rist”n avulla virheluettelossa n„kyv„t virheet ennen p„ivityksen jatkamista.
+@2@808@0@
+.fob-tiedostoa ei voi tuoda. Raportti (tunnus %2) on muunnettava tietojoukkoraportiksi, ennen kuin sen voi tuoda.
+
+Muunna raportti Microsoft Dynamics NAV 2013 -kehitysymp„rist”n avulla, ennen kuin tuot sen uudelleen.
+@2@809@0@
+Raportti %1 ei ole tietojoukkoraportti.
+@2@810@0@
+XMLport-tunnusta %2 ei voi k„„nt„„ p„ivityksen j„lkeen.
+@2@900@0@
+Palvelinsovellusobjektien luonti onnistui.
+@2@901@0@
+Palvelinsovellusobjektit luotiin, ja joissakin objekteissa oli virheit„. Voit tarkastella kaikki virheit„ virheluettelossa.
+@2@902@0@
+K„ynniss„ ei ole t„ll„ hetkell„ yht„„n tietojen p„ivitysprosessia.
+@2@903@0@
+Et voi jatkaa tietojen p„ivitysprosessia, koska nykyist„ prosessia ei ole keskeytetty.
+@2@904@0@
+Tietojen p„ivitys on meneill„„n. Pys„yt„ nykyinen prosessi ennen uuden aloittamista.
+@2@1000@0@
+Synkronointia edellytt„vi„ taulukkojen muutoksia ei ole.
+@2@1001@0@
+Microsoft Dynamics NAV Server tarkistaa kaikki taulukkojen muutokset ottamatta niit„ k„ytt””n vastaavissa SQL-taulukoissa. Jos tarkistustoiminto havaitsee, ett„ joitakin muutoksia ei voi ottaa k„ytt””n poistamatta tietoja niist„ kentist„ tai taulukoista, joihin muutos vaikuttaa, n„ytt””n tulee virhesanoma. 
+
+Jos et halua jatkaa, taulukon muutokset j„„v„t synkronoimatta, eiv„tk„ k„ytt„j„t voi k„sitell„ niit„. Muuttuneiden taulukoiden m„„r„n ja koon mukaan toimintoon saattaa kulua useita minuutteja.   
+
+Haluatko jatkaa?
+@2@1002@0@
+Microsoft Dynamics NAV Server tarkistaa kaikki taulukkojen muutokset ja synkronoi ne vastaaviin SQL-taulukkoihin. Jos tarkistustoiminto havaitsee, ett„ joitakin muutoksia ei voi ottaa k„ytt””n poistamatta tietoja niist„ kentist„ tai taulukoista, joihin muutos vaikuttaa, n„ytt””n tulee virhesanoma eik„ palvelinohjelma synkronoi mit„„n muutoksia. 
+
+Jos et halua jatkaa, taulukon muutokset j„„v„t synkronoimatta, eiv„tk„ k„ytt„j„t voi k„sitell„ niit„. Muuttuneiden taulukoiden m„„r„n ja koon mukaan toimintoon saattaa kulua useita minuutteja tai jopa useita tunteja.   
+
+Haluatko jatkaa?
+@2@1003@0@
+Microsoft Dynamics NAV Server pakottaa kaikkien taulukkojen muutosten synkronoinnin vastaaviin SQL-taulukkoihin. Se ei tarkista muutoksia, joten synkronoinnin aikana palvelinohjelma saattaa poistaa tietoja kentist„ tai taulukoista, joihin muutos vaikuttaa. 
+
+Jos et halua jatkaa, taulukon muutokset j„„v„t synkronoimatta, eiv„tk„ k„ytt„j„t voi k„sitell„ niit„. Muuttuneiden taulukoiden m„„r„n ja koon mukaan toimintoon saattaa kulua useita minuutteja tai jopa useita tunteja.   
+
+Haluatko jatkaa?
+@2@1004@0@
+All table schema changes validated correctly. You can synchronize changes with no risk of deleting data.
+@2@1005@0@
+All table schema changes synchronized with force.
+@2@END@0@
+// Module XMLPort
+
+@1@210@0@
+@2@1@0@
+Virheellinen XMLport-objektin versio: %1.
+@2@2@0@
+Virheellinen XMLport-objektin MagicNo-arvo: %1.
+@2@3@0@
+Objekti %1 on k„„nnett„v„ ennen suoritusta.
+@2@8@0@
+Kohteen %13 koodaamista ei tueta.
+@2@9@0@
+Tunnuksen "%6" tunnusnumeroa %12 on k„ytetty rivill„ %7. Tunnusnumeron on oltava yksil”iv„.
+@2@10@0@
+P„„elementin sisennyksen on oltava 0.
+@2@11@0@
+Tunnisteen %6 ja sen p„„kohteen v„linen sisennysero on suurempi kuin 1.
+@2@12@0@
+SourceExpr-tietotyyppi„ %10 ei voi selvitt„„ merkkijonoksi.
+@2@13@0@
+Taulukkoa %5 ei ole.
+@2@14@0@
+Kentt„„ ei ole m„„ritetty kelvolliseen TableVariableName-arvoon.
+@2@15@0@
+M„„ritetyn taulukon nimen %14 on oltava sama kuin p„„taulukon nimi %5.
+@2@16@0@
+Nimitilan etuliite %16 on jo m„„ritetty.
+@2@17@0@
+Sanaa "%24" odotetaan kohteen %21 sijainnissa %23.
+@2@18@0@
+"%24" on varattu sana kohteen %21 sijainnissa %23.
+@2@19@0@
+Virheellinen nimitilan aloitusmerkki.
+%21
+@2@20@0@
+Virheellinen nimitilan merkki sijainnissa %22.
+%21
+@2@21@0@
+Lainausmerkit eiv„t vastaa toisiaan kohteen %23 sijainnissa %22.
+%21
+@2@22@0@
+Lainausmerkki puuttuu sijainnissa %22 kohteessa %23.
+%21
+@2@23@0@
+Merkki ":" puuttuu kohteesta %23.
+%21
+@2@24@0@
+Merkki "=" puuttuu kohteesta %23.
+%21
+@2@25@0@
+Kohteessa %21 ei voi olla heittomerkki„ (').
+Teksti on kirjoitettu heittomerkkeihin.
+@2@26@0@
+Kohteessa %21 ei voi olla lainausmerkki„ (").
+Teksti on kirjoitettu lainausmerkkeihin.
+@2@27@0@
+Kohdepuskurin koko on liian pieni.
+@2@28@0@
+Vasen sulje "(" puuttuu kohteen %21 sijainnista %22.
+@2@29@0@
+Oikea sulje ")" puuttuu kohteen %21 sijainnista %22.
+@2@30@0@
+Kentt„ %15 ei ole kelvollinen taulukon %14 kentt„.
+@2@31@0@
+Nimitilan etuliitett„ %16 ei ole m„„ritetty.
+@2@32@0@
+Min Occurs -arvo voi olla vain 0 tai 1.
+Arvo %26.
+@2@33@0@
+Max Occurs -arvon on oltava suurempi kuin 1.
+Arvo %25.
+@2@34@0@
+Kent„n Max Occurs -arvo voi olla vain 0 tai 1.
+Arvo %25.
+@2@35@0@
+Tunnisteen <%6> SourceType-taulukko voidaan m„„ritt„„ vain TagType-elementtiin.
+@2@36@0@
+L„hdetaulukkoa ei ole m„„ritetty tunnisteelle <%6>.
+@2@37@0@
+XML TagName -arvoa ei ole m„„ritetty.
+@2@38@0@
+M„„ritteen "%6" on oltava sisennetty p„„elementin alle.
+@2@39@0@
+M„„ritteen "%6" sisennyksen on oltava sama kuin edellisell„ m„„ritteell„.
+@2@40@0@
+Sisennyksen on oltava 0 - %7.
+@2@41@0@
+Vain p„„elementin sisennys voi olla 0.
+@2@42@0@
+Tietol„hdett„ (DataSource) ei ole m„„ritetty tunnisteelle <%6>
+@2@43@0@
+Taulukkotietol„hde (Table DataSource) on m„„ritett„v„ ennen kentt„tietol„hteen (Field DataSource) valitsemista.
+@2@44@0@
+Tunnisteen nimi ei kelpaa.
+@2@45@0@
+XML-tunnisteen nimi ei voi sis„lt„„ v„lily”ntej„.
+@2@46@0@
+Tunnisteella <%6> on k„yt”ss„ sek„ AutoReplace- ett„ AutoUpdate-ominaisuudet. Poista molemmat ominaisuudet k„yt”st„ tai valitse joko AutoUpdate tai AutoReplace.
+@2@51@0@
+Elementti„ <%6> ei l”ydy objektin kuvauksesta.
+@2@52@0@
+Alielementin poistaminen ep„onnistui.
+@2@53@0@
+Nimitilaa %17 ei ole m„„ritetty objektissa.
+@2@54@0@
+Tietoristiriita taulukon %14 LinkTable- ja LinkFields-asetuksissa.
+@2@55@0@
+XML-j„sennin palautti seuraavan virheen:
+%21
+@2@56@0@
+XML-j„sennin palautti seuraavan vakavan virheen:
+%21
+@2@57@0@
+XML-j„sentimen asennus ep„onnistui.
+%21
+@2@58@0@
+M„„rite <%6> on kielletty objektin kuvauksessa.
+@2@59@0@
+M„„rite <%21> on pakollinen, eik„ se vastaa m„„ritett„ <%6>.
+@2@60@0@
+Elementti <%6> esiintyi monta kertaa.
+@2@61@0@
+Seuraava Min Occurs -arvo odotti elementti„ <%21>: %26.
+Vastaanotettu elementti: <%6>. 
+@2@62@0@
+Elementti„ <%6> ei odotettu.
+@2@63@0@
+M„„ritett„ <%6> ei odotettu.
+@2@64@0@
+Tuntematon l„hdetyyppi elementille <%6>.
+@2@65@0@
+XMLport-kohteella %4 ei ole XMLItem-kohdetta, joka k„ytt„„ funktiossa SetTableView m„„ritetty„ taulukkoa (%2).
+@2@66@0@
+Arvon "%21" pituus %27 on suurempi kuin kohdetyypin enimm„ispituus, joka on %20.
+@2@67@0@
+XMLport "%4" on tarkoitettu vain vienti„ varten.
+@2@68@0@
+XMLport "%4" on tarkoitettu vain tuontia varten.
+@2@69@0@
+Alielementtej„ ei tueta t„ss„ yhteydess„.
+@2@70@0@
+Jos elementin l„hdetyyppi on Taulukko, elementill„ ei voi olla Taulukko-elementin alikohteita.
+@2@71@0@
+Jos juurielementin l„hdetyyppi on Teksti, muiden elementtien l„hdetyypin on oltava Taulukko.
+@2@72@0@
+Jos valitset XMLport-muodon Fixed Text, kaikkien Kentt„- ja Teksti-elementtien Width-ominaisuuden on oltava suurempi kuin 0.
+@2@73@0@
+Jos elementin l„hdetyyppi on Taulukko, elementill„ ei voi olla alikohteiden alikohteita.
+@2@74@0@
+Jos valitset XMLport-muodon Fixed Text tai Variable Text, juurielementin l„hdetyypin on oltava Teksti.
+@2@75@0@
+Elementin MinOccurs-arvon on oltava suurempi kuin nolla, jos UseLax otetaan k„ytt””n.
+@2@76@0@
+Elementill„ <%6> on odottamaton alielementti.
+@2@77@0@
+Unbound-ominaisuuden voi m„„ritt„„ vain XMLPort-kohteen viimeisess„ solmussa.
+@2@END@0@
+// Module MenuSuite
+
+@1@220@0@
+@2@1@0@
+Kohdepuskurin koko on liian pieni.
+@2@200@0@
+T„m„ on virheellinen raporttiobjektin %1 MenuSuite-kohde.
+@2@201@0@
+Virheellinen MenuSuite-objektin MagicNo-arvo: %1.
+@2@202@0@
+Classic-k„ytt”liittym„n MenuSuite tukee seuraavia tyyppej„:
+
+Taulukko, Lomake, Raportti, Dataportti ja Koodiyksikk”.
+@2@203@0@
+Roolipohjaisen k„ytt”liittym„n MenuSuite tukee seuraavia tyyppej„:
+
+Taulukko, Raportti, Koodiyksikk”, XMLport ja Sivu.
+@2@204@0@
+Roolipohjaisen k„ytt”liittym„n MenuItem-kohteella %1 on oltava osastoluokka.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  Page  ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Module Page                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@214@0@
+@2@10@0@
+Sisennyksen on oltava 0 - %4.
+@2@11@0@
+S„il”n sisennyksen on oltava 0.
+@2@12@0@
+Ensimm„isen ohjausobjektin on oltava s„il”.
+@2@13@0@
+Ohjausobjektin %6 ja sen p„„kohteen sisennyseron on oltava suurempi kuin 1.
+@2@14@0@
+Ohjausobjektin %6 j„lkeisi„ sisennyksi„ ei sallita.
+@2@15@0@
+Ohjausobjektia '%6' ei voi sijoittaa samalle tasolle s„il”n kanssa.
+@2@20@0@
+ActionContainer-sisennyksen on oltava 0.
+@2@21@0@
+Toiminnon %6 j„lkeisi„ sisennyksi„ ei sallita.
+@2@22@0@
+Action ja ActionGroup eiv„t voi olla samalla tasolla kohteessa ActivityButton.
+@2@23@0@
+CueGroup-ryhmien ActionContainer-s„il”j„ ei sallita.
+@2@24@0@
+CueGroup-ryhmien Action-toimintojen on oltava juuritasolla.
+@2@25@0@
+Toimintopainikkeen toimintoryhm„n toiminnolla '%6' voi olla vain RunObject-ominaisuuden sivutyypin List-arvo.
+@2@26@0@
+HomeItem-s„il”n toiminnolla "%6" voi olla vain RunObject-ominaisuuden sivutyypin List-arvo.
+@2@27@0@
+Ensimm„inen toiminnon tai ActionGroupin sisennyksen on oltava 0.
+@2@30@0@
+M„„ritetty arvo ylitt„„ enimm„iskoon %20.
+@2@40@0@
+Ohjausobjektin tunnus %40 on jo k„yt”ss„.
+@2@41@0@
+Action-ominaisuus RunObject tukee vain seuraavia tyyppej„:
+
+Page, Report, XMLport, Codeunit
+@2@42@0@
+Ohjausobjektin tunnus ei voi olla tyhj„.
+@2@43@0@
+Ohjausobjektin nimi "%6" on jo k„yt”ss„. Ohjausobjektien nimien tulee olla yksil”ivi„.
+@2@44@0@
+Toiminnon nimi "%6" on jo k„yt”ss„. Toimintojen nimien tulee olla yksil”ivi„.
+@2@45@0@
+Ohjausobjekti %6 k„ytt„„ samaa nime„ kuin globaali muuttuja. Valitse ohjausobjektille yksil”iv„ nimi.
+@2@46@0@
+Toimintotunnus %40 on jo k„yt”ss„.
+@2@50@0@
+Visual Page Preview'n asiakasohjelmakokoonpanoa tai joitakin sen riippuvuuksia ei voi ladata.
+@2@101@0@
+Virheellinen tietotyyppi: "%10". Sen pit„isi olla "Text".
+@2@102@0@
+Jos Part-ohjausobjektin PartType on Sivu, ohjausobjektilla on oltava PagePartID.
+@2@103@0@
+Jos UIPart-ohjausobjektin PartType on J„rjestelm„, ohjausobjektin SystemPartID-arvo ei voi olla Ei mit„„n.
+@2@104@0@
+Jos UIPart-ohjausobjektin PartType on Chart, ohjausobjektin ChartPartID-arvo ei voi olla Ei mit„„n.
+@2@105@0@
+Jos Part-ohjausobjektin PartType on Sivu, ohjausobjektin on viitattava CardPart- tai ListPart-tyyppisiin sivuihin.
+@2@106@0@
+S„il”ll„ on oltava subtype.
+@2@107@0@
+CardPart- tai ListPart-tyypin sivu ei voi sis„lt„„ FactBoxArea-s„il”„.
+@2@108@0@
+Sivu voi sis„lt„„ vain yhden FactBoxArea-s„il”n.
+@2@109@0@
+Sivu voi sis„lt„„ vain yhden RoleCenterArea-s„il”n.
+@2@110@0@
+RoleCenterArea-s„il” voi olla vain RoleCenter-tyypin sivu.
+@2@111@0@
+Sivu voi sis„lt„„ vain yhden ContentArea-s„il”n.
+@2@112@0@
+FactBoxArea-s„il” voi sis„lt„„ vain osia.
+@2@113@0@
+RoleCenterArea-s„il” voi sis„lt„„ vain ryhmi„ tai osia.
+@2@114@0@
+IndentationColumnName-kohteen on viitattava int-tyypin kentt„„n tai muuttujaan.
+@2@115@0@
+HomeItems- ja ActivityButtons-kohteita voi olla vain Roolikeskus-sivuilla.
+@2@117@0@
+CardPart- ja ListPart-tyypin sivut voivat sis„lt„„ vain ActionItems-s„il”j„.
+@2@118@0@
+FreezeColumnID voidaan m„„ritt„„ vain repeater-toistimessa.
+@2@119@0@
+ShowAsTree voidaan m„„ritt„„ vain repeater-toistimessa.
+@2@120@0@
+Kun ShowAsTree m„„ritet„„n, my”s IndentationColumnName on m„„ritett„v„.
+@2@121@0@
+MinValue ei voi olla suurempi kuin MaxValue.
+@2@122@0@
+MaxValue ei voi olla suurempi kuin taulukon kent„n MaxValue.
+@2@123@0@
+MinValue ei voi olla pienempi kuin taulukon kent„n MinValue.
+@2@124@0@
+Ohjausobjekti ei voi olla muokattavissa, jos taulukon kentt„„ ei voi muokata.
+@2@125@0@
+Jos taulukon kentt„ on NotBlank, ohjausobjekti ei voi sallia tyhji„ arvoja.
+@2@126@0@
+Desimaalien arvon on oltava pienempi kuin taulukon kent„n desimaalien arvo.
+@2@127@0@
+IndentationColumnName voidaan m„„ritt„„ vain toistimessa.
+@2@128@0@
+SystemPardIDs-kohteiden Notes- ja RecordLinks-kohteita ei voi k„ytt„„ sivuilla, joiden LinksAllowed-arvoksi on m„„ritetty Ei..
+@2@129@0@
+IndentationControls voidaan m„„ritt„„ vain Repeater-toistimessa.
+@2@130@0@
+Sivulla voi olla vain yksi ActivityButtons-s„il”.
+@2@131@0@
+Sivulla voi olla vain yksi ActivityItems-s„il”.
+@2@132@0@
+Sivulla voi olla vain yksi HomeItems-s„il”.
+@2@133@0@
+Sivulla voi olla vain yksi NewDocumentItems-s„il”.
+@2@134@0@
+Sivulla voi olla vain yksi RelatedInformation-s„il”.
+@2@135@0@
+ActionGroupImage-ominaisuus voidaan m„„ritt„„ vain ActionContainer-s„il”ss„, jonka SubType on ActivityButtons.
+@2@136@0@
+ActionImage-ominaisuutta ei voi m„„ritt„„ ActionContainer-s„il”ss„, jonka SubType on ActivityButtons tai HomeItems.
+@2@137@0@
+Sivulla voi olla vain yksi Reports-s„il”.
+@2@138@0@
+Ohjausobjekteja ei voi sitoa kenttiin, jotka k„ytt„v„t FieldClass-kohdetta FlowFilter.
+@2@139@0@
+CardPart- ja ListPart-tyypin sivut eiv„t voi sis„lt„„ Osa-ohjausobjektia.
+@2@140@0@
+Roolikeskus-tyypin sivuilla ei voi k„ytt„„ k„ynnistyskoodia.
+@2@141@0@
+Arvon on oltava totuusarvo.
+@2@143@0@
+MultiLine-ominaisuutta, jonka arvoksi on asetettu "Kyll„", ja ExtendedDatatype-ominaisuutta, jonka arvoksi on asetettu "Peitetty", ei sallita.
+@2@144@0@
+Kentti„, joiden tyyppi on "Char" ja ExtendedDatatype-ominaisuuden arvo "Suhde", ei sallita.
+@2@145@0@
+Tietotyyppi "%20" ei kelpaa, kun Width-ominaisuus on asetettu.
+
+Kelvolliset tietotyypit ovat Text, Code, Integer, BigInteger ja Decimal.
+@2@146@0@
+Tietotyyppi "%20" ei ole sallittu StyleExpr-ominaisuudelle.
+
+Kelvollisia tietotyyppej„ ovat Boolean, Text tai Code.
+@2@1000@0@
+Ei metatietojen vastaavuutta.
+@2@END@0@
+
+@1@224@0@
+@2@1@0@
+Virheellinen Kysely-objektin versio: %1.
+@2@2@0@
+Virheellinen kyselyobjektin MagicNo-arvo: %1.
+@2@3@0@
+Objekti %1 on k„„nnett„v„ ennen suoritusta.
+@2@4@0@
+Blob-tietotyypin sis„lt„vi„ kentti„ ei voi valita Sarake-rivien tietol„hteeksi. Valitse eri kentt„.
+@2@5@0@
+"%4" ei ole kentt„ taulukossa "%6".
+@2@6@0@
+Sanaa "%24" odotetaan kohteen %21 sijainnissa %23.
+@2@7@0@
+Kohdepuskurin koko on liian pieni.
+@2@8@0@
+DataItem-kohteelle <%4> ei ole m„„ritetty l„hdetaulukkoa.
+@2@9@0@
+Sarakkeelle <%6> ei ole m„„ritetty DataSource-kohdetta.
+@2@10@0@
+Sarake on tuntematon.
+@2@11@0@
+Ensimm„isen rivin on oltava DataItem.
+@2@12@0@
+Ensimm„isen rivin sisennyksen pit„„ olla 0.
+@2@13@0@
+P„„kohteen on oltava DataItem.
+@2@14@0@
+DataItem-kohteen Indentation-ominaisuus ei voi sis„lt„„ negatiivista arvoa.
+@2@15@0@
+DataItem-kohteen ominaisuus DataItemIndent saa olla vain yhden suurempi kuin edellinen DataItem.
+@2@16@0@
+DataItems-kohteen suurin mahdollinen sisennystaso on %28.
+@2@17@0@
+Column- tai DataItem-kohteilla pit„„ olla Column-kohteen j„lkeen sama sisennys tai DataItem, jonka sisennys on - 1.
+@2@18@0@
+Nimi-arvo ei voi olla tyhj„.
+@2@19@0@
+Toinen DataItem- tai Column-rivi on jo olemassa nimell„ "%4". Kaikilla DataItem- ja Column-riveill„ pit„„ olla yksil”lliset nimet.
+@2@20@0@
+Nimi "%4" sis„lt„„ v„hint„„n yhden merkin, jota ei voi k„ytt„„, koska se ei vastaa Common Language Specification -m„„rityst„. Ensimm„isen merkin on oltava kirjain. Seuraavat merkit voivat olla mik„ tahansa kirjaimien, kokonaislukujen ja alaviivojen yhdistelm„. 
+@2@21@0@
+Tunnusarvon on oltava positiivinen.
+@2@22@0@
+Toinen DataItem- tai Column-rivi on jo olemassa tunnuksella "%12". Kaikilla DataItem- ja Column-riveill„ pit„„ olla yksil”lliset tunnukset.
+@2@23@0@
+Virtuaalista taulukkoa ei voi valita DataItem-kohteen tietol„hdearvoksi. Valitse eri taulukko.
+@2@24@0@
+Kyselyss„ on oltava ainakin yksi tietosarake.
+@2@42@0@
+Ylempi rivien m„„r„ ei voi olla negatiivinen.
+@2@43@0@
+Vain sellaisten kenttien etumerkin voi muuttaa, joilla on numeerinen tietotyyppi.
+@2@25@0@
+Summamenetelmi„ voi k„ytt„„ vain kentiss„, joiden tietotyyppi on Desimaali. Valitse kentt„, jonka tietotyyppi on Desimaali.
+@2@26@0@
+Voit valita enint„„n %29 saraketta, jotka summataan yksitt„isess„ kyselyss„. Valitse v„hemm„n summattavia sarakkeita.
+@2@27@0@
+Voit valita enint„„n %29 saraketta, joita ei summata yksitt„isess„ kyselyss„, joka sis„lt„„ summauksen. Valitse v„hemm„n sarakkeita, joita ei summata.
+@2@28@0@
+Kyselyss„ olevaa kentt„„ ei voi laskea. Jos haluat laskea kaikki kyselytulosten rivit, j„t„ Tietol„hde-kentt„ tyhj„ksi.
+@2@29@0@
+FlowFilter-tietotyypin sis„lt„v„„ kentt„„ ei voi valita Sarake-rivien tietol„hteeksi. Valitse eri kentt„.
+@2@30@0@
+Binary-tietotyypin sis„lt„vi„ kentti„ ei voi valita Sarake-rivien tietol„hteeksi. Valitse eri kentt„.
+@2@31@0@
+Toisella summaussarakkeella on sama nimi. Kaikilla sarakkeilla tulee olla yksil”iv„t nimet.
+@2@33@0@
+Kahta DataItems-kohdetta ei voi yhdist„„ samalla tasolla, koska liittoja ei tueta.
+@2@37@0@
+Ryhmittelyperuste-kentt„ on vain luku -kentt„. Se lasketaan automaattisesti m„„ritetyist„ sarakkeista. Ryhmittelyyn k„ytet„„n kaikkia sarakkeita, joiden menetelm„tyyppi ei ole Yhteissummat. 
+@2@38@0@
+Voit valita sarakkeen vain kerran, kun m„„rit„t kyselyn tulostietojoukon j„rjestyst„.  Poista valitut sarakkeiden kaksoiskappaleet ja tallenna uudelleen.
+@2@39@0@
+DataItemLink-ominaisuus ei voi olla tyhj„.
+@2@40@0@
+DataItemLink-ominaisuuden pit„„ olla tyhj„, kun SQLJoinType-ominaisuuden arvoksi on m„„ritetty Ristiliitos.
+@2@41@0@
+Menetelm„„ ei voi m„„ritt„„ sarakkeisiin, joiden tietol„hdekent„n tyyppi on FlowFilter.  Muuta menetelm„n tyypiksi Ei mit„„n ja tallenna uudelleen.
+@2@44@0@
+P„iv„-, kuukausi ja vuosimenetelmi„ voi k„ytt„„ vain kentiss„, joiden tietotyyppi on DateTime. Valitse kentt„, jonka tietotyyppi on DateTime.
+@2@45@0@
+Et voi tuoda objektia, jolla ei ole osaa %4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DotNet InteropÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  DotNet Interop                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@226@0@
+@2@1@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+C/SIDE ei tue t„t„ DotNet-tietotyyppi„. Voit k„ytt„„ tietoja seuraavista tietotyypeist„:
+object, bool, char, sbyte, byte, short,
+ushort, int, uint, long, ulong, float,
+double, decimal, DateTime, TimeSpan,
+string, Guid ja Stream
+@2@2@0@
+.NET-yhteisk„ytt”: sis„inen virhe. Puskuri oli liian pieni.
+@2@3@0@
+Tyyppi„ %1 ei voitu ladata.
+@2@4@0@
+Tyyppi %1 on tuntematon.
+@2@5@0@
+Liikaa ylikuormitettuja menetelmi„.
+@2@7@0@
+DotNet-muuttujan alityyppi„ ei ole m„„ritetty.
+
+M„„rit„ tyyppi t„ytt„m„ll„ Subtype-kentt„ C/AL Locals- tai C/AL Globals -ikkunassa.
+@2@8@0@
+Kokoonpanoa %1 ei l”ytynyt.
+@2@9@0@
+.NET-yhteisk„ytt”: sis„inen virhe, virheellinen tunnus %1.
+@2@10@0@
+.NET-yhteisk„ytt”: poikkeus, %1.
+@2@11@0@
+Kohdetta %1 ei tunnisteta mink„„n .NET-tyypin nimeksi.
+Oikea muoto on seuraava: 'Kokoonpanon koko nimi'.tyyppinimi
+Tarkista, onko merkinn„ss„ kirjoitusvirhett„.
+@2@12@0@
+.NET-yhteisk„ytt”: tyypin nimi on liian pitk„ (yli 128 merkki„): "%1".
+@2@13@0@
+.NET-yhteisk„ytt”: .NET-version 4 lataaminen ep„onnistui.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CSDotNet  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@228@0@
+@2@1@0@
+Sis„inen virhe: %1
+@2@2@0@
+%1
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CodeUnit    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  Codeunits                                              ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@103@0@
+@2@1@0@
+Koodiyksikk”„ %1.2818 on kutsuttu tietueella %2. Sen pit„isi olla tietue %3.
+@2@2@0@
+Koodiyksikk”„ %1.2818 on kutsuttava tietueella %3.
+@2@3@0@
+Koodiyksikk”„ %1.2818 on kutsuttu tietueella %2. Sill„ ei ole parametreja.
+@2@4@0@
+Objektin %4 versio on v„„r„.
+@2@5@0@
+Testikoodiyksikk”„ %1.2818 kutsuttiin kohteen %2 tietueella. Testikoodiyksik”t eiv„t tue tietueparametreja.
+@2@6@0@
+Testikoodiyksikk” %1.2818 suunniteltiin k„ytt„en taulukkoa %1.26370. Testikoodiyksik”t eiv„t tue taulukoita eli TableNo-arvon on oltava <M„„ritt„m„t”n>.
+@2@7@0@
+Toinen testikoodiyksikk” kutsui testikoodiyksikk”„ %1.2818. Testikoodiyksik”t eiv„t tue sis„kk„isyytt„.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  C/AL_Edit ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Compiler and Editors                                ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@102@0@
+@2@6@0@
+Ohjausobjektiin %6 liittyvi„ tapahtumak„ynnistimi„ on olemassa. ControlAddin-arvon poistaminen poistaa tapahtumak„ynnistimet ja niiden koodin.
+
+Haluatko varmasti muokata ControlAddin-arvoa?
+@2@7@0@
+Rivist„ tulee liian pitk„.
+@2@8@0@
+Globaaliin muuttujaan %6 liittyvi„ tapahtumak„ynnistimi„ on olemassa. Muuttujan poistaminen poistaa tapahtumak„ynnistimet ja niiden koodin.
+
+Oletko varma, ett„ haluat poistaa globaalin muuttujan?
+@2@9@0@
+Arvojen muuttaminen DataType tai SubType kentiss„ yleiselle muuttujalle %6 poistaa kaikki liittyv„t tapahtuma laukaisimet ja niiden koodin.
+
+Oletko varma, ett„ haluat tehd„ muutoksia kyseiselle yleiselle muuttujalle?
+@2@198@0@
+Ei ole sallittua tehd„ liittym„„ muuttujaan, jonka ominaisuus WithEvents=Yes.
+@2@199@0@
+Muuttujan pituuden on oltava v„lilt„ 1 ja %1.
+@2@200@0@
+IF-, WHILE- tai REPEAT-lauseessa on oltava "TRUE/FALSE"-lauseke. Nykyinen lauseke on matriisi, joka on tyypp„ Boolean.
+
+Valitse "TRUE/FALSE"-arvo seuraavanlaiseen lausekkeeseen:
+
+BooleanArray[...]
+@2@201@0@
+Lauseke ons %10.1. IF-, WHILE- tai REPEAT-lauseessa on oltava "TRUE/FALSE"-lauseke. Esimerkki:
+
+TRUE
+FALSE
+Customer.Blocked
+Customer.Balance > 100
+... AND ...
+... OR ...
+@2@202@0@
+Etuliiteoperaattoria ei voi k„ytt„„: %10.1.
+@2@203@0@
+Odotettiin tietuemuuttujan kentt„„. Esimerkki:
+
+Record.Field
+Customer.Name
+@2@204@0@
+Odotettiin muuttujaa. Esimerkki:
+
+MyVar
+Customer.Name
+@2@205@0@
+Ei voi suorittaa matriiseissa: %3.
+
+Valitse yksi matriisin arvo k„ytt„m„ll„ seuraavanlaista lauseketta:
+
+MyArray[...]
+@2@206@0@
+Tyyppi„ ei voi k„ytt„„ argumenttina.
+@2@207@0@
+Kutsuttaessa funktiota pit„isi k„ytt„„ parametrien v„himm„ism„„r„„. Esimerkki:
+
+MyFunc( .. , .. , .. )
+ROUND(MyVar)
+ROUND(MyVar,0.05)
+@2@210@0@
+Enint„„n %7 parametria voidaan k„ytt„„ kutsuttaessa funktiota. Esimerkki:
+
+MyFunc( .. , .. , .. )
+ROUND(MyVar)
+ROUND(MyVar,0.05)
+@2@212@0@
+Ulottuvuuksia on liian monta. Muuttujalle on m„„ritetty v„hemm„n ulottuvuuksia. Esimerkki:
+
+MyVar
+MyArray[MyVar]
+MyArray[1,2]
+MyArray[1][2]
+@2@214@0@
+Muuttuja ei ole tietue. 'Variable.Field' on virheellinen.
+@2@215@0@
+Hakasuljetta [ on k„ytett„v„, koska muuttuja on matriisi. Esimerkki:
+
+MyArray[...]
+MyArray[MyVar]
+MyArray[1,2]
+MyArray[1][2]
+@2@216@0@
+Tyypin muunto ei ole mahdollista, koska 1 operaattorilla on virheellinen tyyppi.
+
+%10.1 %3 %11.1
+@2@217@0@
+Odotettiin arvoa tai lauseketta. Esimerkki:
+
+100
+MyVar
+MyVar + 100
+MyVar = 100
+@2@223@0@
+Muuttujan tyyppi on %10.1. FOR-lauseen laskurin on oltava numeerinen muuttuja tai totuusarvo-, p„iv„m„„r„-, aika-, tavu- tai char-muuttuja. Esimerkki:
+
+FOR Counter := 1 TO 10 DO ... ;
+@2@224@0@
+FOR-lauseen laskurin on oltava numeerinen muuttuja. Esimerkki:
+
+FOR Counter := 1 TO 10 DO ... ;
+@2@234@0@
+T„m„ ei saa olla lauseen ensimm„inen sana.
+@2@235@0@
+M„„rityksess„ on oltava "':=". Esimerkki:
+
+MyVar := ... ;
+MyVar := 100 + 10 ;
+@2@237@0@
+WITH-lauseessa on oltava tietuemuuttuja. Nykyisen muuttujan tyyppi on jokin toinen. Esimerkki:
+
+WITH MyRec DO ... ;
+@2@238@0@
+WITH-lauseessa on oltava tietuemuuttuja. Esimerkki:
+
+WITH .. DO ... ;
+WITH .. DO BEGIN ... ; ... ; END ;
+WITH MyRec DO ... ;
+@2@244@0@
+Sis„kk„isi„ WITH-lauseita on liian monta kerrosta.
+@2@249@0@
+ELSE-lauseen kanssa on k„ytett„v„ IF-lausetta. Esimerkki:
+
+IF ... THEN ... ELSE ... ;
+IF ... THEN IF ... ELSE ... ELSE ... ;
+IF ... THEN BEGIN ... ; ... ; END ELSE BEGIN ... ; END ;
+
+T„m„ virhe esiintyy usein sen vuoksi, ett„ juuri ennen ELSE-lausetta on k„ytetty puolipistett„ (;).
+@2@250@0@
+UNTIL-lauseen kanssa odotettiin REPEAT-lausetta. Esimerkki:
+
+REPEAT ... ; ... ; UNTIL ... ;
+@2@251@0@
+END-lauseen kanssa odotettiin BEGIN-lausetta. Esimerkki:
+
+BEGIN ... ; ... ; END ;
+@2@254@0@
+Muuttujan %10.1 on kuuluttava kohteeseen %10.5, ei kohteeseen %11.5.
+@2@256@0@
+Matriisin ulottuvuuksien on oltava samat.
+@2@262@0@
+WITH-lausetta ei voi k„ytt„„ tietuematriisia varten.
+@2@263@0@
+Palautusarvoa pit„isi k„ytt„„ t„lle funktiolle.
+@2@264@0@
+Merkkien "::" j„lkeen on m„„ritett„v„ vaihtoehto.
+@2@266@0@
+Ei sallittu vaihtoehto.
+@2@268@0@
+M„„ritys ei ole sallittu t„lle muuttujalle.
+@2@269@0@
+Avainsana "%9" on varattu.
+@2@270@0@
+Sama k„ynnistin on tuotu kahdesti.
+@2@272@0@
+Matriisin elementtien enimm„ism„„r„ on 1 000 000.
+@2@273@0@
+Ulottuvuuden on oltava positiivinen luku.
+@2@274@0@
+Funktion tunnus puuttuu. Kaikilla k„ytt„j„n m„„ritt„mill„ funktioilla on oltava tunnus.
+
+MyFunction@23();
+@2@275@0@
+Funktion tunnusta %1 k„ytt„„ sek„ funktio %2 ett„ funktio %3.
+@2@276@0@
+MESSAGE -funktio varianttidatatyypin kanssa on ep„kelpo koska FORMAT -funktio puuttuu.
+@2@277@0@
+Muuttujaa ID %1 k„ytt„„ muuttuja %2 ja muuttuja %3.
+@2@278@0@
+Parametria ID %1 k„ytt„„ parametri %2 ja parametri %3 liipaisimessa %4.
+@2@279@0@
+Paikallista muuttujatunnusta %1 k„ytt„v„t paikallinen muuttuja %2 ja paikallinen muuttuja %3 liipaisimessa %4.
+@2@280@0@
+Muuttujaa ID %1 muuttujalle %2 on varattu vain C/SIDE-m„„ritellylle muuttujalle. Minimi sallittu ID -numero on %3.
+@2@281@0@
+ID %1 muuttujalle %2 on alueen ulkopuolella. Suurin sallittu ID numero on %3.
+@2@282@0@
+ID %1 toiminnolle %2 on alueen ulkopuolella. Suurin sallittu ID numero on %3.
+@2@283@0@
+FunctionType- ja HandlerFunctions-ominaisuudet on poistettu.
+@2@284@0@
+K„„nnett„v„n„ oleva teksti ylitt„„ tunnuksen enimm„iskoon 64 kilotavua.
+@2@285@0@
+Sek„ RunOnClient- ja WithEvents-arvot eiv„t voi olla "Kyll„" DotNet-muuttujassa %1.
+@2@286@0@
+M„„ritys kyselyn sarakkeeseen ei ole sallittu.
+@2@287@0@
+Kyselyn saraketta ei voi v„litt„„ VAR-parametrille.
+@2@288@0@
+Odotettiin kyselymuuttujan saraketta. Esimerkki:
+
+Query.Column
+Customer.Name
+@2@289@0@
+Tyyppi„ %1 ei tueta. K„yt„ sen sijaan tyyppi„ %2 .
+@2@290@0@
+Upgrade-funktion ominaisuudet on poistettu.
+@2@291@0@
+Funktion m„„rite [%6] ei kelpaa t„ss„ kontekstissa.
+@2@302@0@
+Virheenkorjauksen keskeytyskohtatiedostoa tallennettaessa esiintyi seuraava virhe.
+
+%1
+Arvo: %2
+@2@303@0@
+T„lle objektille on jo m„„ritetty keskeytyskohta editorin ulkopuolella kohteen %6 rivill„ %4. Keskeytyskohtaa ei voi asettaa.
+@2@304@0@
+Mik„„n k„ytt„j„ ei vastaa nykyist„ k„ytt„j„tunnusta. Keskeytyskohtaa ei voi asettaa, jos k„yt„t tietokantatodennusta Microsoft Dynamics NAV -kehitysymp„rist””n kirjautumiseen ja Microsoft Dynamics NAV-k„ytt„j„tunnusta ei ole m„„ritetty tietokantaan kirjautumista varten.
+@2@400@0@
+Funktion %1 virheellinen testimenetelm„n allekirjoitus.
+
+TestMethod-funktiolla ei voi olla palautusarvoa eik„ parametreja.
+@2@401@0@
+Virheellinen funktion %1 MESSAGE-k„sittelij„n allekirjoitus.
+
+MESSAGE-k„sittelij„n funktioilla on oltava seuraava allekirjoitus (parametrin nimet voi valita vapaasti):
+<funktion nimi>(Message : Text[1024])
+@2@402@0@
+Virheellinen funktion %1 CONFIRM-k„sittelij„n allekirjoitus.
+
+CONFIRM-k„sittelij„n funktioilla on oltava seuraava allekirjoitus (parametrin nimet voi valita vapaasti):
+<funktion nimi>(Question : Text[1024];VAR Reply : Boolean)
+@2@403@0@
+Virheellinen funktion %1 STRMENU-k„sittelij„n allekirjoitus.
+
+STRMENU-k„sittelij„n funktioilla on oltava seuraava allekirjoitus (parametrin nimet voi valita vapaasti):
+<funktion nimi>(Options : Text[1024];VAR Choice : Integer;Instruction : Text[1024])
+@2@404@0@
+Virheellinen funktion %1 PAGE.RUN-k„sittelij„n allekirjoitus.
+
+PAGE.RUN-k„sittelij„n funktioilla on oltava seuraava allekirjoitus (parametrin nimen voi valita vapaasti):
+
+<funktion nimi>(VAR <muuttujan nimi> : Page <tunnus>)
+tai
+<funktion nimi>(VAR <muuttujan nimi> : TestPage <tunnus>)
+@2@405@0@
+Virheellinen funktion %1 PAGE.RUNMODAL-k„sittelij„n allekirjoitus.
+
+PAGE.RUNMODAL-k„sittelij„n funktioilla on oltava seuraava allekirjoitus (parametrin nimen voi valita vapaasti):
+
+<funktion nimi>(VAR <muuttujan nimi> : Page <tunnus>);VAR Response : Action)
+tai
+<funktion nimi>(VAR <muuttujan nimi> : TestPage <tunnus>)
+@2@406@0@
+Virheellinen funktion %1 REPORT-k„sittelij„n allekirjoitus.
+
+REPORT-k„sittelij„n allekirjoituksilla on oltava seuraava allekirjoitus (parametrin nimet voi valita vapaasti):
+<funktion nimi>(VAR <raportin nimi> : Report <raportin tunnus>)
+@2@407@0@
+Virheellinen funktion %1 REQUESTPAGE-k„sittelij„n allekirjoitus.
+
+REQUESTPAGE-k„sittelij„n funktioilla on oltava seuraava allekirjoitus (parametrin nimet voi valita vapaasti):
+<funktion nimi>(VAR <raportin nimi> : TestRequestPage <raportin tunnus>)
+@2@413@0@
+OnBeforeTestRun-k„ynnistimen allekirjoitus ei kelpaa.
+
+K„ynnistint„ kutsutaan aina ennen testikoodiyksik”n jokaisen testifunktion suorittamista, ja sill„ on oltava seuraava allekirjoitus (parametrin nimet voi m„„ritt„„ vapaasti, mutta OnBeforeTestRun-funktiota ja seuraavia parametrityyppej„ on k„ytett„v„):
+OnBeforeTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128]) : Boolean 
+Parametrit m„„ritt„v„t funktion. Palautusarvo m„„ritt„„, sis„llytet„„nk” kyseinen funktio testiajoon. Palautusarvo FALSE ohittaa funktion.
+@2@414@0@
+OnAfterTestRun-k„ynnistimen allekirjoitus ei kelpaa.
+
+K„ynnistint„ kutsutaan testikoodiyksik”n jokaisen testifunktion suorittamisen j„lkeen, ja sill„ on oltava seuraava allekirjoitus (parametrin nimet voi m„„ritt„„ vapaasti, mutta OnAfterTestRun-funktiota ja seuraavia parametrityyppej„ on k„ytett„v„):
+OnAfterTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128];Success : Boolean) 
+Kolme ensimm„ist„ parametria m„„ritt„v„t menetelm„n. Jos ajo onnistuu, Success-parametrin arvo on TRUE. Jos se ep„onnistuu, arvo on FALSE.
+@2@415@0@
+K„ytt”liittym„n k„sittelij„ %1 puuttuu (objekti: %2).
+@2@416@0@
+Seuraavia k„ytt”liittym„n k„sittelij”it„ ei suoritettu.
+
+%1
+@2@420@0@
+Funktio %1 ei voi olla paikallinen.
+
+P„ivityksen codeunitin funktioiden on oltava ei-paikallisia, jotta palvelin voi suorittaa ne p„ivityksen aikana.
+@2@421@0@
+Virheellinen funktion %1 allekirjoitus.
+
+Upgrade- ja Check-funktioilla on oltava seuraava allekirjoitus, koska ne eiv„t hyv„ksy parametreja eiv„tk„ palauta mit„„n arvoja:
+<function name>()
+@2@422@0@
+Virheellinen funktion %1 allekirjoitus.
+
+TableSyncSetup-funktioilla on oltava t„m„ allekirjoitus (funktion ja parametrien nimet voi valita vapaasti):
+<function name>(VAR <record name> : Record "Table Synch. Setup")
+@2@503@0@
+Aloita kommentti symbolilla {. Esimerkki: {Tavallinen kommentti}.
+@2@504@0@
+P„„t„ kommentti symbolilla }. Esimerkki: {Tavallinen kommentti}.
+@2@505@0@
+Vakiossa on virhe.
+@2@506@0@
+Syntaksivirhe.
+@2@507@0@
+Lyhenn„ lauseke v„hemm„n monimutkaiseksi.
+@2@509@0@
+Olet m„„ritt„nyt tuntemattoman muuttujan.
+
+%6
+
+M„„rit„ muuttuja kohdassa ###"Globaalit C/AL-symbolit".
+@2@510@0@
+Muuttuja %6 on m„„ritetty useammin kuin kerran.
+
+Esimerkki: "Tiedosto" on olemassa sek„ tietotyyppin„ ett„ globaalina muuttujana.
+@2@511@0@
+"%9" pit„isi olla t„ss„.
+@2@512@0@
+%6 ei ole funktio, ja vain funktioita voidaan kutsua merkkijonolla "(....".
+@2@513@0@
+Kutsu on moniselitteinen seuraavien menetelmien v„ill„:
+%1
+ja
+%2
+@2@514@0@
+Funktiokutsu oli moniselitteinen. Vastaavaa menetelm„„ ei l”ytynyt.
+@2@515@0@
+Mik„„n menetelm„n %1 ylikuormitus ei hyv„ksy argumentteja %2.
+@2@516@0@
+Kommenttirivi ylitt„„ enimm„iskoon %2 merkki„.
+@2@602@0@
+K„ytt”oikeutesi ohjelmaan ei salli tietotyypin %6 k„ytt”„.
+@2@700@0@
+Olet saavuttanut rajan koskien sallittujen istuntojen m„„r„„.
+@2@701@0@
+Olet ylitt„nyt rajan koskien sallittujen istuntojen m„„r„„. Viimeisi„ %1 tapahtumia ei tallenneta.
+@2@702@0@
+Sis„isen puskurin koko on ylittynyt. Poista yksi kieli tai lyhenn„ tekstivakiota '%1'. 
+Huomaa, ett„ jos tallennat objektin, tietoja menetet„„n.
+@2@703@0@
+Dimensiot-ominaisuuden on oltava tyhj„, ennen kuin voit m„„ritt„„ muuttujan %1 IncludeInDataset-ominaisuuden.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Run   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Stack Machine Interpreter                            ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@101@0@
+@2@1@0@
+Matriisin ulottuvuuksien on oltava samat.
+@2@2@0@
+%3: ei voi k„ytt„„ operaattorina.
+
+%10.1 %3 %11.1
+@2@3@0@
+%6 parametrin %7 arvon on sallitun alueen ulkopuolella.
+
+Nykyinen arvo on: %11.20.
+Sallittu alue on: %1 - %2.
+@2@4@0@
+Matriisin indeksointi %11.20 on sallitun alueen ulkopuolella.
+@2@6@0@
+Ylivuoto laskennassa %10.20 %3 %11.20.
+@2@7@0@
+Jako nollalla.
+@2@9@0@
+Ylivuoto tyypin muunnossa %11.1 -> %10.1.
+
+Arvo: %11.20
+@2@10@0@
+C/AL-pinomuistissa ei ole riitt„v„sti tilaa t„m„n teht„v„n suorittamista varten.
+
+Samanaikaisia toimenpiteit„ on liikaa ohjelmassa k„ytettyjen rekursiivisten funktiokutsujen vuoksi. Ohjelma voidaan ratkaista tilap„isesti sulkemalla joitakin avoimista toimenpiteist„ (funktiota ei voi kuitenkaan suorittaa).
+@2@14@0@
+Funktio %6 ei ole en„„ tuettu.
+
+Poista funktiokutsu ja k„„nn„ C/AL-objekti uudelleen.
+@2@16@0@
+Lausekkeen %11.1 tyyppi„ ei saa muuntaa arvoksi %10.1.
+@2@21@0@
+Viittausta muuttujan %20 j„seneen %6 ei voitu ratkaista.
+@2@22@0@
+%6 parametrin nro %7 sis„lt” "%11.20" on virheellinen.
+@2@23@0@
+Funktiota %6 on kutsuttu arvolla %11.1 parametrissa %7. 
+
+Sen olisi pit„nyt olla %10.1.
+@2@24@0@
+Muuttuja ei saa vied„ tilaa yli 2 megatavua.
+@2@27@0@
+Kent„n %6 m„„rityst„ on muutettu objektin tallennuksen j„lkeen.
+
+Vanha tyyppi: %10.1
+Uusi tyyppi: %11.1
+@2@31@0@
+%6
+@2@32@0@
+C/AL-objektia ei voi tallentaa k„„nnetyss„ muodossa.
+@2@34@0@
+STRCHECKSUM hyv„ksyy vain lukuja v„lilt„ 0 - 9 k„ytett„v„ksi parametrissa nro %7. '%11.20'
+@2@35@0@
+CONVERTSTR odottaa, ett„ muunnon 2 merkkijonoa ovat samanpituisia:
+
+Muunto: '%10.20' -> '%11.20'
+@2@55@0@
+Teksti "%11.20" %6 parametrissa nro %7 on liian pitk„.
+@2@69@0@
+K„ytt„j„n m„„ritt„m„„ C/AL-funktiota %1 ei l”ydy.
+@2@70@0@
+K„ytt„j„n m„„ritt„m„ C/AL-funktiota %1, jossa on %3 parametria, on kutsuttu %2 parametrilla.
+@2@71@0@
+K„yt„t t„lle toiminnolle v„„r„„ datatyyppi„.
+@2@72@0@
+Et voi kutsua C/AL-funktiota %6, kun k„yt”ss„ on Microsoft Dynamics NAV -ohjelman Application Server.
+@2@73@0@
+Et voi k„ytt„„ tyypin %6 C/AL-muuttujia, kun k„yt”ss„ on Microsoft Dynamics NAV -ohjelman Application Server.
+@2@75@0@
+VARIANT2TIME -funktio on kohdannut parametrin jota ei pystyt„ konvertoimaan.
+K„yt„ joko varianttia tai aikaa argumenttin„.
+@2@76@0@
+VARIANT2DATE -funktio on kohdannut parametrin jota ei pystyt„ konvertoimaan.
+K„yt„ joko varianttia tai p„iv„m„„r„„ argumenttina.
+@2@77@0@
+Virhett„ odotettiin ASSERTERROR-lausekkeessa.
+@2@78@0@
+Sis„kk„isi„ ASSERTERROR-lausekkeita ei tueta samalla alueella.
+@2@79@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Kohteen %1 objektitunnusta %2 ei voi suorittaa, kun avaat raportin roolipohjaisesta k„ytt”liittym„st„.
+@2@80@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+Objektin %6 ajoaikaa ei tueta C/SIDE-kehitysymp„rist”ss„.
+@2@90@0@
+Tiedosto ei ole auki.
+@2@91@0@
+Tiedosto on jo auki.
+@2@92@0@
+T„m„ntyyppist„ muuttujaa ei voi lukea tai kirjoittaa binaarimuodossa.
+@2@93@0@
+On tapahtunut virhe kun virtautit tiedoston.
+@2@94@0@
+.NET-yhteisk„ytt”tyyppi„ ei voi k„ytt„„ C/SIDE-suorituksenaikaisuuden koodissa.
+@2@96@0@
+CURRENTEXECUTIONMODE-funktiota ei voi k„ytt„„ C/SIDE-suorituksenaikaisuuden koodissa.
+@2@97@0@
+C/SIDE-suorituksenaikaisuuden raporttitoimintoja ja -ominaisuuksia ei voi k„ytt„„.
+@2@120@0@
+Valintaikkuna ei ole auki.
+@2@130@0@
+Tyhj„„ BLOB:ta (%6) ei voi vied„.
+@2@131@0@
+Ei voi jonosalata tyhj„„ BLOBia (%6).
+@2@132@0@
+Ei voinut jonosalata BLOBiin.
+@2@140@0@
+Et voi kutsua CONFIRM-menetelm„„ Application Server -palvelimessa. 
+Viesti: 
+ 
+%12
+@2@141@0@
+Et voi kutsua STRMENU-menetelm„„ Application Server -palvelimessa.
+Valikkokohteet :
+
+%13
+@2@142@0@
+Et voi kutsua DIALOG.INPUT-menetelm„„ Application Server -palvelimessa.
+@2@150@0@
+Virta on palauttanut virheen.
+@2@151@0@
+Et voi jonosalata tyhj„„ jonosalausliittym„„  (%6).
+@2@152@0@
+Virta on palauttanut kirjoitusvirheen.
+@2@200@0@
+Liian monta kentt„„ on m„„ritetty, joten taulukkoa %1.1 ei voi hakea. Perusavaimen kenttien m„„r„ on %4.
+@2@201@0@
+Kentt„„n %2.1 ei ole liitetty suhdetta taulukossa %1.1.
+@2@301@0@
+A CONFIRM on kohdattu seuraavalla viestill„:
+
+%10
+
+J„rjestelm„ vastasi %11 kysymykseen.
+@2@400@0@
+Olet suorittamassa ensimm„ist„ kertaa seuraavaa tiedostoa:
+
+Suoritettava tiedosto: %1
+Parametri: %2
+
+Suoritettavat tiedostot saattavat vahingoittaa tietokonettasi.
+
+Pid„tk” luotettavana t„t„ suoritettavaa tiedostoa 
+ja sen parametria?
+@2@401@0@
+Seuraavaa suoritettavaa tiedostoa ei voi turvallisuussyist„
+suorittaa SHELL-toiminnossa muuttujana:
+
+Suoritettava tiedosto: %1
+Parametri: %2
+
+AL-ohjelmoijille tiedoksi: K„yt„ suoritettavan tiedoston polun 
+sis„lt„v„„ tekstivakiota.
+@2@1101@0@
+%2.1 %3 taulukossa %1.1 %5.
+@2@1102@0@
+%2.1 ei saa olla %2.5 taulukossa %1.1 %5.
+@2@1103@0@
+Kent„n %2.1 on oltava %2.5 taulukossa %1.1 %5.
+@2@1104@0@
+%6 on poistettu taulukosta %1.1.
+@2@1105@0@
+Taulukon %1.1 kentt„„ %2.1 ei ole otettu k„ytt””n.
+@2@1106@0@
+LOCKTABLE funktiota %1.1 taulukossa ei voida k„ytt„„ Wait -parametrin ollessa FALSE tai kun VersionCheck parametrin arvo on TRUE, kun ollaan yhteydess„ SQL Serveriin.
+@2@1107@0@
+COPY-toimintoa voi k„ytt„„ shareTable-argumentin ollessa tosi vain, jos molemmat tietueet ovat tilap„isi„.
+@2@1112@0@
+%2.1 on m„„ritett„v„ taulukkoon %1.1 %5.
+@2@1113@0@
+Kentt„„ %2.1 ei saa m„„ritt„„ taulukkoon %1.1 %5.
+@2@1122@0@
+%2.1 ei saa olla %2.5 taulukossa %1.1 %5.
+@2@1123@0@
+Kent„n %2.1 on oltava %2.5 taulukossa %1.1 %5.
+@2@1132@0@
+%2.1 ei saa olla %2.5 taulukossa %1.1 %5.
+@2@1133@0@
+Kent„n %2.1 on oltava %2.5 taulukossa %1.1 %5.
+@2@1134@0@
+Raportin tekstivakio %4 ylitt„„ sallitun rajan %5 merkill„.
+
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Streams   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Streams Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@120@0@
+@2@1@0@
+On tapahtunut virtausvirhe.
+@2@2@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The Read Size does not correspond to the Variable size or the requested Length.
+@2@3@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The Written Size does not correspond to the Variable size or the requested Length.
+@2@4@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The stream contains data that cannot be correctly interpreted.
+@2@5@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The stream cannot find a zero-terminated string.
+The stream may be invalid, or the (variable or requested) size may be too small.
+@2@6@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The requested size in the stream does not correspond to the variable size.
+@2@7@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The stream is either out of scope or has not been initialized.
+@2@8@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The write size in the stream does not correspond to the variable size or the requested length.
+@2@9@0@
+Virhe yritett„ess„ kirjoitaa virtaan.
+
+@2@10@0@
+Tietoja ei voi kopioida kahteen samaan tietol„hteeseen perustuvien virtojen v„lill„ COPYSTREAM-kohteen avulla.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Variant   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Variant Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@121@0@
+@2@1@0@
+On tapahtunut variantti virhe.
+@2@2@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The variant is empty or an unknown value has been assigned to it.
+@2@3@0@
+T„m„ viesti on C/AL-ohjelmoijille:
+
+The variant has encountered an incompatible data type.
+@2@4@0@
+VARIANT2TIME -toiminto on kohdannut argumentin, jota ohjelma ei voi k„„nt„„.
+K„yt„ joko muuttujaa tai aikaa argumenttina.
+@2@5@0@
+VARIANT2DATE -funktio on kohdannut argumentin jota ohjelma ei pysty konvertoimaan.
+K„yt„ joko varianttia tai p„iv„m„„r„„ argumenttina.
+@2@6@0@
+Et voi kopioida varianttia.
+@2@7@0@
+Et voi m„„ritt„„ muuta tyyppi„ kuin %1 kun se on sis„llytetty varianttiin VAR:illa.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Bigstr   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Bigstr Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@148@0@
+@2@1@0@
+T„m„ viesti on tarkoitettu C/AL-ohjelmoijille:
+
+BigText-muuttujaa varten ei voi varata merkkijonoa, jonka koko on suurempi kuin 2 147 483 647 tavua.
+@2@2@0@
+T„m„ sanoma on tarkoitettu C/AL-ohjelmoijille:
+
+BigText-muuttujassa ei voi m„„ritt„„ negatiivista sijaintia.
+@2@3@0@
+T„m„ viesti on tarkoitettu C/AL-ohjelmoijille:
+
+BigText-muuttujassa ei voi m„„ritt„„ negatiivista pituutta.
+@2@4@0@
+T„m„ viesti on tarkoitettu C/AL-ohjelmoijille:
+
+BigText-muuttujasta kopioiminen aiheuttaisi kohdekent„n ylivuodon.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_NCLTypeConv    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL to NCL type convertion Errors                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@109@0@
+@2@1@0@
+Microsoft Dynamics NAV -kehitysymp„rist”n luokkakirjasto ei tue tyyppi„ %1.
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  Module_AL_2Cs    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  AL 2 C# and Metadata generation errors                     ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@108@0@
+@2@1@0@
+MSXML:n lataaminen ep„onnistui
+@2@2@0@
+Metatiedot ovat vahingoittuneet
+@2@END@0@

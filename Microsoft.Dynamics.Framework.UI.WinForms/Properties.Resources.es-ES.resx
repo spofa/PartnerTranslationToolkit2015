@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MenuItem_Additional" xml:space="preserve">
+    <value>&amp;Adicional</value>
+  </data>
+  <data name="ReportViewer_ExportMenuItemText" xml:space="preserve">
+    <value>Guardar como...</value>
+  </data>
+  <data name="ReportViewer_RefreshButtonToolTip" xml:space="preserve">
+    <value>Actualizar</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonText" xml:space="preserve">
+    <value>Siguiente</value>
+  </data>
+  <data name="ReportViewer_SelectAll" xml:space="preserve">
+    <value>(Seleccionar todo)</value>
+  </data>
+  <data name="BusinessChartSaveAsCompressedBitmapFilter" xml:space="preserve">
+    <value>Mapa de bits comprimido</value>
+  </data>
+  <data name="Exception_ImageFileSaveError" xml:space="preserve">
+    <value>Error al intentar guardar el archivo especificado.</value>
+  </data>
+  <data name="AcsErrorPageTitle" xml:space="preserve">
+    <value>No se puede iniciar sesión porque la página Web de Access Control Service no funciona correctamente.</value>
+  </data>
+  <data name="ReportViewer_PasswordPrompt" xml:space="preserve">
+    <value>Contraseña:</value>
+  </data>
+  <data name="AcsErrorPageIssue1" xml:space="preserve">
+    <value>Se ha perdido la conectividad a Internet.</value>
+  </data>
+  <data name="ReportViewer_PageOf" xml:space="preserve">
+    <value>de</value>
+  </data>
+  <data name="ReportViewer_ExportButtonToolTip" xml:space="preserve">
+    <value>Guardar como...</value>
+  </data>
+  <data name="ReportViewer_PrintMenuItemText" xml:space="preserve">
+    <value>Imprimir</value>
+  </data>
+  <data name="ReportViewer_ZoomToPageWidth" xml:space="preserve">
+    <value>Ancho de página</value>
+  </data>
+  <data name="ReportViewer_Runtime_Not_Installed" xml:space="preserve">
+    <value>{0} no está instalado. Póngase en contacto con el administrador del sistema.</value>
+  </data>
+  <data name="ReportViewer_DocumentMapButtonToolTip" xml:space="preserve">
+    <value>Mostrar u ocultar mapa del documento</value>
+  </data>
+  <data name="ReportViewer_PrintLayoutButtonToolTip" xml:space="preserve">
+    <value>Diseño de impresión</value>
+  </data>
+  <data name="Outlook_ConnectionState_Connecting" xml:space="preserve">
+    <value>Conectando con {0}...</value>
+  </data>
+  <data name="ReportViewer_ViewReportButtonToolTip" xml:space="preserve">
+    <value>Ver informe</value>
+  </data>
+  <data name="LookupSetDefaultColumnActionName" xml:space="preserve">
+    <value>Definir como columna de filtro predeterminado</value>
+  </data>
+  <data name="MenuItem_Typical" xml:space="preserve">
+    <value>&amp;Típica</value>
+  </data>
+  <data name="AcsSignInCancelMessage" xml:space="preserve">
+    <value>¿Está seguro de que desea cancelar el inicio de sesión?</value>
+  </data>
+  <data name="ReportViewer_SaveAs_Excel_Filter" xml:space="preserve">
+    <value>{0} Libro</value>
+  </data>
+  <data name="ReportViewer_SearchTextBoxToolTip" xml:space="preserve">
+    <value>Buscar texto</value>
+  </data>
+  <data name="Outlook_Calendar" xml:space="preserve">
+    <value>Calendario</value>
+  </data>
+  <data name="OneNote_EmptyPage" xml:space="preserve">
+    <value>Página vacía</value>
+  </data>
+  <data name="ReportViewer_FindButtonText" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="AccessibleActionClick" xml:space="preserve">
+    <value>Clic</value>
+  </data>
+  <data name="Outlook_Open" xml:space="preserve">
+    <value>Abrir</value>
+  </data>
+  <data name="MissingControl_LibraryNotFound" xml:space="preserve">
+    <value>No se encuentran una o varias dependencias del control '{0}'.</value>
+  </data>
+  <data name="BusinessChartPrintPageError" xml:space="preserve">
+    <value>Imprimir error del gráfico</value>
+  </data>
+  <data name="ControlAddIn_WrongDataType" xml:space="preserve">
+    <value>El complemento de control para "{0}" espera datos del tipo .NET {1}. Cambio el control en la página para enlazar a datos de este tipo.</value>
+  </data>
+  <data name="FormPanel_ToolTipTitle" xml:space="preserve">
+    <value>Resultados validación</value>
+  </data>
+  <data name="OneNote_ErrorNavigating" xml:space="preserve">
+    <value>No se pudo ubicar el contenido de OneNote. Compruebe la ubicación y los permisos de la carpeta de trabajo de OneNote.</value>
+  </data>
+  <data name="ProgressNotificationForm_Canceling" xml:space="preserve">
+    <value>Cancelando</value>
+  </data>
+  <data name="ReportViewer_StopMenuItemText" xml:space="preserve">
+    <value>Detener</value>
+  </data>
+  <data name="OneNote_ErrorCommunicating" xml:space="preserve">
+    <value>No se pudo comunicar con la carpeta de trabajo de OneNote. Compruebe la ubicación y los permisos de la carpeta de trabajo de OneNote.</value>
+  </data>
+  <data name="ExceptionAcsUriIsInvalid" xml:space="preserve">
+    <value>La dirección especificada para Access Control Service no es válida ({0}).</value>
+  </data>
+  <data name="OneNote_LinkTo" xml:space="preserve">
+    <value>Vincular a {0}</value>
+  </data>
+  <data name="BusinessChartPrintPagePreview" xml:space="preserve">
+    <value>Vista preliminar...</value>
+  </data>
+  <data name="MissingControl_Error" xml:space="preserve">
+    <value>Error de control</value>
+  </data>
+  <data name="ControlAddIn_NoJavaScript" xml:space="preserve">
+    <value>El complemento de control para "{0}" no se puede visualizar porque JavaScript no está habilitado.</value>
+  </data>
+  <data name="ReportViewer_FalseValueText" xml:space="preserve">
+    <value>False</value>
+  </data>
+  <data name="MissingControl_Details" xml:space="preserve">
+    <value>Detalles: {0}</value>
+  </data>
+  <data name="ReportViewer_TrueValueText" xml:space="preserve">
+    <value>True</value>
+  </data>
+  <data name="AcsSignInCancelButton" xml:space="preserve">
+    <value>Cancelar inicio de sesión</value>
+  </data>
+  <data name="Clipboard_Copy_ExternalError" xml:space="preserve">
+    <value>No se puede copiar texto al Portapapeles porque otro usuario lo está usando.</value>
+  </data>
+  <data name="ReportViewer_BackButtonToolTip" xml:space="preserve">
+    <value>Volver a informe primario</value>
+  </data>
+  <data name="Exception_Clipboard_Operation_Did_Not_Succed" xml:space="preserve">
+    <value>Error en la operación solicitada del Portapapeles. Esto puede ocurrir cuando hay otro proceso que está usando el Portapapeles.</value>
+  </data>
+  <data name="Outlook_OutlookIsNotInstalled" xml:space="preserve">
+    <value>No se puede conectar a {0} o no se ha instalado {0}.</value>
+  </data>
+  <data name="ReportViewer_PrintLayoutMenuItemText" xml:space="preserve">
+    <value>Vista preliminar</value>
+  </data>
+  <data name="Image_ActionCopy" xml:space="preserve">
+    <value>&amp;Copiar</value>
+  </data>
+  <data name="MenuItem_SelectAll" xml:space="preserve">
+    <value>&amp;Seleccionar todo</value>
+  </data>
+  <data name="MenuItem_Essential" xml:space="preserve">
+    <value>&amp;Esencial</value>
+  </data>
+  <data name="Message_Running_Out_Of_Resources" xml:space="preserve">
+    <value>{0} está a punto de agotar los recursos del sistema. Para evitar la posible pérdida de datos no guardados, cierre todas las ventanas de {0} que no use.</value>
+  </data>
+  <data name="Image_ActionSave" xml:space="preserve">
+    <value>G&amp;uardar imagen como...</value>
+  </data>
+  <data name="MenuItem_More_Menu" xml:space="preserve">
+    <value>&amp;Más...</value>
+  </data>
+  <data name="Exception_ImageFileTooLarge" xml:space="preserve">
+    <value>El archivo especificado es demasiado grande.</value>
+  </data>
+  <data name="Outlook_ConnectionState_ConnectionFailed" xml:space="preserve">
+    <value>Error de conexión con {0}.</value>
+  </data>
+  <data name="ReportViewer_ParameterAreaButtonToolTip" xml:space="preserve">
+    <value>Área de parámetros</value>
+  </data>
+  <data name="ReportViewer_UserNamePrompt" xml:space="preserve">
+    <value>Nombre usuario:</value>
+  </data>
+  <data name="ImageControl_Load_AllFiles_Filter" xml:space="preserve">
+    <value>Todos los archivos</value>
+  </data>
+  <data name="GridHeader_ChooseHeight" xml:space="preserve">
+    <value>Seleccione la altura de la &amp;cabecera</value>
+  </data>
+  <data name="ReportViewer_StopButtonToolTip" xml:space="preserve">
+    <value>Detener representación</value>
+  </data>
+  <data name="OneNote_WarningVersionCaption" xml:space="preserve">
+    <value>Se encontró una versión incompatible de Microsoft OneNote Interop.</value>
+  </data>
+  <data name="ProgressNotificationForm_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="ReportViewer_PageSetupMenuItemText" xml:space="preserve">
+    <value>Preparar página</value>
+  </data>
+  <data name="ReportViewer_ChangeCredentialsText" xml:space="preserve">
+    <value>Cambiar credenciales</value>
+  </data>
+  <data name="OneNote_WarningVersion" xml:space="preserve">
+    <value>No se pudo establecer conexión con Microsoft OneNote porque se encontró un ensamblado de interoperabilidad incompatible. Para la integración con OneNote, debe tener al menos Microsoft Office 2010, versión 14.0.4763.1000, instalado en el equipo. Compruebe que tiene la versión correcta de Microsoft Office instalada.</value>
+  </data>
+  <data name="ControlAddIn_Error" xml:space="preserve">
+    <value>Error de complemento de control</value>
+  </data>
+  <data name="BusinessChartResetZoom" xml:space="preserve">
+    <value>Restablecer zoom</value>
+  </data>
+  <data name="Filter_FiniteEditorPicker_SelectAValue" xml:space="preserve">
+    <value>Seleccione un valor</value>
+  </data>
+  <data name="ReportViewer_ProgressText" xml:space="preserve">
+    <value>Se está generando el informe</value>
+  </data>
+  <data name="ReportViewer_ZoomMenuItemText" xml:space="preserve">
+    <value>Zoom</value>
+  </data>
+  <data name="MenuItem_Cut" xml:space="preserve">
+    <value>Cor&amp;tar</value>
+  </data>
+  <data name="ReportViewer_LastPageButtonToolTip" xml:space="preserve">
+    <value>Última página</value>
+  </data>
+  <data name="ControlAddIn_CreationError" xml:space="preserve">
+    <value>Error al crear el complemento de control para "{0}". Mensaje de error: {1}</value>
+  </data>
+  <data name="ReportViewer_TextNotFound" xml:space="preserve">
+    <value>No se encontraron resultados que coincidan con los criterios de búsqueda.</value>
+  </data>
+  <data name="OneNote_EmptyPageContent" xml:space="preserve">
+    <value>Actualmente no hay ninguna nota para la entidad seleccionada.</value>
+  </data>
+  <data name="Outlook_CreateNewTask" xml:space="preserve">
+    <value>Crear nueva tarea</value>
+  </data>
+  <data name="MenuItem_Undo" xml:space="preserve">
+    <value>&amp;Deshacer</value>
+  </data>
+  <data name="ReportViewer_FindButtonToolTip" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="AcsErrorPageHeader" xml:space="preserve">
+    <value>La página Web de Access Control Service no funciona correctamente</value>
+  </data>
+  <data name="Exception_ImageFileLoadError" xml:space="preserve">
+    <value>Error al intentar abrir el archivo especificado.</value>
+  </data>
+  <data name="ReportViewer_PreviousPageButtonToolTip" xml:space="preserve">
+    <value>Página anterior</value>
+  </data>
+  <data name="Unknown_Control_Message" xml:space="preserve">
+    <value>No se encontró un adaptador de control para asignar el control lógico {0}.</value>
+  </data>
+  <data name="OneNote_Empty" xml:space="preserve">
+    <value>Vacío</value>
+  </data>
+  <data name="Outlook_None" xml:space="preserve">
+    <value>Ninguna</value>
+  </data>
+  <data name="ReportViewer_DocumentMapMenuItemText" xml:space="preserve">
+    <value>Mapa del documento</value>
+  </data>
+  <data name="Image_ActionLoad" xml:space="preserve">
+    <value>&amp;Seleccionar imagen...</value>
+  </data>
+  <data name="ControlAddIn_LibraryNotFound" xml:space="preserve">
+    <value>No se encuentra la biblioteca de complementos de control para "{0}".</value>
+  </data>
+  <data name="MenuItem_Paste" xml:space="preserve">
+    <value>&amp;Pegar</value>
+  </data>
+  <data name="ReportViewer_SelectAValue" xml:space="preserve">
+    <value>&lt;Seleccione un valor&gt;</value>
+  </data>
+  <data name="MissingControl_InstallRequired" xml:space="preserve">
+    <value>Compruebe que las dependencias de aplicación estén instaladas y, a continuación, vuelva a instalar la aplicación.</value>
+  </data>
+  <data name="ReportViewer_NullCheckBoxToolTip" xml:space="preserve">
+    <value>Hacer que el valor del parámetro sea NULL</value>
+  </data>
+  <data name="MenuItem_ImportanceLevel" xml:space="preserve">
+    <value>Importancia &amp;requerida</value>
+  </data>
+  <data name="Summary_Tooltip" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="GridHeader_HeightTitle" xml:space="preserve">
+    <value>Número de líneas de la cabecera</value>
+  </data>
+  <data name="OneNote_PressToCreate" xml:space="preserve">
+    <value>Para crear una nueva nota, use la acción de OneNote (Alt+F7) en {0}.</value>
+  </data>
+  <data name="ReportViewer_ZoomToWholePage" xml:space="preserve">
+    <value>Página completa</value>
+  </data>
+  <data name="GridHeader_HeightFormat" xml:space="preserve">
+    <value>&amp;{0}</value>
+  </data>
+  <data name="ControlAddIn_UnsupportedDataType" xml:space="preserve">
+    <value>El complemento de control para "{0}" espera datos del tipo .NET {1}. Este tipo de datos no es un tipo de datos de complemento de control compatible.</value>
+  </data>
+  <data name="BusinessChartPrintPage" xml:space="preserve">
+    <value>Imprimir...</value>
+  </data>
+  <data name="ActionBarTabButton_DefaultAction" xml:space="preserve">
+    <value>Cambiar</value>
+  </data>
+  <data name="OneNote_ErrorServerExecution" xml:space="preserve">
+    <value>No se puede establecer la conexión a Microsoft OneNote. OneNote debe iniciarse una vez para realizar este trabajo. Compruebe que no está ejecutando Microsoft Dynamics NAV u OneNote como administrador. Cierre todas las instancias de OneNote. A continuación, envíe la página o el registro de nuevo a OneNote.</value>
+  </data>
+  <data name="ReportViewer_SaveAs_PDF_Filter" xml:space="preserve">
+    <value>Archivos PDF de Adobe</value>
+  </data>
+  <data name="DefaultActionWrapper_DefaultAction_Caption" xml:space="preserve">
+    <value>Acción predeterminada</value>
+  </data>
+  <data name="ReportViewer_FirstPageButtonToolTip" xml:space="preserve">
+    <value>Primera página</value>
+  </data>
+  <data name="ControlAddIn_NotSupported" xml:space="preserve">
+    <value>El complemento de control para "{0}" no es compatible.</value>
+  </data>
+  <data name="Outlook_CreateNewAppointment" xml:space="preserve">
+    <value>Crear nueva cita</value>
+  </data>
+  <data name="Outlook_CreateNewMail" xml:space="preserve">
+    <value>Crear nuevo mensaje de correo electrónico</value>
+  </data>
+  <data name="BusinessChartSaveAsBitmapFilter" xml:space="preserve">
+    <value>Mapa de bits</value>
+  </data>
+  <data name="ReportViewer_BackMenuItemText" xml:space="preserve">
+    <value>Informe primario</value>
+  </data>
+  <data name="Image_ActionDelete" xml:space="preserve">
+    <value>&amp;Eliminar</value>
+  </data>
+  <data name="ControlAddIn_NotSupportedInDesignMode" xml:space="preserve">
+    <value>El complemento de control no se muestra en el diseñador.</value>
+  </data>
+  <data name="DefaultBrowserIsNotInstalled" xml:space="preserve">
+    <value>El explorador de Internet no está instalado.</value>
+  </data>
+  <data name="ControlAddIn_InitializationError" xml:space="preserve">
+    <value>Error al inicializar el complemento de control "{0}". Mensaje de error: {1}.</value>
+  </data>
+  <data name="Outlook_AllDay" xml:space="preserve">
+    <value>Todo el día</value>
+  </data>
+  <data name="ReportViewer_NextPageButtonToolTip" xml:space="preserve">
+    <value>Página siguiente</value>
+  </data>
+  <data name="AcsSignInCancelTitle" xml:space="preserve">
+    <value>Cancelar inicio de sesión</value>
+  </data>
+  <data name="Image_ActionShow" xml:space="preserve">
+    <value>&amp;Vista previa de imagen</value>
+  </data>
+  <data name="ReportViewer_CurrentPageTextBoxToolTip" xml:space="preserve">
+    <value>Página actual</value>
+  </data>
+  <data name="Outlook_CreateNewMeetingRequest" xml:space="preserve">
+    <value>Crear nueva solicitud de reunión</value>
+  </data>
+  <data name="Filter_StringEditor_EnterAValue" xml:space="preserve">
+    <value>Especifique un valor.</value>
+  </data>
+  <data name="ReportViewer_RefreshMenuItemText" xml:space="preserve">
+    <value>Actualizar</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonToolTip" xml:space="preserve">
+    <value>Buscar sigte.</value>
+  </data>
+  <data name="ReportViewer_NullCheckBoxText" xml:space="preserve">
+    <value>Null</value>
+  </data>
+  <data name="ReportViewer_TotalPagesToolTip" xml:space="preserve">
+    <value>Total de páginas</value>
+  </data>
+  <data name="Outlook_More" xml:space="preserve">
+    <value>Más...</value>
+  </data>
+  <data name="BusinessChartSaveAsSaveErrorCaption" xml:space="preserve">
+    <value>Error al guardar</value>
+  </data>
+  <data name="Outlook_Today" xml:space="preserve">
+    <value>Hoy</value>
+  </data>
+  <data name="OneNote_Section_NotFound" xml:space="preserve">
+    <value>No se encuentra la sección OneNote "{0}" en el bloc de notas que se encuentra en "{1}".</value>
+  </data>
+  <data name="Outlook_Tasks" xml:space="preserve">
+    <value>Tareas</value>
+  </data>
+  <data name="BusinessChartCopy" xml:space="preserve">
+    <value>&amp;Copiar</value>
+  </data>
+  <data name="AcsErrorPageIssueHeader" xml:space="preserve">
+    <value>Este problema puede ser causado por distintas razones, entre ellas:</value>
+  </data>
+  <data name="ReportViewer_NullValueText" xml:space="preserve">
+    <value>NULL</value>
+  </data>
+  <data name="Outlook_ConnectionState_ConnectionLost" xml:space="preserve">
+    <value>Se ha perdido la conexión con {0}.</value>
+  </data>
+  <data name="ReportViewer_ZoomControlToolTip" xml:space="preserve">
+    <value>Zoom</value>
+  </data>
+  <data name="GridHeader_HeightApplyToAll" xml:space="preserve">
+    <value>&amp;Aplicar a todas las listas</value>
+  </data>
+  <data name="BusinessChartSaveAs" xml:space="preserve">
+    <value>G&amp;uardar imagen como...</value>
+  </data>
+  <data name="FormPanel_ToolTipCount" xml:space="preserve">
+    <value>({0} de {1})</value>
+  </data>
+  <data name="FormPanel_ToolTipFooter" xml:space="preserve">
+    <value>Pulse F1 para obtener ayuda</value>
+  </data>
+  <data name="AcsErrorPageAddress" xml:space="preserve">
+    <value>Dirección:</value>
+  </data>
+  <data name="Outlook_OutlookInbox" xml:space="preserve">
+    <value>Correo</value>
+  </data>
+  <data name="MenuItem_Delete" xml:space="preserve">
+    <value>&amp;Eliminar</value>
+  </data>
+  <data name="ImageControl_Load_Image_Filter" xml:space="preserve">
+    <value>Archivos de imagen</value>
+  </data>
+  <data name="AcsErrorPageIssue2" xml:space="preserve">
+    <value>El sitio Web está temporalmente no disponible.</value>
+  </data>
+  <data name="OneNote_ErrorCreatingContent" xml:space="preserve">
+    <value>No se pudo crear contenido de OneNote. Compruebe la ubicación y los permisos de la carpeta de trabajo de OneNote.</value>
+  </data>
+  <data name="GridHeader_HeightApplyToAllConfirm" xml:space="preserve">
+    <value>Aplicará una altura de cabecera de columna de {0} líneas a todas las listas de la aplicación. ¿Desea continuar?</value>
+  </data>
+  <data name="ReportViewer_NoMoreMatches" xml:space="preserve">
+    <value>No se encontraron más coincidencias.</value>
+  </data>
+  <data name="BusinessChartSaveAsErrorText" xml:space="preserve">
+    <value>Error al guardar la imagen. Se ha devuelto el siguiente mensaje: "{0}" Compruebe que tiene acceso de escritura a la carpeta en la que está guardada la imagen. Si está sobrescribiendo un archivo existente, compruebe que es editable.</value>
+  </data>
+  <data name="OneNote_FileOrNoteBookDoesNotExists" xml:space="preserve">
+    <value>El fichero o bloc de notas no existe. Compruebe la ubicación en la que se almacenan los archivos y blocs de notas de OneNote.</value>
+  </data>
+  <data name="MenuItem_Copy" xml:space="preserve">
+    <value>&amp;Copiar</value>
+  </data>
+  <data name="ReportViewer_ViewReportButtonText" xml:space="preserve">
+    <value>Ver informe</value>
+  </data>
+  <data name="Unknown_Control_Caption" xml:space="preserve">
+    <value>Tipo {0} desconocido.</value>
+  </data>
+  <data name="Message_Selection_Invalid" xml:space="preserve">
+    <value>La selección no es válida.</value>
+  </data>
+  <data name="Outlook_ConnectionState_Disconnected" xml:space="preserve">
+    <value>No hay conexión con {0}.</value>
+  </data>
+  <data name="ReportViewer_PageSetupButtonToolTip" xml:space="preserve">
+    <value>Preparar página</value>
+  </data>
+  <data name="AcsErrorPageIssue3" xml:space="preserve">
+    <value>El scripting está desactivado para la página Web.</value>
+  </data>
+  <data name="ReportViewer_SaveAs_Title" xml:space="preserve">
+    <value>Guardar informe como...</value>
+  </data>
+  <data name="ReportViewer_PrintButtonToolTip" xml:space="preserve">
+    <value>Imprimir</value>
+  </data>
+  <data name="BusinessChartPrintPageSetup" xml:space="preserve">
+    <value>Configuración de impresora...</value>
+  </data>
+  <data name="Strip_Separator" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="ProgressNotificationForm_HeaderFormatWhenTimer" xml:space="preserve">
+    <value>{0} ({1})</value>
+  </data>
+  <data name="ToolTip_Caption_Synopsis" xml:space="preserve">
+    <value>{0}
+
+{1}</value>
+  </data>
+  <data name="ToolTip_Caption_Shortcut" xml:space="preserve">
+    <value>{0} ({1})</value>
+  </data>
+  <data name="ToolTip_Caption_Shortcut_Synopsis" xml:space="preserve">
+    <value>{0} ({1})
+
+{2}</value>
+  </data>
+  <data name="Format_Control_Caption" xml:space="preserve">
+    <value>{0}:</value>
+  </data>
+  <data name="Ellipsis" xml:space="preserve">
+    <value>...</value>
+  </data>
+</root>

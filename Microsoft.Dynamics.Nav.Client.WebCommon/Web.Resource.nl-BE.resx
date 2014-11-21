@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="PageSearchEditControlCaption" xml:space="preserve">
+    <value>Typ de naam van de pagina of de lijst om de zoekopdracht te starten:</value>
+  </data>
+  <data name="FilterStringIsNotValid" xml:space="preserve">
+    <value>De opgegeven filtertekenreeks is niet geldig. De filtertekenreeks moet een beschrijving van het filter bevatten, gevolgd door een horizontale streep en het filterpatroon. Meerdere paren van filterbeschrijvingen en -patronen moeten ook van elkaar worden gescheiden door middel van een verticale streep. Meerdere extensies in een filterpatroon moeten met een puntkomma van elkaar worden gescheiden. Voorbeeld: \"Afbeeldingsbestanden (*.bmp, *.jpg)|*.bmp;*.jpg|Alle bestanden (*.*)|*.*\"</value>
+  </data>
+  <data name="LastActionCompletedWithMessage" xml:space="preserve">
+    <value>Uw laatste actie heeft tot het volgende bericht geleid:</value>
+  </data>
+  <data name="Message_ReportFormatsUnsupported" xml:space="preserve">
+    <value>Open het venster Afdrukvoorbeeld om het rapport op te slaan als een PDF-, Microsoft Word- of Microsoft Excel-bestand.</value>
+  </data>
+  <data name="LastActionCompletedWithError" xml:space="preserve">
+    <value>Uw laatste actie heeft tot de volgende fout geleid:</value>
+  </data>
+  <data name="PageSearchActionCaption" xml:space="preserve">
+    <value>Zoeken naar pagina of rapport...</value>
+  </data>
+  <data name="PageSearchDepartmentColumnName" xml:space="preserve">
+    <value>Afdeling</value>
+  </data>
+  <data name="ErrorAccessingWebSite" xml:space="preserve">
+    <value>Fout bij het openen van website {0}.
+URL: {1}
+{2}</value>
+  </data>
+  <data name="Exception_InvalidSessionErrorMessageWhenEmbedded" xml:space="preserve">
+    <value>Er is een time-out op de pagina opgetreden vanwege inactiviteit. Vernieuw de pagina met de toets F5 op het toetsenbord of de knop Vernieuwen in de browser.</value>
+  </data>
+  <data name="ExtendedDataTypeOpenEmailTooltip" xml:space="preserve">
+    <value>E-mailbericht verzenden</value>
+  </data>
+  <data name="PageSearchNumberOfResults" xml:space="preserve">
+    <value>{0} zoekresultaten: </value>
+  </data>
+  <data name="Message_FormActivatorUnknownAction" xml:space="preserve">
+    <value>Geef een Microsoft Dynamics NAV-pagina of rapport op.</value>
+  </data>
+  <data name="ExtendedDataTypeDialTooltip" xml:space="preserve">
+    <value>Telefoonnummer kiezen</value>
+  </data>
+  <data name="DialogsNotSupportedWhenEmbedded" xml:space="preserve">
+    <value>Dialoogvensters worden niet ondersteund wanneer Microsoft Dynamics NAV in geïntegreerde modus wordt uitgevoerd.</value>
+  </data>
+  <data name="PageSearchFormCaption" xml:space="preserve">
+    <value>Zoeken naar pagina of rapport</value>
+  </data>
+  <data name="Message_LogicalModalityViolation" xml:space="preserve">
+    <value>Er is een dialoogvenster geopend in een ander Microsoft Dynamics NAV-browservenster. U moet dit dialoogvenster sluiten of u afmelden.</value>
+  </data>
+  <data name="NavigateToPageSearchResultActionTooltip" xml:space="preserve">
+    <value>{0} openen</value>
+  </data>
+  <data name="EditControlWithDrilldownActionInInfoPartToolTip" xml:space="preserve">
+    <value>Details voor {0} {1} openen</value>
+  </data>
+  <data name="EditControlNoCaptionWithDrilldownActionInInfoPartToolTip" xml:space="preserve">
+    <value>Details openen</value>
+  </data>
+  <data name="ExtendedDataTypeOpenURLTooltip" xml:space="preserve">
+    <value>Openen in een nieuw browservenster</value>
+  </data>
+  <data name="Message_FailedOpenCompanyException" xml:space="preserve">
+    <value>Kan het bedrijf {0} niet openen.</value>
+  </data>
+  <data name="Exception_InvalidSessionErrorMessage" xml:space="preserve">
+    <value>De verbinding met de server is onderbroken.</value>
+  </data>
+  <data name="UploadFormCaptionWithFilters" xml:space="preserve">
+    <value>Uploaden: {0}</value>
+  </data>
+  <data name="RefreshPageText" xml:space="preserve">
+    <value>Vernieuw de pagina met de toets F5 op het toetsenbord of de knop Vernieuwen in de browser.</value>
+  </data>
+  <data name="UploadFormCaption" xml:space="preserve">
+    <value>Uploaden</value>
+  </data>
+  <data name="PageSearchAllFilter" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="ContactAdministrator" xml:space="preserve">
+    <value>Als de fout zich blijft voordoen, neemt u contact met de systeembeheerder op voor hulp.</value>
+  </data>
+  <data name="PageSearchPageNameColumnName" xml:space="preserve">
+    <value>Naam</value>
+  </data>
+</root>

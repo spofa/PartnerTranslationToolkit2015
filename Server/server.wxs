@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?include ..\Globals.wxi?>
+<?include ..\Locals.wxi?>
+<?define ProductFolderName = "Service"?>
+<?define ProductName="$(var.ModuleLanguage) Module for Microsoft Dynamics NAV Server"?>
+<?define ProductDescription="Installs the $(var.ModuleLanguage) Language files for Microsoft Dynamics NAV Server."?>
+<?define ProductCode="$(var.ProductCodePrefix)-$(var.CountryRegion)-0200F5DFFF46"?>
+<?define UpgradeCode="$(var.UpgradeCodePrefix)-$(var.CountryRegion)-9086251F15D4"?>
+
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="$(var.ProductCode)"
+           Name="$(var.ProductName)"
+           Language="1033"
+           Version="$(var.BuildVersion)"
+           Manufacturer="$(var.Manufacturer)"
+           UpgradeCode="$(var.UpgradeCode)">
+    <Package Manufacturer="$(var.Manufacturer)"
+             Description="$(var.ProductName)"
+             Comments="$(var.ProductDescription)"
+             InstallerVersion="200"
+             Compressed="no"
+             Platform="x64" />
+    
+    <MediaTemplate EmbedCab="yes" />
+
+    <Icon Id="MainIcon" SourceFile="..\NAV.ico" />
+    <Property Id="ARPPRODUCTICON" Value="MainIcon" />
+    <Property Id="ALLUSERS" Value="1" />
+    <Property Id="SERVERINSTANCE" Value="DynamicsNAV80" />
+    <Property Id="SERVERFOUND">
+      <RegistrySearch Id="ServerFound" Root="HKLM" Key="SYSTEM\CurrentControlSet\Services\MicrosoftDynamicsNavServer$[SERVERINSTANCE]" Name="ErrorControl" Type="raw" Win64="yes" />
+    </Property>
+
+    <Feature Id="PlatformResources" Level="1" Title="Platform Resources">
+      <ComponentRef Id="ServiceControl" />
+      <ComponentRef Id="MS_Dyn_Nav_Language_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Nav_DocumentService_Types_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Nav_OpenXml_resources_dll" />
+      <ComponentRef Id="Microsoft_Dynamics_Nav_Client_DynamicsOnlineConnect_dll" />
+      <ComponentRef Id="MS_Dyn_Nav_Client_Timeline_res_dll" />
+      <ComponentRef Id="MS_Dyn_Fwk_UI_WinForms_DV_Timeline_res_dll" />
+    </Feature>
+
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFiles64Folder" Name="PFiles">
+        <Directory Id="ProgramNavFolder" Name="Microsoft Dynamics NAV">
+          <Directory Id="ProgramNavVersionFolder" Name="$(var.NavVersionFolderName)">
+            <Directory Id="INSTALLDIR" Name="Service">
+              <Directory Id="LocalLangFolder" Name="$(var.LocalLangFolder)">
+                <Component Id="MS_Dyn_Nav_Language_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Nav.Language.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.Language.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Nav_DocumentService_Types_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Nav.DocumentService.Types.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.DocumentService.Types.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Nav_OpenXml_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Nav.OpenXml.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.OpenXml.TargetName).resources.dll" />
+                </Component>
+                <Component Guid="103B9540-210F-43E5-A3E5-A7CA7BEACD58" Id="ServiceControl" KeyPath="yes" Win64="yes">
+                  <Condition>SERVERFOUND</Condition>
+                  <CreateFolder Directory="LocalLangFolder" />
+                  <ServiceControl Id="ControlServer" Name="MicrosoftDynamicsNavServer$[SERVERINSTANCE]" Start="install" Stop="both" />
+                </Component>
+              </Directory>
+              <Directory Id="Add_Ins" Name="Add-ins">
+                <Directory Id="OnlineConnectFolder" Name="Connect">
+                  <Directory Id="OnlineConnectLocalLangFolder" Name="$(var.LocalLangFolder)">
+                    <Component Id="Microsoft_Dynamics_Nav_Client_DynamicsOnlineConnect_dll">
+                      <File Source="$(var.Microsoft.Dynamics.Nav.Client.DynamicsOnlineConnect.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.Client.DynamicsOnlineConnect.TargetName).resources.dll" />
+                    </Component>
+                  </Directory>
+                </Directory>
+                <Directory Id="TimelineVisualization" Name="Timeline">
+                  <Directory Id="TimelineLocalLangFolder" Name="$(var.LocalLangFolder)">
+                    <Component Id="MS_Dyn_Nav_Client_Timeline_res_dll">
+                      <File Source="$(var.Microsoft.Dynamics.Nav.Client.TimelineVisualization.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.Client.TimelineVisualization.TargetName).resources.dll" />
+                    </Component>
+                    <Component Id="MS_Dyn_Fwk_UI_WinForms_DV_Timeline_res_dll">
+                      <File Source="$(var.Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.Timeline.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.Timeline.TargetName).resources.dll" />
+                    </Component>
+                  </Directory>
+                </Directory>
+              </Directory>
+            </Directory>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Product>
+</Wix>

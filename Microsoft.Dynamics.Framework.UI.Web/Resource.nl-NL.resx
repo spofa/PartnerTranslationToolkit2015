@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BusinessGrid_SelectRowToolTip" xml:space="preserve">
+    <value>Rij selecteren</value>
+  </data>
+  <data name="LookupEditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Record "{0}" selecteren</value>
+  </data>
+  <data name="ReportViewer_InvalidPageNumber" xml:space="preserve">
+    <value>Ongeldig paginanummer</value>
+  </data>
+  <data name="ReportViewer_SelectAll" xml:space="preserve">
+    <value>(Alles selecteren)</value>
+  </data>
+  <data name="ReportViewer_CurrentPageTextBoxToolTip" xml:space="preserve">
+    <value>Huidige pagina</value>
+  </data>
+  <data name="ReportViewer_DocumentMap" xml:space="preserve">
+    <value>Documenttoewijzing</value>
+  </data>
+  <data name="ReportViewer_BackButtonToolTip" xml:space="preserve">
+    <value>Terug naar bovenliggende lijst</value>
+  </data>
+  <data name="ReportViewer_SelectFormat" xml:space="preserve">
+    <value>Indeling selecteren</value>
+  </data>
+  <data name="FileUpload_BrowseButtonText" xml:space="preserve">
+    <value>Kiezen...</value>
+  </data>
+  <data name="ReportViewer_SelectAValue" xml:space="preserve">
+    <value>&lt;Selecteer een waarde&gt;</value>
+  </data>
+  <data name="ReportViewer_NextPageButtonToolTip" xml:space="preserve">
+    <value>Volgende pagina</value>
+  </data>
+  <data name="GeneralTabTitle" xml:space="preserve">
+    <value>Beheren</value>
+  </data>
+  <data name="PagingBar_PreviousToolTip" xml:space="preserve">
+    <value>Blader naar de vorige pagina met resultaten.</value>
+  </data>
+  <data name="CurrentUserInformationUserNameTooltip" xml:space="preserve">
+    <value>De naam van de gebruiker die momenteel is aangemeld</value>
+  </data>
+  <data name="ReportViewer_NoMoreMatches" xml:space="preserve">
+    <value>Geen overeenkomsten meer gevonden.</value>
+  </data>
+  <data name="ReportViewer_ExportFormatsToolTip" xml:space="preserve">
+    <value>Exportindelingen</value>
+  </data>
+  <data name="ReportViewer_NullValueText" xml:space="preserve">
+    <value>NULL</value>
+  </data>
+  <data name="ControlAddIn_ManifestInvalid" xml:space="preserve">
+    <value>Het manifest voor de besturingselementinvoegtoepassing voor {0} is niet geldig.</value>
+  </data>
+  <data name="ReportViewer_DocumentMapButtonToolTip" xml:space="preserve">
+    <value>Documenttoewijzing weergeven of verbergen</value>
+  </data>
+  <data name="PagingBar_Previous" xml:space="preserve">
+    <value>Vorige</value>
+  </data>
+  <data name="ReportViewer_ZoomToPageWidth" xml:space="preserve">
+    <value>Paginabreedte</value>
+  </data>
+  <data name="ReportViewer_TextNotFound" xml:space="preserve">
+    <value>Er zijn geen resultaten gevonden die overeenkomen met uw zoekcriteria.</value>
+  </data>
+  <data name="ReportViewer_FalseValueText" xml:space="preserve">
+    <value>Onwaar</value>
+  </data>
+  <data name="ReportViewer_ViewReportButtonText" xml:space="preserve">
+    <value>Lijst weergeven</value>
+  </data>
+  <data name="Message_ReportViewerSessionStateDisabled" xml:space="preserve">
+    <value>De lijst kan niet worden weergegeven. De sessie ASP.NET moet worden ingeschakeld in IIS (Internet Information Services). Neem contact op met de systeembeheerder.</value>
+  </data>
+  <data name="ReportViewer_ProgressText" xml:space="preserve">
+    <value>Lijst wordt gegenereerd.</value>
+  </data>
+  <data name="InvalidSession_ButtonText" xml:space="preserve">
+    <value>Hervatten</value>
+  </data>
+  <data name="Report_DefaultCaption" xml:space="preserve">
+    <value>Lijst</value>
+  </data>
+  <data name="ReportViewer_FindButtonToolTip" xml:space="preserve">
+    <value>Zoeken</value>
+  </data>
+  <data name="ReportViewer_RefreshButtonToolTip" xml:space="preserve">
+    <value>Vernieuwen</value>
+  </data>
+  <data name="ReportViewer_TodayIs" xml:space="preserve">
+    <value>Vandaag is</value>
+  </data>
+  <data name="DisclaimerControl_Feedback" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="RowProviderConnectionDisplayName" xml:space="preserve">
+    <value>Rij</value>
+  </data>
+  <data name="ReportViewer_ExportButtonText" xml:space="preserve">
+    <value>Exporteren</value>
+  </data>
+  <data name="ReportViewer_ChangeCredentialsText" xml:space="preserve">
+    <value>Referenties wijzigen</value>
+  </data>
+  <data name="StackControl_Tooltip" xml:space="preserve">
+    <value>Geopende items: {0}</value>
+  </data>
+  <data name="ReportViewer_PreviousPageButtonToolTip" xml:space="preserve">
+    <value>Vorige pagina</value>
+  </data>
+  <data name="ReportViewer_ParameterAreaButtonToolTip" xml:space="preserve">
+    <value>Parametersgebied</value>
+  </data>
+  <data name="ErrorPage_SendByMail" xml:space="preserve">
+    <value>Klik hier om deze fout via e-mail te verzenden.</value>
+  </data>
+  <data name="ReportViewer_PasswordPrompt" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="ReportViewer_PrintButtonToolTip" xml:space="preserve">
+    <value>Afdrukken</value>
+  </data>
+  <data name="DisclaimerControl_Community" xml:space="preserve">
+    <value>Community</value>
+  </data>
+  <data name="DisclaimerControl_Accessibility" xml:space="preserve">
+    <value>Toegankelijkheid</value>
+  </data>
+  <data name="PagingBar_Next" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
+  <data name="ReportViewer_SearchTextBoxToolTip" xml:space="preserve">
+    <value>Zoektekst</value>
+  </data>
+  <data name="EditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Record "{0}" openen in een nieuw venster</value>
+  </data>
+  <data name="ReportViewer_LastPageButtonToolTip" xml:space="preserve">
+    <value>Laatste pagina</value>
+  </data>
+  <data name="ReportViewer_ZoomToWholePage" xml:space="preserve">
+    <value>Hele pagina</value>
+  </data>
+  <data name="PagingBar_NextToolTip" xml:space="preserve">
+    <value>Blader naar de volgende pagina met resultaten.</value>
+  </data>
+  <data name="Message_FormNotFound" xml:space="preserve">
+    <value>Het scherm is leeg of is niet gevonden.</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonText" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
+  <data name="ReportViewer_FirstPageButtonToolTip" xml:space="preserve">
+    <value>1e pagina</value>
+  </data>
+  <data name="AdvancedFilterControl_And" xml:space="preserve">
+    <value>En:</value>
+  </data>
+  <data name="MustUseSSL" xml:space="preserve">
+    <value>U kunt alleen met een veilige verbinding (HTTPS) toegang krijgen tot de toepassing.</value>
+  </data>
+  <data name="DrillDownLink_Tooltip" xml:space="preserve">
+    <value>Details voor {0} {1} openen</value>
+  </data>
+  <data name="ReportViewer_UserNamePrompt" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="ReportViewer_ZoomControlToolTip" xml:space="preserve">
+    <value>In-/uitzoomen</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonToolTip" xml:space="preserve">
+    <value>Volgende zoeken</value>
+  </data>
+  <data name="DisclaimerControl_TermsOfUse" xml:space="preserve">
+    <value>Gebruiksvoorwaarden</value>
+  </data>
+  <data name="ReportViewer_ChangeCredentialsToolTip" xml:space="preserve">
+    <value>Referenties wijzigen</value>
+  </data>
+  <data name="ReportViewer_FindButtonText" xml:space="preserve">
+    <value>Zoeken</value>
+  </data>
+  <data name="ErrorPage_SignOutLink" xml:space="preserve">
+    <value>Klik hier om af te melden.</value>
+  </data>
+  <data name="DisclaimerControl_PrivacyAndCookies" xml:space="preserve">
+    <value>Privacy &amp; Cookies</value>
+  </data>
+  <data name="OpenContextMenu_Tooltip" xml:space="preserve">
+    <value>Menu openen</value>
+  </data>
+  <data name="GeneralGroupTitle" xml:space="preserve">
+    <value>Algemeen</value>
+  </data>
+  <data name="ReportViewer_NullCheckBoxText" xml:space="preserve">
+    <value>Null</value>
+  </data>
+  <data name="ReportViewer_TrueValueText" xml:space="preserve">
+    <value>Waar</value>
+  </data>
+  <data name="Message_ReportViewerMissingHttpHandler" xml:space="preserve">
+    <value>De lijst kan niet worden weergegeven. Voor deze lijst is een HTTP-handleritem in de sectie voor HTTP-handlers vereist in het bestand web.config van de webtoepassing.</value>
+  </data>
+  <data name="AdvancedFilterControl_Is" xml:space="preserve">
+    <value>is:</value>
+  </data>
+  <data name="NoScriptMessage" xml:space="preserve">
+    <value>De pagina werkt niet correct omdat de browser het uitvoeren van scripts voorkomt. Schakel scripting in in de browserinstellingen en vernieuw vervolgens de weergave in de browser.</value>
+  </data>
+  <data name="AdvancedFilterControl_Where" xml:space="preserve">
+    <value>Waarbij:</value>
+  </data>
+  <data name="ReportViewer_ExportButtonToolTip" xml:space="preserve">
+    <value>Opslaan als...</value>
+  </data>
+  <data name="DisclaimerControl_Trademarks" xml:space="preserve">
+    <value>Handelsmerken</value>
+  </data>
+  <data name="Message_ServerError" xml:space="preserve">
+    <value>Er is een fout opgetreden. De inhoud kan niet worden weergegeven.</value>
+  </data>
+  <data name="ReportViewer_PageOf" xml:space="preserve">
+    <value>van</value>
+  </data>
+</root>

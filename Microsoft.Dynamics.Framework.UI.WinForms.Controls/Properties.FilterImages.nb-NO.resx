@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ExpressionType_OrCollection" xml:space="preserve">
+    <value>Eller samling</value>
+  </data>
+  <data name="Expression_VisibleColumnsHeader" xml:space="preserve">
+    <value>Synlige kolonner</value>
+  </data>
+  <data name="ComparisonType_Field" xml:space="preserve">
+    <value>felt</value>
+  </data>
+  <data name="CriteriaOperator_Equals" xml:space="preserve">
+    <value>er</value>
+  </data>
+  <data name="ExpressionPart_AddButtonMenu" xml:space="preserve">
+    <value>Legg til knappemeny</value>
+  </data>
+  <data name="ExpressionPart_ValueEditorTwo" xml:space="preserve">
+    <value>Redigeringsprogram for andre verdi</value>
+  </data>
+  <data name="CriteriaOperator_DoesNotEqual" xml:space="preserve">
+    <value>er ikke</value>
+  </data>
+  <data name="Expression_Or" xml:space="preserve">
+    <value>Eller</value>
+  </data>
+  <data name="ExpressionType_SimpleElement" xml:space="preserve">
+    <value>Enkelt element</value>
+  </data>
+  <data name="CriteriaOperator_Between" xml:space="preserve">
+    <value>er mellom og inkluderer</value>
+  </data>
+  <data name="CriteriaOperator_DoesNotContain" xml:space="preserve">
+    <value>inneholder ikke</value>
+  </data>
+  <data name="ExpressionPart_OrNegationMenu" xml:space="preserve">
+    <value>Eller negasjonsmeny</value>
+  </data>
+  <data name="CriteriaOperator_OnOrAfter" xml:space="preserve">
+    <value>er på eller etter</value>
+  </data>
+  <data name="LookForFilter_ActionButton" xml:space="preserve">
+    <value>Bruk Skriv for å filtrere</value>
+  </data>
+  <data name="ExpressionPart_ValueEditorOne" xml:space="preserve">
+    <value>Redigeringsprogram for verdi</value>
+  </data>
+  <data name="Expression_DefaultActionPhrase" xml:space="preserve">
+    <value>Vis resultater</value>
+  </data>
+  <data name="CriteriaOperator_Contains" xml:space="preserve">
+    <value>inneholder</value>
+  </data>
+  <data name="Expression_And" xml:space="preserve">
+    <value>Og</value>
+  </data>
+  <data name="FilterExpand_DefaultToolTip" xml:space="preserve">
+    <value>Utvid</value>
+  </data>
+  <data name="ExpressionPart_AndDeleteButton" xml:space="preserve">
+    <value>Slett knapp</value>
+  </data>
+  <data name="FilterTierOne_ScopePickerToolTip" xml:space="preserve">
+    <value>Velg en kolonne (ned)</value>
+  </data>
+  <data name="ValueEditor_StringDefaultValue" xml:space="preserve">
+    <value>Angi en verdi</value>
+  </data>
+  <data name="ExpressionType_AndCollection" xml:space="preserve">
+    <value>Og samling</value>
+  </data>
+  <data name="ValueEditor_PickerName" xml:space="preserve">
+    <value>Verdivelger</value>
+  </data>
+  <data name="Expression_InitialAnd" xml:space="preserve">
+    <value>Der</value>
+  </data>
+  <data name="CriteriaOperator_GreaterThanOrEqualTo" xml:space="preserve">
+    <value>er større enn og inkluderer</value>
+  </data>
+  <data name="ExpressionPart_Property" xml:space="preserve">
+    <value>Egenskap</value>
+  </data>
+  <data name="Expression_AndNot" xml:space="preserve">
+    <value>Og ikke</value>
+  </data>
+  <data name="FilterTierOne_TypeToFilterToolTip" xml:space="preserve">
+    <value>Skriv for å filtrere (F3)</value>
+  </data>
+  <data name="CriteriaOperator_BetweenInclusive" xml:space="preserve">
+    <value>mellom (inklusiv)</value>
+  </data>
+  <data name="FilterCollapse_DefaultToolTip" xml:space="preserve">
+    <value>Skjul</value>
+  </data>
+  <data name="ExpressionApplyFilter_DefaultToolTip" xml:space="preserve">
+    <value>Bruk filter</value>
+  </data>
+  <data name="AndExpression_AddFilter" xml:space="preserve">
+    <value>Legg til filter</value>
+  </data>
+  <data name="ExpressionDelete_DefaultToolTip" xml:space="preserve">
+    <value>Slett (Ctrl+Delete)</value>
+  </data>
+  <data name="Expression_Additional" xml:space="preserve">
+    <value>Tillegg</value>
+  </data>
+  <data name="Expression_InitialAndNot" xml:space="preserve">
+    <value>Der ikke</value>
+  </data>
+  <data name="ExpressionPart_AddButton" xml:space="preserve">
+    <value>Legg til knapp</value>
+  </data>
+  <data name="ExpressionPart_DefaultAction" xml:space="preserve">
+    <value>Trykk</value>
+  </data>
+  <data name="Expression_AllColumnsHeader" xml:space="preserve">
+    <value>Alle kolonner</value>
+  </data>
+  <data name="LookForFilter_Textbox" xml:space="preserve">
+    <value>Verdiredigeringsprogram for Skriv for å filtrere</value>
+  </data>
+  <data name="CriteriaOperator_LessThanOrEqualTo" xml:space="preserve">
+    <value>er mindre enn og inkluderer</value>
+  </data>
+  <data name="FilterTierOne_TypeToFilterText" xml:space="preserve">
+    <value>Skriv for å filtrere</value>
+  </data>
+  <data name="CriteriaOperator_IsEmpty" xml:space="preserve">
+    <value>er tom</value>
+  </data>
+  <data name="ExpressionPart_ComparisonType" xml:space="preserve">
+    <value>Sammenligningstype</value>
+  </data>
+  <data name="LookForFilter_Scope" xml:space="preserve">
+    <value>Omfangsvelger for Skriv for å filtrere</value>
+  </data>
+  <data name="FilterTitleMenuFormat" xml:space="preserve">
+    <value>Filteralternativer for {0}</value>
+  </data>
+  <data name="ExpressionType_RootElement" xml:space="preserve">
+    <value>Rotelement</value>
+  </data>
+  <data name="ComparisonType_Value" xml:space="preserve">
+    <value>verdi</value>
+  </data>
+  <data name="ExpressionPart_AndNegationMenu" xml:space="preserve">
+    <value>Og negasjonsmeny</value>
+  </data>
+  <data name="CriteriaOperator_OnOrBefore" xml:space="preserve">
+    <value>er på eller før</value>
+  </data>
+  <data name="Expression_InitialOrNot" xml:space="preserve">
+    <value>Enten ikke</value>
+  </data>
+  <data name="Expression_AndEither" xml:space="preserve">
+    <value>Og enten</value>
+  </data>
+  <data name="CollapseButton_AccessibleName" xml:space="preserve">
+    <value>Utvid/slå sammen</value>
+  </data>
+  <data name="ExpressionPart_Operator" xml:space="preserve">
+    <value>Operator</value>
+  </data>
+  <data name="LookForFilter_Pane" xml:space="preserve">
+    <value>Skriv for å filtrere</value>
+  </data>
+  <data name="Expression_OrNot" xml:space="preserve">
+    <value>Eller ikke</value>
+  </data>
+  <data name="CriteriaOperator_BeginsWith" xml:space="preserve">
+    <value>begynner med</value>
+  </data>
+  <data name="CheckedListView_UncheckItem" xml:space="preserve">
+    <value>Fjern merket for varen</value>
+  </data>
+  <data name="Expression_InitialOr" xml:space="preserve">
+    <value>Enten</value>
+  </data>
+  <data name="CheckedListView_CheckItem" xml:space="preserve">
+    <value>Merk av for vare</value>
+  </data>
+  <data name="CriteriaOperator_LessThanOrEqualToOp" xml:space="preserve">
+    <value>&lt;=</value>
+  </data>
+  <data name="CriteriaOperator_GreaterThanOp" xml:space="preserve">
+    <value>&gt;</value>
+  </data>
+  <data name="CriteriaOperator_GreaterThanOrEqualToOp" xml:space="preserve">
+    <value>&gt;=</value>
+  </data>
+  <data name="CriteriaOperator_EqualsOp" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="CriteriaOperator_DoesNotEqualOp" xml:space="preserve">
+    <value>&lt;&gt;</value>
+  </data>
+  <data name="CriteriaOperator_LessThanOp" xml:space="preserve">
+    <value>&lt;</value>
+  </data>
+</root>

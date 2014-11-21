@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ExpandingStateCannotBeChanged" xml:space="preserve">
+    <value>Status uitvouwen van het dialoogvenster kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="MessageManagerHandlerNotRegistered" xml:space="preserve">
+    <value>De opgegeven afhandelingsroutine voor gebeurtenissen is niet geregistreerd.</value>
+  </data>
+  <data name="TaskDialogButtonTextEmpty" xml:space="preserve">
+    <value>Knoptekst moet niet-leeg zijn.</value>
+  </data>
+  <data name="CoreHelpersRunningOnVista" xml:space="preserve">
+    <value>Alleen ondersteund in Windows 7 of Windows Vista.</value>
+  </data>
+  <data name="InvalidReferencePath" xml:space="preserve">
+    <value>Referentiepad is niet geldig.</value>
+  </data>
+  <data name="PropertyKeyFormatString" xml:space="preserve">
+    <value>{0}, {1}</value>
+  </data>
+  <data name="PowerExecutionStateFailed" xml:space="preserve">
+    <value>SetThreadExecutionState-aanroep is mislukt.</value>
+  </data>
+  <data name="NativeTaskDialogConfigurationError" xml:space="preserve">
+    <value>Er is een fout opgetreden in configuratie van dialoogvenster.</value>
+  </data>
+  <data name="DialogCollectionCannotHaveDuplicateNames" xml:space="preserve">
+    <value>Het dialoogvenster kan niet meerdere besturingselementen met dezelfde naam hebben.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToRegister" xml:space="preserve">
+    <value>Toepassing kan niet worden geregistreerd voor herstel.</value>
+  </data>
+  <data name="HyperlinksCannotBetSet" xml:space="preserve">
+    <value>Hyperlinks kunnen niet worden ingeschakeld/uitgeschakeld terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="ApplicationRecoveryBadParameters" xml:space="preserve">
+    <value>Toepassing is niet geregistreerd voor herstel vanwege ongeldige parameters.</value>
+  </data>
+  <data name="TaskDialogDefaultMainInstruction" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PowerInsufficientAccessCapabilities" xml:space="preserve">
+    <value>De aanroeper heeft onvoldoende toegangsrechten om de stroomvoorzieningsmogelijkheden van het systeem te verkrijgen.</value>
+  </data>
+  <data name="DialogCollectionControlAlreadyHosted" xml:space="preserve">
+    <value>Het dialoogvensterbesturingselement moet eerst uit de huidige verzamelingen worden verwijderd.</value>
+  </data>
+  <data name="TaskDialogCloseNonShowing" xml:space="preserve">
+    <value>Poging om een niet-weergegeven dialoogvenster te sluiten.</value>
+  </data>
+  <data name="CancelableCannotBeChanged" xml:space="preserve">
+    <value>Cancelable kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToUnregister" xml:space="preserve">
+    <value>Ongedaan maken van registratie voor herstel is mislukt.</value>
+  </data>
+  <data name="DialogControlNameCannotBeEmpty" xml:space="preserve">
+    <value>Naam van dialoogvensterbesturingselement mag niet leeg of null zijn.</value>
+  </data>
+  <data name="ApplicationRecoveryMustBeCalledFromCallback" xml:space="preserve">
+    <value>Deze methode moet worden aangeroepen via de geregistreerde callback-methode.</value>
+  </data>
+  <data name="PropVariantInitializationError" xml:space="preserve">
+    <value>Kan PropVariant niet initialiseren.</value>
+  </data>
+  <data name="PropVariantUnsupportedType" xml:space="preserve">
+    <value>Kan niet worden omgezet naar niet-ondersteund type.</value>
+  </data>
+  <data name="PropVariantTypeNotSupported" xml:space="preserve">
+    <value>Dit waardetype wordt niet ondersteund.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToUnregisterForRestart" xml:space="preserve">
+    <value>Ongedaan maken van registratie voor opnieuw starten is mislukt.</value>
+  </data>
+  <data name="ExpandedDetailsCannotBeChanged" xml:space="preserve">
+    <value>Uitgevouwen informatiemodus kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="StartupLocationCannotBeChanged" xml:space="preserve">
+    <value>De opstartlocatie kan niet worden gewijzigd terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="OwnerCannotBeChanged" xml:space="preserve">
+    <value>Eigenaar van dialoogvenster kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="TaskDialogUnkownControl" xml:space="preserve">
+    <value>Dit soort is een onbekend dialoogvensterbesturingselement.</value>
+  </data>
+  <data name="TaskDialogSupportedButtonsAndButtons" xml:space="preserve">
+    <value>In dialoogvenster kunnen niet zowel niet-standaardknoppen als standaardknoppen worden weergegeven.</value>
+  </data>
+  <data name="TaskDialogSupportedButtonsAndLinks" xml:space="preserve">
+    <value>In dialoogvenster kunnen niet zowel niet-standaardknoppen als opdrachtkoppelingen worden weergegeven.</value>
+  </data>
+  <data name="CheckBoxCannotBeChanged" xml:space="preserve">
+    <value>Tekst van selectievakje kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="DialogCollectionModifyShowingDialog" xml:space="preserve">
+    <value>U kunt geen verzameling besturingselementen wijzigen terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="NativeTaskDialogInternalErrorComplex" xml:space="preserve">
+    <value>Dialoogvensterinhoud is te complex.</value>
+  </data>
+  <data name="NativeTaskDialogVersionError" xml:space="preserve">
+    <value>De functie TaskDialog moet versie 6 van comctl32.dll laden, maar er is momenteel een andere versie geladen.</value>
+  </data>
+  <data name="CaptionCannotBeChanged" xml:space="preserve">
+    <value>Dialoogvenstertitel kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="CollapsedTextCannotBeChanged" xml:space="preserve">
+    <value>Tekst van samengevouwen besturingselement kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="DialogDefaultMainInstruction" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PowerManagerBatteryNotPresent" xml:space="preserve">
+    <value>Accu is niet in dit systeem aanwezig.</value>
+  </data>
+  <data name="TaskDialogOnlyOneDefaultControl" xml:space="preserve">
+    <value>Kan niet meer dan één standaardknop van een bepaald type hebben.</value>
+  </data>
+  <data name="PowerInsufficientAccessBatteryState" xml:space="preserve">
+    <value>De aanroeper heeft onvoldoende toegangsrechten om de accustatus van het systeem te verkrijgen.</value>
+  </data>
+  <data name="TaskDialogProgressBarValueInRange" xml:space="preserve">
+    <value>Opgegeven waarde moet groter zijn dan of gelijk aan de minimale waarde en kleiner dan de maximale waarde.</value>
+  </data>
+  <data name="TaskDialogBadButtonId" xml:space="preserve">
+    <value>Ongeldige knop-id in eindgebeurtenis.</value>
+  </data>
+  <data name="ProgressBarCannotBeChanged" xml:space="preserve">
+    <value>Een voortgangsbalk kan niet worden gewijzigd terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="ProgressBarCannotBeHostedInMultipleDialogs" xml:space="preserve">
+    <value>Een voortgangsbalk kan niet worden gehost in meerdere dialoogvensters.</value>
+  </data>
+  <data name="PropVariantMultiDimArray" xml:space="preserve">
+    <value>SafeArrays met meerdere dimensies worden niet ondersteund.</value>
+  </data>
+  <data name="CoreHelpersRunningOnXp" xml:space="preserve">
+    <value>Alleen ondersteund in Windows 7 of Windows Vista.</value>
+  </data>
+  <data name="StandardButtonsCannotBeChanged" xml:space="preserve">
+    <value>Kan StandardButtons niet wijzigen terwijl er een dialoogvenster is geopend.</value>
+  </data>
+  <data name="PowerManagerActiveSchemeFailed" xml:space="preserve">
+    <value>Kan geen actief energieschema ophalen.</value>
+  </data>
+  <data name="DialogCollectionControlNameNull" xml:space="preserve">
+    <value>De besturingselementnaam mag niet null zijn of de lengte nul hebben.</value>
+  </data>
+  <data name="TaskDialogDefaultCaption" xml:space="preserve">
+    <value>Toepassing</value>
+  </data>
+  <data name="DialogDefaultContent" xml:space="preserve">
+    <value />
+  </data>
+  <data name="CoreHelpersRunningOn7" xml:space="preserve">
+    <value>Alleen ondersteund in Windows 7.</value>
+  </data>
+  <data name="TaskDialogProgressBarMaxValueGreaterThanMin" xml:space="preserve">
+    <value>De maximale waarde moet groter zijn dan de minimale waarde.</value>
+  </data>
+  <data name="NativeTaskDialogInternalErrorArgs" xml:space="preserve">
+    <value>Ongeldige argumenten voor Win32-aanroep.</value>
+  </data>
+  <data name="ExpandedLabelCannotBeChanged" xml:space="preserve">
+    <value>Label van uitgevouwen besturingselement kan niet worden gewijzigd terwijl dialoogvenster wordt weergegeven.</value>
+  </data>
+  <data name="DialogControlsCannotBeRenamed" xml:space="preserve">
+    <value>Dialoogvensterbesturingselementen mogen niet worden hernoemd.</value>
+  </data>
+  <data name="TaskDialogProgressBarMinValueGreaterThanZero" xml:space="preserve">
+    <value>De minimale waarde moet een positief getal zijn.</value>
+  </data>
+  <data name="PropVariantNullString" xml:space="preserve">
+    <value>Tekenreeksargument kan niet null of leeg zijn.</value>
+  </data>
+  <data name="TaskDialogCheckBoxTextRequiredToEnableCheckBox" xml:space="preserve">
+    <value>Tekst van selectievakje moet worden opgegeven om het selectievakje van het dialoogvenster in te schakelen.</value>
+  </data>
+  <data name="TaskDialogProgressBarMinValueLessThanMax" xml:space="preserve">
+    <value>De minimale waarde moet kleiner zijn dan de maximale waarde.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToRegisterForRestart" xml:space="preserve">
+    <value>Toepassing kan niet worden geregistreerd voor opnieuw starten.</value>
+  </data>
+  <data name="TaskDialogDefaultContent" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ApplicationRecoverFailedToRegisterForRestartBadParameters" xml:space="preserve">
+    <value>Toepassing kan niet worden geregistreerd voor opnieuw starten vanwege ongeldige parameters.</value>
+  </data>
+  <data name="DialogDefaultCaption" xml:space="preserve">
+    <value>Toepassing</value>
+  </data>
+</root>

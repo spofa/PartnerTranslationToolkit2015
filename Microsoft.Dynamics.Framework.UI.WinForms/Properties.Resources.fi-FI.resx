@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MenuItem_Additional" xml:space="preserve">
+    <value>&amp;Lisäkohteet</value>
+  </data>
+  <data name="ReportViewer_ExportMenuItemText" xml:space="preserve">
+    <value>Tallenna nimellä...</value>
+  </data>
+  <data name="ReportViewer_RefreshButtonToolTip" xml:space="preserve">
+    <value>Päivitä</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonText" xml:space="preserve">
+    <value>Seuraava</value>
+  </data>
+  <data name="ReportViewer_SelectAll" xml:space="preserve">
+    <value>(Valitse kaikki)</value>
+  </data>
+  <data name="BusinessChartSaveAsCompressedBitmapFilter" xml:space="preserve">
+    <value>Tiivistetty bittikartta</value>
+  </data>
+  <data name="Exception_ImageFileSaveError" xml:space="preserve">
+    <value>Virhe yritettäessä tallentaa määritettyä tiedostoa.</value>
+  </data>
+  <data name="AcsErrorPageTitle" xml:space="preserve">
+    <value>Kirjautuminen ei onnistu, koska käytönvalvontapalvelun verkkosivu ei toimi oikein.</value>
+  </data>
+  <data name="ReportViewer_PasswordPrompt" xml:space="preserve">
+    <value>Salasana:</value>
+  </data>
+  <data name="AcsErrorPageIssue1" xml:space="preserve">
+    <value>Internet-yhteys on katkennut.</value>
+  </data>
+  <data name="ReportViewer_PageOf" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="ReportViewer_ExportButtonToolTip" xml:space="preserve">
+    <value>Tallenna nimellä...</value>
+  </data>
+  <data name="ReportViewer_PrintMenuItemText" xml:space="preserve">
+    <value>Tulosta</value>
+  </data>
+  <data name="ReportViewer_ZoomToPageWidth" xml:space="preserve">
+    <value>Sivun leveys</value>
+  </data>
+  <data name="ReportViewer_Runtime_Not_Installed" xml:space="preserve">
+    <value>Kohdetta {0} ei asennettu. Ota yhteys järjestelmänvalvojaan.</value>
+  </data>
+  <data name="ReportViewer_DocumentMapButtonToolTip" xml:space="preserve">
+    <value>Näytä tai piilota asiakirjan rakenneruutu</value>
+  </data>
+  <data name="ReportViewer_PrintLayoutButtonToolTip" xml:space="preserve">
+    <value>Tulostusasettelu</value>
+  </data>
+  <data name="Outlook_ConnectionState_Connecting" xml:space="preserve">
+    <value>Muodostetaan yhteyttä kohteeseen {0}...</value>
+  </data>
+  <data name="ReportViewer_ViewReportButtonToolTip" xml:space="preserve">
+    <value>Näytä raportti</value>
+  </data>
+  <data name="LookupSetDefaultColumnActionName" xml:space="preserve">
+    <value>Määritä suodattimen oletussarakkeeksi</value>
+  </data>
+  <data name="MenuItem_Typical" xml:space="preserve">
+    <value>&amp;Tyypillinen</value>
+  </data>
+  <data name="AcsSignInCancelMessage" xml:space="preserve">
+    <value>Haluatko varmasti peruuttaa sisäänkirjautumisen?</value>
+  </data>
+  <data name="ReportViewer_SaveAs_Excel_Filter" xml:space="preserve">
+    <value>{0} - työkirja</value>
+  </data>
+  <data name="ReportViewer_SearchTextBoxToolTip" xml:space="preserve">
+    <value>Hakuteksti</value>
+  </data>
+  <data name="Outlook_Calendar" xml:space="preserve">
+    <value>Kalenteri</value>
+  </data>
+  <data name="OneNote_EmptyPage" xml:space="preserve">
+    <value>Tyhjä sivu</value>
+  </data>
+  <data name="ReportViewer_FindButtonText" xml:space="preserve">
+    <value>Etsi</value>
+  </data>
+  <data name="AccessibleActionClick" xml:space="preserve">
+    <value>Napsauta</value>
+  </data>
+  <data name="Outlook_Open" xml:space="preserve">
+    <value>Avaa</value>
+  </data>
+  <data name="MissingControl_LibraryNotFound" xml:space="preserve">
+    <value>Vähintään yhtä ohjausobjektin '{0}' edellyttämistä kohteista ei löytynyt.</value>
+  </data>
+  <data name="BusinessChartPrintPageError" xml:space="preserve">
+    <value>Virhe tulostettaessa kaaviota</value>
+  </data>
+  <data name="ControlAddIn_WrongDataType" xml:space="preserve">
+    <value>Kohteen {0} ohjauslisäosa odottaa .NET-tyypin {1} tietoja. Tee sidos tämän tyyppisiin tietoihin muuttamalla sivulla olevaa ohjausobjektia.</value>
+  </data>
+  <data name="FormPanel_ToolTipTitle" xml:space="preserve">
+    <value>Tarkistuksen tulokset</value>
+  </data>
+  <data name="OneNote_ErrorNavigating" xml:space="preserve">
+    <value>OneNote-sisältöä ei löytynyt. Tarkista OneNote-työkansion sijainti ja käyttöoikeudet.</value>
+  </data>
+  <data name="ProgressNotificationForm_Canceling" xml:space="preserve">
+    <value>Peruutetaan</value>
+  </data>
+  <data name="ReportViewer_StopMenuItemText" xml:space="preserve">
+    <value>Pysäytä</value>
+  </data>
+  <data name="OneNote_ErrorCommunicating" xml:space="preserve">
+    <value>Yhteyttä OneNote-työkansioon ei voitu muodostaa. Tarkista OneNote-työkansion sijainti ja käyttöoikeudet.</value>
+  </data>
+  <data name="ExceptionAcsUriIsInvalid" xml:space="preserve">
+    <value>Käytönvalvontapalvelussa määritetty osoite ei kelpaa ({0})</value>
+  </data>
+  <data name="OneNote_LinkTo" xml:space="preserve">
+    <value>Linkitä tietueeseen {0}</value>
+  </data>
+  <data name="BusinessChartPrintPagePreview" xml:space="preserve">
+    <value>Tulostuksen esikatselu...</value>
+  </data>
+  <data name="MissingControl_Error" xml:space="preserve">
+    <value>Hallintavirhe</value>
+  </data>
+  <data name="ControlAddIn_NoJavaScript" xml:space="preserve">
+    <value>Kohteen {0} ohjauslisäosaa ei voi näyttää, koska JavaScript ei ole käytössä.</value>
+  </data>
+  <data name="ReportViewer_FalseValueText" xml:space="preserve">
+    <value>Epätosi</value>
+  </data>
+  <data name="MissingControl_Details" xml:space="preserve">
+    <value>Tiedot: {0}</value>
+  </data>
+  <data name="ReportViewer_TrueValueText" xml:space="preserve">
+    <value>Tosi</value>
+  </data>
+  <data name="AcsSignInCancelButton" xml:space="preserve">
+    <value>Peruuta kirjautuminen</value>
+  </data>
+  <data name="Clipboard_Copy_ExternalError" xml:space="preserve">
+    <value>Tekstiä ei voi kopioida leikepöydälle, sillä toinen ohjelma käyttää sitä.</value>
+  </data>
+  <data name="ReportViewer_BackButtonToolTip" xml:space="preserve">
+    <value>Takaisin pääraporttiin</value>
+  </data>
+  <data name="Exception_Clipboard_Operation_Did_Not_Succed" xml:space="preserve">
+    <value>Pyydetty leikepöydän toiminto epäonnistui. Näin voi tapahtua, jos leikepöytä on toisen prosessin käytössä.</value>
+  </data>
+  <data name="Outlook_OutlookIsNotInstalled" xml:space="preserve">
+    <value>Yhteyttä kohteeseen {0} ei voitu muodostaa tai kohdetta {0} ei ole asennettu.</value>
+  </data>
+  <data name="ReportViewer_PrintLayoutMenuItemText" xml:space="preserve">
+    <value>Tulostuksen esikatselu</value>
+  </data>
+  <data name="Image_ActionCopy" xml:space="preserve">
+    <value>&amp;Kopioi</value>
+  </data>
+  <data name="MenuItem_SelectAll" xml:space="preserve">
+    <value>Valitse &amp;kaikki</value>
+  </data>
+  <data name="MenuItem_Essential" xml:space="preserve">
+    <value>&amp;Olennainen</value>
+  </data>
+  <data name="Message_Running_Out_Of_Resources" xml:space="preserve">
+    <value>Kohteen {0} tarvitsemat järjestelmän resurssit ovat loppumassa. Sulje kaikki käyttämättömät kohteen {0} ikkunat heti, jotta et menettäisi tallentamattomia tietoja.</value>
+  </data>
+  <data name="Image_ActionSave" xml:space="preserve">
+    <value>Tallenna kuva &amp;nimellä...</value>
+  </data>
+  <data name="MenuItem_More_Menu" xml:space="preserve">
+    <value>&amp;Lisää...</value>
+  </data>
+  <data name="Exception_ImageFileTooLarge" xml:space="preserve">
+    <value>Määritetty tiedosto on liian suuri.</value>
+  </data>
+  <data name="Outlook_ConnectionState_ConnectionFailed" xml:space="preserve">
+    <value>Yhteyden muodostus kohteeseen {0} epäonnistui.</value>
+  </data>
+  <data name="ReportViewer_ParameterAreaButtonToolTip" xml:space="preserve">
+    <value>Parametrialue</value>
+  </data>
+  <data name="ReportViewer_UserNamePrompt" xml:space="preserve">
+    <value>Käyttäjänimi:</value>
+  </data>
+  <data name="ImageControl_Load_AllFiles_Filter" xml:space="preserve">
+    <value>Kaikki tiedostot</value>
+  </data>
+  <data name="GridHeader_ChooseHeight" xml:space="preserve">
+    <value>Valitse otsikon &amp;korkeus</value>
+  </data>
+  <data name="ReportViewer_StopButtonToolTip" xml:space="preserve">
+    <value>Pysäytä muodostaminen</value>
+  </data>
+  <data name="OneNote_WarningVersionCaption" xml:space="preserve">
+    <value>Microsoft OneNote -yhteiskäytön yhteensopimaton versio löytyi.</value>
+  </data>
+  <data name="ProgressNotificationForm_Cancel" xml:space="preserve">
+    <value>Peruuta</value>
+  </data>
+  <data name="ReportViewer_PageSetupMenuItemText" xml:space="preserve">
+    <value>Sivun asetukset</value>
+  </data>
+  <data name="ReportViewer_ChangeCredentialsText" xml:space="preserve">
+    <value>Muuta valtuuksia</value>
+  </data>
+  <data name="OneNote_WarningVersion" xml:space="preserve">
+    <value>Yhteyttä Microsoft OneNoteen ei voitu muodostaa, koska yhteensopimaton yhteiskäyttökokoonpano löytyi. OneNote-integrointia varten tietokoneeseen pitää olla asennettuna vähintään Microsoft Office 2010, versio 14.0.4763.1000. Tarkista, että tietokoneessasi on oikea Microsoft Office -versio.</value>
+  </data>
+  <data name="ControlAddIn_Error" xml:space="preserve">
+    <value>Ohjauslisäosan virhe</value>
+  </data>
+  <data name="BusinessChartResetZoom" xml:space="preserve">
+    <value>Palauta zoomaus</value>
+  </data>
+  <data name="Filter_FiniteEditorPicker_SelectAValue" xml:space="preserve">
+    <value>Valitse arvo</value>
+  </data>
+  <data name="ReportViewer_ProgressText" xml:space="preserve">
+    <value>Raportin luonti on meneillään.</value>
+  </data>
+  <data name="ReportViewer_ZoomMenuItemText" xml:space="preserve">
+    <value>Zoomaa</value>
+  </data>
+  <data name="MenuItem_Cut" xml:space="preserve">
+    <value>&amp;Leikkaa</value>
+  </data>
+  <data name="ReportViewer_LastPageButtonToolTip" xml:space="preserve">
+    <value>Viimeinen sivu</value>
+  </data>
+  <data name="ControlAddIn_CreationError" xml:space="preserve">
+    <value>Virhe luotaessa ohjauslisäosaa kohteelle {0}. Virhesanoma: {1}</value>
+  </data>
+  <data name="ReportViewer_TextNotFound" xml:space="preserve">
+    <value>Hakuehtojasi vastaavia tuloksia ei löytynyt.</value>
+  </data>
+  <data name="OneNote_EmptyPageContent" xml:space="preserve">
+    <value>Valitulle objektille ei ole tällä hetkellä muistiota.</value>
+  </data>
+  <data name="Outlook_CreateNewTask" xml:space="preserve">
+    <value>Luo uusi tehtävä</value>
+  </data>
+  <data name="MenuItem_Undo" xml:space="preserve">
+    <value>&amp;Kumoa</value>
+  </data>
+  <data name="ReportViewer_FindButtonToolTip" xml:space="preserve">
+    <value>Etsi</value>
+  </data>
+  <data name="AcsErrorPageHeader" xml:space="preserve">
+    <value>Käytönvalvontapalvelun verkkosivu ei toimi oikein</value>
+  </data>
+  <data name="Exception_ImageFileLoadError" xml:space="preserve">
+    <value>Virhe yritettäessä avata määritettyä tiedostoa.</value>
+  </data>
+  <data name="ReportViewer_PreviousPageButtonToolTip" xml:space="preserve">
+    <value>Edellinen sivu</value>
+  </data>
+  <data name="Unknown_Control_Message" xml:space="preserve">
+    <value>Loogisen ohjauksen {0} määritystä varten ei löydy ohjaussovitinta.</value>
+  </data>
+  <data name="OneNote_Empty" xml:space="preserve">
+    <value>Tyhjä</value>
+  </data>
+  <data name="Outlook_None" xml:space="preserve">
+    <value>Ei yhtään</value>
+  </data>
+  <data name="ReportViewer_DocumentMapMenuItemText" xml:space="preserve">
+    <value>Asiakirjan rakenneruutu</value>
+  </data>
+  <data name="Image_ActionLoad" xml:space="preserve">
+    <value>&amp;Valitse kuva...</value>
+  </data>
+  <data name="ControlAddIn_LibraryNotFound" xml:space="preserve">
+    <value>Kohteen {0} ohjauslisäosakirjastoa ei löytynyt.</value>
+  </data>
+  <data name="MenuItem_Paste" xml:space="preserve">
+    <value>L&amp;iitä</value>
+  </data>
+  <data name="ReportViewer_SelectAValue" xml:space="preserve">
+    <value>&lt;Valitse arvo&gt;</value>
+  </data>
+  <data name="MissingControl_InstallRequired" xml:space="preserve">
+    <value>Varmista, että sovelluksen edellyttämät kohteet on asennettu, ja asenna sovellus sitten uudelleen.</value>
+  </data>
+  <data name="ReportViewer_NullCheckBoxToolTip" xml:space="preserve">
+    <value>Määritä parametrin arvoksi Null</value>
+  </data>
+  <data name="MenuItem_ImportanceLevel" xml:space="preserve">
+    <value>&amp;Vaadittu tärkeys</value>
+  </data>
+  <data name="Summary_Tooltip" xml:space="preserve">
+    <value>{0}: {1}</value>
+  </data>
+  <data name="GridHeader_HeightTitle" xml:space="preserve">
+    <value>Otsikon rivien määrä</value>
+  </data>
+  <data name="OneNote_PressToCreate" xml:space="preserve">
+    <value>Luo uusi muistio käyttämällä OneNote-toimintoa (Alt+F7) ohjelmistossa {0}.</value>
+  </data>
+  <data name="ReportViewer_ZoomToWholePage" xml:space="preserve">
+    <value>Koko sivu</value>
+  </data>
+  <data name="GridHeader_HeightFormat" xml:space="preserve">
+    <value>&amp;{0}</value>
+  </data>
+  <data name="ControlAddIn_UnsupportedDataType" xml:space="preserve">
+    <value>Kohteen {0} ohjauslisäosa odottaa .NET-tyypin {1} tietoja. Tämä tietotyyppi ei ole tuettu ohjauslisäosan tietotyyppi.</value>
+  </data>
+  <data name="BusinessChartPrintPage" xml:space="preserve">
+    <value>Tulosta...</value>
+  </data>
+  <data name="ActionBarTabButton_DefaultAction" xml:space="preserve">
+    <value>Vaihda</value>
+  </data>
+  <data name="OneNote_ErrorServerExecution" xml:space="preserve">
+    <value>Yhteyttä Microsoft OneNoteen ei voi muodostaa. OneNote on käynnistettävä kerran, jotta tämä toimisi. Varmista, ettet ole käyttämässä joko Microsoft Dynamics NAVia tai OneNotea järjestelmänvalvojana. Sulje kaikki OneNote-esiintymät. Lähetä sitten sivu tai tietue uudelleen OneNoteen.</value>
+  </data>
+  <data name="ReportViewer_SaveAs_PDF_Filter" xml:space="preserve">
+    <value>Adoben PDF-tiedostot</value>
+  </data>
+  <data name="DefaultActionWrapper_DefaultAction_Caption" xml:space="preserve">
+    <value>Oletustoiminto</value>
+  </data>
+  <data name="ReportViewer_FirstPageButtonToolTip" xml:space="preserve">
+    <value>Ens. sivu</value>
+  </data>
+  <data name="ControlAddIn_NotSupported" xml:space="preserve">
+    <value>Kohteen "{0}" ohjauslisäosaa ei tueta.</value>
+  </data>
+  <data name="Outlook_CreateNewAppointment" xml:space="preserve">
+    <value>Luo uusi tapaaminen</value>
+  </data>
+  <data name="Outlook_CreateNewMail" xml:space="preserve">
+    <value>Luo uusi sähköpostiviesti</value>
+  </data>
+  <data name="BusinessChartSaveAsBitmapFilter" xml:space="preserve">
+    <value>Bittikartta</value>
+  </data>
+  <data name="ReportViewer_BackMenuItemText" xml:space="preserve">
+    <value>Pääraportti</value>
+  </data>
+  <data name="Image_ActionDelete" xml:space="preserve">
+    <value>&amp;Poista</value>
+  </data>
+  <data name="ControlAddIn_NotSupportedInDesignMode" xml:space="preserve">
+    <value>Ohjauslisäosaa ei näytetä suunnittelutoiminnossa.</value>
+  </data>
+  <data name="DefaultBrowserIsNotInstalled" xml:space="preserve">
+    <value>Internet-selainta ei ole asennettu.</value>
+  </data>
+  <data name="ControlAddIn_InitializationError" xml:space="preserve">
+    <value>Virhe alustettaessa ohjauslisäosaa kohteessa {0}. Virhesanoma: {1}.</value>
+  </data>
+  <data name="Outlook_AllDay" xml:space="preserve">
+    <value>Koko päivä</value>
+  </data>
+  <data name="ReportViewer_NextPageButtonToolTip" xml:space="preserve">
+    <value>Seuraava sivu</value>
+  </data>
+  <data name="AcsSignInCancelTitle" xml:space="preserve">
+    <value>Peruuta kirjautuminen</value>
+  </data>
+  <data name="Image_ActionShow" xml:space="preserve">
+    <value>Kuvan &amp;esikatselu</value>
+  </data>
+  <data name="ReportViewer_CurrentPageTextBoxToolTip" xml:space="preserve">
+    <value>Nykyinen sivu</value>
+  </data>
+  <data name="Outlook_CreateNewMeetingRequest" xml:space="preserve">
+    <value>Luo uusi kokouspyyntö</value>
+  </data>
+  <data name="Filter_StringEditor_EnterAValue" xml:space="preserve">
+    <value>Kirjoita arvo.</value>
+  </data>
+  <data name="ReportViewer_RefreshMenuItemText" xml:space="preserve">
+    <value>Päivitä</value>
+  </data>
+  <data name="ReportViewer_FindNextButtonToolTip" xml:space="preserve">
+    <value>Etsi seuraava</value>
+  </data>
+  <data name="ReportViewer_NullCheckBoxText" xml:space="preserve">
+    <value>Null</value>
+  </data>
+  <data name="ReportViewer_TotalPagesToolTip" xml:space="preserve">
+    <value>Sivuja yhteensä</value>
+  </data>
+  <data name="Outlook_More" xml:space="preserve">
+    <value>Lisää...</value>
+  </data>
+  <data name="BusinessChartSaveAsSaveErrorCaption" xml:space="preserve">
+    <value>Tallennusvirhe</value>
+  </data>
+  <data name="Outlook_Today" xml:space="preserve">
+    <value>Tänään</value>
+  </data>
+  <data name="OneNote_Section_NotFound" xml:space="preserve">
+    <value>OneNote-osaa "{0}" ei löydy muistikirjasta, joka sijaitsee kohteessa "{1}".</value>
+  </data>
+  <data name="Outlook_Tasks" xml:space="preserve">
+    <value>Tehtävät</value>
+  </data>
+  <data name="BusinessChartCopy" xml:space="preserve">
+    <value>&amp;Kopioi</value>
+  </data>
+  <data name="AcsErrorPageIssueHeader" xml:space="preserve">
+    <value>Ongelma voi johtua eri syistä, joita ovat esimerkiksi seuraavat:</value>
+  </data>
+  <data name="ReportViewer_NullValueText" xml:space="preserve">
+    <value>NULL</value>
+  </data>
+  <data name="Outlook_ConnectionState_ConnectionLost" xml:space="preserve">
+    <value>Yhteys kohteeseen {0} on katkennut.</value>
+  </data>
+  <data name="ReportViewer_ZoomControlToolTip" xml:space="preserve">
+    <value>Zoomaa</value>
+  </data>
+  <data name="GridHeader_HeightApplyToAll" xml:space="preserve">
+    <value>&amp;Käytä kaikissa luetteloissa</value>
+  </data>
+  <data name="BusinessChartSaveAs" xml:space="preserve">
+    <value>&amp;Tallenna kuva nimellä...</value>
+  </data>
+  <data name="FormPanel_ToolTipCount" xml:space="preserve">
+    <value>({0}/{1})</value>
+  </data>
+  <data name="FormPanel_ToolTipFooter" xml:space="preserve">
+    <value>Saat Ohjeen näkyviin painamalla F1-näppäintä</value>
+  </data>
+  <data name="AcsErrorPageAddress" xml:space="preserve">
+    <value>Osoite:</value>
+  </data>
+  <data name="Outlook_OutlookInbox" xml:space="preserve">
+    <value>Posti</value>
+  </data>
+  <data name="MenuItem_Delete" xml:space="preserve">
+    <value>&amp;Poista</value>
+  </data>
+  <data name="ImageControl_Load_Image_Filter" xml:space="preserve">
+    <value>Kuvatiedostot</value>
+  </data>
+  <data name="AcsErrorPageIssue2" xml:space="preserve">
+    <value>Sivusto on tilapäisesti poissa käytöstä.</value>
+  </data>
+  <data name="OneNote_ErrorCreatingContent" xml:space="preserve">
+    <value>OneNote-sisällön luominen ei onnistunut. Tarkista OneNote-työkansion sijainti ja käyttöoikeudet.</value>
+  </data>
+  <data name="GridHeader_HeightApplyToAllConfirm" xml:space="preserve">
+    <value>Olet ottamassa sarakkeen otsikon korkeutta ({0} riviä) käyttöön kaikissa sovelluksen luetteloissa. Haluatko jatkaa?</value>
+  </data>
+  <data name="ReportViewer_NoMoreMatches" xml:space="preserve">
+    <value>Enempää vastaavuuksia ei löytynyt.</value>
+  </data>
+  <data name="BusinessChartSaveAsErrorText" xml:space="preserve">
+    <value>Virhe tallennettaessa kuvaa. Seuraava sanoma palautettiin: "{0}" Varmista, että sinulla on kirjoitusoikeudet kansioon, johon kuva on tallennettu. Jos korvaat olemassa olevaa tiedostoa, varmista, että se on kirjoitettava.</value>
+  </data>
+  <data name="OneNote_FileOrNoteBookDoesNotExists" xml:space="preserve">
+    <value>Tiedostoa tai muistikirjaa ei ole olemassa. Tarkista sijainti, johon OneNote-tiedostot ja -muistikirjat on tallennettu.</value>
+  </data>
+  <data name="MenuItem_Copy" xml:space="preserve">
+    <value>&amp;Kopioi</value>
+  </data>
+  <data name="ReportViewer_ViewReportButtonText" xml:space="preserve">
+    <value>Näytä raportti</value>
+  </data>
+  <data name="Unknown_Control_Caption" xml:space="preserve">
+    <value>Tyyppi {0} on tuntematon.</value>
+  </data>
+  <data name="Message_Selection_Invalid" xml:space="preserve">
+    <value>Valinta ei kelpaa.</value>
+  </data>
+  <data name="Outlook_ConnectionState_Disconnected" xml:space="preserve">
+    <value>Kohteeseen {0} ei ole yhteyttä.</value>
+  </data>
+  <data name="ReportViewer_PageSetupButtonToolTip" xml:space="preserve">
+    <value>Sivun asetukset</value>
+  </data>
+  <data name="AcsErrorPageIssue3" xml:space="preserve">
+    <value>Komentosarjat on poistettu käytöstä verkkosivulla.</value>
+  </data>
+  <data name="ReportViewer_SaveAs_Title" xml:space="preserve">
+    <value>Tallenna raportti nimellä...</value>
+  </data>
+  <data name="ReportViewer_PrintButtonToolTip" xml:space="preserve">
+    <value>Tulosta</value>
+  </data>
+  <data name="BusinessChartPrintPageSetup" xml:space="preserve">
+    <value>Tulostusasetukset...</value>
+  </data>
+  <data name="Strip_Separator" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="ProgressNotificationForm_HeaderFormatWhenTimer" xml:space="preserve">
+    <value>{0} ({1})</value>
+  </data>
+  <data name="ToolTip_Caption_Synopsis" xml:space="preserve">
+    <value>{0}
+
+{1}</value>
+  </data>
+  <data name="ToolTip_Caption_Shortcut" xml:space="preserve">
+    <value>{0} ({1})</value>
+  </data>
+  <data name="ToolTip_Caption_Shortcut_Synopsis" xml:space="preserve">
+    <value>{0} ({1})
+
+{2}</value>
+  </data>
+  <data name="Format_Control_Caption" xml:space="preserve">
+    <value>{0}:</value>
+  </data>
+  <data name="Ellipsis" xml:space="preserve">
+    <value>...</value>
+  </data>
+</root>

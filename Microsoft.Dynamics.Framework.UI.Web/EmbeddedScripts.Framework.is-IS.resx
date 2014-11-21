@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AuthenticationPage_HeaderText" xml:space="preserve">
+    <value>Velkomin(n)!</value>
+  </data>
+  <data name="ContinuousScrollingBusyText" xml:space="preserve">
+    <value>Fleiri línur sóttar</value>
+  </data>
+  <data name="OpenContextMenuTitle" xml:space="preserve">
+    <value>Valmyndin Opna</value>
+  </data>
+  <data name="Validation_MessageWarnings" xml:space="preserve">
+    <value>Ein eða fleiri viðvaranir eru á síðunni.</value>
+  </data>
+  <data name="Validation_MessageOneError_Desktop" xml:space="preserve">
+    <value>Síðan inniheldur villu. Leiðréttu villuna eða reyndu að afturkalla.[[[[snúa breytingunni aftur]]]]</value>
+  </data>
+  <data name="Validation_MessageOneError_Mobile" xml:space="preserve">
+    <value>Síðan inniheldur villu. Leiðréttu villuna eða reyndu að afturkalla breytingarnar.[[[[Afturkalla]]]]</value>
+  </data>
+  <data name="DatePickerDateFormat" xml:space="preserve">
+    <value>mm/dd/áá</value>
+  </data>
+  <data name="Expander_Expand" xml:space="preserve">
+    <value>Stækka</value>
+  </data>
+  <data name="FileUploadWrongFile" xml:space="preserve">
+    <value>Velja skrá með einn af eftirtöldum viðaukum: {0}</value>
+  </data>
+  <data name="Restart" xml:space="preserve">
+    <value>Endurræsa</value>
+  </data>
+  <data name="Filter_ExecuteButtonToolTip" xml:space="preserve">
+    <value>Nota afmörkun</value>
+  </data>
+  <data name="DatePickerCloseText" xml:space="preserve">
+    <value>Lokið</value>
+  </data>
+  <data name="DatePickerDayNamesMin" xml:space="preserve">
+    <value>Su,Má,Þr,Mi,Fi,Fö,La</value>
+  </data>
+  <data name="NavigationPane_AllHeading" xml:space="preserve">
+    <value>Allt</value>
+  </data>
+  <data name="LongOperationTitle" xml:space="preserve">
+    <value>Vinnur...</value>
+  </data>
+  <data name="DrillDown_TooltipTitle" xml:space="preserve">
+    <value>Kafa niður</value>
+  </data>
+  <data name="Lookup_TooltipTitle" xml:space="preserve">
+    <value>Fletta upp gildi</value>
+  </data>
+  <data name="BusinessGrid_SelectRowToolTip" xml:space="preserve">
+    <value>Velja röð</value>
+  </data>
+  <data name="Filter_ColumnChooserToolTipFormat" xml:space="preserve">
+    <value>Afmarka dálk: {0}</value>
+  </data>
+  <data name="Expander_Collapse" xml:space="preserve">
+    <value>Fella saman</value>
+  </data>
+  <data name="Message_CommunicationErrorTimedOut" xml:space="preserve">
+    <value>Samskipti við þjóninn mistókust vegna þess að tengingin rann út á tíma. Ekki er hægt að birta efnið. {0}</value>
+  </data>
+  <data name="Validation_MessageMultipleErrors_Desktop" xml:space="preserve">
+    <value>Á síðunni eru {0} villur. Leiðrétta skal villurnar eða reyna að [[[afturkalla breytingarnar]]].</value>
+  </data>
+  <data name="FileUpload_FileTooBig" xml:space="preserve">
+    <value>Ekki tókst að hlaða upp skránni því hún var of stór.</value>
+  </data>
+  <data name="DatePickerWeekHeader" xml:space="preserve">
+    <value>Vk</value>
+  </data>
+  <data name="ControlAddInMethodNotFound" xml:space="preserve">
+    <value>Aðferðin „{0}“ fannst ekki í innbót stýringar.</value>
+  </data>
+  <data name="AriaLookupDescription" xml:space="preserve">
+    <value>Til að leita að gildi skal halda niðri Alt+niðurör.</value>
+  </data>
+  <data name="OpenContextMenuTooltip" xml:space="preserve">
+    <value>Valmyndin Opna</value>
+  </data>
+  <data name="Validation_TooltipTitle" xml:space="preserve">
+    <value>Niðurstöður prófunar</value>
+  </data>
+  <data name="Message_AadAuthenticationError" xml:space="preserve">
+    <value>Villa kom upp við tengingu við Azure Active Directory-reikninginn. Ganga þarf úr skugga um að tenging við internetið sé til staðar og reyna aftur. Ef svo er ekki skal hafa samband við kerfisstjóra.</value>
+  </data>
+  <data name="NavigationPane_ShowList" xml:space="preserve">
+    <value>Sýna lista</value>
+  </data>
+  <data name="JsonRPC_TimeoutError" xml:space="preserve">
+    <value>Tenging við netþjón rann út á tíma.</value>
+  </data>
+  <data name="CallbackServiceProxy_WebServiceFailed" xml:space="preserve">
+    <value>Þjónsaðferðin mistókst.</value>
+  </data>
+  <data name="AuthenticationPage_EnterNewServerName" xml:space="preserve">
+    <value>Færa inn nýtt þjónustuheiti...</value>
+  </data>
+  <data name="AuthenticationPage_ClearServerLIst" xml:space="preserve">
+    <value>Hreinsa netþjónslista</value>
+  </data>
+  <data name="DatePickerYearSuffix" xml:space="preserve">
+    <value />
+  </data>
+  <data name="AuthenticationPage_Username" xml:space="preserve">
+    <value>Notandanafn</value>
+  </data>
+  <data name="DatePickerDayNames" xml:space="preserve">
+    <value>Sunnudagur,Mánudagur,Þriðjudagur,Miðvikudagur,Fimmtudagur,Föstudagur,Laugardagur</value>
+  </data>
+  <data name="ServerNotCompatible" xml:space="preserve">
+    <value>Netþjónninn er ósamhæfur og það þarf að uppfæra hann í nýrri útgáfu. Hafa skal samband við kerfisstjóra.</value>
+  </data>
+  <data name="SynchronizationIcon_Tooltip" xml:space="preserve">
+    <value>Verið er að vista breytingarnar á reitnum.</value>
+  </data>
+  <data name="Back_Title" xml:space="preserve">
+    <value>Bakka</value>
+  </data>
+  <data name="EditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Opna færsluna "{0}" í nýjum glugga</value>
+  </data>
+  <data name="DatePickerDayNamesShort" xml:space="preserve">
+    <value>Sun,Mán,Þri,Mið,Fim,Fös,Lau</value>
+  </data>
+  <data name="DatePickerNextText" xml:space="preserve">
+    <value>Næsta</value>
+  </data>
+  <data name="DatePickerPreviousText" xml:space="preserve">
+    <value>Fyrra</value>
+  </data>
+  <data name="FocusOnContent_Tooltip" xml:space="preserve">
+    <value>Áhersla á efni</value>
+  </data>
+  <data name="Validation_MessageNotification" xml:space="preserve">
+    <value>Síðan hefur eina eða fleiri tilkynningar.</value>
+  </data>
+  <data name="LongOperationMessage" xml:space="preserve">
+    <value>Bíðið þar til aðgerðinni hefur verið lokið.</value>
+  </data>
+  <data name="BusinessGrid_EmptyRowDefaultMessage" xml:space="preserve">
+    <value>(Það eru engin atriði til að sýna í þessu yfirliti)</value>
+  </data>
+  <data name="Message_ScriptError" xml:space="preserve">
+    <value>Forskriftarvilla kom upp. Ekki er hægt að birta efnið. {0}</value>
+  </data>
+  <data name="LongOperationPleaseWait" xml:space="preserve">
+    <value>Augnablik. Þetta er að taka lengri tíma en venjulega.</value>
+  </data>
+  <data name="Network_Unavailable" xml:space="preserve">
+    <value>Netið er ekki til staðar eins og er. Tenging verður endurheimt þegar netaðgangur kemst á aftur.</value>
+  </data>
+  <data name="Validation_MessageMultipleErrors_Mobile" xml:space="preserve">
+    <value>Síðan inniheldur {0} villur. Leiðréttu villurnar eða reyndu að afturkalla breytingarnar.[[[[Afturkalla]]]]</value>
+  </data>
+  <data name="ErrorPage_SendByMail" xml:space="preserve">
+    <value>Smellið hér til að senda þessa villu með tölvupósti.</value>
+  </data>
+  <data name="AuthenticationPage_Password" xml:space="preserve">
+    <value>Aðgangsorð</value>
+  </data>
+  <data name="Message_CommunicationError" xml:space="preserve">
+    <value>Samskipti við þjóninn mistókust. Ekki er hægt að birta efnið. {0}</value>
+  </data>
+  <data name="JsonRPC_GenericConnectionError" xml:space="preserve">
+    <value>Ekki náðist tenging við þjóninn.</value>
+  </data>
+  <data name="DatePickerMonthNamesShort" xml:space="preserve">
+    <value>Jan,Feb,Mar,Apr,Maí,Jún,Júl,Ágú,Sept,Okt,Nóv,Des</value>
+  </data>
+  <data name="ErrorPage_ErrorHasOcurred" xml:space="preserve">
+    <value>Villa kom upp.</value>
+  </data>
+  <data name="ConfirmNewServer" xml:space="preserve">
+    <value>Verið er að koma á tengingu við '{0}' sem ekki er sjálfgefin tengingarstilling. Á að halda áfram?</value>
+  </data>
+  <data name="Message_ErrorsExists" xml:space="preserve">
+    <value>Það eru óvistaðar breytingar á síðunni. Á að fleygja þessum breytingum?</value>
+  </data>
+  <data name="ConfirmNo" xml:space="preserve">
+    <value>Nei</value>
+  </data>
+  <data name="Tooltip_ValidationItemDescriptionHeadlineFormat" xml:space="preserve">
+    <value>({0} af {1})</value>
+  </data>
+  <data name="Message_NavigateAway" xml:space="preserve">
+    <value>Ef valið er að halda áfram verður öllum opnum svargluggum lokað.</value>
+  </data>
+  <data name="ConfirmYes" xml:space="preserve">
+    <value>Já</value>
+  </data>
+  <data name="MandatoryIcon_Tooltip" xml:space="preserve">
+    <value>Gildið í þessum reit er áskilið.</value>
+  </data>
+  <data name="EnterServerPage_UseExistingServer" xml:space="preserve">
+    <value>Nota fyrirliggjandi þjónustu.</value>
+  </data>
+  <data name="AssistEdit_TooltipTitle" xml:space="preserve">
+    <value>Breytingahjálp</value>
+  </data>
+  <data name="RestartPage" xml:space="preserve">
+    <value>Uppfærðu síðuna eða opnaðu nýjan vafraglugga.</value>
+  </data>
+  <data name="LookupEditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Velja skrá "{0}"</value>
+  </data>
+  <data name="SelectServerPage_IntroText" xml:space="preserve">
+    <value>Áður en hafist er handa þarf að tengja forritið við þjónustu á internetinu.</value>
+  </data>
+  <data name="DatePickerCurrentText" xml:space="preserve">
+    <value>Í dag</value>
+  </data>
+  <data name="Filter_ClearButtonToolTip" xml:space="preserve">
+    <value>Hreinsa afmörkun</value>
+  </data>
+  <data name="SelectServerControl_ServiceName" xml:space="preserve">
+    <value>Heiti þjónustu</value>
+  </data>
+  <data name="DatePickerMonthNames" xml:space="preserve">
+    <value>janúar,febrúar,mars,apríl,maí,júní,júlí,ágúst,september,október,nóvember,desember</value>
+  </data>
+  <data name="Sorting_SortLinkTitle" xml:space="preserve">
+    <value>Raða á „{0}“</value>
+  </data>
+  <data name="DatePickerIsRTL" xml:space="preserve">
+    <value>False</value>
+  </data>
+  <data name="DatePickerFirstDay" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="DatePickerShowMonthAfterYear" xml:space="preserve">
+    <value>No</value>
+  </data>
+</root>

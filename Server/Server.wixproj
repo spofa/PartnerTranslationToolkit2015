@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x64</Platform>
+    <ProductVersion>3.6</ProductVersion>
+    <ProjectGuid>9c2208c3-9cee-4756-b3fc-4c2190b3369d</ProjectGuid>
+    <SchemaVersion>2.0</SchemaVersion>
+    <OutputName>Server</OutputName>
+    <OutputType>Package</OutputType>
+    <InstallerPlatform>x64</InstallerPlatform>
+    <WixTargetsPath Condition=" '$(WixTargetsPath)' == '' AND '$(MSBuildExtensionsPath32)' != '' ">$(MSBuildExtensionsPath32)\Microsoft\WiX\v3.x\Wix.targets</WixTargetsPath>
+    <WixTargetsPath Condition=" '$(WixTargetsPath)' == '' ">$(MSBuildExtensionsPath)\Microsoft\WiX\v3.x\Wix.targets</WixTargetsPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <DefineConstants>Debug</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Server.wxs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Microsoft.Dynamics.Nav.Client.DynamicsOnlineConnect\Microsoft.Dynamics.Nav.Client.DynamicsOnlineConnect.csproj">
+      <Name>Microsoft.Dynamics.Nav.Client.DynamicsOnlineConnect</Name>
+      <Project>{29cd53c5-c5a2-4195-8521-49fd07fd6127}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLFOLDER</RefTargetDir>
+    </ProjectReference>
+    <ProjectReference Include="..\Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.Timeline\Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.Timeline.csproj">
+      <Name>Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.Timeline</Name>
+      <Project>{fee12f26-a4d7-4c6a-84ea-9f69bf84cefc}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLFOLDER</RefTargetDir>
+    </ProjectReference>
+    <ProjectReference Include="..\Microsoft.Dynamics.Nav.Client.TimelineVisualization\Microsoft.Dynamics.Nav.Client.TimelineVisualization.csproj">
+      <Name>Microsoft.Dynamics.Nav.Client.TimelineVisualization</Name>
+      <Project>{768b7396-6a49-484a-926b-0af2ee363028}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLFOLDER</RefTargetDir>
+    </ProjectReference>
+    <ProjectReference Include="..\Microsoft.Dynamics.Nav.DocumentService.Types\Microsoft.Dynamics.Nav.DocumentService.Types.csproj">
+      <Name>Microsoft.Dynamics.Nav.DocumentService.Types</Name>
+      <Project>{50559bcb-3369-46b2-a9ea-67daac2a0126}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLFOLDER</RefTargetDir>
+    </ProjectReference>
+    <ProjectReference Include="..\Microsoft.Dynamics.Nav.Language\Microsoft.Dynamics.Nav.Language.csproj">
+      <Name>Microsoft.Dynamics.Nav.Language</Name>
+      <Project>{134be3af-7976-4350-bde5-a3fda250485c}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLFOLDER</RefTargetDir>
+    </ProjectReference>
+    <ProjectReference Include="..\Microsoft.Dynamics.Nav.OpenXml\Microsoft.Dynamics.Nav.OpenXml.csproj">
+      <Name>Microsoft.Dynamics.Nav.OpenXml</Name>
+      <Project>{da3f4e7e-f528-4ee0-84fb-bfe51663af74}</Project>
+      <Private>True</Private>
+      <DoNotHarvest>True</DoNotHarvest>
+      <RefProjectOutputGroups>Binaries;Content;Satellites</RefProjectOutputGroups>
+      <RefTargetDir>INSTALLFOLDER</RefTargetDir>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(WixTargetsPath)" />
+  <!--
+	To modify your build process, add your task inside one of the targets below and uncomment it.
+	Other similar extension points exist, see Wix.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

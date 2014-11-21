@@ -1,0 +1,4840 @@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  OS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Operating System                                                        ³
+// ³                                                                          ³
+// ³  All texts should be based on the operating system documentation in      ³
+// ³  your language to ensure correct translation.                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@1@0@
+@2@2@0@
+Det g†r inte att hitta filen %1 %2.
+
+Kontrollera att enheten, katalogen och filnamnen „r korrekta.
+@2@3@0@
+Det g†r inte att hitta enheten och katalogen som angetts f”r filen %1 %2.
+
+Kontrollera att enheten, katalogen och filnamnen „r korrekta.
+@2@4@0@
+Filen %1 %2 kan inte ”ppnas eftersom det inte g†r att ”ppna fler filer.
+
+Med MS-DOS och OS/2 kan du l”sa det h„r problemet genom att ”ka v„rdet p† FILES i filen CONFIG.SYS.
+@2@5@0@
+Det g†r inte att f† †tkomst till filen %1 %2.
+
+Kontrollera att filtypen och attributen „r korrekta.
+@2@8@0@
+Det finns inte tillr„ckligt med minne tillg„ngligt f”r att utf”ra funktionen.
+
+Om du arbetar i en enanv„ndarinstallation, kan du f”rs”ka med att minska v„rdet p† programegenskapen 'cache'. Du kan hitta information om hur man optimerar operativsystemet i dokumentationen till ditt operativsystem.
+@2@14@0@
+Det finns inte tillr„ckligt med ledigt minne p† datorn som k”r Microsoft Dynamics NAV Server f”r att den aktuella aktiviteten ska kunna utf”ras.
+@2@15@0@
+Det g†r inte att hitta den angivna enheten f”r filen %1 %2.
+
+Kontrollera enheten och att enhetsnamnet „r korrekt angivet.
+@2@17@0@
+Det g†r inte att byta namn p† eller flytta en fil till en annan enhet.
+
+Det h„r meddelandet avser filerna %1 %2.
+
+B†da filerna m†ste finnas p† samma enhet.
+@2@19@0@
+Disken „r skrivskyddad.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Kontrollera att du anv„nder r„tt disk. Ta sedan bort skrivskyddet. Mer information finns i dokumentationen till operativsystemet.
+@2@20@0@
+Det g†r inte att hitta enheten %1 %2.
+
+Kontrollera att du befinner dig i r„tt katalog och att namnet „r korrekt angivet.
+@2@21@0@
+Diskenheten „r inte klar.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Kontrollera att disken finns p† plats i enheten, att enheten „r st„ngd och att den inte anv„nds av ett annat program.
+@2@23@0@
+Varning: Operativsystemet har hittat ett skadat omr†de p† disken. F”r att undvika f”rlust av viktiga data m†ste detta fel †tg„rdas innan du kan anv„nda programmet igen. Anv„nd inte n†gon typ av diskverktyg f”r att reparera databasen.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Om felet uppstod p† en disk, b”r du kontrollera att disken „r formaterad. I annat fall kontrollerar du h†rddisken och †tg„rdar eventuella fel p† den. Det kan bli n”dv„ndigt att formatera disken och †terst„lla en s„kerhetskopia. 
+Mer information finns i dokumentationen till operativsystemet. N„sta g†ng du startar programmet ska du testa databasen med programegenskapen dbtest=min. Kontakta systemadministrat”ren.
+@2@25@0@
+Varning: Det gick inte att hitta ett specifikt sp†r eller omr†de p† disken. Disken kan vara skadad, oformaterad eller inkompatibel med operativsystemet. F”r att undvika f”rlust av viktiga data m†ste detta fel †tg„rdas innan du kan anv„nda programmet igen. Anv„nd inte n†gon typ av diskverktyg f”r att reparera databasen.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Om felet uppstod p† en disk, b”r du kontrollera att disken „r formaterad. I annat fall kontrollerar du h†rddisken och †tg„rdar eventuella fel p† den. Det kan bli n”dv„ndigt att formatera disken och †terst„lla en s„kerhetskopia. 
+Mer information finns i dokumentationen till operativsystemet. N„sta g†ng du startar programmet ska du testa databasen med programegenskapen dbtest=min. Kontakta systemadministrat”ren.
+@2@26@0@
+Operativsystemet kan inte l„sa disken.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Disken „r antingen skadad eller inte formaterad f”r operativsystemet. Det kan ocks† vara s† att erforderlig drivrutin f”r filsystemet inte installerats. Systemadministrat”ren kan ge dig mer information om detta.
+@2@27@0@
+Varning: Det g†r inte att hitta den angivna sektorn p† disken. Disken kan vara skadad, oformaterad eller inkompatibel med operativsystemet. F”r att undvika f”rlust av viktiga data m†ste detta fel †tg„rdas innan du kan anv„nda programmet igen. Anv„nd inte n†gon typ av diskverktyg f”r att reparera databasen.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Om felet uppstod p† en disk, b”r du kontrollera att disken „r formaterad. I annat fall kontrollerar du h†rddisken och †tg„rdar eventuella fel p† den. Det kan bli n”dv„ndigt att formatera disken och †terst„lla en s„kerhetskopia. 
+Mer information finns i dokumentationen till operativsystemet. N„sta g†ng du startar programmet ska du testa databasen med programegenskapen dbtest=min. Kontakta systemadministrat”ren.
+@2@28@0@
+Det g†r inte att slutf”ra utskriften.
+
+Kontrollera att skrivaren „r p†slagen, att den har anslutits och installerats korrekt och att den inneh†ller papper. Om du skriver ut via en n„tverksskrivare kontrollerar du att det finns tillr„ckligt med ledigt diskutrymme p† servern.
+@2@29@0@
+Det g†r inte att skriva ut till %1 %2.
+
+Kontrollera att den „r installerad och ansluten, p†slagen, tillg„nglig och redo att ta emot data, samt (om det „r en disk) att den „r formaterad.
+@2@30@0@
+Det g†r inte att l„sa data fr†n %1 %2.
+
+Kontrollera att den „r installerad och ansluten, p†slagen, tillg„nglig och i s„ndningsl„ge, samt (om det „r en disk) att den „r formaterad.
+@2@31@0@
+Enheten %1 %2, som „r ansluten till systemet, fungerar inte.
+
+Kontrollera att den „r installerad och ansluten, p†slagen, tillg„nglig och i s„ndningsl„ge, samt (om det „r en disk) att den „r formaterad. 
+Om det „r en disk ska du kontrollera att den „r av r„tt typ, att den „r formaterad och att den har satts in korrekt i enheten.
+@2@32@0@
+Du kan inte anv„nda filen %1 %2 f”r den anv„nds redan.
+@2@33@0@
+Du kan inte anv„nda filen %1 %2 f”r den anv„nds redan av en annan process.
+@2@34@0@
+Du har v„xlat till fel disk.
+
+Det h„r meddelandet avser filen %1 %2.
+
+S„tt i r„tt disk.
+@2@53@0@
+N„tverkss”kv„gen kan inte hittas.
+
+Detta meddelande avser filen %1 %2.
+
+Servern kanske inte „r startad, eller s”kv„gen finns inte.
+@2@80@0@
+Filen %1 %2 finns redan.
+@2@82@0@
+Det g†r inte att skapa en fil eller katalog med namnet %1 %2 i operativsystemet p† grund av ett eller flera av f”ljande fel:
+
+* Katalogen eller filen finns redan.
+* Det g†r inte att hitta s”kv„gen till katalogen.
+* Rotkatalogen „r full eller s† finns det inget mer utrymme p† disken.
+* Katalognamnet inneh†ller ogiltiga tecken eller „r reserverat f”r anv„ndning av operativsystemet.
+* Disken har inte formaterats korrekt.
+@2@100@0@
+Det g†r inte att skapa ytterligare semaforer i operativsystemet.
+
+Konfigurera operativsystemet s† att det till†ter ytterligare semaforidentifierare. Om du k”r UNIX ska du ”ka SEMMNI-v„rdet och skapa en ny UNIX-kernel. Mer information finns i dokumentationen till operativsystemet.
+Kontakta systemadministrat”ren. 
+@2@108@0@
+Ett annat program anv„nder disken.
+
+Det h„r meddelandet avser filen %1 %2.
+
+V„nta tills det andra programmet har avslutats.
+@2@112@0@
+Det finns inte n†got ledigt utrymme p† disken.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Anv„nd en annan disk eller ta bort n†gra filer.
+@2@123@0@
+Filnamnet %1 %2 inneh†ller ett tecken som inte f†r anv„ndas.
+
+Kontrollera filnamnet. Mer information om filnamn finns i dokumentationen till operativsystemet.
+@2@126@0@
+Det g†r inte att l„sa in DLL-modulen %1.
+
+Kontrollera att DLL-modulen existerar, och kontrollera att eventuella andra DLL-moduler som den ska anv„nda ocks† existerar.
+@2@127@0@
+Operativsystemet kan inte hitta DLL-modulen %1.
+@2@166@0@
+Den funktion du har valt kan inte k”ras eftersom n„tverket inte har installerats.
+
+Det h„r meddelandet avser filen %1 %2.
+
+Kontrollera att n„tverket „r korrekt installerat och att det fungerar.
+@2@190@0@
+Det g†r inte att k”ra programmet %1 %2.
+
+Det h„r felet uppst†r om du f”rs”ker att k”ra en DLL-modul som ett program eller om du f”rs”ker att k”ra ett program som en DLL-modul. Det kan ocks† intr„ffa om programmet „r strukturerat p† ett annat s„tt „n det f”rv„ntade. Kontrollera programmets struktur och hur programmet startas.
+@2@191@0@
+Det g†r inte att k”ra programmet %1 %2.
+
+Kontrollera att programmet har installerats korrekt och kan k”ras under det aktuella operativsystemet.
+@2@192@0@
+Det g†r inte att k”ra programmet %1 %2.
+
+Kontrollera att programmet har installerats och l„nkats korrekt.
+@2@193@0@
+Det g†r inte att k”ra programmet %1 %2.
+
+Kontrollera att programmet har installerats korrekt och kan k”ras under det aktuella operativsystemet.
+@2@203@0@
+Operativsystemet kan inte hitta milj”variabeln %1.
+@2@206@0@
+Katalog- eller filnamnet %1 %2 „r f”r l†ngt.
+
+F”r mer information h„nvisas till operativsystemets dokumentation.
+@2@700@0@
+OLE kunde inte initieras.
+@2@800@0@
+Filen %1 kan inte ”ppnas p† NFS (Network File System) eftersom "statd" daemon inte har startats p† NFS-klienten.
+
+Mer information finns i dokumentationen till operativsystemet.
+@2@801@0@
+Filen %1 kan inte ”ppnas p† NFS (Network File System) eftersom "lockd" daemon inte har startats p† NFS-klienten.
+
+Mer information finns i dokumentationen till operativsystemet.
+
+@2@802@0@
+Filen %1 kan inte ”ppnas p† NFS (Network File System) eftersom "lockd" daemon inte har startats p† NFS-klienten.
+
+Mer information finns i dokumentationen till operativsystemet.
+
+@2@899@0@
+Programmet kan inte ansluta till serverns process.
+
+Det beror p† att servern k”rs som en tj„nst med ett systemkonto. K”r klienten via n„tverket ist„llet.
+@2@951@0@
+Det g†r inte att skapa fler semaforer i operativsystemet.
+
+Du m†ste konfigurera om ditt operativsystem om du vill kunna anv„nda fler semaforer. Mer information finns i filen readme.txt (Viktigt) och i dokumentationen till operativsystemet.
+@2@952@0@
+Det g†r inte att skapa mer delat minne i operativsystemet.
+
+Du m†ste konfigurera om ditt operativsystem om du vill kunna anv„nda mer delat minne. Mer information finns i filen readme.txt (Viktigt) och i dokumentationen till operativsystemet.
+@2@953@0@
+Det g†r inte att skapa ett delat minne i den angivna storleken.
+
+Du m†ste konfigurera om ditt operativsystem om du vill kunna anv„nda delat minne i st”rre eller mindre omfattning. Mer information finns i filen readme.txt (Viktigt) och i dokumentationen till operativsystemet.
+@2@958@0@
+Operativsystemet st”djer inte filer st”rre „n 2 GB.
+@2@995@0@
+Operativsystemet returnerade felet (%18):
+
+%99
+@2@998@0@
+Menyobjektet eller funktionen kan inte anv„ndas under detta operativsystem.
+@2@999@0@
+Kommandot som anv„nds f”r att starta det externa programmet %1 „r f”r l†ngt.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ Lang ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Multilanguage							      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@7@0@
+@2@3@0@
+Ett ok„nt spr†k valdes ('%1').
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  UT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Usertypes                                                               ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@9@0@
+@2@002@0@
+Typen '%1' blev inte definierad f”r funktionen.
+@2@6@0@
+V„rdena „r inte kompatibla:
+
+V„rdet %4, som „r av typen %1,
+
+„r inte kompatibelt med
+
+v„rdet %104, som „r av typen %101.
+@2@7@0@
+Det minsta till†tna v„rdet „r %4.
+@2@8@0@
+Det st”rsta till†tna v„rdet „r %4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  STACK  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÙ                                                              ³
+// ³                                                                          ³
+// ³  Stack Manager                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@15@0@
+@2@1@0@
+Det finns inte tillr„ckligt med minne f”r att utf”ra funktionen.
+
+Det kan bero p† rekursiva funktionsanrop som anv„nds i programmet. Kontakta systemadministrat”ren.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  FILE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  File                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@17@0@
+@2@1006@0@
+Filnamnet, enheten och s”kv„gen f†r inte ”verstiga 255 tecken.
+
+Det h„r meddelandet avser filen %1.
+@2@1009@0@
+Filen %1 inneh†ller en post som inte kan l„sas i sin helhet.
+@2@1010@0@
+Filen %1 inneh†ller en rad som „r f”r l†ng f”r en intern variabel.
+@2@1014@0@
+Du kan inte utf”ra s”kning p† en teckenbaserad enhet (t.ex. en skrivare).
+
+Detta meddelande avser filen %1.
+@2@1015@0@
+Filen %1 inneh†ller en filposition som inte l„ngre existerar.
+@2@1016@0@
+Du kan inte kopiera en fil till dess eget namn.
+
+Detta meddelande avser filen %1.
+@2@1017@0@
+Du kan inte kopiera en fil till dess eget namn.
+
+Detta meddelande avser filen %1.
+@2@1018@0@
+Formatet p† den komprimerade filen %1 „r ogiltigt.
+@2@2100@0@
+Filen %1 „r for stor.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EVAL  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Evaluation                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@41@0@
+@2@100@0@
+%5 f†r inte vara blank.
+
+%5 saknas eller „r ogiltig i uttrycket.
+@2@101@0@
+Texten '%10' „r f”r l†ng. %5 kan ha en maximil„ngd p† %3 tecken.
+@2@104@0@
+Texten '%10' „r f”r l†ng. Listan med alternativ kan ha en maximil„ngd p† %3 tecken.
+@2@111@0@
+%5 f†r inte vara %10.
+
+%5 m†ste ligga inom intervallet %1 - %2.
+@2@112@0@
+Du kan inte ange %10 i %5.
+@2@113@0@
+Du kan inte ange %10 i %5.
+@2@120@0@
+'%10' „r f”r stor f”r den interna variabeln '%5'.
+@2@141@0@
+'%10' „r inte ett val.
+
+Befintliga val „r:
+
+%4
+@2@142@0@
+'%10' „r inte ett val.
+
+Befintliga val „r:
+
+%4
+@2@151@0@
+Texten '%10' „r f”r l†ng. Text i f„lt av typen code kan ha en maximil„ngd p† %3 tecken.
+@2@161@0@
+%10 „r inte ett giltigt datum.
+@2@162@0@
+%10 „r inte ett giltigt datum.
+@2@171@0@
+%10 „r inte en giltig tid.
+@2@172@0@
+%10 „r inte en giltig tid.
+@2@175@0@
+%10 „r inte en giltig DateTime.
+@2@180@0@
+'%5' kan inte inneh†lla '%7' mer „n en g†ng.
+
+%10
+@2@181@0@
+'%5' kan inte inneh†lla '%7' mer „n en g†ng.
+
+%10
+@2@182@0@
+Typen '%5' „r inte fullst„ndig.
+
+%10
+@2@183@0@
+Ett ogiltigt f„lt eller attribut har angetts f”r egenskapen 'Format'.
+
+%10
+
+@2@184@0@
+'%10' inneh†ller ogiltiga tecken.
+
+@2@185@0@
+%1 „r inte en ned„rvd DataItem. Ange en ned„rvd DataItem.
+@2@186@0@
+Det g†r inte att ange "%1" eftersom det inte „r en giltig kolumn i den h„r fr†gan.
+@2@187@0@
+DataItemLink har inget specificerat f„lt.
+@2@188@0@
+DataItemLink har ingen specificerad †beropad DataItem.
+@2@189@0@
+DataItemLink har inget specificerat †beropat f„lt.
+@2@190@0@
+Det g†r inte att anv„nda FlowField i en DataItem-l„nk.
+@2@191@0@
+Det g†r bara att l„nka FlowFilter till normala f„lt.
+@2@300@0@
+Det f”rv„ntades '%5' h„r.
+
+%10
+@2@301@0@
+Felet uppstod i f”ljande fil:
+
+Filnamn: %50
+Radnr: %51
+Rad: %10
+Kolumn: %11
+@2@500@0@
+Internt fel:
+
+%5 „r en ok„nd typ.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  FMT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Format                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@42@0@
+@2@2@0@
+Standardformat nummer %1 finns inte f”r typen %2.
+@2@4@0@
+L„ngden p† k„llan ”verskrider storleken p† destinationsbufferten.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  RecConv  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Conversion Utility                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@43@0@
+@2@1@0@
+V„rdet som anges i f„ltet Namn f”r datatabellen f†r inte ”verstiga 30 tecken.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  STR  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  String                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@45@0@
+@2@6@0@
+Str„ngen %3 „r f”r liten f”r infogande av %# f„lt.
+
+Detta felmeddelande visades p.g.a.:
+Nr: %1
+V„rde: %2
+@2@7@0@
+F”ljande text f†r inte vara l„ngre „n %1 tecken.
+
+%2 +
+%3
+@2@5@0@
+Alfavariabeln f†r inte vara l„ngre „n %1 tecken.
+
+%2
+@2@11@0@
+L„ngden p† textstr„ngen ”verskrider storleken p† str„ngbufferten.
+@2@300@0@
+Index ligger inte inom intervall vid †tkomst av str„ng.
+
+Str„ng: %3
+Str„ngl„ngd: %1
+Index: %5
+@2@301@0@
+%6 f†r inte vara %3.
+@2@302@0@
+Du m†ste ange %6.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DATE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Date                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@46@0@
+@2@1@0@
+Ett odefinierat datum kan inte anv„ndas i datumber„kningar.
+@2@2@0@
+Datumet „r ogiltigt.
+@2@3@0@
+Du kan inte anv„nda ett avslutsdatum i datumber„kningar.
+@2@4@0@
+En odefinierad tid kan inte anv„ndas i tidsber„kningar.
+@2@5@0@
+Tiden „r ogiltig.
+@2@8@0@
+Datumformeln ”verskrider den st”rsta till†tna storleken.
+@2@201@0@
+Datumformeln '%10' m†ste inkludera plus (+) eller minus (-).
+@2@202@0@
+Datumformeln '%10' ska inkludera ett nummer.
+@2@203@0@
+Datumformeln %10 ska inneh†lla en tidsenhet.
+
+Tidsenheter kan vara D, VD, V, M, K eller .
+L avser aktuell tidsenhet baserad p† datum och kan anges som ett prefix till tidsenheten.
+@2@204@0@
+Datumformeln '%10' ska inkludera ett nummer.
+@2@205@0@
+Datumformeln %10 inneh†ller ett tal som „r f”r stort.
+
+Talet m†ste ligga inom intervallet %1-%2.
+@2@206@0@
+Ber„kningen av datumformeln %10 resulterade i ett ogiltigt datum: %1.
+
+Endast datum mellan 0000-01-01 och 9999-12-31 f†r anv„ndas.
+@2@207@0@
+Evalueringsfel (ogiltig enhetsstr„ng, %4, f”r datumuttryck i .stx-filen).
+
+Internt fel: 41-%0
+
+@2@208@0@
+Du kan inte basera en datumber„kning p† ett odefinierat datum.
+
+Datum: 0D
+Formel: %10
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  TEXTCONV  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ³                                                                          ³
+// ³  Text Conversion                                                         ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@47@0@
+@2@1@0@
+Textkonverteringen inneh†ller fel eftersom textnr %1-%2 inte finns i .stx-filen.
+
+Internt fel: 47-%0
+@2@2@0@
+Textkonverteringen inneh†ller fel eftersom textnr %1-%2 „r f”r l†ngt f”r den interna bufferten.
+
+Internt fel: 47-%0
+@2@3@0@
+Textkonverteringen inneh†ller fel p† grund av felaktig l„ngd p† en intern buffert i relation till textnr %1-%2.
+
+Internt fel: 47-%0
+@2@5@0@
+F”ljande fil eller filer har sigillerats:
+
+%1
+@2@7@0@
+Sigillering kan inte utf”ras.
+
+Din licensfil till†ter inte att du „ndrar i filen fin.stx. 
+
+Kontakta systemadministrat”ren om du beh”ver hj„lp.
+@2@101@0@
+Det „r fel i textkonverteringen. Felet uppstod i filen %11, p† rad %12, i texten '%13'.
+
+Syntaxen „r ogiltig f”r .stx-filen. Korrekt syntax „r:
+<ModuleNo.>-<TextNo.>-<MaximumLength>-<Translate>: <Text>
+
+Antal siffror i syntaxen:
+
+ModuleNo.: 5 siffror
+TextNo.: 5 siffror
+MaximumLength: 3 siffror
+Translate: 1 siffra
+
+Exempel:
+
+00040-01003-256-1: M†ndag,Tisdag,Onsdag,...
+Internt fel: 47-%0
+@2@102@0@
+Textkonverteringen inneh†ller fel eftersom raden „r f”r l†ng.
+
+Felet uppstod i filen %11 p† rad %12 i texten %13.
+
+Internt fel: 47-%0 
+@2@103@0@
+Textkonverteringen inneh†ller fel eftersom samma text definierats mer „n en g†ng.
+
+Felet uppstod i filen %11 p† rad %12 i texten %13.
+
+Internt fel: 47-%0 
+@2@104@0@
+Textkonverteringen inneh†ller fel eftersom texten „r f”r l†ng.
+
+Felet uppstod i filen %11 p† rad %12 i texten %13.
+
+Internt fel: 47-%0
+@2@105@0@
+Textkonverteringen inneh†ller fel p† grund av ogiltig .stx-syntax.
+
+Felet uppstod i filen %11 p† rad %12 i texten %13.
+
+Internt fel: 47-%0 
+@2@106@0@
+Kontrollsumman i filen fin.stx „r felaktig. Filen har „ndrats eller skadats efter att installationen gjordes.
+
+Kontakta systemadministrat”ren.
+@2@109@0@
+Textkonverteringen inneh†ller fel eftersom r„tt niv† av fil m†ste vara den f”rsta raden i fin.stx.
+
+Felet uppstod i filen %11 p† rad %12 i texten %13.
+
+Internt fel: 47-%0 
+@2@110@0@
+Kontrollsumman i filen fin.stx „r felaktig. Filen har „ndrats eller skadats efter att installationen gjordes.
+
+Felet uppstod i filen %11.
+
+Kontakta systemadministrat”ren.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  BCD  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Binary Coded Decimal (Decimal No.)                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@50@0@
+@2@1@0@
+Division med noll.
+
+%2 / %3
+@2@2@0@
+F”ljande operation har resulterat i ett decimaltal som „r f”r stort.
+
+%1
+@2@4@0@
+F”ljande operation har resulterat i ett decimaltal som „r f”r stort.
+
+%1
+@2@5@0@
+Ett heltal „r f”r stort.
+
+%2
+@2@6@0@
+Ett av f”ljande fel har intr„ffat:
+
+Ett f”rs”k gjordes att upph”ja ett negativt tal till en potens som inte var ett heltal.
+* Ett f”rs”k gjordes att upph”ja noll till en potens som var ett negativt tal.
+
+Potens(%2,%4)
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EXEC  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Execute External Program                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@80@0@
+@2@1@0@
+Det externa programmet %1 l„mnade felkoden %0.
+
+F”r mer information h„nvisas till dokumentationen till det externa programmet.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ATT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Attributes                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@11@0@
+@2@1@0@
+Egenskapen ”verskrider buffertstorleken.
+@2@100@0@
+Internt fel:
+Egenskapen %1 finns inte definierad i egenskapslistan.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  MT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  MiniTree                                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@24@0@
+@2@3@0@
+Det „r n†got fel med filen %2. F”r att forts„tta, m†ste du ta bort filen, eller byta namn p† den.
+@2@8@0@
+Texten i rapporten ”verskrider maxgr„nsen med %11 tecken.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  HELP ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Help Lookup Subsystem                                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@25@0@
+@2@001@0@
+Det „r fel p† hj„lpsystemet.
+S„kerst„ll att .hh filerna „r installerade p† ett korrekt s„tt.
+@2@002@0@
+En rad (%4) i hj„lpfilen %1 „r f”r l†ng. Rader f†r maximalt inneh†lla 1 023 tecken.
+@2@003@0@
+Det finns ett syntaxfel i hj„lpfilen %1 p† rad %2, position %3.
+
+%4
+@2@004@0@
+Det finns ett syntaxfel i hj„lpfilen %1 p† rad %2, position %3. En #define-sats f”rv„ntades.
+
+%4
+@2@005@0@
+Det finns ett syntaxfel i hj„lpfilen %1 p† rad %2, position %3. En identifierare f”rv„ntades.
+
+%4
+@2@006@0@
+Det finns ett syntaxfel i hj„lpfilen %1 p† rad %2, position %3. Ett tal f”rv„ntades.
+
+%4
+@2@007@0@
+Ogiltigt inneh†ll p†tr„ffades i hj„lpfilen %1.
+
+%4
+@2@008@0@
+En ov„ntad tagg hittades i hj„lpfilen %1.
+
+%4
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´RUNTIME ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@40@0@
+@2@001@0@
+%1 „r inte implementerad.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´Assert        ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@255@0@
+@2@027@0@
+Internt fel: %1
+
+%2 rad %3
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  L4    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ  License File                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@160@0@
+@2@200@0@
+Filformatet „r ogiltigt. Filen „r inte en giltig licensfil.
+@2@201@0@
+Bit-f”r-bit-operationer kan enbart utf”ras p† data av samma storlek.
+@2@204@0@
+Bufferten f”r retur av data „r inte tillr„ckligt stor.
+@2@205@0@
+Data finns redan.
+@2@206@0@
+En ogiltig parameter anv„ndes.
+@2@208@0@
+En .dll-fil i Windows API har skadats.
+
+Internt fel: 160-%0
+
+Kontakta systemadministrat”ren.
+@2@210@0@
+Data kan inte tolkas som %18.
+@2@211@0@
+Datatypen %18 f†r inte anv„ndas i detta sammanhang.
+@2@220@0@
+Det finns inget mer utrymme tillg„ngligt.
+@2@242@0@
+Licensfilen kan inte anv„ndas tillsammans med den h„r versionen av programmet.
+@2@248@0@
+Landskoden i licensen motsvarar inte landskoden (%1) f”r produkten.
+@2@END@0@
+ 
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´ BCMIA ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Large Fixed Decimal Numbers                                             ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@18@0@
+@2@1@0@
+Decimalt overflow.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´ DB ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Database System                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@19@0@
+@2@1@0@
+Varning: Ett fel har uppst†tt i databasstrukturen. Detta uppst†r om databasfilen „ndras av ett annat program eller om en enhetsdrivrutin inte fungerar korrekt.
+
+Du m†ste †tg„rda det h„r felet innan du kan forts„tta. Felet (%18 i modulen %23) kan ha orsakats av datorn eller ett program.
+
+Tabell: %1.1
+F”retag: %1.9
+Nyckelf„lt: %6
+
+Kontrollera databasen. G† till Arkiv-menyn, klicka p† Databas, Testa och Maximal. Om samma felmeddelande visas g”r du f”ljande:
+
+1) S„kerhetskopiera databasen genom att kopiera databasfilen eller -filerna till en annan plats.
+
+2) Anv„nd den inbyggda funktionen f”r att g”ra en s„kerhetskopia.
+
+3) Om detta fungerar skapar du en ny databas utan att ta bort den felaktiga databasen.
+terst„ll s„kerhetskopian som du skapade med den inbyggda funktionen till den nya databasen. Kontrollera d„refter databasen genom att g† till Arkiv-menyn och klicka p† Databas, Testa och Maximal.
+
+Om den h„r proceduren inte fungerar g†r alla databas„ndringar som gjorts efter den senaste s„kerhetskopieringen f”rlorade. terst„ll den senaste s„kerhetskopian som skapades med den inbyggda funktionen och testa den.
+Av s„kerhetssk„l b”r du spara den gamla databasen till dess att du anv„nt den nya en tid.
+
+Kontakta systemadministrat”ren om du beh”ver hj„lp.
+@2@3@0@
+Det finns inte tillr„ckligt med ledigt utrymme i databasen f”r att utf”ra uppgiften. Du kan ”ka utrymmet genom att:
+
+* Expandera databasen.
+* Ta bort on”digt data.
+* Utf”ra datumkomprimering p† „ldre, inaktuella transaktioner.
+* Optimera databasen.
+@2@4@0@
+Andra samtidiga aktiviteter har †teranv„nt det tillg„ngliga utrymmet i databasen som inneh”ll din data”gonblicksbild. Detta kan uppst† vid tidskr„vande †tg„rder som utskrifter och s„kerhetskopieringar.
+V„nta till dess att f„rre samtidiga uppdateringar av databasen g”rs och f”rs”k igen.
+
+Om detta h„nder ofta, ska du ut”ka det tillg„ngliga utrymmet i databasen. Du kan skapa mer utrymme i databasen genom att:
+
+* Expandera databasen.
+* Ta bort on”diga data.
+* Utf”ra datumkomprimering p† „ldre, inaktuella transaktioner.
+* Optimera databasen.
+@2@5@0@
+Tabellen %1.1 finns inte.
+@2@7@0@
+Du kan inte g”ra n†gra „ndringar i databasen f”rr„n en transaktion har startats.
+@2@9@0@
+F„lttypen „r inte definierad f”r f„lt %2.2 i tabellen %1.1.
+@2@13@0@
+Du kan inte ta bort ett f„lt av typen SumIndexField, f”r en aktiv nyckel. F„ltet „r:
+
+F„ltnr: %2.2
+Tabell: %1.1
+SumIndexFields: %6
+@2@14@0@
+Du kan inte ta bort ett f„lt som ing†r i en aktiv nyckel. F„ltet „r:
+
+F„ltnr: %2.2
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@15@0@
+Ett SumIndexField m†ste ha Decimal som datatyp. F„ltet „r:
+
+F„lt: %2.1
+Tabell: %1.1
+SumIndexFields: %6
+@2@17@0@
+Tabellen %1.1 kan inte l†sas eller „ndras d„rf”r att den redan „r l†st av anv„ndaren med ID %13.
+
+V„nta tills anv„ndaren „r f„rdig och f”rs”k sedan igen.
+@2@20@0@
+Objekttyperna Formul„r och Dataport st”ds inte. Ta bort dessa objekttyper fr†n databasen med f”reg†ende version av Microsoft Dynamics NAV Development Environment.
+@2@1000@0@
+%1.3 %1.2 finns redan.
+@2@1001@0@
+%1.3 %1.2 finns inte.
+@2@1002@0@
+%1.1 %6.1.1 '%6.1.5' finns inte. %12
+@2@1003@0@
+De aktiva f„lten i en post f†r inte ta upp mer utrymme „n %8 byte. De aktiva f„lten i tabellen %1.1 tar upp %7 byte.
+
+Du m†ste minska antalet eller l„ngden p† de aktiva f„lten.
+@2@1004@0@
+Det finns mer „n en definition av f„ltet med nr %2.2 i tabellen %1.1.
+@2@1005@0@
+F„lt nummer %2.2 „r inte definierat i tabellen %1.1.
+@2@1007@0@
+Tabellen %1.1 har inte en aktiv nyckel som b”rjar med f”ljande f„lt: %6.
+@2@1008@0@
+%1.1 finns inte. %12
+
+F„lt och v„rden:
+
+%6
+
+%1.10
+@2@1009@0@
+%1.1 finns redan.
+
+F„lt och v„rden:
+
+%6
+@2@1010@0@
+F„ltet %2.1 i tabellen %1.1 m†ste vara ett FlowFilter.
+@2@1011@0@
+Summan av v„rdena i f„ltet %2.1 kan inte ber„knas.
+
+Du m†ste definiera, aktivera och v„lja en nyckel som inneh†ller f”ljande nyckelf„lt i valfri ordningsf”ljd. F„ltet %2.1 ska kopplas till nyckeln som ett SumIndexField.
+
+Tabell: %1.1
+Nyckelf„lt: %1.6
+@2@1013@0@
+F„ltnamnet '%2.1' i tabellen %1.1 „r f”r l†ngt (%7). Maximil„ngden „r %8.
+@2@1014@0@
+%1.1 %6.1.1 '%6.1.5' finns redan.
+@2@1015@0@
+Nyckeln finns redan.
+
+F„lten i den prim„ra nyckeln l„ggs automatiskt till den sekund„ra.
+
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1018@0@
+En nyckel kan ha maximalt %8 f„lt.
+
+F„lten i den prim„ra nyckeln l„ggs automatiskt till den sekund„ra.
+
+F„lt: %7
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1019@0@
+En nyckel kan ha maximalt %8 SumIndexFields.
+
+F„lt: %7
+Tabell: %1.1
+SumIndexFields: %6
+@2@1020@0@
+En tabell kan ha maximalt %8 nycklar.
+
+Nycklar: %7
+Tabell: %1.1
+@2@1021@0@
+En annan anv„ndare har „ndrat definitionen av tabellen %1.1 sedan aktiviteten startades.
+
+Starta din aktivitet p† nytt.
+@2@1022@0@
+En annan anv„ndare har „ndrat posten f”r denna/detta %1.1 sedan den h„mtades fr†n databasen.
+
+Registrera dina „ndringar p† nytt i det uppdaterade f”nstret, eller starta den avbrutna aktiviteten p† nytt.
+
+F„lt och v„rden:
+
+%6
+@2@1023@0@
+F„ltet %2.1 i tabellen %1.1 kan inte vara ett FlowFilter.
+@2@1024@0@
+Det finns ett ogiltigt tecken i S”k-uttrycket %12.
+
+I S”k-uttryck kan du anv„nda =, > och < i olika kombinationer d„r varje tecken endast kan f”rekomma en g†ng. Du kan ocks† anv„nda - eller +.
+@2@1027@0@
+Summan av v„rdena i f„ltet %2.1 kan inte ber„knas eftersom den aktuella nyckeln inte inneh†ller alla filtrerade f„lt.
+
+Du m†ste v„lja en nyckel som inneh†ller alla f„lt i filtret i valfri ordningsf”ljd.
+
+Filter: %1.10
+Tabell: %1.1
+Nyckelf„lt: %1.6
+@2@1029@0@
+Summan av v„rdena i f„ltet %2.1 kan inte ber„knas eftersom filtret inneh†ller fr†getecken (%19), asterisker (%20) eller snabel-a:n (%21).
+
+Filter: %1.10
+Tabell: %1.1
+@2@1030@0@
+F„ltet %2.1 i tabellen %1.1 m†ste vara ett FlowField.
+@2@1031@0@
+Definitionen av filtret p† tabellen %1.1 „r f”r l†ng (%7 bytes). Den kan maximalt vara %8 bytes.
+@2@1032@0@
+Filtret %2.10 p† f„ltet %2.1 i tabellen %1.1 m†ste ange ett minimiv„rde.
+
+Du kan anv„nda tre till†tna format f”r filter med ett minimiv„rde p† A:
+
+* A     V„ljer v„rden lika med A.
+* A..   V„ljer v„rden st”rre „n eller lika med A.
+* A..™  V„ljer v„rden mellan A och ™, inklusive dessa v„rden.
+@2@1033@0@
+Filtret %2.10 p† f„ltet %2.1 i tabellen %1.1 m†ste ange ett maximiv„rde.
+
+Du kan anv„nda tre till†tna format f”r filter med ett maximiv„rde p† ™:
+
+* ™     V„ljer v„rden lika med ™.
+* ..™   V„ljer v„rden mindre „n eller lika med ™.
+* A..™  V„ljer v„rden mellan A och ™, inklusive dessa v„rden.
+@2@1034@0@
+Filtret %2.10 p† f„ltet %2.1 i tabellen %1.1 m†ste ange ett intervall.
+
+Du kan anv„nda tv† till†tna format f”r filter som anger ett intervall:
+
+* A     V„ljer v„rden lika med A.
+* A..™  V„ljer v„rden mellan A och ™, inklusive dessa v„rden.
+@2@1035@0@
+Ange ett filter f”r f„ltet %2.1 i tabellen %1.1.
+
+Du kan f† hj„lp med registrering av filter i direkthj„lpen under Hj„lp, Inneh†ll, Grundl„ggande funktioner, Hur man registrerar filter.
+@2@1036@0@
+F„lt nummer %2.2 i tabellen %1.1 m†ste ha ett namn.
+@2@1037@0@
+L„ngden p† filterstr„ngen %7 ”verskrider den till†tna maxl„ngden %8.
+
+Tabell: %1.1
+@2@1038@0@
+Tabellen %1.1 „r tom.
+@2@1039@0@
+V„rdet p† ett FlowField kan inte ber„knas.
+
+Du m†ste definiera, aktivera och v„lja en nyckel som inneh†ller f”ljande nyckelf„lt i valfri ordningsf”ljd och sedan associera angivet SumIndexField med den.
+
+Nyckelf„lt: %6
+SumIndexField: %2.1
+Tabell: %1.1
+@2@1040@0@
+F„ltet %2.1 i tabellen %1.1 m†ste vara aktivt.
+@2@1041@0@
+F„ltet %2.1 i tabellen %1.1 kan inte vara ett FlowField.
+@2@1042@0@
+En annan anv„ndare har „ndrat posten %1.1 %6.1.1 %6.1.5 sedan den h„mtades fr†n databasen.
+
+Registrera dina „ndringar p† nytt i det uppdaterade f”nstret, eller starta aktiviteten p† nytt.
+@2@1043@0@
+De tv† f„lten nedan m†ste vara av samma typ:
+
+F„lt: %2.1 <-- %92.1
+Tabell: %1.1 <-- %91.1
+Typ: %2.3 <-- %92.3
+@2@1044@0@
+Varning: Det finns ett skadat omr†de i databasen. Denna typ av fel uppst†r om databasfilen „ndras av ett annat program eller om drivrutinen f”r databasens enhet inte fungerar korrekt.
+
+Du m†ste †tg„rda det h„r felet innan du kan forts„tta. Anv„nd inte n†gon typ av diskverktyg f”r att reparera databasen.
+
+Kontrollera databasen. G† till Arkiv-menyn och klicka p† Databas, Testa och Maximal. Om samma felmeddelande visas g”r du f”ljande:
+
+1) S„kerhetskopiera databasen genom att kopiera databasfilen eller -filerna till en annan plats.
+
+2) Anv„nd den inbyggda funktionen f”r att g”ra en s„kerhetskopia.
+
+3) Om detta fungerar skapar du en ny databas, utan att ta bort den felaktiga databasen.
+terst„ll s„kerhetskopian som du skapade med den inbyggda funktionen till den nya databasen. Kontrollera d„refter databasen genom att g† till Arkiv-menyn och klicka p† Databas, Testa och Maximal.
+
+Om den h„r proceduren inte fungerar g†r alla databas„ndringar som gjorts efter den senaste s„kerhetskopieringen f”rlorade. terst„ll den senaste s„kerhetskopian som skapades med den inbyggda funktionen och testa den.
+Av s„kerhetssk„l b”r du spara den gamla databasen till dess att du anv„nt den nya en tid.
+
+Kontakta systemadministrat”ren om du beh”ver hj„lp.
+@2@1046@0@
+Du har inte valt en databas.
+@2@1047@0@
+Filen „r inte en databas.
+@2@1048@0@
+Databasen kan inte ”ppnas i den h„r versionen av Microsoft Dynamics NAV Development Environment. Databasen har redan konverterats av en nyare programversion.
+
+Du m†ste uppgradera till den senaste versionen av Microsoft Dynamics NAV Development Environment om du vill kunna ”ppna databasen.
+@2@1049@0@
+Databasfilerna h”r inte till samma databas.
+@2@1050@0@
+Databasfilerna „r inte kompatibla.
+
+Tidsuppgifterna st„mmer inte ”verens. En eller flera av filerna har anv„nts senare „n ”vriga filer. Detta kan h„nda n„r en s„kerhetskopia endast †terst„llts delvis. S”k efter databasfiler som alla „r m„rkta med samma datum och tid.
+@2@1051@0@
+Ordningsf”ljden p† databasfilerna „r felaktig. Detta fel kan intr„ffa av f”ljande orsaker:
+
+* Den valda databasfilen „r inte den f”rsta i databasen.
+* Ordningsf”ljden i databas = fil1 + fil2 + fil3 „r felaktig.
+@2@1052@0@
+En databas kan ha maximalt 16 filer.
+@2@1055@0@
+Du kan inte k”ra den h„r funktionen n„r databasen anv„nds av andra anv„ndare.
+@2@1075@0@
+Det g†r inte att ta bort en tabelldefinition (tabellen %1.1) om det finns poster i tabellen.
+
+Ta bort tabellens samtliga poster f”r alla f”retag innan du tar bort tabelldefinitionen.
+@2@1077@0@
+F„lt av typen Text, Code eller Binary kan inte vara l„ngre „n %8 tecken.
+
+F„ltet %2.1 i tabellen %1.1 „r %7 tecken l†ngt.
+@2@1078@0@
+F„lten i en aktiv nyckel f†r inte ”verskrida %8 byte. Storleken p† nyckelf„lten %6 i tabellen %1.1 „r %7 byte.
+
+Du m†ste minska antalet f„lt eller l„ngden p† de aktiva f„lten.
+@2@1079@0@
+F„ltet %2.1 i tabellen %1.1 ing†r tv† g†nger i samma nyckel (nyckelf„lten „r %6).
+@2@1080@0@
+F„ltet %2.1 ing†r tv† g†nger som ett SumIndexField f”r samma nyckel.
+
+Tabell: %1.1
+SumIndexFields: %6
+@2@1081@0@
+Initieringsv„rdet f”r f„ltet %2.1 i tabellen %1.1 „r f”r l†ngt f”r f„lttypen (%2.3).
+@2@1082@0@
+De aktiva nycklarna i tabellen %1.1 „r f”r komplexa eller f”r m†nga eller b†de och. Du kan †tg„rda detta genom att minska antalet f”r n†got av f”ljande:
+
+* aktiva nycklar
+* f„lt i nycklarna
+* SumIndexFields kopplade till nycklarna
+@2@1083@0@
+Du m†ste v„lja ett f”retag innan du kan anv„nda tabellen %1.1.
+@2@1087@0@
+Du kan inte ta bort eller „ndra typen p† f„ltet %2.1 (i tabellen %1.1) innan f„ltets v„rde minskats till 0 (noll) eller '' (blankt) i alla poster. Anledningen till detta meddelande „r att ett v„rde skiljt fr†n noll p†tr„ffades i posten %6 i f”retaget %1.9.
+@2@1088@0@
+F”r„ndringen av definitionen av den prim„ra nyckeln har resulterat i tv† poster med samma prim„ra nyckel.
+
+Den prim„ra nyckeln „r den f”rsta nyckeln i listan med nycklar.
+
+Tabell: %1.1
+F”retag: %1.9
+Post: %6
+@2@1090@0@
+Du kan inte anv„nda filtret p† f„ltet %2.1 d„rf”r att filtret och f„ltet „r av olika typer.
+
+Tabell: %1.1
+@2@1092@0@
+Ett v„rde i filtret '%2.10' i f„ltet %2.1 i tabellen %1.1 „r f”r l†ngt f”r den aktuella f„lttypen.
+
+Typ: %2.3
+@2@1093@0@
+Konstanten m†ste ha samma datatyp som f„ltet %2.1 och konstantens l„ngd f†r inte ”verskrida f„ltets l„ngd.
+
+Typ: %2.3 <-- %3
+F„lt: %2.1 <-- %5
+Tabell: %1.1
+@2@1094@0@
+Du m†ste definiera en CalcFormula f”r FlowField %2.1 i tabellen %1.1.
+@2@1095@0@
+Det finns inget %1.1 i filtret.
+
+Filter: %1.10
+@2@1097@0@
+Filtret %10 „r ogiltigt.
+
+Du har angett ett ogiltigt uttryck i filtret f”r f„ltet %2.1 i tabellen %1.1.
+@2@1098@0@
+Filtret %10 „r ogiltigt.
+
+En h”gerparentes (")") saknas i filtret f”r f„ltet %2.1 i tabellen %1.1.
+@2@1100@0@
+Filtret %10 „r ogiltigt.
+
+Ett v„rde saknas i filtret f”r f„ltet %2.1 i tabellen %1.1.
+@2@1101@0@
+Filtret %10 „r ogiltigt.
+
+Ett v„rde eller ett intervall saknas i filtret f”r f„ltet %2.1 i tabellen %1.1.
+@2@1102@0@
+Filtret %10 „r ogiltigt.
+
+Filtret f”r f„ltet %2.1 i tabellen %1.1 „r f”r stort.
+@2@1103@0@
+Filtret %10 „r ogiltigt.
+
+En apostrof (') saknas i filtret f”r f„ltet %2.1 i tabellen %1.1.
+@2@1104@0@
+Du m†ste ange egenskapen OptionString f”r f„ltet %2.1.
+
+Typ: %2.3
+Tabell: %1.1
+@2@1107@0@
+Prim„rnyckeln (den f”rsta i listan med nycklar) m†ste vara aktiv.
+
+Tabell: %1.1
+@2@1108@0@
+Transaktionen kan inte avslutas d„rf”r att den skulle leda till inkonsekvenser i tabellen %1.1.
+
+Kontrollera var och hur funktionen CONSISTENT anv„nds i transaktionen f”r att hitta orsaken till felet.
+
+Kontakta systemadministrat”ren.
+
+Tabeller kan m„rkas som inkonsekventa vid omfattande aktiviteter, t.ex. bokf”ring. Detta skyddar data fr†n att uppdateras p† ett felaktigt s„tt.
+@2@1109@0@
+F„ltnummer m†ste vara st”rre „n noll.
+
+Tabell: %1.1
+
+Skriv ett f„ltnummer f”r varje rad, eller ta bort tomma rader.
+@2@1111@0@
+Programmen p† servern och klienten har inte samma versionsnummer.
+@2@1112@0@
+Din programlicens till†ter inte att fler anv„ndare arbetar samtidigt.
+
+V„nta tills en annan anv„ndare har slutat anv„nda programmet.
+
+Kontakta systemadministrat”ren om du vill till†ta fler samtidiga anv„ndare i systemet.
+@2@1115@0@
+Anslutningen till servern avbr”ts p.g.a. ett kommunikationsfel.
+
+Starta om klienten.
+@2@1117@0@
+Inga f„lt har definierats i tabellen %1.1.
+@2@1118@0@
+En nyckel m†ste inneh†lla †tminstone ett f„lt.
+@2@1119@0@
+Ett f„ltnamn kan endast f”rekomma en g†ng i en tabell:
+
+F„ltnamn: %2.1
+Tabell: %1.1
+@2@1123@0@
+Du saknar beh”righet att l„sa tabellen %1.1.
+
+Kontakta systemadministrat”ren om du vill „ndra din beh”righet.
+@2@1126@0@
+Du kan inte anv„nda stora databaser med den aktuella programlicensen.
+
+Kontakta systemadministrat”ren om du vill ut”ka databasen.
+@2@1133@0@
+Programlicensen „r inte giltig f”r detta operativsystem.
+
+Kontakta systemadministrat”ren om du vill k”ra programmet under detta operativsystem.
+@2@1134@0@
+F”ljande C/AL-funktioner kan endast anv„ndas i begr„nsad omfattning i skrivtransaktioner eftersom en eller flera tabeller kommer att l†sas.
+
+Form.RunModal „r inte till†ten i skrivtransaktioner.
+
+CodeUnit.Run till†ts vid skrivtransaktioner enbart om returv„rdet inte anv„nds. Exempelvis till†ts inte "OK := CodeUnit.Run()".
+
+Report.RunModal till†ts i skrivtransaktioner enbart om "RequestForm = FALSE". T.ex. „r "Report.RunModal(...,FALSE)" till†tet.
+
+DataPort.RunModal till†ts i skrivtransaktioner enbart om "RequestForm = FALSE". T.ex. „r "DataPort.RunModal(...,FALSE)" till†tet.
+
+Spara „ndringarna med hj„lp av funktionen COMMIT innan du g”r det h„r anropet, eller strukturera koden p† ett annat s„tt.
+@2@1141@0@
+Du kan inte „ndra tabelldata i tabellen Objekt. ndra tabelldefinitionen ist„llet.
+
+Tabell: %1.1
+@2@1143@0@
+Kopiering av alla filter p† en g†ng kan endast utf”ras mellan poster som h”r till samma tabell.
+
+Tabell: %91.1 <-- %1.1
+
+Kopiera de aktuella filtren ett i taget.
+@2@1145@0@
+%1.3 '%1.1' „r tom/t.
+@2@1146@0@
+Det g†r inte att „ndra egenskapen 'DataPerCompany' n„r det finns poster i tabellen %1.1 table. F”lj dessa riktlinjer:
+
+* Exportera tabellens samtliga poster till en fil.
+* Ta bort alla poster i tabellen.
+* ndra tabelldefinitionen.
+* Importera alla poster fr†n filen.
+@2@1163@0@
+Inneh†llet i f„ltet %92.1 kan inte kopieras till f„ltet %2.1 d„rf”r att storleken p† f„ltet %2.1 „r f”r liten.
+
+Typ: %2.3 <-- %92.3
+F„lt: %2.1 <-- %92.1
+Tabell: %1.1 <-- %91.1
+@2@1168@0@
+Filen „r inte en databasfil.
+@2@1172@0@
+Det g†r inte att g”ra „ndringar d„rf”r att programmet startades med programegenskapen dbreadonly = yes.
+
+Kontakta systemadministrat”ren.
+@2@1174@0@
+Summan av v„rdena i f„ltet %2.1 kan inte ber„knas d„rf”r att 'Endast m„rkta' valts som filter f”r tabellen.
+
+Tabell: %1.1
+@2@1175@0@
+F„ltdefinitionen f”r f„ltet %2.1 i tabellen %1.1, som tagits med som ett SumIndexField, m†ste vara 'Active'.
+
+Nyckelf„lt: %6
+@2@1176@0@
+F”ljande f„lt m†ste s„ttas till Active i f„ltdefinitionen. F„ltet ing†r i en aktiv nyckel.
+
+F„lt: %2.1
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1177@0@
+Ett FlowField kan inte vara ett SumIndexField.
+
+F„lt: %2.1
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1178@0@
+Ett FlowField kan inte ing† i en nyckel.
+
+F„lt: %2.1
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1179@0@
+Ett FlowFilter kan inte vara ett SumIndexField.
+
+F„lt: %2.1
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1180@0@
+Ett FlowFilter kan inte ing† i en nyckel.
+
+F„lt: %2.1
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1214@0@
+F”ljande meddelande l„mnades av servern.
+@2@1215@0@
+L„ngden p† databasfilen som finns lagrad i filen skiljer sig fr†n den l„ngd som registrerats av operativsystemet. Databasfilen har „ndrats av ett annat program eller s† fungerar drivrutinen f”r databasens enhet inte korrekt.
+
+Skapa en ny databasfil och importera den senaste s„kerhetskopian. Kontrollera sedan filen genom att g† till Arkiv-menyn och klicka p† Databas, Testa och Maximum.
+
+Kontakta systemadministrat”ren.
+@2@1224@0@
+En annan version av programmet k”rs redan p† den h„r datorn.
+
+Du kan inte k”ra flera versioner av programmet samtidigt.
+@2@1226@0@
+Texten '%2.5' „r f”r l†ng f”r att kopieras till f„ltet:
+
+F„lt: %2.1
+Typ: %2.3
+Tabell: %1.1
+@2@1232@0@
+N„tverket fungerar inte korrekt. Ett paket skickades till fel adress.
+
+Detta fel indikerar att n„tverket inte „r helt p†litligt. Notera hur ofta den h„r typen av fel uppst†r. Kontakta systemadministrat”ren.
+@2@1233@0@
+N„tverket fungerar inte korrekt. Ett paket „r skadat och returnerar ett fel i kontrollsumman.
+
+Detta fel indikerar att n„tverket inte „r helt p†litligt. Notera hur ofta den h„r typen av fel uppst†r. Kontakta systemadministrat”ren.
+@2@1237@0@
+Anv„ndar-ID:t och l”senordet „r ogiltiga. F”rs”k igen.
+@2@1243@0@
+Kan inte kopiera f„ltet. K„llf„ltet har inte specificerats:
+
+Tabell: %91.1 <-- %1
+F„lt: %92.1 <-- %2
+@2@1244@0@
+F”ljande f„lt m†ste vara av typen code eller text.
+
+F„lt: %2.1
+Typ: %2.3
+Tabell: %1.1
+@2@1263@0@
+Tabellen %1.1 „r skrivskyddad.
+@2@1266@0@
+I tabellen %1.1, m†ste f„ltet %2.1 vara †tminstone 1 tecken l†ngt.
+@2@1267@0@
+Ett likhetstecken ('=') saknas i %3.
+
+%5
+@2@1269@0@
+En h”gerparentes (')') saknas i %3.
+
+%5
+@2@1270@0@
+Det finns ett syntaxfel i %3.
+
+%5
+@2@1272@0@
+En v„nsterparentes ('(') saknas i %3.
+
+%5
+@2@1273@0@
+En punkt ('.') saknas i %3.
+
+%5
+@2@1274@0@
+Summan av v„rdena i f„ltet %2.1 i tabellen %1.1 kan inte ber„knas. Endast f„lt av typen Decimal kan summeras.
+@2@1275@0@
+FlowField %2.1 i tabellen %1.1 „r inte av typen Boolean. Om funktionen CalcFormula i ett FlowField b”rjar med "Exist(...", m†ste detta FlowField vara av typen Boolean.
+@2@1276@0@
+FlowField %2.1 i tabellen %1.1 „r inte av typen Integer. Om funktionen CalcFormula i ett FlowField b”rjar med "Count(...", m†ste detta FlowField vara av typen Integer.
+@2@1277@0@
+F„ltet %2.1 i tabellen %1.1 anv„nder funktionen CalcFormula, men f„ltet „r inte ett FlowField.
+@2@1279@0@
+Summan av v„rdena i f„ltet %2.1 i tabellen %1.1 kan inte ber„knas. Endast f„lt som tillh”r FieldClass 'Normal' kan summeras.
+@2@1281@0@
+F”ljande f„lt m†ste ing† i tabellens prim„rnyckel.
+
+F„lt: %2.1
+Tabell: %1.1
+@2@1286@0@
+F”ljande f„lt saknar f„ltl„ngd.
+
+F„lt: %2.1
+Tabell: %1.1
+@2@1290@0@
+Typen av InitValue f”r f”ljande f„lt st„mmer inte ”verens med f„lttypen.
+
+F„lt: %2.1
+Tabell: %1.1
+@2@1291@0@
+Det angivna v„rdet ”verskrider maxstorleken f”r %3.
+@2@1292@0@
+F”ljande f„lt f†r inte vara ett SumIndexField, eftersom det „r av typen BLOB.
+
+F„lt: %2.1
+Tabell: %1.1
+Nyckelf„lt: %6
+@2@1293@0@
+F„ltet %2.1 i tabellen %1.1 kan inte ing† i en nyckel eftersom det „r av typen BLOB.
+
+Nyckelf„lt: %6
+@2@1294@0@
+Du kan inte definiera sekund„rindex f”r tempor„ra tabeller.
+
+Tabell: %1.1
+@2@1295@0@
+Du saknar beh”righet att infoga inneh†ll i tabellen %1.1.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1296@0@
+Du saknar beh”righet att ta bort inneh†ll fr†n tabellen %1.1.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1297@0@
+Du saknar beh”righet att „ndra poster i tabellen %1.1.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1298@0@
+Du saknar beh”righet att k”ra tabellen %1.1.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1299@0@
+Du saknar beh”righet att l„sa %1.1 %1.3.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1300@0@
+Du saknar beh”righet att skapa %1.1 %1.3.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1301@0@
+Du saknar beh”righet att ta bort %1.1 %1.3.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1302@0@
+Du saknar beh”righet att „ndra %1.1 %1.3.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1303@0@
+Du saknar beh”righet att k”ra %1.1 %1.3.
+
+Kontakta systemadministrat”ren f”r att „ndra din beh”righet.
+@2@1304@0@
+Du kan inte ta bort eller „ndra anv„ndarnamnet %13, eftersom anv„ndaren har ytterligare beh”righeter.
+@2@1305@0@
+Du kan inte ta bort eller „ndra inloggningen eftersom den har ytterligare beh”righeter.
+@2@1306@0@
+Du kan inte anv„nda funktionen 'MODIFYALL' eftersom f„lten nedan ing†r i prim„rnyckeln.
+
+F„lt: %2.1
+Tabell: %1.1
+@2@1307@0@
+Du kan inte anv„nda funktionen 'MODIFY' eftersom den „ndrar prim„rnyckeln.
+
+Post f”re: %6
+Post efter: %96
+Tabell: %1.1
+@2@1308@0@
+Du kan inte „ndra namnet p† en post, d„rf”r att det nya v„rdet f”r f”ljande f„lt „r %2.5,
+
+F„lt: %2.1
+Tabell: %1.1
+@2@1309@0@
+Du kan inte „ndra namnet p† en post, d„rf”r att det gamla v„rdet f”r f”ljande f„lt „r %2.5,
+
+F„lt: %2.1
+Tabell: %1.1
+@2@1311@0@
+'%91.1' finns inte. %91.9
+
+%91.10
+
+F„ltet %2.1 i tabellen %1.1 har en tabellrelation till f„ltet %92.1 i tabellen %91.1.
+
+'%1.1' har f”ljande ID-f„lt och v„rden:
+
+%6
+@2@1313@0@
+Databasens cache „r f”r liten. Cachen m†ste minst vara 0,012 procent av databasens storlek.
+I det h„r fallet m†ste cachen vara minst 7 procent.
+@2@1314@0@
+Ditt l”senord har g†tt ut.
+@2@1315@0@
+F„ltnumret „r ogiltigt. Ett f„ltnummer m†ste vara mellan 1 och 999999999.
+
+F„lt: %2.1
+F„ltnr: %2.2
+Tabell: %1.1
+@2@1317@0@
+Tabellen %1.1 har skapats i en nyare version av programmet och kan d„rf”r inte anv„ndas i den h„r programversionen.
+@2@1318@0@
+F„ltnamnet '%2.1' i tabellen %1.1 inneh†ller ogiltiga tecken.
+@2@1319@0@
+Summan av v„rdena i f„ltet %2.1 kan inte ber„knas d„rf”r att det finns ett filter p† f”ljande FlowField.
+
+F„lt: %92.1
+Tabell: %1.1
+@2@1320@0@
+Du kan inte „ndra denna databasegenskap.
+@2@1322@0@
+Varning: Licensen f”r modul %15 upph”r att g„lla om %16 dagar.
+
+Kontakta systemadministrat”ren om du vill forts„tta anv„nda modulen.
+@2@1323@0@
+Licensen f”r modulen %15 har upph”rt att g„lla.
+
+Kontakta systemadministrat”ren om du vill forts„tta anv„nda modulen.
+@2@1324@0@
+Din programlicens till†ter inte fler anv„ndare att anv„nda Microsoft Windows f”r samtidig bearbetning.
+
+V„nta tills en annan anv„ndare har slutat anv„nda programmet. Kontakta systemadministrat”ren om du vill ansluta fler samtidiga anv„ndare till systemet.
+@2@1325@0@
+Din programlicens till†ter inte fler anv„ndare att anv„nda Microsoft Windows NT f”r samtidig bearbetning.
+
+V„nta tills en annan anv„ndare har slutat anv„nda programmet. Kontakta systemadministrat”ren om du vill ansluta fler samtidiga anv„ndare till systemet.
+@2@1326@0@
+Din programlicens till†ter inte fler C/ODBC-anv„ndare att g”ra k”rningar samtidigt.
+
+Kontakta systemadministrat”ren om du vill ansluta fler samtidiga anv„ndare till systemet.
+@2@1327@0@
+Din programlicens till†ter inte fler C/FRONT-anv„ndare att g”ra k”rningar samtidigt.
+
+Kontakta systemadministrat”ren om du vill ansluta fler samtidiga anv„ndare till systemet.
+@2@1328@0@
+Programlicensen till†ter maximalt %8 skarpa (d.v.s. inte demof”retag) f”retag.
+Kontakta systemadministrat”ren om du beh”ver l„gga upp fler f”retag.
+
+Du kan skapa ett obegr„nsat antal demof”retag.
+F”retagsnamnet m†ste b”rja med "CRONUS".
+@2@1329@0@
+Med den h„r programlicensen kan du endast arbeta med f”retag vars namn b”rjar med %10.
+@2@1330@0@
+Den h„r programlicensen kan inte anv„ndas.
+@2@1331@0@
+Du kan inte ”ppna en annan databas eller skapa en ny databas d„rf”r att databasen ”ppnades p† servern med programegenskapen database = <databasnamn>.
+F”r att v„lja en annan databas m†ste du starta om servern med samma programegenskap och ange ett annat databasnamn.
+@2@1332@0@
+Tabellen %1.1 „r inte kompilerad.
+@2@1335@0@
+Beh”righet f”r gruppen '%14' kan inte „ndras.
+@2@1336@0@
+tminstone en anv„ndare m†ste vara medlem i gruppen %14.
+@2@1337@0@
+tminstone en anv„ndare m†ste vara medlem i gruppen %14 i alla f”retag.
+@2@1341@0@
+Du kan inte infoga tabelldata i tabellen Objekt.
+@2@1342@0@
+Varning: Programlicensen f”r %1.3 %1.2 upph”r att g„lla om %16 dagar.
+
+Kontakta systemadministrat”ren om du vill forts„tta anv„nda %1.3 %1.2.
+@2@1343@0@
+Programlicensen f”r %1.3 %1.2 har upph”rt att g„lla.
+
+Kontakta systemadministrat”ren om du vill forts„tta anv„nda %1.3 %1.2.
+@2@1344@0@
+Du kan inte tilldela Run-beh”righet till objekt av typen Tabelldata.
+@2@1345@0@
+Du kan endast tilldela Run-beh”righet till f”ljande typer av objekt:
+
+Tabell, Formul„r, Rapport, Kodmodul, System, XMLport och Dataport.
+@2@1346@0@
+Commit Cache kan inte anv„ndas tillsammans med operativsystemet Windows.
+@2@1347@0@
+Funktionen CalcFormula f”r FlowField %2.1 i tabellen %1.1 m†ste b”rja med "Sum(...".
+@2@1348@0@
+FlowField %2.1 i tabellen %1.1 m†ste vara av typen Decimal.
+@2@1349@0@
+Egenskapen FieldClass f”r f„ltet %2.1 i tabellen %1.1 m†ste vara Normal.
+@2@1350@0@
+F„ltet %2.1 i tabellen %1.1 m†ste vara av typen Decimal.
+@2@1351@0@
+Prim„rnyckeln i tabellen %1.1 kan endast inneh†lla ett f„lt, och m†ste vara av typen Integer.
+@2@1352@0@
+Du saknar beh”righet att skapa f„ltet %2.1 i tabellen %1.1.
+
+Kontakta systemadministrat”ren f”r att uppdatera din programlicens.
+@2@1353@0@
+Du saknar beh”righet att ta bort f„ltet %2.1 i tabellen %1.1.
+
+Kontakta systemadministrat”ren f”r att uppdatera din programlicens.
+@2@1354@0@
+Du saknar beh”righet att „ndra f„ltet %2.1 i tabellen %1.1.
+
+Kontakta systemadministrat”ren f”r att uppdatera din programlicens.
+@2@1356@0@
+Din programlicens till†ter inte fler write-transaktioner.
+
+Kontakta systemadministrat”ren om du vill ”ka den h„r gr„nsen.
+@2@1358@0@
+'%22' f”rv„ntat i %3.
+
+%5
+%25
+@2@1360@0@
+Den minsta storlek du kan expandera en databas med „r 16 KB.
+@2@1361@0@
+Destinationsbufferten „r f”r liten.
+
+Destinationsbuffertens storlek: %8
+Ursprungets storlek: %7
+Ursprungets v„rde: %5
+@2@1362@0@
+Databasen m†ste konverteras innan du kan anv„nda den med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Om du konverterar databasen, kommer den inte att kunna ”ppnas i „ldre programversioner.
+
+Vi rekommenderar att du:
+
+* S„kerhetskopierar databasen f”re konverteringen.
+* r den enda anv„ndaren som arbetar med databasen under konverteringen.
+* Ser till att det finns minst 50 MB ledigt utrymme i databasen.
+
+Klicka p† OK om du vill konvertera databasen eller klicka p† Avbryt.
+@2@1363@0@
+Varning: Din programlicens upph”r att g„lla om %16 dagar.
+@2@1364@0@
+Din programlicens har g†tt ut.
+@2@1365@0@
+Enheten inneh†ller redan en databaspartition.
+
+Om du forts„tter kommer denna databaspartition att g† f”rlorad.
+
+r du s„ker p† att du vill forts„tta?
+@2@1366@0@
+Varning: Det h„r alternativet g„ller om serveroperativsystemet st”der Windows-verifiering.
+Om det st”der Unified-inloggning f”r den h„r databasen „r servern beroende av Windows-verifiering f”r att identifiera anv„ndare av Microsoft Dynamics NAV Development Environment-databasen.
+Om det verifierade anv„ndar-ID:t finns i anv„ndartabellen i Microsoft Dynamics NAV Development Environment-databasen ignoreras l”senordet i anv„ndartabellen.
+Om anv„ndartabellen inte inneh†ller anv„ndar-ID m†ste anv„ndaren f”lja standardinloggningsproceduren i Microsoft Dynamics NAV Development Environment.
+@2@1367@0@
+Tabellen har inte specificerats.
+@2@1369@0@
+%1
+@2@1370@0@
+Du kan inte „ndra objekttypen.
+
+Objektpost f”re: %6
+Objektpost efter: %96
+Tabell: %1.1
+@2@1371@0@
+Tabellerna „r inkompatibla.
+
+Tabell 1: %1
+Tabell 2: %91
+@2@1372@0@
+Skrivoperationer i databasen (INSERT, DELETE och MODIFY) „r inte till†tna f”r den valda transaktionstypen.
+@2@1373@0@
+Denna f„ltegenskap m†ste vara '%5'.
+
+Egenskap: %3
+F„lt: %2.1
+Tabell: %1.1
+@2@1374@0@
+Din programlicens till†ter inte att du k”r den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Kontakta systemadministrat”ren f”r att uppdatera din programlicens.
+@2@1375@0@
+Uppgraderingsprogrammet f”r Microsoft Dynamics NAV Development Environment har upph”rt att g„lla.
+
+Kontakta din Microsoft Business Solutions Partner f”r att f† hj„lp.
+@2@1376@0@
+Din licens till†ter inte att du anv„nder spr†ket %24.
+@2@1377@0@
+Nyckelegenskapen m†ste vara '%5' f”r prim„rnyckeln.
+
+Egenskap: %3
+Tabell: %1.1
+@2@1378@0@
+Objektnamnet finns redan.
+
+Objekt: %1
+@2@1379@0@
+Du kan inte „ndra transaktionstypen n„r en transaktion har startas.
+
+En transaktion startar n„r programmet exekverar f”rsta databasoperationen, t.ex. FIND, NEXT, INSERT, DELETE, MODIFY, SUM eller COUNT.
+
+Felet uppstod p.g.a. att du f”rs”kte „ndra transaktionstypen fr†n %8 till %7.
+@2@1380@0@
+Programlicensen till†ter inte att du k”r Microsoft Dynamics NAV Development Environment f”r Microsoft SQL Server.
+@2@1381@0@
+Den aktuella aktiviteten har stoppats eftersom Windows f”rs”ker g† in i v„nte-, vilo- eller standby-l„ge.
+@2@1382@0@
+Windows-inloggningen „r inte tillg„nglig p† denna dator.
+@2@1384@0@
+Windows-inloggningen „r inte tillg„nglig p† den valda servern.
+@2@1385@0@
+Egenskap %3 m†ste vara '%5'.
+
+Objekt: %1
+@2@1386@0@
+Det saknas ett ':' i %3.
+
+%5
+@2@1387@0@
+Filtren „r f”r stora f”r att kopieras till typen '%3'.
+
+Filter: %1.10
+@2@1388@0@
+Din programlicens till†ter inte samtidig k”rning av ytterligare en Application Server.
+
+Kontakta systemadministrat”ren om du vill ansluta fler Application Server f”r samtidig k”rning till systemet.
+@2@1389@0@
+En s„kerhetskopiering p†g†r. V„nta tills s„kerhetskopieringen har avslutats.
+@2@1394@0@
+Ett f„lt av typen AutoIncrement kan bara f”rekomma en g†ng i en tabell.
+
+F„lt: %2.1
+Tabell: %1.1
+@2@1395@0@
+Ett f„lt av typen AutoIncrement m†ste vara en Integer eller BigInteger.
+
+F„lt: %2.1
+Tabell: %1.1
+
+F„lttyp:%2.3
+@2@1396@0@
+Du kan inte „ndra v„rdet p† ett f„lt av typen AutoIncrement.
+
+F„lt: %2.1
+Tabell: %1.1
+
+Identifikationsf„lt och v„rden:
+
+%6
+@2@1397@0@
+Du kan inte s„tta f„ltegenskapen AutoIncrement d„rf”r att f„ltet inneh†ller nollv„rden.
+
+F„lt: %2.1
+Tabell: %1.1
+
+Identifikationsf„lt och v„rden:
+
+%6
+@2@1398@0@
+Overflow-fel vid ber„kningen av %7 %26 %8.
+
+@2@1401@0@
+Transaktionen avbr”ts p† grund av ett fel som uppst†tt tidigare.
+@2@1402@0@
+Du kan inte ta bort en session n„r du inte „r ansluten till en server.
+@2@1403@0@
+Du kan inte ta bort sessionen %7, eftersom den inte „r ansluten till samma server.
+@2@1404@0@
+Du kan inte ta bort sessionen %7, eftersom det „r din egen session.
+@2@1406@0@
+Anropet „r f”r†ldrat. Anv„nd DBL_ConnectServerAndOpenDatabase i st„llet.
+@2@1407@0@
+Du saknar beh”righet att l„sa tabellen %1.1.
+@2@1408@0@
+Du saknar beh”righet att infoga i tabellen %1.1.
+@2@1409@0@
+Du saknar beh”righet att ta bort fr†n tabellen %1.1.
+@2@1410@0@
+Du saknar beh”righet att „ndra poster i tabellen %1.1.
+@2@1411@0@
+En grupperad nyckel kan bara f”rekomma en g†ng i en tabell.
+
+Tabell: %1.1
+@2@1412@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@1413@0@
+Vill du konvertera databasen?
+
+Klicka p† OK om du vill konvertera databasen eller klicka p† Avbryt.
+@2@1414@0@
+Det g†r bara att anv„nda funktionen FINDSET med stigande nyckelordning.
+
+Tabell: %1.1
+@2@1415@0@
+Parametern UpdateKey f”r funktionen FINDSET kan endast ha v„rdet TRUE om parametern ForUpdate ocks† har v„rdet TRUE.
+
+Tabell: %1.1
+@2@1416@0@
+Du har inte †tkomstbeh”righet till %1.3 %1.2. Det finns ingen signatur och d„rf”r „r detta inget giltigt programobjekt.
+@2@1417@0@
+Databasen m†ste konverteras innan du kan anv„nda den med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Avaktivera skrivskyddet och ”ppna databasen igen.
+@2@1418@0@
+Ett SQLIndex som definieras f”r prim„rnyckeln m†ste inneh†lla samma f„lt som nyckeln.
+
+Tabell: %1.1
+SQLIndex-f„lt: %6
+
+@2@1419@0@
+URL-str„ngen „r f”r l†ng. Maxl„ngden „r %8 tecken.
+@2@1421@0@
+V„rdet f”r en/ett %3 f†r inte ”verskrida %7 byte.
+
+Tabell: %1.1
+@2@1422@0@
+%1.1 finns redan med ett standard-Rollcenter.
+
+F„lt och v„rden:
+
+%6
+@2@1423@0@
+Det g†r inte att starta Microsoft Dynamics NAV Development Environment eftersom du inte har beh”righeten VIEW SERVER STATE p† SQL-servern.
+
+Kontakta systemadministrat”ren.
+@2@1424@0@
+B†de k„ll- och m†ltabellerna m†ste referera till samma tabell.
+@2@1425@0@
+V„rdet i f„ltet %2.1 m†ste vara tomt.
+
+Objekt: %1
+@2@1426@0@
+Objektet har l†sts av %22. Det g†r inte att „ndra eller ta bort det.
+
+Objekt: %1
+@2@1427@0@
+V„rdet i f„ltet %2.1 g†r inte att „ndra f”r l†sta objekt.
+
+Objekt: %1
+@2@1428@0@
+Du m†ste vara systemadministrat”r f”r att kunna utf”ra den h„r aktiviteten.
+@2@1429@0@
+Det g†r inte att byta namn p† posten %6 i tabellen %1.1 eftersom detta „ndrar posten %96 i tabellen %91.1 och programmet har konfigurerats f”r att sp†ra „ndringar av %91.1. 
+Du kan bryta l„nkar manuellt fr†n alla poster i tabellen %91.1 till %1.1 %6, byta namn p† posten och sedan skapa l„nkarna p† nytt. 
+@2@1431@0@
+Vissa objekt i databasen „r l†sta. Du m†ste l†sa upp dessa objekt innan du uppgraderar databasen.
+@2@1432@0@
+Observera att du har %5-rapporter som inte kan kompileras om under databaskonverteringen.
+@2@1433@0@
+Tabellen %1 inneh†ller minst ett f„lt av typen Binary som inte g†r att uppgradera till Microsoft Dynamics NAV Development Environment. 
+
+ndra tabellens layout innan du uppgraderar.
+@2@1434@0@
+Du kan inte „ndra objekt-ID f”r en tabell.
+
+Objektpost f”re: %6
+Objektpost efter: %96
+@2@1435@0@
+Det gick inte att byta namn p† tabellen. 
+@2@END@0@
+@1@93@0@
+@2@50001@0@
+Ett ODBC-fel uppstod men ingen felinformation erh”lls.
+
+Kontakta systemadministrat”ren.
+@2@50002@0@
+ODBC-drivrutinen kunde inte initieras.
+
+Kontakta systemadministrat”ren.
+@2@50003@0@
+F”ljande ODBC-fel uppstod:
+
+%101.151
+@2@50004@0@
+F”ljande ODBC-fel uppstod:
+
+State ID: %101.152
+@2@50005@0@
+F”ljande ODBC-fel uppstod:
+
+Error: %101.151
+State ID: %101.152
+@2@50006@0@
+F”ljande SQL-serverfel uppstod:
+
+%103
+@2@50007@0@
+F”ljande SQL-serverfel uppstod vid †tkomst av tabellen %1.1:
+
+%103
+@2@50008@0@
+Ett NEXT-funktionsanrop f”r en post utan ett matchande FIND/FINDSET-anrop har uppt„ckts.
+@2@51002@0@
+En koppling till databasen %102.155 p† server %102.154 finns redan.
+@2@51003@0@
+En koppling till en server och en databas finns inte.
+@2@51004@0@
+En transaktion har redan startats. N„stlade transaktioner „r inte till†tna.
+@2@51005@0@
+Den aktuella aktiviteten kan inte utf”ras inom en transaktion.
+@2@51008@0@
+Ett f”rs”k att uppdatera eller ta bort g”rs p† minst en post utanf”r den beg„rda transaktionen.
+@2@51009@0@
+Den aktuella aktiviteten kan endast utf”ras inom en Update- eller UpdateNoLocks-transaktion.
+@2@51010@0@
+Den aktuella aktiviteten kan endast utf”ras inom en Snapshot-transaktion.
+@2@51011@0@
+Den aktuella aktiviteten kan endast utf”ras inom en Browse-transaktion.
+@2@51012@0@
+Den beg„rda l†sningen av tabell %1.1 med en Wait-parameter som „r FALSE st”ds inte.
+@2@51013@0@
+Den aktuella aktiviteten kan endast utf”ras inom en Update- eller en Snapshot-transaktion.
+@2@52001@0@
+Databasen %102.155 finns inte p† server %102.154.
+@2@52002@0@
+Databasen %102.155 finns redan p† server %102.154.
+@2@52003@0@
+Det g†r inte att ”ppna %102.155-databasen p† %102.154-servern med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Uppgradera databasen till Microsoft Dynamics NAV 2013 innan du ”ppnar den med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+@2@52004@0@
+Databaskompatibilitetsniv†n %102.161 „r f”r l†g f”r den h„r versionen av Microsoft Dynamics NAV Development Environment. 
+
+ndra kompatibilitetsniv†n till %102.162 innan du ”ppnar databasen igen. 
+@2@52005@0@
+Servern %102.154 inneh†ller inte licensinformation f”r Microsoft Dynamics NAV Development Environment. Informationen „r n”dv„ndig f”r att †tkomst till servern ska kunna till†tas.
+
+F”r att ladda upp en licensfil till servern m†ste du vara medlem i databasrollen db_owner i masterdatabasen.
+
+Klicka p† OK f”r att v„lja en licensfil som ska laddas eller klicka p† Avbryt.
+@2@52006@0@
+Databasen %102.155 p† servern %102.154 kan inte ”ppnas av den nuvarande versionen av Microsoft Dynamics NAV Development Environment. Databasen har redan konverterats med en ny programversion.
+
+Du m†ste uppgradera Microsoft Dynamics NAV Development Environment till den senaste versionen f”r att kunna ”ppna databasen.
+@2@52007@0@
+Databasen %102.155 p† servern %102.154 inneh†ller inte Microsoft Dynamics NAV Development Environment-systemobjekt och kan inte ”ppnas.
+@2@52008@0@
+Det g†r inte att hitta servern %102.154. F”rs”k igen senare eller kontakta systemadministrat”ren.
+@2@52009@0@
+Servern %102.154 k”r en version av SQL Server som inte st”ds.
+
+Innan den h„r servern kan anv„ndas av Microsoft Dynamics NAV Development Environment m†ste du uppgradera den till minst %1 version %22 eller senare.
+@2@52010@0@
+De tillhandah†llna v„rdena %102.160 f”r n„tverksprotokoll „r inte giltiga. De tillg„ngliga n„tverksprotokollen „r: %22.
+@2@52011@0@
+Drivrutinen SQL Server ODBC p† din dator st”ds inte.
+
+Om du vill anv„nda drivrutinen med Microsoft Dynamics NAV Development Environment m†ste du uppgradera drivrutinen till version %22 eller senare.
+@2@52012@0@
+Anslutningen till servern %102.154 svarar inte l„ngre. Detta kan bero p† n†got av f”ljande:
+
+* Servern har st„ngts av manuellt eller p† grund av ett fel.
+* Sessionen har avslutats av en administrat”r.
+* Ett n„tverksfel har uppst†tt.
+* Ett maskinvaruproblem har uppst†tt p† servern eller p† datorn.
+
+F”rs”k igen senare eller kontakta systemadministrat”ren.
+@2@52014@0@
+Det finns inte n†gon teckenupps„ttning p† datorn som k”r Microsoft Dynamics NAV Server som matchar teckenupps„ttningen %7 f”r sorteringen %22 f”r databasen %102.155.
+
+Teckenupps„ttningarna f”r Microsoft Dynamics NAV Server „r: %1.
+
+Kontrollera i de nationella inst„llningarna f”r datorn som k”r Microsoft Dynamics NAV Server, att r„tt systemspr†k och nationella inst„llningar valts s† att teckenupps„ttningarna matchar.
+
+F”r att undvika det h„r meddelandet kan systemadministrat”ren inaktivera inst„llningen Verifiera sortering i f”nstret ndra databas med Microsoft Dynamics NAV Development Environment.
+@2@52015@0@
+Det finns inte n†gon teckenupps„ttning p† datorn som matchar teckenupps„ttningen %7 f”r sorteringen %22 f”r databasen %102.155.
+
+Datorns teckenupps„ttningar „r: %1.
+
+Kontrollera i de nationella inst„llningarna f”r datorn, att r„tt systemspr†k och nationella inst„llningar valts s† att teckenupps„ttningarna matchar.
+
+Du kan undvika att felmeddelandet visas genom att systemadministrat”ren inaktiverar inst„llningen Verifiera sortering i f”nstret ndra databas med Microsoft Dynamics NAV Development Environment.
+@2@52016@0@
+Sorteringen %22 st”ds inte av Microsoft Dynamics NAV Development Environment.
+@2@52017@0@
+Databasen %102.155 p† servern %102.154 m†ste konverteras innan du kan anv„nda den med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Om du konverterar databasen kommer du inte l„ngre kunna ”ppna den med „ldre versioner av Microsoft Dynamics NAV Development Environment.
+
+Vi rekommenderar att du skapar en s„kerhetskopia av din databas eller din transaktionslogg i SQL Server innan konverteringen.
+
+V„lj OK om du vill konvertera databasen eller avsluta med knappen Avbryt.
+@2@52018@0@
+Databasen %102.155 p† servern %102.154 m†ste konverteras innan du kan anv„nda den med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Om du konverterar databasen g”rs detta till Unicode och sorteringen uppgraderas till den som b„st matchar Windows-sortering. Du kan d† inte l„ngre ”ppna den med „ldre versioner av Microsoft Dynamics NAV Development Environment.
+
+Vi rekommenderar att du skapar en s„kerhetskopia av din databas eller din transaktionslogg i SQL Server innan konverteringen.
+
+V„lj OK om du vill konvertera databasen eller avsluta med knappen Avbryt.
+@2@52020@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@52021@0@
+Konverteringen av databasen %102.155 kr„ver att databasalternativet Konvertera identifierare „r aktiverat.
+
+Anv„nd f”reg†ende version av Microsoft Dynamics NAV Development Environment f”r att aktivera det h„r alternativet. Prova sedan att konvertera igen.
+@2@52022@0@
+Du kan inte ta bort n†got av f”ljande tecken fr†n identifierare: [%22].
+@2@52023@0@
+Du har valt att konvertera identifierare som en del av databas„ndringen.
+
+Klicka p† OK om du vill forts„tta „ndra databasen eller klicka p† Avbryt.
+@2@52024@0@
+Du kan inte „ndra inst„llningarna Bibeh†ll vyer, Bibeh†ll relationer eller Uppr„tth†ll standard samtidigt som du konverterar identifierare.
+@2@52025@0@
+Identifierare [%1] inneh†ller ett av de f”ljande ogiltiga tecknen: [%22].
+@2@52026@0@
+Du kan inte „ndra sorteringen i databasen samtidigt som du „ndrar integrationsinst„llningar.
+@2@52027@0@
+Du har valt att „ndra inst„llningar f”r sortering i databasen som en del i databas„ndringarna.
+
+Klicka p† OK om du vill forts„tta „ndra databasen eller klicka p† Avbryt.
+@2@52028@0@
+Du m†ste f”rs„kra dig om att du „r den enda anv„ndaren som har tillg†ng till databasen %102.155 och v„lja inst„llningen Single user f”r att utf”ra de valda databas„ndringarna.
+@2@52029@0@
+Databas„ndringarna har slutf”rts.
+
+Du m†ste nu st„nga databasen och ”ppna den igen f”r att de „ndrade inst„llningarna ska verkst„llas. Inaktivera inst„llningen Single user s† att andra anv„ndare kan f† tillg†ng till databasen.
+@2@52030@0@
+Objekt-/kolumnnamnet %1 i databasen %102.155 inneh†ller ett av f”ljande tecken:
+
+[%22]
+
+Tecknen kan inte konverteras p† ett korrekt s„tt vid „ndring till den nya sorteringen.
+
+Du m†ste antingen v„lja en ny sortering som kan representera tecknet eller tecknen i det h„r objektet eller byta namn p† objektet.
+@2@52031@0@
+%1
+@2@52032@0@
+%1
+@2@52034@0@
+Servern %102.154 har inte initierats med en licens f”r Microsoft Dynamics NAV Development Environment.
+@2@52035@0@
+Databasen %102.155 p† servern %102.154 m†ste konverteras med Microsoft Dynamics NAV Development Environment innan du kan anv„nda den med Microsoft Dynamics NAV Server.
+@2@52036@0@
+Innan du kan konvertera databasen m†ste du anv„nda en „ldre version av Microsoft Dynamics NAV Development Environment f”r att avaktivera databasens integrationsinst„llningar f”r Bibeh†ll vyer, Bibeh†ll relationer och Uppr„tth†ll standard. Du hittar dessa inst„llningar genom g† till Arkiv-menyn, klicka p† Databas och sedan p† ndra.
+@2@52037@0@
+Du har valt att „ndra inst„llningarna f”r databassortering som en del i databas„ndringarna.
+
+Det g†r endast att „ndra sorteringen om inst„llningen Validera sortering hade valts redan innan databasen „ndrades.
+@2@52040@0@
+Den aktuella aktiviteten har stoppats eftersom Windows f”rs”ker g† in i v„nte-, vilo- eller standby-l„ge.
+@2@52041@0@
+Det finns inte n†gon teckenupps„ttning p† datorn som matchar teckenupps„ttningen %7 f”r sorteringen %22 f”r databasen %102.155.
+
+Datorns teckenupps„ttningar „r: %1.
+
+Kontrollera i de nationella inst„llningarna f”r datorn, att r„tt systemspr†k och nationella inst„llningar valts s† att teckenupps„ttningarna matchar.
+
+Du kan „ven inaktivera inst„llningen Verifiera sortering f”r databasen. Vissa textdata konverteras eventuellt inte korrekt n„r de lagras i databasen.
+
+Klicka p† OK om du vill inaktivera inst„llningen Verifiera sortering och forts„tta anv„nda databasen, eller klicka p† Avbryt om du vill avsluta.
+@2@52042@0@
+Du har valt att inte verifiera databassorteringen som en del av databas„ndringen.
+
+Databasen kan d† anv„ndas av datorer med en teckenupps„ttning som inte matchar sorteringen. Vissa textdata konverteras eventuellt inte korrekt n„r de lagras i databasen om de anv„nds av s†dana datorer.
+
+Klicka p† OK om du vill forts„tta „ndra databasen, eller klicka p† Avbryt om du vill avsluta.
+@2@52043@0@
+Databasen %102.155 p† servern %102.154 kr„ver att en Per-databas licens ”ppnas p† %22.
+@2@52044@0@
+Databasen %102.155 p† servern %102.154 m†ste konverteras innan du kan anv„nda den med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Du m†ste konvertera databasen innan den distribueras till en %22-server.
+@2@52045@0@
+Det g†r inte att skapa en databas p† %102.154 %22-servern.
+@2@52046@0@
+Det g†r inte att ange alternativet Single user f”r databasen %102.155 p† servern %102.154.
+
+Kontrollera att inga andra SQL Server-sessioner anv„nder databasen.
+@2@52047@0@
+Databasen %102.155 p† servern %102.154 m†ste konverteras innan du kan anv„nda den med den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Det g†r inte att forts„tta med konverteringen eftersom databasen anv„nds av andra SQL Server-sessioner.
+
+Avsluta alla andra sessioner och f”rs”k sedan igen.
+@2@52048@0@
+Du har %1 rapporter som kompilerades innan databaskonverteringen men som inte g†r att kompilera nu.
+@2@53003@0@
+Du har inte den kr„vda SQL Server beh”righeten f”r att utf”ra den h„r s„kerhetsaktiviteten.
+@2@53011@0@
+Databasen %102.155 p† servern %102.154 m†ste konverteras innan du kan anv„nda den i den h„r versionen av Microsoft Dynamics NAV Development Environment.
+
+Du m†ste vara medlem av databasgruppen db_owner i den h„r databasen f”r att kunna konvertera den.
+@2@53015@0@
+Inloggningen misslyckades vid anslutningen till SQL Server %102.154.
+@2@54001@0@
+F„ltet %2.1 i tabellen %1.1 finns inte i SQL Server tabellen eller vyn.
+@2@54002@0@
+Prim„rnyckeln i tabellen %1.1 ”verskrider %22 kolumner som „r det maximala antalet i ett SQL Server-index.
+
+Nyckelf„lten: %6
+@2@54003@0@
+Tabellen %1.2 har inget namn.
+@2@54004@0@
+Tabellen %1.1 finns inte som det beg„rda objektnamnet av %1.157 i databasen.
+@2@54005@0@
+Tabellen %1.1 „r en tempor„r tabell i SQL Server. Du kan inte byta namn p† tabellen eller p† f„lten i tabellen.
+@2@54006@0@
+Tabellen %1.1 „r en tempor„r tabell i SQL Server. Microsoft Dynamics NAV Development Environment st”der inte anv„ndningen av tempor„ra tabeller i SQL Server.
+@2@54007@0@
+Tabellen %1.1 har inget prim„rnyckeltv†ng i beskrivningen av SQL Server tabellen.
+@2@54008@0@
+Tabellen %1.1 har ingen ROWVERSION kolumn i SQL Server tabellbeskrivningen.
+@2@54010@0@
+Tabell %1.1 har flera ROWVERSION-kolumner i SQL Server-vybeskrivningen. Vyer kan endast ha en ROWVERSION-kolumn.
+@2@54012@0@
+Tabellnamnet %1.1 kommer i konflikt med det existerande SQL Server objektet %1.157.
+@2@54013@0@
+Tabellnamnet %1.1 finns redan som SQL Server-objektet %1.157.
+
+Du m†ste v„lja ett annat tabellnamn eller l„nka till det h„r objektet genom att st„lla in alternativet Ja f”r tabellegenskapen LinkedObject.
+@2@54014@0@
+Tabellreferensen %1.1 i SQL Server objektet %1.157. Du kan inte designa om l„nkade objekt.
+@2@54016@0@
+Tabellen %1.1 refererar till ett SQL Server objektet. Du kan inte designa om l„nkade objekt.
+@2@54017@0@
+Tabellen %1.1 refererar till SQL Server objektet %1.157. En l„nk till objektet kan inte g”ras n„r SumIndexFields har definierats.
+@2@54018@0@
+Tabellen %1.1 refererar till SQL Server objektet %1.157. Du kan inte l„nka till ett tempor„rt SQL Server tabellobjekt.
+@2@54019@0@
+SQL Server-objektet %1.157 som refereras av tabell %1.1 finns inte.
+@2@54020@0@
+Tabell %1.1 refererar till SQL Server objekt %1.157, som „r en systemtabell eller en vy. Du kan inte „ndra tabellegenskapen LinkedObject till nej f”r dessa objekttyper.
+@2@54021@0@
+Tabell %1.1 har ingen ROWVERSION kolumn i SQL Server vybeskrivningen. En ROWVERSION kolumn kr„vs n„r ett BLOB-f„lt har definierats.
+@2@54022@0@
+Tabellen %1.1 inneh†ller ett BLOB-f„lt med ogiltig komprimerad data:
+
+Post: %6
+F„lt: %2.1
+@2@54023@0@
+TableRelation-egenskaperna i Microsoft Dynamics NAV Development Environment och sekund„rnycklarna i SQL Server har inte synkroniserats.
+
+Tabellen %1.1 refererar till en tabell i f„ltegenskapen TableRelation, i f„ltet %2.1, som inte finns.
+@2@54024@0@
+SumIndexField-nyckeln f”r tabell %1.1 ”verskrider maximalt till†tna kolumner p† %22.
+
+Nyckelf„lt: %6
+@2@54025@0@
+Din aktivitet hamnade i ett d”dl„ge p.g.a. en annan anv„ndares „ndring av tabell %1.1.
+
+B”rja om igen.
+@2@54026@0@
+The %1.1 table cannot be changed because it is locked by another user. This can be caused by one of the following tasks:
+
+* Objects are being compiled.
+* Table schema is synchronizing.
+* Objects are being imported.
+
+Wait until the user is finished and then try again.
+@2@56001@0@
+Tabellen %1.1 inneh†ller ett f„lt som har en SQL Server-datatyp som inte kan redigeras av Microsoft Dynamics NAV Development Environment i den nuvarande aktiviteten:
+
+F„lt: %2.1
+SQL-typ: %104.159
+@2@56003@0@
+Tabellen %1.1 inneh†ller ett f„lt med ett SQL Server-v„rde som ligger utanf”r det till†tna intervallet i Microsoft Dynamics NAV Development Environment:
+
+F„lt: %2.1
+Typ: %2.3
+@2@56004@0@
+Tabellen %1.1 inneh†ller ett f„lt med ett datumv„rde som inte kan anv„ndas med SQL Server.
+
+Post: %6
+F„lt: %2
+@2@56005@0@
+Tabellen %1.1 inneh†ller en datatyp i ett Microsoft Dynamics NAV Development Environment-f„lt som inte „r kompatibel med datatypen i SQL Server:
+
+F„lt: %2.1
+Typ: %2.3
+SQL-typ: %104.159
+@2@56006@0@
+Tabellen %1.1 inneh†ller ett v„rde i ett kodf„lt av typen heltal som inte kan anv„ndas med SQL Server:
+
+Post: %6
+F„lt: %2
+@2@56007@0@
+Tabellen %1.1 inneh†ller ett kodf„lt med ett v„rde som inte kan anv„ndas med Microsoft Dynamics NAV Development Environment:
+
+F„lt: %2.1
+V„rde: %22
+@2@56008@0@
+Tabellen %1.1 inneh†ller ett kodf„lt av heltalstyp med ett v„rde som inte kan anv„ndas med Microsoft Dynamics NAV Development Environment:
+
+F„lt: %2.1
+V„rde: %22
+@2@56009@0@
+Det angivna v„rdet kan inte anv„ndas med ett kodf„lt av typen heltal:
+
+Tabell: %1.1
+F„lt: %2.1
+V„rde: %22
+@2@56010@0@
+Tabellen %1.1 inneh†ller ett f„ltv„rde som inte kan konverteras:
+
+Post: %6
+F„lt: %2.1
+@2@56011@0@
+Tabellen %1.1 inneh†ller ett f„lt med ett kod-, text- eller WideText-v„rde som „r f”r stort f”r SQL Server-datatypen:
+Post: %6
+F„lt: %2
+SQL-typ: %104.159
+@2@56012@0@
+Tabellen %1.1 inneh†ller ett f„lt av typen Integer, Option eller Boolean som anv„nder en DECIMAL- eller FLOAT-datatyp i SQL Server. Ett felaktigt v„rde har hittats i detta f„lt: 
+
+F„lt: %2.1
+SQL-typ: %104.159
+V„rde: %22
+@2@56014@0@
+Tabellen %1.1 inneh†ller ett Time-f„lt som anv„nder ogiltig data f”r datumkomponenten p† DATETIME- v„rdet:
+
+F„lt: %2.1
+V„rde: %22
+@2@56015@0@
+Tabellen %1.1 inneh†ller ett Date-f„lt som anv„nder ogiltig data f”r tidkomponenten p† DATETIME v„rde:
+
+F„lt: %2.1
+V„rde: %22
+@2@56016@0@
+Tabell %1.1 inneh†ller ett Boolean-f„lt som inte anv„nder datatypen BIT i SQL Server. Ett annat v„rde „n 0 eller 1 har hittats i detta f„lt:
+
+F„lt: %2.1
+SQL typ: %104.159
+V„rde: %22
+@2@56017@0@
+Tabellen %1.1 inneh†ller inkonsekventa SumIndexField-v„rden:
+
+Nyckelf„lt: %6
+SumIndexField-tabell: %22
+
+Kontakta systemadministrat”ren.
+@2@56018@0@
+Tabell %1.1 inneh†ller ett f„lt med ett AutoIncrement-v„rde som inte matchar SQL Server IDENTITY-status:
+
+F„lt: %2.1
+@2@56019@0@
+Tabell %1.1 inneh†ller ett f„lt med en SQL variant-datatyp som endast kan konverteras till en SQL varchar-datatyp:
+
+F„lt: %2.1
+@2@END@0@
+@1@30@0@
+@2@1@0@
+%1.1-ID (%1.3) anv„nds av %1.2 ben„mnd '%1.4'.
+@2@2@0@
+%1.1-namn ('%1.4') anv„nd av %1.2 med ID %1.3.
+@2@4@0@
+Egenskapen '%3' „r inte till„mplig f”r en/ett %1.2.
+@2@5@0@
+En/ett %1.2 kan inte aktiveras.
+@2@6@0@
+En/ett %1.2 kan inte uppdateras (endast datakontroller kan uppdateras).
+@2@7@0@
+Egenskapen '%3' f†r inte „ndras p† ett %1.2-objekt medan det „r ”ppet!
+(%3 anropades f”r %1.2 ben„mnd '%1.4'.)
+@2@8@0@
+Egenskapen '%3' „r inte dynamisk f”r en/ett %1.2.
+(%3 anropades f”r %1.2 ben„mnd '%1.4'.)
+@2@9@0@
+ID f”r en/ett %1.2 m†ste vara skiljt fr†n noll.
+@2@10@0@
+%1.2 ben„mnd '%1.4' angav ett icke-existerande ID (%5) som en f”r„lder.
+@2@11@0@
+%1.2 ben„mnd '%1.4' kan inte inneh†lla %2.2 ben„mnd '%2.4'.
+@2@12@0@
+Du f”rs”kte infoga kontrollen '%2.4' som en rubrik i table eller matrix box '%1.4', men ingen motsvarande kolumn hittades.
+@2@13@0@
+Du f”rs”kte infoga kontrollen '%2.4' som en rubrik i matrix box '%1.4', men matrisdelen „r tom.
+@2@14@0@
+Ogiltigt sidnummer (%5) f”r flik-kontrollen '%1.4'.
+(%3 sattes till %4 f”r %2.2 '%2.4').
+@2@15@0@
+Du kan inte infoga kontrollen '%2.4' i matrisdelen av matrix box '%1.4' d„rf”r att kontrollen '%6.4' redan finns p† den platsen.
+@2@16@0@
+Du kan inte infoga kontrollen '%2.4' som rubrik till matrix box '%1.4' d„rf”r att kontrollen '%6.4' anv„nds som rubrik.
+@2@17@0@
+Du kan inte infoga kontrollen '%2.4' som rubrik till table box '%1.4' d„rf”r att kontrollen '%6.4' anv„nds redan som rubrik.
+@2@18@0@
+'%8' „r inte en enhetsoberoende bmp-fil.
+@2@19@0@
+Det h„r „r en ogiltig enhetsoberoende bitmap-fil.
+@2@20@0@
+'%8' „r inte en ikonfil.
+@2@21@0@
+'%8' „r en ogiltig ikonfil.
+@2@22@0@
+Egenskapen '%3' „r obligatorisk f”r en/ett %1.2.
+Du f”rs”kte ta bort '%3' fr†n %1.2 ben„mnd '%1.4'.
+@2@23@0@
+Du kan inte infoga kontrollen '%2.4' som en matrisdel av '%1.4' d„rf”r att '%1.4' „r inte en matrix box.
+@2@24@0@
+Du kan inte infoga kontrollen '%2.4' som en rubrik till list, table eller matrix box '%1.4', d„rf”r att det har specificerats att '%1.4' inte ska ha en rubrik.
+@2@25@0@
+Den dynamiska egenskapen '%3' kan inte „ndras i detta sammanhang.
+
+Du f”rs”kte „ndra '%3' till %4 p† %1.2 ben„mnd '%1.4'.
+@2@26@0@
+Egenskap '%3' f†r inte s„ttas till %4 p† %1.2 ben„mnd '%1.4'.
+@2@28@0@
+Bitmap-nr %5 finns inte i programmet.
+
+Programmet inkluderar bitmaps numrerade fr†n 1 till 53.
+@2@29@0@
+Den senaste Redigera-funktionen (ofta 'klistra in') ignorerades d„rf”r att den skulle ha lett till att maximiantalet tecken (%5) f”r text box %1.4 skulle ha ”verskridits.
+@2@30@0@
+'%1.5' kan inte st„ngas, eftersom den „r l†st av '%2.5'.
+
+Avsluta '%2.5' innan du st„nger.
+@2@31@0@
+Egenskap '%3' i %1.2 ben„mnd '%1.4' ligger utanf”r intervallet (intervallmaximum %4).
+@2@32@0@
+%3 kan inte vara %8.
+
+Till†tna v„rden „r: 'infinite', 'default', eller heltal fr†n 0 till %5.
+@2@33@0@
+Du „ndrade storlek p† den fastklistrade kolumnen %1.5, som sedan automatiskt ut”kades f”r att fylla tomt utrymme som annars skulle ha uppst†tt.
+@2@34@0@
+%3 kan inte vara %8.
+
+Ange en giltig tangentkombination, t.ex. Ctrl+F5.
+@2@35@0@
+Du kan inte anv„nda %4 som ID d„rf”r att den/det anv„nds redan av ett menyobjekt.
+@2@36@0@
+%3 kan inte inneh†lla %8.
+
+Den maximala storleken p† %3 (inklusive filnamn och s”kv„g „r 32 K (32756 bytes).
+@2@37@0@
+%3 kan inte inneh†lla %8.
+
+Den maximala storleken p† hela listan med bitmappar i %3 (inklusive filnamn och s”kv„gar) „r 32 K (32756 bytes).
+@2@38@0@
+'%1.5' kan inte avslutas d„rf”r att systemet fortfarande arbetar.
+@2@39@0@
+%3 av %1.2 ben„mnd '%1.4' kan inte vara %4 eftersom det skulle orsaka en cyklisk ”verordnad kedja - %1.2 ben„mnd '%1.4' som '”verordnad' till %2.2 ben„mnd '%2.4'
+@2@43@0@
+Du kan inte manuellt „ndra eller ta bort %3 fr†n %1.2 ben„mnd '%1.4'.
+
+Om du vill „ndra beh†llare, ska du dra '%1.4' med musen ist„llet.
+@2@44@0@
+Du kan inte „ndra eller ta bort %3 fr†n %2.2 ben„mnd '%2.4', d„rf”r att den/det finns inom %1.2 ben„mnd '%1.4'.
+@2@45@0@
+Du kan inte samtidigt ha mer „n en aktiv session av Microsoft Dynamics NAV Development Environment i ett 16-bitars Windows-operativsystem. 
+@2@47@0@
+C/SIDE Hyperlinking misslyckades.
+
+Du f”rs”kte skapa en hyperl„nk till detta m†l:
+%8
+
+Vill du att hyperl„nkens m†l ska placeras i Urklipp?
+@2@49@0@
+C/SIDE kunde inte ladda en Windowsresurs.
+
+Resurserna i Windows kan vara l†ga.
+St„ng n†gra f”nster och f”rs”k igen.
+@2@50@0@
+%3 kan inte vara %4.
+
+Till†tna v„rden „r heltal fr†n 220 till %5.
+@2@52@0@
+S”kv„gen „r f”r l†ng. L„ngden p† s”kv„gen f†r inte ”verskrida %5 byte.
+@2@53@0@
+Det g†r inte att aktivera ett subformul„r utan det aktiva huvudformul„ret.
+@2@54@0@
+Det g†r inte att aktivera ett subformul„r utan det aktiva huvudformul„ret.
+Huvudformul„r-ID=%1.
+@2@55@0@
+Antalet poster i tabellen ”verskrider det maximala till†tna antalet, %1.
+
+Ange ett filter f”r att minska antalet poster i tabellen eller klicka p† Verktyg, 
+Alternativ och ”ka det maximala till†tna antalet poster som kan exporteras.
+
+Om du exporterar m†nga poster †t g†ngen kan systemets prestanda f”rs„mras.
+@2@56@0@
+Allvarligt internt fel.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ The Connection between the Database and Forms                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@60@0@
+@2@1@0@
+Formul„ret k„nner inte igen kontrollen %6.
+@2@2@0@
+%1 kan inte infogas i detta formul„r.
+@2@3@0@
+%1 kan inte „ndras i detta formul„r.
+@2@4@0@
+%1 kan inte tas bort fr†n detta formul„r.
+@2@5@0@
+Drop-down kan inte anv„ndas h„r, eftersom det inte finns n†gra alternativ att v„lja bland.
+@2@6@0@
+CurrForm.UPDATE kan inte anropas h„rifr†n.
+@2@7@0@
+Timer Triggers finns inte tillg„ngliga.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA_Control  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ Controls used in the Connection between                 ³
+// ³                  the Database and Forms                                  ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@61@0@
+@2@1@0@
+'%3' „r inte ett giltigt v„rde.
+@2@2@0@
+Kontrollen %9(%6) har en ogiltig datatyp %7. Giltiga datatyper „r: %8.
+@2@3@0@
+'%3' „r inte ett giltigt v„rde. F”ljande v„rden kan anv„ndas: %5.
+@2@4@0@
+F„ltet f†r inte vara tomt. Skriv in ett v„rde.
+@2@5@0@
+F„ltet inneh†ller ett ogiltigt tecken (%1). F”ljande tecken kan anv„ndas: %4.
+@2@6@0@
+I detta f„lt ska du ange ett nummer.
+@2@7@0@
+Du kan inte ange ett avslutsdatum h„r.
+@2@10@0@
+Ange ett numeriskt v„rde eller ett ber„kningsuttryck.
+@2@11@0@
+F„ltet kan maximalt inneh†lla %5 decimaler.
+@2@13@0@
+Kontrollen %9(%6) kan inte redigeras, eftersom det underliggande databasf„ltet inte kan „ndras.
+@2@14@0@
+'CharAllowed' m†ste utg”ras av par av tecken. F”rsta tecknet i paret m†ste vara lika med eller mindre „n det andra.
+@2@15@0@
+L”senordet inneh†ller ett ogiltigt tecken.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ADSI ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Active Directory Services Interface                                     ³
+// ³                                                                          ³
+// ³  ID values:    1- 199   General errors                                   ³
+// ³              200- 249   AD Schema errors                                 ³
+// ³              250- 269   Service Connection Point errors                  ³
+// ³                                                                          ³
+// ³             1xxx        Information (success) message corresponding to   ³
+// ³                                               the xxx error message      ³
+// ³                                                                          ³
+// ³  Symbol   Substitution   Explanation/Examples                            ³
+// ³  ------   ------------   --------------------                            ³
+// ³                                                                          ³
+// ³    %1     Text           Error text retrieved from ADSI                  ³
+// ³                                                                          ³
+// ³    %2     Text           Error context                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@142@0@
+@2@1@0@
+Active Directory Service kunde inte initieras.
+@2@2@0@
+Ett anrop till Active Directory Service Interface misslyckades.
+
+F”ljande fel returnerades:
+%1
+Kontakta systemadministrat”ren.
+@2@3@0@
+Det gick inte att h„mta objektet %2 fr†n Active Directory.
+
+Systemet returnerade f”ljande fel:
+%1
+Kontakta systemadministrat”ren eller leverant”ren f”r support.
+@2@4@0@
+Det gick inte att h„mta den globala katalogen fr†n Active Directory.
+Detta kan bero p† n„tverksproblem eller p† att Active Directory-funktionalitet saknas p† datorn eller i n„tverket.
+
+Systemet returnerade f”ljande fel:
+%1
+
+Active Directory-funktionalitet finns inte tillg„nglig.
+Kontakta systemadministrat”ren eller leverant”ren f”r support.
+@2@5@0@
+Det gick inte att h„mta den globala katalogen fr†n Active Directory.
+Detta kan bero p† n„tverksproblem eller p† att Active Directory-funktionalitet saknas p† datorn eller i n„tverket.
+
+Active Directory-funktionalitet finns inte tillg„nglig.
+Kontakta systemadministrat”ren eller leverant”ren f”r support.
+@2@250@0@
+Systemet misslyckades med att publicera eller uppdatera databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic i Active Directory.
+
+Systemet returnerade f”ljande fel:
+%1
+Kontakta din systemadministrat”r eller din leverant”r.
+@2@251@0@
+Systemet misslyckades med att skriva databasservern f”r tj„nstanslutningspunktens GUID f”r Microsoft Dynamics NAV Classic i registret.
+Servern kan inte uppdatera tj„nstanslutningspunkten (SCP).
+@2@252@0@
+Systemet misslyckades med att publicera databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic i Active Directory.
+
+Innan databasservern f”r Microsoft Dynamics NAV Classic kan publicera en tj„nstanslutningspunkt m†ste Active Directory Schema p† n„tverksdom„nkontrollanten expanderas. Kontakta din n„tverksadministrat”r om du vill ha mer information.
+
+Anv„nd SchemaXt-verktyget som finns p† installationsmediet om du vill l„gga till det h„r st”det f”r Active Directory.
+
+Observera: Databasservern f”r Microsoft Dynamics NAV Classic fungerar utan en tj„nstanslutningspunkt. Klienter kommer dock inte att kunna se en lista ”ver servrar i n„tverket.
+@2@253@0@
+Det gick inte att uppdatera databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic i Active Directory.
+Registerposten saknas.
+@2@254@0@
+Det gick inte att publicera databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic i Active Directory.
+Operativsystemet st”der inte tj„nstpublicering. Operativsystemet m†ste vara Microsoft Windows 2000 eller senare.
+Detta p†verkar inte prestanda f”r databasservern f”r Microsoft Dynamics NAV Classic, men klienter kommer inte kunna n† den h„r servern.
+@2@260@0@
+Det gick inte att ta bort databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic fr†n Active Directory.
+
+Systemet returnerade f”ljande fel:
+%1
+Kontakta din systemadministrat”r eller din leverant”r.
+@2@261@0@
+Det gick inte att ta bort databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic fr†n Active Directory.
+Registerposten saknas.
+@2@1250@0@
+Databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic publicerades i Active Directory.
+@2@1260@0@
+Databasservern f”r tj„nstanslutningspunkten (SCP) f”r Microsoft Dynamics NAV Classic togs bort fr†n Active Directory.
+@2@END@0@
+//   ÚÄÄÄÄÄ¿
+// ÚÄ´ OIO ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÙ                                                                  ³
+// ³                                                                          ³
+// ³  Module_OIO                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@27@0@
+@2@2@0@
+Disken som du har valt att placera s„kerhetskopian p† „r f”r liten f”r att rymma identifieringsblocket. V„lj en enhet som har mer utrymme.
+@2@3@0@
+Det finns inte mer utrymme p† disken. Anv„nd en disk med st”rre kapacitet.
+@2@4@0@
+S„kerhetskopian „r skadad (ogiltig kontrollsumma).
+@2@6@0@
+S„kerhetskopian „r skadad (ov„ntad typ av data).
+@2@8@0@
+Processen S„kerhetskopiera/terst„ll har avbrutits.
+@2@16@0@
+S„kerhetskopian „r inte en Microsoft Dynamics NAV Development Environment-s„kerhetskopia.
+@2@17@0@
+S„kerhetskopian och programmet har inte samma versionsnummer.
+@2@18@0@
+Filformatet %1 st”ds inte av den h„r versionen av Microsoft Dynamics NAV Development Environment.
+@2@20@0@
+S„kerhetskopian „r inte en Microsoft Dynamics NAV Development Environment-s„kerhetskopia.
+@2@21@0@
+Den h„r FOB-filen „r av en „ldre version som inte fungerar med Microsoft Dynamics NAV Development Environment. Anv„nd Microsoft Dynamics NAV 2013 Development Environment f”r att importera den till en Microsoft Dynamics NAV 2013-databas och exportera de uppgraderade programobjekten till en ny FOB-fil.
+@2@100@0@
+terst„llning av s„kerhetskopian avbr”ts d„rf”r att f”retaget '%10' finns redan i databasen.
+@2@101@0@
+Systemet f”r att ta s„kerhetskopior kan inte hitta filen %1. Kontrollera att du anv„nder r„tt disk.
+@2@102@0@
+Disken som du har valt att placera s„kerhetskopian p† „r f”r liten f”r att rymma s„kerhetskopians fullst„ndiga titel. V„lj en enhet som har mer utrymme.
+@2@103@0@
+terst„llning av s„kerhetskopian har avslutats d„rf”r att databasen inneh†ller data som „r gemensam f”r alla f”retag.
+@2@200@0@
+Ett eller flera av de objekt som du f”rs”ker importera har ingen signatur
+och „r d„rf”r inget giltigt programobjekt. Importen avbryts.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  IE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Binary Object Import/Export                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@169@0@
+@2@1@0@
+Create „r endast till†tet f”r nya objekt.
+@2@2@0@
+Overwrite „r inte till†tet f”r nya objekt.
+@2@3@0@
+Endast tabeller kan sl†s ihop.
+@2@4@0@
+Borttag „r endast till†tet f”r tomma objekt.
+@2@5@0@
+Tomma objekt kan endast anv„ndas f”r borttag av andra objekt.
+
+V„lj antingen Hoppa ”ver eller Ta bort.
+@2@101@0@
+Alla objekt ha unders”kts, och inga konflikter uppt„cktes.
+
+V„lj Ja f”r att importera alla objekt, Nej f”r att ”ppna Import-formul„ret, eller Avbryt f”r att avbryta importen.
+@2@102@0@
+Objekten i %1 kunde inte importeras d„rf”r att inst„llningarna f”r formul„ret i importfilen inte kan till„mpas p† objekten i din databas och/eller de objekt du f”rs”ker importera.
+
+V„lj OK f”r att ”ppna Import-formul„ret, eller Avbryt f”r att avbryta importen.
+@2@103@0@
+Objekten i %1 kunde inte importeras d„rf”r att det finns redan objekt med versionskonflikter i databasen.
+
+V„lj OK f”r att ”ppna Import-formul„ret, eller Avbryt f”r att avbryta importen.
+@2@400@0@
+S„kerhetskopieringen till '%1' avslutades normalt.
+@2@401@0@
+S„kerhetskopian '%1' har †terst„llts.
+@2@404@0@
+S„kerhetskopian %1 har †terst„llts.
+
+Det gick inte att h„mta anv„ndarinformationen (Windows-felkod %2). En Windows-inloggning b”r l„ggas till manuellt f”r att aktivera s„kerhetssystemet.
+@2@600@0@
+Det finns inte tillr„ckligt med utrymme p† disken f”r att rymma identifieringsblocket. V„lj en enhet som har mer utrymme.
+@2@602@0@
+Filen „r skadad (ogiltig kontrollsumma).
+@2@603@0@
+Filen „r skadad (ov„ntad typ av data).
+@2@604@0@
+Jobbet har avbrutits.
+@2@605@0@
+Filen „r inte en Microsoft Dynamics NAV Development Environment-objektfil.
+@2@606@0@
+Objektfilen och programmet har inte samma versionsnummer.
+@2@607@0@
+Objektfilen kan inte anv„ndas i den h„r versionen av programmet.
+@2@608@0@
+Filen „r inte en Microsoft Dynamics NAV Development Environment-objektfil.
+@2@609@0@
+Kan inte hitta filen %1. Kontrollera att du anv„nder r„tt disk.
+@2@610@0@
+Det finns inte tillr„ckligt med utrymme p† disken f”r att rymma objektfilens fullst„ndiga titel. V„lj en enhet som har mer utrymme.
+@2@700@0@
+Det g†r inte att importera objekten till databasen. F”ljande konflikter finns:
+
+%1
+@2@END@0@
+
+
+//   ÚÄÄÄÄ¿
+// ÚÄ´ WZ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Wizards                                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@111@0@
+@2@1@0@
+Du m†ste ange en tabell f”r att kunna anv„nda en guide.
+@2@2@0@
+Tabell-ID:t %1 finns inte. 
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  DM  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Data Manager                                                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@110@0@
+@2@1@0@
+Det finns f”r m†nga FlowFields i f”nstret. Ett f”nster kan visa maximalt %1 FlowFields.
+
+Ta bort n†gra av f„lten fr†n formul„ret.
+@2@4@0@
+Posten finns redan.
+@2@6@0@
+I ett demonstrationsf”retag kan du endast registrera datum i m†naderna november, december, januari och februari. Detta best„ms av filtret %1, som definieras av licensfilen.
+@2@7@0@
+%1 m†ste fyllas i. Skriv in ett v„rde.
+@2@8@0@
+Du kan inte infoga en post fr†n en annan tabell.
+@2@9@0@
+Du kan inte klistra in i denna tabell.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  AO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Object                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@70@0@
+@2@001@0@
+Objekttypen '%6' st”ds inte av programmet.
+@2@021@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+H„r f”rv„ntas ett '{' (ListBegin).
+@2@022@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+H„r f”rv„ntas ett '}' (ListEnd).
+@2@023@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+H„r f”rv„ntas ett '=' (likhetstecken).
+@2@024@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+H„r f”rv„ntas ett '{' (ElemBegin).
+@2@025@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+H„r f”rv„ntas ett '}' (ElemEnd).
+@2@026@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+Filen ska inte sluta h„r.
+@2@027@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+AL-koden „r inte indragen lika mycket som den f”rsta raden.
+@2@028@0@
+Importen har ett syntaxfel p† rad %3 i position %2 : %1.
+
+H„r f”rv„ntas ett nytt objekt b”rja.
+@2@029@0@
+Importen har ett syntaxfel p† rad %3 i position %2: %1. 
+
+Komponenten ControlAddIn m†ste installeras f”r att det ska g† att importera komponentens h„ndelseutl”sare.
+
+@2@030@0@
+Det finns ett fel i importen, p† rad %3 i position %2 : %1. 
+
+Word-layouten „r f”r stor.
+
+@2@031@0@
+Du m†ste ange ett objekt-ID.
+@2@032@0@
+Du m†ste ange ett objektnamn.
+@2@041@0@
+Det finns ett syntaxfel i en 'Translation Import'. Det f†r inte finnas n†gra blankrader.
+@2@042@0@
+Det finns ett syntaxfel i en 'Translation Import'. Det m†ste finnas ett minustecken i str„ngen.
+
+%5
+@2@043@0@
+Det finns ett syntaxfel i en 'Translation Import'. Det m†ste finnas ett kolontecken i str„ngen.
+
+%5
+@2@045@0@
+Det finns ett syntaxfel i en 'Translation Import'. Texten „r f”r l†ng.
+
+%5
+@2@051@0@
+'%7' „r inte en giltig spr†kmodulsfil.
+@2@052@0@
+Spr†kmodulsfilen '%7' „r en inkompatibel version.
+@2@053@0@
+Det finns ett kontrollsummefel i spr†kmodulsfilen '%7'.
+@2@400@0@
+Exportformatet st”ds inte: %1. De format som st”ds „r 0: txt och 1: xml.
+@2@401@0@
+Posten som ”verf”rs till EXPORTOBJECTS m†ste vara en objekttabellpost.
+@2@420@0@
+Importformatet st”ds inte: %1. De format som st”ds „r 0: txt och 1: xml.
+@2@421@0@
+Importen avbr”ts p† rad %1 med felmeddelandet:
+
+%2
+@2@423@0@
+Importen avbr”ts p† rad %1 (ok„nt fel).
+@2@500@0@
+Utdatafilen „r inte ”ppen.
+@2@800@0@
+Det gick inte att l„sa in XML-dokumentet %7.
+@2@801@0@
+Det gick inte att ladda MSXML
+@2@802@0@
+Ov„ntat element %1. Det ov„ntade elementet „r %2.
+@2@803@0@
+Det gick inte att spara XML-dokumentet %7.
+@2@900@0@
+Du kan inte l†sa %1 eftersom det har l†sts av %22.
+@2@902@0@
+Du kan inte l†sa %1 eftersom det redan har l†sts av dig.
+@2@903@0@
+Du kan inte l†sa upp %1 eftersom det inte „r l†st.
+@2@904@0@
+Du kan inte l†sa upp %1 eftersom det har l†sts av %22.  
+
+Kontakta systemadministrat”ren om du vill l†sa upp ett objekt som l†sts av en annan anv„ndare.
+@2@905@0@
+Du kan inte spara objektet eftersom det „r skrivskyddat.
+@2@906@0@
+Du kan inte spara objektet med det h„r ID:t.
+@2@907@0@
+Objekttypen Formul„r st”ds inte.
+@2@908@0@
+Objekttypen Dataport st”ds inte.
+@2@909@0@
+K”rning av AL-kod st”ds inte i den h„r kontexten.
+@2@910@0@
+Objektet %1 m†ste sparas i kompilerad form innan det kan k”ras.
+@2@915@0@
+The FOB file contains table objects.\
+\
+Some changes in the table objects may require data upgrade instructions. In this case, if this FOB file contains the upgrade toolkit objects, such as upgrade codeunits and upgrade tables, then you can choose to synchronize schema now. If the upgrade toolkit objects are included in a separate FOB file, then you can choose to synchronize schema later, after you have imported that FOB file.\
+\
+We recommend that you make a backup of all of your application objects by exporting all your current objects in the FOB format before you proceed.\
+\
+Select the option for synchronizing the schema changes after the table objects are imported into the application.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´COMCÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                                          ³
+// ³  COMponent Controller                                                                           ³
+// ³                                                                                                 ³
+// ³  This section provides a short explanation of the %x symbols used below.                        ³
+// ³                                                                                                 ³
+// ³  Symbol   Substitution   Explanation/Examples                                                   ³
+// ³  ------   ------------   --------------------                                                   ³
+// ³                                                                                                 ³
+// ³  %1.1     Name.                                                                                 ³
+// ³  %1.2     GUID.          This is a Global Unique ID.                                            ³
+// ³                          Example:{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}                         ³
+// ³   2       Filename                                                                              ³
+// ³   3       Symbolname     The name of a method or a property.                                    ³
+// ³                          Examples: CTERM, PV or Caption                                         ³
+// ³   4       Number         A numeric value (integer).                                             ³
+// ³   5       MaxArgs        A numeric value. The maximum number of allowed                         ³
+// ³                          arguments when calling methods or properties in                        ³
+// ³                          an OLE control or Automation server.                                   ³
+// ³   6       CLSID          This is a Class ID path.                                               ³
+// ³                          Example: HKEY_CLASSES_ROOT\CLSID\{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}³
+// ³   7       Text           A text string.                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@35@0@
+@2@1@0@
+OLE kunde inte initieras.
+
+Kontrollera att programtill„gg (DLL-filer) f”r OLE-systemet installerats p† ett riktigt s„tt.
+@2@2@0@
+En subtype (en GUID - Global Unique ID) har inte angivits f”r OCX- eller automationsvariabeln.
+
+Ange en GUID genom att fylla i f„ltet Subtype i n†got av formul„ren C/AL Locals eller C/AL Globals.
+@2@4@0@
+Kunde inte ladda klassbiblioteket f”r OLE-kontrollen eller automationsserver %1.1.
+%1.2
+
+Klassbiblioteket kan ha tagits bort eller flyttats till annan plats.
+F”rs”k att registrera OLE-kontrollen eller Automation Server p† nytt.
+@2@7@0@
+Ogiltigt format p† GUID-str„ngen. Det korrekta formatet p† GUID- str„ngen „r 
+
+{CDEF7890-ABCD-0123-1234-567890ABCDEF}
+
+d„r 0-9 och A-F representerar hexadecimala siffror.
+@2@8@0@
+Kan inte h„mta information i klassbiblioteket.
+
+Klassbiblioteket kan vara skadat, eller ha ett ogiltigt format.
+F”rs”k att registrera OLE-kontrollen eller Automation Server p† nytt.
+@2@10@0@
+Kunde inte l„sa information om OLE-kontrollens egenskaper i klassbiblioteket.
+
+F”rs”k att registrera OLE-kontrollen eller Automation Server p† nytt.
+@2@12@0@
+Kunde inte h„mta information om OLE-kontrollens egenskaper fr†n klassbiblioteket.
+
+F”rs”k att registrera OLE-kontrollen eller Automation Server p† nytt.
+@2@13@0@
+Kunde inte h„mta information om OLE-kontrollens metoder fr†n klassbiblioteket.
+
+F”rs”k att registrera OLE-kontrollen eller Automation Server p† nytt.
+@2@14@0@
+Kunde inte h„mta syntaxbeskrivning fr†n klassbiblioteket.
+
+F”rs”k att registrera OLE-kontrollen eller Automation Server p† nytt.
+@2@16@0@
+Det gick inte att h„mta information om symbolen %3 fr†n klassbiblioteket
+under kompileringen.
+
+Klassbiblioteket kan vara skadat. F”rs”k att registrera om OLE-kontrollen
+eller Automation Server.
+@2@17@0@
+Klassbiblioteket inneh†ller inte en metod eller egenskap som ben„mns %3.
+
+Anv„nd menyn Symbol f”r att se vilka metoder och egenskaper 
+som definieras av OLE-kontrollen eller Automation Server.
+@2@18@0@
+Detta meddelande „r till C/AL programmerare:
+
+Det maximala antalet parametrar har ”verskridits. %3 kr„ver %4
+parametrar. C/SIDE st”der maximalt %5 parametrar.
+@2@19@0@
+Ingen metod eller egenskap ben„mnd %3 finns definierad i OLE-kontrollen eller i Automation Server.
+
+Anv„nd menyn Symbol f”r att se vilka metoder och egenskaper 
+som definieras av OLE-kontrollen eller Automation Server.
+@2@20@0@
+Detta meddelande „r till C/AL programmerare:
+
+Den h„r datatypen st”ds inte av C/SIDE. Du kan anv„nda f”ljande
+datatyper:
+VT_VOID, VT_I2, VT_I4, VT_R4, VT_R8, VT_CY, VT_DATE, VT_BSTR och VT_BOOL
+@2@21@0@
+Meddelande till C/AL-programmeraren:
+
+OLE-kontrollen eller Automation Server ger en ok„nd datatyp.
+@2@26@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte h„mta ID p† ben„mningar fr†n OLE-kontrollen eller Automation Server.
+@2@27@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte h„mta v„rdet p† egenskap %3.
+@2@28@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+Antalet parametrar vid anropet skiljer sig fr†n det som metoden eller
+egenskapen f”rv„ntar sig.
+@2@30@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte skapa en instans av OLE-kontrollen eller Automation Server identifierad av
+GUID=%3.
+Kontrollera att OLE-kontrollen eller Automation Server installerats och registrerats korrekt.
+@2@34@0@
+Kunde inte ”ppna nyckeln HKEY_CLASSES_ROOT\%6
+i Registret.
+@2@35@0@
+Detta meddelande „r till C/AL programmerare:
+
+OLE-kontrollens eller Automation Servers returv„rde (datatyp float)
+har ett ogiltigt format.
+OLE-kontrollen eller Automation Server kan inte hantera de parametrar som skickades till den. Troligen
+utf”rdes en division med noll, eller intr„ffade ett spill, vilket gjorde att ett ogiltigt v„rde returnerades.
+@2@36@0@
+Detta meddelande „r till C/AL programmerare:
+
+OLE-kontrollens eller Automation Servers returv„rde (datatyp double)
+har ett ogiltigt format.
+OLE-kontrollen eller Automation Server kan inte hantera de parametrar som skickades till den. Troligen
+utf”rdes en division med noll, eller intr„ffade ett spill, vilket gjorde att ett ogiltigt v„rde returnerades.
+@2@37@0@
+Kunde inte anropa metoden AboutBox f”r denna OLE-kontroll.
+
+GUID: %6
+@2@38@0@
+Kunde inte registrera OLE-kontrollen.
+
+S”kv„g: %2
+@2@39@0@
+Systemregistret har uppdaterats med information om
+OLE-kontrollen.
+
+S”kv„g: %2
+@2@40@0@
+Kunde inte avregistrera OLE-kontrollen.
+
+S”kv„g: %2
+@2@41@0@
+Information om OLE-kontrollen har avl„gsnats ur
+systemregistret.
+
+S”kv„g: %2
+@2@42@0@
+Kunde inte ladda OLE-kontrollen.
+
+S”kv„g: %2
+@2@44@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+En av parametrarna „r inte en giltig parameter av typen VARIANT.
+@2@45@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. %2 returnerade f”ljande meddelande:
+%7
+@2@46@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+Den beg„rda medlemmen finns inte, eller anropet f”rs”kte tilldela ett v„rde
+till en skrivskyddad egenskap.
+@2@47@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+Denna implementation av IDispatch st”der inte namngivna parametrar.
+@2@48@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+En av parametrarna kunde inte konverteras till den angivna typen,
+eller ett spill har intr„ffat.
+@2@49@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+Ett meddelande-ID f”r en parameter i anropet finns inte definierat som ett meddelande-ID f”r en parameter
+i metoden.
+@2@50@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+En eller flera av parametrarna kunde inte typkonverteras.
+@2@51@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+Interface ID som skickas i riid „r inte IID_NULL.
+@2@52@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+Den anropade medlemmen tolkar str„ngparametrar i enlighet med
+locale ID (LCID), och LCID godtas inte.
+@2@53@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade f”ljande
+meddelande:
+En obligatorisk parameter utel„mnades.
+@2@54@0@
+Detta meddelande „r till C/AL programmerare:
+
+Kunde inte anropa medlemmen %3. OLE-kontrollen eller Automation Server returnerade en ok„nd
+felkod.
+@2@56@0@
+Kunde inte hitta specificerat interface i klassbiblioteket.
+@2@57@0@
+Kunde inte ladda det valda klassbiblioteket.
+@2@58@0@
+Det finns flera interface med det specificerade namnet i klassbiblioteket.
+Klicka p† knappen AssistEdit f”r att v„ja ett korrekt interface.
+@2@59@0@
+Klassbiblioteket %7 verkar vara skadat.
+
+Ominstallering av programmet kan l”sa problemet.
+@2@60@0@
+Detta meddelande „r till C/AL programmerare:
+
+Det „r inte m”jligt att tilldela ett tomt objekt.
+@2@61@0@
+Detta meddelande „r till C/AL programmerare:
+
+Felaktig tilldelning. Det „r inte m”jligt att tilldela en %9 till en %8.
+@2@62@0@
+OLE-kontrollen (GUID: %6) kunde inte kompileras d„rf”r att det inte registrerats p† ett korrekt s„tt.
+
+F”rs”k att registrera OLE-kontrollen genom att klicka p† Verktyg, Custom Controls, Bl„ddra.
+@2@63@0@
+Detta meddelande „r till C/AL programmerare:
+
+Variabeln „r redan skapad.
+@2@64@0@
+Detta meddelande „r till C/AL programmerare:
+
+Denna automationsvariabel har inte initierats.
+Du kan initiera den genom att skapa den eller genom att tilldela den.
+@2@65@0@
+Detta meddelande „r till C/AL programmerare:
+
+Str„ngen:
+"%7"
+„r f”r l†ng f”r att anv„ndas i C/AL.
+@2@66@0@
+Detta meddelande „r till C/AL programmerare:
+
+OLE-kontrollen eller Automation Server identifierad med
+%3
+kr„ver en design-licens. Denna licens kan inte n†s.
+Kontrollera att OLE-kontrollen eller Automation Server har installerats p† ett korrekt s„tt och med l„mplig licens.
+@2@67@0@
+Meddelande till C/AL-programmeraren:
+
+Den externa komponenten gav inte en IID_IStream eller IID_ISequentialStream interface p† IUnknown interface.
+@2@68@0@
+Meddelande till C/AL-programmerare:
+
+Varianten „r tom, s† du kan inte skicka ett v„rde.
+@2@69@0@
+Meddelande f”r C/AL-programmerare:
+
+Ett undantag uppstod i metoden %3. OLE-kontrollen eller Automation Server har returnerat ett fel (HRESULT) %7.
+Komponenten gav ingen beskrivning.
+@2@70@0@
+Meddelande till C/AL-programmerare:
+
+Kunde inte konvertera fr†n %11.20 till %10.20.
+Returv„rdet p† parameter %7 i event-trigger
+'%6' kan vara utanf”r det till†tna intervallet f”r 
+OLE-kontrollen eller Automation Server.
+@2@71@0@
+Meddelande till C/AL programmerare:
+
+Typkonvertering p† %1 „r inte m”jlig. %2 var troligen m†ltypen.
+@2@END@0@
+
+
+// OCX_Type ---------------------------------------------------
+
+@1@36@0@
+@2@1@0@
+Det g†r att koppla ben„mningen %3 till %4 GUID-identiteter.
+C/SIDE har valt %6.
+@2@2@0@
+%3 k„nns varken igen som en GUID-identitet eller som en ben„mning p† en OLE-kontroll eller Automation Server.
+Kontrollera att stavningen „r riktig.
+@2@7@0@
+%3 „r inte en GUID och inte heller namnet p† en Automation Server.
+Kontrollera om det som registrerats „r felstavat.
+@2@END@0@
+@1@165@0@
+@2@1@0@
+F„ltnumret „r ogiltigt. Ett f„ltnummer m†ste vara mellan %1 och %2.
+@2@2@0@
+Objektet %3 „r av en ogiltig version.
+@2@3@0@
+Ogiltig datatyp returnerades fr†n %4. Datatypen borde vara Integer.
+@2@4@0@
+FIELDREF-variabeln „r inte initierad.
+@2@5@0@
+RECORDREF-variabeln „r inte initierad.
+@2@6@0@
+KEYREF-variabeln „r inte initierad.
+@2@7@0@
+RECORDID-variabeln „r inte initierad.
+@2@8@0@
+RECORDREF-variabeln anv„nder tabellen %1 - den kan inte tilldelas en variabel av typen RECORD f”r tabell %2.
+@2@9@0@
+F„lt index '%1' ligger inte i intervallet (m†ste vara inom %2 till %3).
+@2@10@0@
+Nyckel index '%1' ligger inte i intervallet (m†ste vara inom %2 till %3).
+@2@11@0@
+Ogiltig tabellhantering. Postparametern har inte initierats p† ett korrekt s„tt.
+@2@12@0@
+RECORDREF-variabeln har inte st„ngts. Du m†ste st„nga RECORDREF med kommandot CLOSE innan du ”ppnar en ny tabell.
+@2@13@0@
+Ogiltig datatyp i f„lt n„r egenskapen ExtendedDatatype „r inst„lld p† %1.
+
+Giltiga datatyper „r Integer, BigInteger eller Decimal.
+@2@14@0@
+Variabeln RECORDREF anv„nder tabell %1 - GET-funktionen kan inte anv„ndas med ett RecordID f”r tabell %2.
+@2@15@0@
+Datatypen %20 „r inte giltig n„r egenskapen Width har angetts.
+
+Giltiga datatyper „r Text, Code, Integer, BigInteger eller Decimal.
+@2@50@0@
+F„ltgruppnamnet %1 inneh†ller blanksteg.
+@2@51@0@
+Det finns fler „n en definition av ID-nr %1 i f„ltgrupperna.
+@2@52@0@
+Det finns fler „n en definition av namnet %1 i f„ltgrupperna.
+@2@53@0@
+F„ltgruppnamnet f†r inte vara tomt.
+@2@54@0@
+Det g†r inte att bearbeta tabell„ndringar eftersom Microsoft Dynamics NAV Development Environment inte kan ansluta till den angivna Microsoft Dynamics NAV Server-instansen:
+
+Servernamn: %1
+Serverinstans: %2
+Hanteringsport: %3
+
+Microsoft Dynamics NAV Development Environment identifierar automatiskt en server som k”rs.
+
+Kontrollera att
+1. Microsoft Dynamics NAV Server k”rs
+2. hanteringstj„nsten har konfigurerats
+3. brandv„ggen har ”ppnats f”r hanteringsporten om fj„rrhantering anv„nds
+4. Servern bara k”rs med en klientorganisation
+5. Microsoft Dynamics NAV Development Environment k”rs med administrat”rsr„ttigheter eller att
+6. UAC har inaktiverats.
+@2@55@0@
+Objekten fr†n FOB-filen importerades men de inneh†ller schema„ndringar som inte kan synkroniseras med databasen med Microsoft Dynamics NAV Server-instansen.
+Kontakta din systemadministrat”r och ange f”ljande information:
+
+Servernamn: %1
+Serverinstans: %2
+Hanteringsport: %3
+
+Microsoft Dynamics NAV Development Environment identifierar automatiskt en server som k”rs.
+
+Kontrollera att
+1. Microsoft Dynamics NAV Server k”rs
+2. hanteringstj„nsten har konfigurerats
+3. brandv„ggen har ”ppnats f”r hanteringsporten om fj„rrhantering anv„nds
+4. Microsoft Dynamics NAV Development Environment k”rs med administrat”rsr„ttigheter eller att
+5. UAC har inaktiverats.
+@2@56@0@
+Tabell„ndringarna sparades men de inneh†ller schema„ndringar som inte kan synkroniseras med databasen med Microsoft Dynamics NAV Server-instansen.
+Kontakta din systemadministrat”r och ange f”ljande information:
+
+Servernamn: %1
+Serverinstans: %2
+Hanteringsport: %3
+
+Microsoft Dynamics NAV Development Environment identifierar automatiskt en server som k”rs.
+
+Kontrollera att
+1. Microsoft Dynamics NAV Server k”rs
+2. hanteringstj„nsten har konfigurerats
+3. brandv„ggen har ”ppnats f”r hanteringsporten om fj„rrhantering anv„nds
+4. Microsoft Dynamics NAV Development Environment k”rs med administrat”rsr„ttigheter eller att
+5. UAC har inaktiverats.
+@2@57@0@
+Det g†r inte att behandla tabell„ndringar eftersom beg„ran inte kan behandlas av den angivna Microsoft Dynamics NAV Server-instansen:
+
+Servernamn: %1
+Serverinstans: %2
+Hanteringsport: %3
+
+Kontrollera att
+1. Microsoft Dynamics NAV Server k”rs
+2. endast en klientorganisation har monterats p† instansen.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  FO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Form Object                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@81@0@
+@2@005@0@
+Objektet '%1' m†ste kompileras innan det kan k”ras.
+@2@101@0@
+Ogiltig datatyp f”r 'uttryck' i 'menyobjekt'. Datatypen ska vara 'Boolean'.
+@2@102@0@
+Ogiltig datatyp f”r 'DataCaption'. Datatypen ska vara 'Text'.
+@2@103@0@
+Datakontroller m†ste ha ett uttryck.
+@2@104@0@
+Egenskap '%10' m†ste finnas med.
+@2@105@0@
+Ogiltig datatyp f”r '%10'. Det borde vara 'Text'.
+@2@120@0@
+Det „r en ogiltig typ av prim„rnyckel f”r autosplitkey-egenskapen. Den ska vara en integer,stor integer, decimal eller GUID.
+@2@121@0@
+Funktionen autosplitkey kan inte hitta en nyckel mellan nuvarande och f”reg†ende post.
+@2@130@0@
+Den angivna tabellen (%3) skiljer sig fr†n den tabell som formul„ret anv„nder (%4).
+@2@131@0@
+Du kan inte ”ppna ett subformul„r fr†n ett subformul„r.
+@2@132@0@
+Formul„ret har k”rts. Anv„nd funktionen CLEAR(formul„r).
+@2@133@0@
+Formul„ret „r inte ”ppnat.
+@2@134@0@
+Formul„ret kan inte aktiveras.
+@2@135@0@
+Du har inte angivit vilket objekt som ska k”ras (om du anv„nder funktionen 'RunObject' m†ste du ocks† ange ett objekt).
+@2@136@0@
+Du kan inte k”ra ett subformul„r.
+@2@137@0@
+Egenskap RunFormOnRec „r endast giltig om k„lltabellen och m†ltabellen „r identiska.
+K„lltabell: %7 M†ltabell: %8.
+@2@138@0@
+Du kan inte k”ra ett formul„r fr†n Application Server.
+
+Formul„r: %2
+@2@200@0@
+Formul„robjektet %1 har en ogiltig version.
+@2@400@0@
+%5 „r en ogiltig MenuLevel (m†ste vara mellan 0 och 9).
+@2@401@0@
+MenuLevel f†r endast vara 1 h”gre „n det tidigare v„rdet.
+
+H„r „r det nya v„rdet p† MenuLevel '%5' medan det gamla v„rdet var '%6'.
+@2@402@0@
+Kontrollidentiteten %9 anv„ndes.
+@2@403@0@
+Bredden och h”jden p† formul„ret m†ste vara mellan 0 och 100 000 [1/100 mm].
+@2@404@0@
+F”rsta MenuLevel m†ste vara 0.
+@2@500@0@
+Det finns ingen standardformatmall f”r programmet som du exporterar till.
+
+Kontakta systemadministrat”ren.
+@2@501@0@
+Programmet som ska startas har inte definierats i tabellen %1. 
+
+Kontakta systemadministrat”ren.
+@2@502@0@
+Parameterstr„ngen %1 f”r programmet %2 „r ogiltig. 
+
+Kontakta systemadministrat”ren.
+@2@503@0@
+Det g†r inte att hitta programmet %1 p† datorn. 
+
+Kontakta systemadministrat”ren.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  RE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Report Object                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@71@0@
+@2@200@0@
+Ogiltig version av rapportobjektet %1.
+@2@203@0@
+Egenskap '%4' m†ste anges.
+@2@300@0@
+Rapporten %5 har inte n†got DataItem som anv„nder tabellen (%2), som angivits i funktionen SetTableView.
+@2@301@0@
+Rapporten har k”rts. Anv„nd funktionen CLEAR(rapport).
+@2@302@0@
+F”rsta DataItem m†ste ha DataItemIndent=0.
+@2@303@0@
+V„rdet p† egenskap DataItemIndent f”r ett DataItem f†r endast vara ett h”gre „n egenskapen f”r f”reg†ende DataItem.
+@2@304@0@
+Det finns inget DataItem som ben„mns '%6'.
+@2@305@0@
+Kontrollidentiteten %7 anv„nds redan.
+@2@306@0@
+V„rdet %10 f”r kontrollegenskapen DataSetFieldName anv„nds redan.
+@2@307@0@
+Egenskapen DataItemIndent f”r ett DataItem kunde inte inneh†lla ett negativt v„rde.
+@2@308@0@
+Egenskapen MaxIteration f”r ett DataItem kunde inte inneh†lla ett negativt v„rde.
+@2@309@0@
+DataItems-s”kv„gens l„ngd har ”verstigit den allokerade buffertstorleken p† grund av antalet niv†er av kapslade DataItems. Designa om dataupps„ttningen f”r att minska dess komplexitet och antalet niv†er av kapslade DataItems.
+@2@310@0@
+Alla DataItems i designen m†ste ha ett namn n„r rapporten har en Word-layout.
+@2@311@0@
+En tom Word-layout med en XML-del f”r den aktuella dataupps„ttningen har skapats i rapporten.
+@2@312@0@
+Egenskapen WordMergeDataItem har angetts till DataItem %6. Det „r bara dataobjekt med DataItemIndent=0 som kan anges i WordMergeDataItem.
+@2@313@0@
+Egenskapen WordMergeDataItem har angetts till DataItem %6, som inte finns.
+@2@400@0@
+Du kan endast l„gga till %3 FlowFields.
+@2@402@0@
+Du kan inte skriva ut fr†n en rapport d„r egenskapen 'ProcessingOnly' „r satt till 'Yes'.
+@2@403@0@
+Den anropade funktionen kan endast anropas fr†n en DataItem trigger.
+@2@404@0@
+Den anropade funktionen kan endast anropas fr†n en Section trigger.
+@2@405@0@
+Den anropade funktionen kan endast anropas fr†n en DataItem trigger eller en Section trigger.
+@2@406@0@
+F„lten som angivits i egenskapen TotalFields m†ste vara av typen decimal. F„ltet %2.1 i tabellen %1.1 „r inte av typen decimal.
+@2@502@0@
+Bredden p† en Section kan inte vara mindre „n att samtliga kontroller i alla Sections ryms i sidled.
+@2@503@0@
+H”jden p† en Section kan inte vara mindre „n att samtliga kontroller ryms i h”jdled.
+@2@600@0@
+Denna rapport kan inte skrivas ut fr†n F”rhandsgranska. Avsluta F”rhandsgranska och k”r rapporten.
+@2@601@0@
+En f”r„ndring av skrivare, pappersstorlek, pappersorientering har p†verkat storleken p† den utskrivbara arean.
+Det kan p†verka rapportutskriften.
+
+Vill du skriva ut?
+@2@602@0@
+Du kan inte skriva ut fr†n F”rhandsgranska innan rapportgenereringen „r klar.
+@2@603@0@
+Du kan inte k”ra rapporter med formul„r f”r beg„ran p† Application Server f”r Microsoft Dynamics NAV.
+@2@604@0@
+Det „r inte till†tet att ha olika k„lltabeller f”r formul„ret f”r beg„ran och sidan f”r beg„ran.
+@2@700@0@
+Ogiltig rapport XML Request
+@2@701@0@
+Det g†r inte att importera layouter (RDLC-filer) som „r st”rre „n %8 byte.
+@2@703@0@
+Internt fel: %1
+@2@704@0@
+Det g†r inte att exemplifiera Microsoft.Dynamics.Nav.DotNetBridge.dll.
+@2@705@0@
+RDLC-filen „r inte ett korrekt utformat XML-dokument. 
+
+Detaljerad beskrivning: %9
+@2@706@0@
+Det g†r inte att ”ppna rapporten f”r redigering. 
+
+Detaljerad beskrivning: %9
+@2@707@0@
+Det gick inte att kopiera rapportlayoutkatalogen. 
+
+Detaljerad beskrivning: %9
+@2@708@0@
+Det g†r inte att redigera layouten med rapportdesignern.
+
+Detaljerad beskrivning: %9
+@2@709@0@
+Ogiltiga tillhandah†llna metadata.
+@2@710@0@
+Det g†r inte att skapa en dataupps„ttning med tillhandah†llna metadata.
+@2@711@0@
+Det gick inte att rensa den tillf„lliga rapportmappen.
+@2@712@0@
+RDLC-filen kan inte valideras mot schemat. tg„rden misslyckades.
+@2@713@0@
+RDLC-filen har inte korrekt format.
+@2@714@0@
+Det gick inte att rensa den aktuella tillf„lliga rapportl”sningsmappen.
+@2@715@0@
+Ett fel uppstod n„r en ny tillf„llig fil skulle skapas.
+@2@716@0@
+Ett fel uppstod n„r en tillf„llig fil skulle tas bort.
+@2@717@0@
+Det gick inte att omvandla formul„ret f”r beg„ran: %9
+@2@718@0@
+Ett fel uppstod n„r Microsoft.Dynamics.Nav.DotNetBridge.dll kontaktades.
+@2@719@0@
+Ett fel uppstod n„r formul„ret f”r beg„ran skulle omvandlas.
+@2@720@0@
+Rapporten inneh†ller inte kontroller och kan inte omvandlas.
+@2@721@0@
+Ett fel uppstod n„r RDL-inneh†llet validerades:
+%9
+@2@722@0@
+Ett fel uppstod n„r rapportdesignern ”ppnades. Det gick inte att hitta en version av Visual Studio som st”ds.
+@2@723@0@
+Rapporter av typen ProcessingOnly f†r inte inneh†lla en layout, exempelvis en RDL-datadel.
+@2@724@0@
+Den h„r rapporten har en referens till ett f„lt som inte finns i dataupps„ttningen.%9
+Du kan skapa om dataupps„ttningen genom att ”ppna rapportens layout, spara den och sedan kompilera om rapporten i C/SIDE.
+@2@725@0@
+RDLC-bilden %9 f”r rapporten har definierats som extern. Egenskapen EnableExternalImages har inte angetts.
+@2@726@0@
+RDLC-kontrollen %9 f”r rapporten inneh†ller en extern l„nk. Egenskapen EnableHyperlinks har inte angetts.
+@2@727@0@
+RDLC %9 f”r rapporten inneh†ller en extern l„nk. Egenskapen EnableHyperlinks har inte angetts.
+@2@728@0@
+Det gick inte att hitta ReportLayout-katalogen: %9
+@2@729@0@
+Utvecklingsmilj”n Microsoft Dynamics NAV och rapportdesignern m†ste k”ras med samma beh”righeter: %9
+@2@730@0@
+Rapportlayouten „r ”ppen i rapportdesignern. Du m†ste st„nga f”nstret i rapportdesignern innan du kan st„nga rapportobjektet.
+@2@731@0@
+Det g†r inte att k”ra en DataSet-rapport utan en layout.
+@2@732@0@
+Det gick inte att h„mta standard-RDL: %9
+@2@733@0@
+Rapportlayouten har redan ”ppnats i rapportdesignern.
+@2@734@0@
+Rapporten inneh†ller en referens till en extern sammans„ttning. Aktivera egenskapen EnableExternalAssemblies f”r rapportobjektet eller ta bort referensen till den externa sammans„ttningen i layouten.
+@2@735@0@
+Filen som du importerar „r inte baserad p† RDL 2010-schemat. Du m†ste uppgradera den till RDL 2010-schemat.
+@2@736@0@
+Rapporten st”ds inte och m†ste uppgraderas innan du kan „ndra eller visa den.
+@2@737@0@
+Rapporter av typen ProcessingOnly f†r inte inneh†lla en Word-layout.
+@2@738@0@
+Microsoft SQL Server 2014 Report Builder 3.0 m†ste vara installerat f”r att du ska kunna uppgradera rapporter.
+@2@739@0@
+Det gick inte att initiera Microsoft SQL Server 2014 Report Builder 3.0: %9
+Kontrollera att Report Builder 3.0 har installerats korrekt.
+@2@740@0@
+Det gick inte att uppgradera RDL p† %1.
+%9
+@2@741@0@
+Det gick inte att skapa RDL p† %1.
+%9
+@2@742@0@
+%1 m†ste kompileras f”re uppgradering
+@2@743@0@
+RDLC BackgroundImage %9 f”r rapporten har definierats som extern. Egenskapen EnableExternalImages har inte angetts.
+@2@744@0@
+Ett fel uppstod n„r rapportdesignern ”ppnades. Det gick inte att hitta en version av Report Builder som st”ds.
+@2@745@0@
+DefaultLayout har angetts till Word, men det har inte definierats n†gon Word-layout f”r rapporten.
+@2@800@0@
+Den f”rsta raden m†ste vara en DataItem.
+@2@801@0@
+Den f”rsta raden m†ste ha ett indrag som „r lika med noll.
+@2@802@0@
+™verordnad m†ste vara en DataItem.
+@2@804@0@
+Namnv„rdet m†ste vara unikt. Det finns redan en kolumn eller etikett med namnet %6.
+@2@805@0@
+DataSource och SourceExpr f†r inte vara tomma.
+@2@807@0@
+ID-v„rdet m†ste vara unikt. Det finns redan en DataItem, Column eller Label med ID:t %7.
+@2@808@0@
+DataSource och SourceTable f†r inte vara tomma.
+@2@809@0@
+Namnet %6 inneh†ller ett eller flera tecken som inte g†r att anv„nda eftersom det inte f”ljer spr†kspecifikationen. Det f”rsta tecknet m†ste vara en bokstav. F”ljande tecken kan best† av valfri kombination av bokst„ver, heltal och understreck. 
+@2@810@0@
+%11 „r inte en giltig kolumntyp.
+@2@812@0@
+Maximal indragsniv† p† DataItems „r %12.
+@2@813@0@
+Namnf„ltet %6 „r f”r l†ngt.
+
+Namnf„ltet f†r vara h”gst %13 tecken.
+@2@814@0@
+Kolumnen „r inst„lld p† att innefatta rubriker men har inte en k„lla som „r ett namngett f„lt. En rubrik f”r kolumnen kan skapas med etikettdesignern.
+@2@816@0@
+ParentDataItem pekar inte p† en giltig DataItem.
+@2@817@0@
+ParentColumn pekar inte p† en giltig kolumn.
+@2@818@0@
+Word-layoutdokumentet „r tomt.
+@2@819@0@
+Word-layoutdokumentet „r f”r stort.
+@2@820@0@
+Word-layoutdokumentet „r felaktigt utformat. Dokumentet kan inte l„sas.
+@2@821@0@
+Det g†r inte att skapa ett nytt tomt Word-layoutdokument f”r den aktuella rapportlayouten.
+@2@822@0@
+Det g†r inte att byta namn p† eller uppdatera databindningarna i Word-layoutdokumentet.
+@2@823@0@
+Uppdateringen av Word-layoutdokumentet kunde inte genomf”ras, med f”ljande fel:
+
+%9
+@2@824@0@
+Valideringen av Word-layoutdokumentet misslyckades p† grund av f”ljande fel:
+
+%9
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	AB  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Base                                                        ³
+// ³                                                                          ³
+// ³  NOTE: Message 1004 is intended for use in the event viewer,             ³
+// ³        message 1005 for use in the console.                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@205@0@
+@2@100@0@
+Du m†ste ange vilken server och/eller databas du vill koppla upp dig mot n„r du startar Application Server f”r Microsoft Dynamics NAV.
+
+Handboken Installation and System Management inneh†ller en lista p† korrekta programegenskaper.
+@2@101@0@
+Du m†ste ange vilken SQL Server och databas du vill koppla upp dig mot n„r du startar Application Server f”r Microsoft Dynamics NAV.
+
+Handboken Installation and System Management inneh†ller en lista p† korrekta programegenskaper.
+@2@102@0@
+Du m†ste ange vilket f”retag du vill ”ppna n„r du startar Application Server f”r Microsoft Dynamics NAV.
+
+Handboken Installation and System Management inneh†ller en lista p† korrekta programegenskaper.
+@2@103@0@
+Du m†ste specificera en parameter f”r kodmodul 1 trigger 99. Denna trigger exekveras n„r du startar Application Server f”r Microsoft Dynamics NAV.
+
+Handboken Installation and System Management inneh†ller en lista p† korrekta programegenskaper.
+@2@110@0@
+Trigger 99 i Codeunit 1 finns inte. 
+
+Den triggern m†ste exekveras f”r att f† kontakt med Message Bus.
+@2@120@0@
+Programmet misslyckades med att avsluta Application Server f”r Microsoft Dynamics NAV.
+@2@121@0@
+Application Server f”r Microsoft Dynamics NAV %1 kunde inte initiera p† ett korrekt s„tt.
+Servern kommer att f”rs”ka initiera var %2 sekund tills det g†r bra.
+
+@2@122@0@
+Application Server f”r Microsoft Dynamics NAV %1 kommer att avslutas.
+Programmet kunde inte konfigureras om till f”ljande:
+  Servernamn = %2
+  Databas = %3
+  F”retag = %4
+  Uppstartsparameter = %5
+@2@130@0@
+Datorn anv„nder sig av processorn %2. Du har enbart beh”righet att k”ra VIP Application Server f”r Microsoft Dynamics NAV p† en dator med en %1-processor.
+@2@200@0@
+M†l "%1" kunde inte hittas.
+@2@201@0@
+URL f”r l†ng:
+"%1%2..."
+@2@202@0@
+Det h„r „r inte en Microsoft Dynamics NAV Development Environment-l„nk
+%1
+@2@203@0@
+L„nkkontexten matchar inte aktuell Microsoft Dynamics NAV Development Environment-kontext.
+URL-kontext:
+  Servernamn = %1
+  Databas = %2
+  F”retag = %3
+  Servertyp = %4
+Aktuell kontext:
+  Servernamn = %5
+  Databas = %6
+  F”retag = %7
+  Servertyp = %8
+@2@204@0@
+Det g†r inte att k”ra formul„r med hj„lp av Navision-protokollet.
+@2@300@0@
+Det h„r operativsystemet st”ds inte av Microsoft Dynamics NAV Development Environment.
+@2@1000@0@
+Det gick bra att installera Application Server f”r Microsoft Dynamics NAV %1 som en tj„nst.
+
+@2@1001@0@
+Det gick bra att avinstallera den befintliga tj„nsten Application Server f”r Microsoft Dynamics NAV %1.
+
+@2@1003@0@
+Application Server for Microsoft Dynamics NAV version 8.00 (Build 38206)
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+@2@1004@0@
+Application Server f”r Microsoft Dynamics NAV %1 startades med f”ljande konfiguration:
+  Databasservernamn = %2
+  Databas = %3
+  F”retag = %4
+  Uppstartsparameter = %5
+@2@1005@0@
+Application Server f”r Microsoft Dynamics NAV %1 startades med f”ljande konfiguration:
+  Databasservernamn = %2
+  Databas =  %3
+  F”retag = %4
+  Uppstartsparameter = %5
+  
+Tryck p† ESC f”r att avsluta Application Server f”r Microsoft Dynamics NAV %1.
+
+@2@1006@0@
+De tidigare %1 rapporterade events var identiska.
+
+F”r att inte ”verbelasta meddelandeloggsystemet kommer identiska events inte att loggas tills programmet rapporterar ett annat event.
+@2@1007@0@
+Application Server f”r Microsoft Dynamics NAV kommer att avslutas n„r behandlingen av den aktuella fr†gan har avslutats.
+
+@2@1020@0@
+Application Server f”r Microsoft Dynamics NAV %1 st„ngdes ner.
+
+@2@1021@0@
+Application Server f”r Microsoft Dynamics NAV %1 †terst„lldes med f”ljande konfiguration och „r nu helt funktionsdugligt.
+  Databasservernamn = %2
+  Databas = %3
+  F”retag = %4
+  Uppstartsparameter = %5
+@2@1022@0@
+Behandlar beg„ran att omkonfigurera Application Server f”r Microsoft Dynamics NAV %1...
+
+@2@1023@0@
+Application Server f”r Microsoft Dynamics NAV %1 konfigurerades om med f”ljande konfiguration:
+  Databasservernamn = %2
+  Databas = %3
+  F”retag = %4
+  Uppstartsparameter = %5
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´	DS -> AB ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Texts moved from DS to AB             						                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@1@0@
+Programegenskapen '%1' „r ok„nd.
+
+Handboken Installation and System Management inneh†ller en f”rteckning ”ver de korrekta programegenskaperna.
+@2@2@0@
+Programegenskapen '%1' m†ste f”rses med ett v„rde.
+
+Installationshandboken inneh†ller en f”rteckning ”ver de korrekta egenskaperna.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	DS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Development System						      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@20@0@
+Kod: '%1' -> terf”rs„ljare -> Distribut”r -> Tillverkare -> L”senord: '%2'.
+
+Kontakta din leverant”r och f”rse honom eller henne med koden ovan. Du f†r d† ett l”senord som endast kan anv„ndas en g†ng.
+
+Viktigt! L„mna INTE inloggningsf”nstret utan att skriva in det nya l”senordet. N„sta inloggningsf”rs”k kommer att kr„va ett annat l”senord.
+@2@21@0@
+Ogiltigt l”senord.
+@2@80@0@
+Det logiska namnet %1 finns redan. Du m†ste specificera unikt logiskt datanamn och filnamn p† transaktionslogg.
+@2@81@0@
+Du kan inte ta bort %1, prim„rdata eller transaktionsloggfilen fr†n databasen.
+@2@83@0@
+Ingen licensfil har laddats.
+@2@84@0@
+Specificera ett logiskt namn f”r alla data och transaktionsloggfiler.
+@2@85@0@
+Du m†ste ange en sorteringsbeskrivning f”r databasen p† fliken Sortering.
+@2@110@0@
+Ok„nd Windows anv„ndare.
+@2@111@0@
+Anv„ndare finns redan.
+@2@120@0@
+Din licensfil till†ter dig inte att k”ra User Portal Application Server. Kontakta systemadministrat”ren.
+@2@121@0@
+User Portal Application Server kan inte allokera s„kerhetsbeskrivningen f”r angiven Pipe.
+@2@122@0@
+User Portal Application Server kan inte initiera s„kerhetsbeskrivningen f”r angiven Pipe.
+@2@123@0@
+User Portal Application Server kan inte s„tta s„kerhetsbeskrivningen f”r angiven Pipe.
+@2@124@0@
+User Portal Application Server kan inte skapa angiven pipe.
+@2@125@0@
+User Portal Application Server kan inte upptr„da som angiven pipe-anv„ndare.
+@2@126@0@
+User Portal Application Server kan inte †terg† fr†n imitation av angiven pipe-anv„ndare.
+@2@130@0@
+Uppdateringen avbryts nu.
+
+Uppdateringsfilen f”r uppdaterings-ID '%1' „r ogiltig, eller s† har du avbrutit uppdateringen.
+@2@131@0@
+Installationen av uppdaterings-ID %1 misslyckades. Uppdateringen avbryts.
+@2@132@0@
+Det gick inte att s„kerhetskopiera databasen. Uppdateringen avbryts nu eftersom det inte g†r att installera den f”rr„n du har lyckats s„kerhetskopiera databasen.
+
+Om du vill skapa en s„kerhetskopia och installera uppdateringen startar du om Microsoft Dynamics NAV Development Environment.
+@2@301@0@
+Copyright (c) Microsoft Corporation. Med ensamr„tt.
+@2@400@0@
+Detta „r f”rsta g†ngen som du aktiverar en l„nk till f”ljande m†l:
+
+Server: %1
+Databas: %2
+
+T„nk p† att du kan ”ppna kod som kan vara till skada f”r datorn.
+
+Litar du p† den h„r m†lplatsen?
+@2@600@0@
+Microsoft Dynamics NAV Development Environment-klienten har ”ppnats fr†n en komponent som inte „r betrodd.
+
+Kontakta systemadministrat”ren.
+@2@701@0@
+Det finns inga tillg„ngliga %1-instanser f”r databasen. Du m†ste se till att en %1-instans k”rs och har st„llts in f”r att kunna anv„nda databasen innan du utf”r den h„r aktiviteten.
+@2@702@0@
+Du m†ste ange en URL f”r en Azure-instans i serverinstansegenskapen innan du utf”r den h„r †tg„rden. Om du vill g”ra detta ”ppnar du Verktyg-menyn och v„ljer Alternativ.
+@2@703@0@
+Instans-URL:en m†ste anges i formatet <servernamn>:<port>/<serverinstans>. V„lj Alternativ p† Verktyg-menyn om du vill ange det.
+@2@800@0@
+Kommandot %1 „r ogiltigt.
+@2@801@0@
+Du m†ste specificera parametern %22 f”r kommandot %1.
+@2@802@0@
+Parametern %1 „r ogiltigt.
+@2@803@0@
+Filen %1 m†ste ha filnamnstill„gget FOB eller TXT.
+@2@804@0@
+Du m†ste definiera filtret %1 s† h„r: f„lt1=uttryck; ... f„ltn=uttryck.
+@2@805@0@
+Om du vill anv„nda parametrarna %13 och %22 m†ste parametern %1 specificeras och ha v„rdet Nej.
+@2@806@0@
+Du m†ste specificera parametern %1 om parametern %22 har v„rdet Nej.
+@2@807@0@
+Ett fel har uppst†tt i f”ranalysen av databasuppgraderingen. 
+
+Anv„nd Microsoft Dynamics NAV 2013 Development Environment f”r att †tg„rda fel som visas i fellistan innan du forts„tter med uppgraderingen.
+@2@808@0@
+Det g†r inte att importera FOB-filen. Rapport-ID:t %2 m†ste konverteras till en dataupps„ttningsrapport innan den kan importeras.
+
+Anv„nd Microsoft Dynamics NAV 2013 Development Environment f”r att konvertera rapporten innan du importerar den igen.
+@2@809@0@
+Rapporten %1 „r ingen dataupps„ttningsrapport.
+@2@810@0@
+XMLport-ID %2 kan inte kompileras efter att det uppgraderats.
+@2@900@0@
+Serverprogramobjekt har skapats.
+@2@901@0@
+Serverprogramobjekt har skapats med fel i vissa programobjekt. Anv„nd fellistan f”r att visa alla fel.
+@2@902@0@
+Ingen process f”r uppgradering av data k”rs f”r tillf„llet.
+@2@903@0@
+Du kan inte †teruppta uppgraderingen av data eftersom den p†g†ende processen inte har avbrutits.
+@2@904@0@
+En uppgradering av data p†g†r redan. Avbryt den p†g†ende processen innan du startar en ny process.
+@2@1000@0@
+Det finns inga tabell„ndringar som beh”ver synkroniseras.
+@2@1001@0@
+Microsoft Dynamics NAV Server kommer att utf”ra en validering av alla tabell„ndringar utan att koppla dem till motsvarande SQL-tabeller. Om det vid valideringen uppt„cks att n†gra av „ndringarna inte kan kopplas utan att data tas bort i de p†verkade f„lten eller tabellerna kommer ett felmeddelande att visas. 
+
+Om du v„ljer att inte forts„tta kommer tabell„ndringarna att f”rbli osynkroniserade och anv„ndarna kommer inte att kunna arbeta med dem. Beroende p† hur m†nga och hur stora de „ndrade tabellerna „r kan detta ta upp till flera minuter.   
+
+Vill du forts„tta?
+@2@1002@0@
+Microsoft Dynamics NAV Server kommer att utf”ra en validering av alla tabell„ndringar och synkronisera dem med motsvarande SQL-tabeller. Om det vid valideringen uppt„cks att n†gra av „ndringarna inte kan kopplas utan att data tas bort i de p†verkade f„lten eller tabellerna kommer ett felmeddelande att visas och ingen av „ndringarna kommer att synkroniseras. 
+
+Om du v„ljer att inte forts„tta kommer tabell„ndringarna att f”rbli osynkroniserade och anv„ndarna kommer inte att kunna arbeta med dem. Beroende p† hur m†nga och hur stora de „ndrade tabellerna „r kan detta ta allt fr†n n†gra minuter upp till flera timmar.   
+
+Vill du forts„tta?
+@2@1003@0@
+Microsoft Dynamics NAV Server kommer att utf”ra en tv†ngssynkronisering av alla tabell„ndringar med motsvarande SQL-tabeller. Det kommer inte att utf”ras n†gon validering och data kan d„rf”r komma att tas bort i de p†verkade f„lten eller tabellerna. 
+
+Om du v„ljer att inte forts„tta kommer tabell„ndringarna att f”rbli osynkroniserade och anv„ndarna kommer inte att kunna arbeta med dem. Beroende p† hur m†nga och hur stora de „ndrade tabellerna „r kan detta ta allt fr†n n†gra minuter upp till flera timmar.   
+
+Vill du forts„tta?
+@2@1004@0@
+All table schema changes validated correctly. You can synchronize changes with no risk of deleting data.
+@2@1005@0@
+All table schema changes synchronized with force.
+@2@END@0@
+// Module XMLPort
+
+@1@210@0@
+@2@1@0@
+Ogiltig version av XMLport-objekt: %1.
+@2@2@0@
+Ogiltigt magiskt tal f”r XMLport-objekt: %1.
+@2@3@0@
+Objektet %1 m†ste kompileras innan det kan k”ras.
+@2@8@0@
+Kodningen %13 st”ds inte.
+@2@9@0@
+ID-numret %12 fr†n taggen '%6' har anv„nds p† rad %7. Numret m†ste vara unikt.
+@2@10@0@
+Rotelementets indentering m†ste vara 0.
+@2@11@0@
+Skillnaden i indraget mellan taggen %6 och den ”verordnade taggen „r st”rre „n 1.
+@2@12@0@
+Det g†r inte att utv„rdera datatypen %10 f”r SourceExpr till en str„ng.
+@2@13@0@
+Tabellen %5 finns inte.
+@2@14@0@
+F„ltet har inte tilldelats ett giltigt tabellvariabelnamn.
+@2@15@0@
+Det angivna tabellnamnet %14 m†ste vara samma som det ”verordnade tabellnamnet %5.
+@2@16@0@
+Namnomr†desprefixet %16 har redan deklarerats.
+@2@17@0@
+'%24' f”rv„ntas i %21 p† position %23.
+@2@18@0@
+'%24' „r ett reserverat ord i %21 p† position %23.
+@2@19@0@
+Ogiltigt starttecken f”r namnomr†de.
+%21
+@2@20@0@
+Ogiltigt tecken f”r namnomr†de p† position %22.
+%21
+@2@21@0@
+Citattecken st„mmer inte p† position %22 i %23.
+%21
+@2@22@0@
+Citattecken saknas p† position %22 i %23.
+%21
+@2@23@0@
+Tecknet ':' saknas i %23.
+%21
+@2@24@0@
+Tecknet '=' saknas i %23.
+%21
+@2@25@0@
+Det enkla citattecknet ' f†r inte finnas i %21.
+Texten st†r inom enkla citattecken.
+@2@26@0@
+Det dubbla citattecknet " f†r inte finnas i %21.
+Texten st†r inom dubbla citattecken.
+@2@27@0@
+Buffertstorleken „r f”r liten p† destinationen.
+@2@28@0@
+V„nsterparentesen '(' saknas i %21 p† position %22.
+@2@29@0@
+H”gerparentesen ')' saknas i %21 p† position %22.
+@2@30@0@
+F„ltet %15 „r inte ett giltigt f„lt fr†n tabellen %14.
+@2@31@0@
+Namnomr†desprefixet %16 har inte deklarerats.
+@2@32@0@
+Det l„gsta antalet f”rekomster kan endast vara 0 eller 1.
+V„rdet %26.
+@2@33@0@
+Det h”gsta antalet f”rekomster m†ste vara st”rre „n 1.
+V„rdet %25.
+@2@34@0@
+Det h”gsta antalet f”rekomster f”r ett f„lt kan endast vara 0 eller 1.
+V„rdet %25.
+@2@35@0@
+Ursprungstypen Table f”r taggen <%6> kan endast tilldelas taggtypen Element.
+@2@36@0@
+Ingen k„lltabell har definierats f”r taggen <%6>.
+@2@37@0@
+Inget XML-taggnamn har definierats.
+@2@38@0@
+Attributet '%6' m†ste indenteras under det ”verordnade elementet.
+@2@39@0@
+Attributet '%6' m†ste ha samma indentering som f”reg†ende attribut.
+@2@40@0@
+Indenteringen m†ste vara mellan 0 och %7.
+@2@41@0@
+Endast rotelementet kan ha indenteringen 0.
+@2@42@0@
+Ingen DataSource har definierats f”r taggen <%6>
+@2@43@0@
+Du m†ste ange en datak„lla f”r tabell innan du kan v„lja DataSource f”r f„lt.
+@2@44@0@
+Ogiltigt taggnamn.
+@2@45@0@
+XML-taggnamnet f†r inte inneh†lla blanksteg.
+@2@46@0@
+I taggen <%6> „r b†da egenskaperna AutoReplace och AutoUpdate aktiva. Inaktivera b†da egenskaperna eller v„lj antingen AutoReplace eller AutoUpdate.
+@2@51@0@
+Det g†r inte att hitta elementet <%6> fr†n objektbeskrivningen.
+@2@52@0@
+Det g†r inte att f”rst”ra underordnat element.
+@2@53@0@
+Namnomr†det %17 har inte definierats f”r objektet.
+@2@54@0@
+Data st†r i konflikt med inst„llningarna f”r LinkTable och LinkFields i tabellen %14.
+@2@55@0@
+XML-tolkaren returnerade f”ljande fel:
+%21
+@2@56@0@
+XML-tolkaren returnerade f”ljande o†terkalleliga fel:
+%21
+@2@57@0@
+Installationen av XML-tolkaren misslyckas.
+%21
+@2@58@0@
+Attributet <%6> „r f”rbjudet i objektbeskrivningen.
+@2@59@0@
+Attributet <%21> „r obligatoriskt och st„mmer inte ”verens med attributet <%6>.
+@2@60@0@
+Elementet <%6> f”rekom flera g†nger.
+@2@61@0@
+Elementet <%21> f”rv„ntas enligt v„rdet p† l„gsta antalet f”rekomster: %26.
+Mottaget element: <%6>. 
+@2@62@0@
+Elementet <%6> f”rv„ntas inte.
+@2@63@0@
+Attributet <%6> f”rv„ntas inte.
+@2@64@0@
+Ok„nd ursprungstyp f”r elementet <%6>.
+@2@65@0@
+XMLport f”r %4 saknar ett XML-objekt d„r tabellen (%2), som har angetts i funktionen SetTableView, anv„nds.
+@2@66@0@
+V„rdet "%21" har l„ngden %27 och ”verskrider d„rmed maximal storlek f”r destinationstypen %20.
+@2@67@0@
+XMLport "%4" „r endast avsedd f”r export.
+@2@68@0@
+XMLport "%4" „r endast avsedd f”r import.
+@2@69@0@
+Underordnade element st”ds inte h„r.
+@2@70@0@
+Ett element med k„lltypen Tabell kan inte ha underordnade element av typen Tabell.
+@2@71@0@
+Om ett rotelement har k„lltypen Text, m†ste alla andra element ha k„lltypen Tabell.
+@2@72@0@
+Om XMLport-formatet Fixed Text v„ljs, ska egenskapen Width vara st”rre „n 0 i alla element av typen F„lt och Text.
+@2@73@0@
+Om ett element har k„lltypen Tabell kan det inte ha tv† l„gre niv†er.
+@2@74@0@
+Om XMLport-formatet Fixed Text eller Variable Text v„ljs, m†ste rotelementet ha k„lltypen Text.
+@2@75@0@
+MinOccurs f”r ett element m†ste vara st”rre „n noll om UseLax har aktiverats.
+@2@76@0@
+Elementet <%6> har ett ov„ntat underordnat element.
+@2@77@0@
+Egenskapen Unbound kan bara st„llas in f”r den sista noden i XMLPort.
+@2@END@0@
+// Module MenuSuite
+
+@1@220@0@
+@2@1@0@
+Buffertstorleken „r f”r liten p† destinationen.
+@2@200@0@
+Det h„r „r en ogiltig MenuSuite f”r rapportobjektet %1.
+@2@201@0@
+Ogiltigt magiskt tal f”r MenuSuite-objektet: %1.
+@2@202@0@
+En MenuSuite f”r Classic-klienten st”der f”ljande typer:
+
+Tabell, Formul„r, Rapport, Dataport och Kodenhet.
+@2@203@0@
+En MenuSuite f”r den rollbaserade klienten st”der f”ljande typer:
+
+Tabell, Rapport, Kodenhet, XMLport och Sida.
+@2@204@0@
+MenuItem %1 f”r den rollbaserade klienten m†ste ha en avdelningskategori.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  Page  ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Module Page                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@214@0@
+@2@10@0@
+Indraget m†ste vara mellan 0 och %4.
+@2@11@0@
+Indraget f”r beh†llaren m†ste vara 0.
+@2@12@0@
+Den f”rsta kontrollen m†ste vara en Beh†llare.
+@2@13@0@
+Skillnaden i indraget mellan kontrollen %6 och dess ”verordnade „r st”rre „n 1.
+@2@14@0@
+Indrag „r ej till†tet efter kontrollen %6.
+@2@15@0@
+Kontrollen %6 kan inte placeras p† samma niv† som beh†llaren.
+@2@20@0@
+Indraget f”r ActionContainer m†ste vara 0.
+@2@21@0@
+Indrag „r ej till†tet efter †tg„rden %6.
+@2@22@0@
+Action och ActionGroup kan inte finnas p† samma niv† under ActivityButton.
+@2@23@0@
+ActionContainers „r inte till†tna f”r CueGroups.
+@2@24@0@
+tg„rder f”r CueGroups m†ste ligga p† rotniv†.
+@2@25@0@
+tg„rden %6, som finns i en †tg„rdsgrupp inuti en aktivitetsknapp, kan bara ha sidtypv„rdet Lista f”r egenskapen RunObject.
+@2@26@0@
+tg„rden %6, som finns i en HomeItem-beh†llare, kan bara ha sidtypv„rdet Lista f”r egenskapen RunObject.
+@2@27@0@
+Indraget f”r f”rsta Action eller ActionGroup m†ste vara 0.
+@2@30@0@
+Du har angett ett v„rde som ”verstiger den maximala storleken p† %20.
+@2@40@0@
+Kontroll-ID:t %40 anv„nds redan.
+@2@41@0@
+Egenskapen RunObject Action har enbart st”d f”r f”ljande typer:
+
+Page, Report, XMLport, Codeunit
+@2@42@0@
+Kontroll-ID:t f†r inte vara tomt.
+@2@43@0@
+Kontrollnamnet %6 anv„nds redan. Kontrollnamn m†ste vara unika.
+@2@44@0@
+tg„rdsnamnet %6 anv„nds redan. tg„rdsnamn m†ste vara unika.
+@2@45@0@
+Kontrollen '%6' anv„nder samma namn som en global variabel. Anv„nd ett unikt kontrollnamn.
+@2@46@0@
+tg„rds-ID:t %40 anv„nds redan.
+@2@50@0@
+Det gick inte att l„sa in klientsammans„ttningen Visual Page Preview eller n†gra av beroendena.
+@2@101@0@
+Ogiltig datatyp f”r '%10'. Det borde vara 'Text'.
+@2@102@0@
+Delkontroller med PartType Sida m†ste ha ett PagePartID.
+@2@103@0@
+UIPart-kontroller med PartType System kan inte ha v„rdet Inget som SystemPartID.
+@2@104@0@
+En UIPart-kontroll med PartType Chart kan inte ha v„rdet Inget som ChartPartID.
+@2@105@0@
+Delkontroller med PartType Sida m†ste referera till sidor av typen CardPart eller ListPart.
+@2@106@0@
+En beh†llare m†ste ha en subtype.
+@2@107@0@
+En sida av typen CardPart eller ListPart kan inte inneh†lla en beh†llare av typen FactBoxArea.
+@2@108@0@
+En sida kan enbart inneh†lla en beh†llare av typen FactBoxArea.
+@2@109@0@
+En sida kan enbart inneh†lla en beh†llare av typen RoleCenterArea.
+@2@110@0@
+En beh†llare av typen RoleCenterArea kan enbart finnas p† en sida av typen RoleCenter.
+@2@111@0@
+En sida kan enbart inneh†lla en beh†llare av typen ContentArea.
+@2@112@0@
+En beh†llare av typen FactBoxArea kan enbart inneh†lla delar.
+@2@113@0@
+En beh†llare av typen RoleCenterArea kan enbart inneh†lla grupper och delar.
+@2@114@0@
+IndentationColumnName m†ste referera till ett f„lt eller en variabel av typen int.
+@2@115@0@
+HomeItems och ActivityButtons kan enbart finnas p† Rollcentersidor.
+@2@117@0@
+Sidor av typen CardPart eller ListPart kan enbart inneh†lla ActionItems-beh†llare.
+@2@118@0@
+FreezeColumnID kan enbart anges f”r en repeater.
+@2@119@0@
+ShowAsTree kan enbart anges f”r en repeater.
+@2@120@0@
+N„r ShowAsTree har angetts m†ste IndentationColumnName specificeras.
+@2@121@0@
+MinValue f†r inte vara st”rre „n MaxValue.
+@2@122@0@
+MaxValue f†r inte vara st”rre „n MaxValue i tabellf„ltet.
+@2@123@0@
+MinValue f†r inte vara mindre „n MinValue i tabellf„ltet.
+@2@124@0@
+Kontrollen kan inte redigeras om tabellf„ltet inte kan redigeras.
+@2@125@0@
+Om NotBlank har angetts f”r tabellf„ltet, till†ts inte tomma v„rden i kontrollen.
+@2@126@0@
+Antalet decimaler m†ste vara mindre „n antalet decimaler i tabellf„ltet.
+@2@127@0@
+IndentationColumnName kan enbart anges f”r en repeater.
+@2@128@0@
+SystemPartIDs Notes och RecordLinks kan inte anv„ndas p† sidor d„r LinksAllowed angetts till Nej.
+@2@129@0@
+IndentationControls kan enbart anges f”r en Repeater.
+@2@130@0@
+Endast en ActivityButtons-beh†llare f†r finnas p† en sida.
+@2@131@0@
+Endast en ActivityItems-beh†llare f†r finnas p† en sida.
+@2@132@0@
+Endast en HomeItems-beh†llare f†r finnas p† en sida.
+@2@133@0@
+Endast en NewDocumentItems-beh†llare f†r finnas p† en sida.
+@2@134@0@
+Endast en RelatedInformation-beh†llare f†r finnas p† en sida.
+@2@135@0@
+Bildegenskapen ActionGroup kan enbart anges i en ActionContainer med SubType ActivityButtons.
+@2@136@0@
+Bildegenskapen tg„rd kan inte anges i en ActionContainer med SubType ActivityButtons eller SubType HomeItems.
+@2@137@0@
+Endast en Rapporter-beh†llare f†r finnas p† en sida.
+@2@138@0@
+Kontroller kan inte kopplas till f„lt med FieldClass FlowFilter.
+@2@139@0@
+Sidor av typerna CardPart och ListPart f†r inte inneh†lla kontrollen Del.
+@2@140@0@
+Utl”sarkod „r inte till†ten p† sidor av typen Rollcenter.
+@2@141@0@
+V„rdet m†ste vara av typen Boolean.
+@2@143@0@
+Det „r inte till†tet att ha en MultiLine-egenskap med v„rdet Yes och en ExtendedDatatype-egenskap med v„rdet Masked.
+@2@144@0@
+F„lt med typen Char d„r ExtendedDatatype har v„rdet Ratio till†ts inte.
+@2@145@0@
+Datatypen %20 „r inte giltig n„r egenskapen Width har angetts.
+
+Giltiga datatyper „r Text, Code, Integer, BigInteger eller Decimal.
+@2@146@0@
+Datatypen %20 „r inte giltig f”r egenskapen StyleExpr.
+
+Giltiga datatyper „r Booleskt, Text och Kod.
+@2@1000@0@
+Ingen metadatamappning.
+@2@END@0@
+
+@1@224@0@
+@2@1@0@
+Ogiltig version av fr†geobjekt: %1.
+@2@2@0@
+Ogiltig MagicNo i fr†geobjekt: %1.
+@2@3@0@
+Objektet %1 m†ste kompileras innan det kan k”ras.
+@2@4@0@
+Det g†r inte att v„lja f„lt med datatypen Blob som datak„llsv„rde f”r Column-rader. V„lj ett annat f„lt.
+@2@5@0@
+%4 „r inte ett f„lt i tabellen %6.
+@2@6@0@
+'%24' f”rv„ntas i %21 p† position %23.
+@2@7@0@
+Buffertstorleken „r f”r liten p† destinationen.
+@2@8@0@
+Ingen k„lltabell har definierats f”r DataItem <%4>.
+@2@9@0@
+Ingen DataSource har definierats f”r kolumnen <%6>
+@2@10@0@
+Kolumnen „r ok„nd.
+@2@11@0@
+Den f”rsta raden m†ste vara en DataItem.
+@2@12@0@
+Den f”rsta raden m†ste ha ett indrag som „r lika med noll.
+@2@13@0@
+™verordnad m†ste vara en DataItem.
+@2@14@0@
+Egenskapen Indrag f”r DataItem kan inte inneh†lla ett negativt v„rde.
+@2@15@0@
+V„rdet p† egenskap DataItemIndent f”r ett DataItem f†r endast vara ett h”gre „n egenskapen f”r f”reg†ende DataItem.
+@2@16@0@
+Maximal indragsniv† p† DataItems „r %28.
+@2@17@0@
+Column eller DataItem m†ste komma efter Column med samma indrag som en DataItem med indraget -1.
+@2@18@0@
+Namnv„rdet f†r inte vara tomt.
+@2@19@0@
+Det finns redan en DataItem- eller Column-rad med namnet %4. Alla DataItem- och Column-rader m†ste ha unika namn.
+@2@20@0@
+Namnet %4 inneh†ller ett eller flera tecken som inte g†r att anv„nda eftersom de inte f”ljer spr†kspecifikationen. Det f”rsta tecknet m†ste vara en bokstav. F”ljande tecken kan best† av valfri kombination av bokst„ver, heltal och understreck. 
+@2@21@0@
+ID-v„rdet m†ste vara positivt.
+@2@22@0@
+Det finns redan en DataItem- eller Column-rad med ID:t %12. Alla DataItem- och Column-rader m†ste ha unika ID:n.
+@2@23@0@
+Det g†r inte att v„lja en virtuell tabell som datak„llsv„rde i en DataItem. V„lj en annan tabell.
+@2@24@0@
+Fr†gan b”r ha minst en datakolumn.
+@2@42@0@
+Det ”vre antalet rader kan inte vara negativt.
+@2@43@0@
+Det g†r bara att „ndra tecknet f”r f„lt som har en numerisk datatyp.
+@2@25@0@
+Det g†r bara att anv„nda summeringsmetoder i f„lt med datatypen Decimal. V„lj ett f„lt med datatypen Decimal.
+@2@26@0@
+Det g†r bara att ange upp till %29 kolumner f”r summering i en enstaka fr†ga. V„lj f„rre kolumner f”r summering.
+@2@27@0@
+Det g†r bara att ange upp till %29 kolumner som inte „r summerade i en enstaka fr†ga som innefattar summering. V„lj f„rre kolumner som inte „r summerade.
+@2@28@0@
+Det g†r inte att r„kna ett specifikt f„lt i en fr†ga. Fyll inte i f„ltet Datak„lla om du vill r„kna alla rader i ett fr†geresultat.
+@2@29@0@
+Det g†r inte att v„lja f„lt med datatypen FlowFilter som datak„llsv„rde f”r Column-rader. V„lj ett annat f„lt.
+@2@30@0@
+Det g†r inte att v„lja f„lt med datatypen Binary som datak„llsv„rde f”r Column-rader. V„lj ett annat f„lt.
+@2@31@0@
+En annan summeringskolumn har samma namn. Alla kolumner m†ste ha unika namn.
+@2@33@0@
+Det g†r inte att kombinera tv† DataItems p† samma niv† eftersom unioner inte st”ds.
+@2@37@0@
+F„ltet Gruppera efter „r skrivskyddat och ber„knas automatiskt fr†n de definierade kolumnerna. Alla kolumner med en annan metodtyp „r Summor, anv„nds f”r gruppering. 
+@2@38@0@
+Det g†r bara att v„lja en kolumn en g†ng n„r du definierar ordningen i resultatet av fr†gan.  Ta bort de valda dubblettkolumnerna och spara igen.
+@2@39@0@
+Egenskapen DataItemLink f†r inte vara tom.
+@2@40@0@
+Egenskapen DataItemLink m†ste vara tom n„r egenskapen SQLJoinType har v„rdet Cross Join.
+@2@41@0@
+Det g†r inte att ange en metod f”r kolumner vars datak„llf„lttyp „r FlowField. ndra Metodtyp till Ingen och spara sedan igen.
+@2@44@0@
+Det g†r bara att anv„nda metoderna Dag, M†nad och r i f„lt som har datatypen DateTime. V„lj ett f„lt med datatypen DateTime.
+@2@45@0@
+Det g†r inte att importera ett objekt som saknar ett %4-avsnitt.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DotNet InteropÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  DotNet Interop                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@226@0@
+@2@1@0@
+Detta meddelande g„ller C/AL-programmerare:
+
+DotNet-datatypen st”ds inte av C/SIDE. Du kan anv„nda data fr†n f”ljande datatyper:
+object, bool, char, sbyte, byte, short,
+ushort, int, uint, long, ulong, float,
+double, decimal, DateTime, TimeSpan,
+string, Guid, Stream
+@2@2@0@
+.NET-interop: Ett internt fel intr„ffade. Bufferten var f”r liten.
+@2@3@0@
+Det gick inte att l„sa in typen '%1'.
+@2@4@0@
+Typen %1 „r ok„nd.
+@2@5@0@
+Det finns f”r m†nga ”verlagrade metoder.
+@2@7@0@
+En undertyp f”r DotNet-variablen har inte angetts.
+
+Ange en typ genom att fylla i f„ltet Subtype i n†got av formul„ren C/AL Locals eller C/AL Globals.
+@2@8@0@
+Det gick inte att hitta sammans„ttningen %1.
+@2@9@0@
+.NET-interop: internt fel, felaktigt id %1.
+@2@10@0@
+.NET-interop: undantag intr„ffade, %1.
+@2@11@0@
+%1 identifieras inte som namnet p† en .NET-typ.
+Korrekt format „r: 'Sammans„ttningens fullst„ndiga namn'.typnamn
+Kontrollera att stavningen „r riktig.
+@2@12@0@
+.NET-interop: Typnamnet „r f”r l†ngt (”verskrider 128 tecken): '%1'.
+@2@13@0@
+.NET-interop: Det gick inte att l„sa in .NET version 4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CSDotNet  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@228@0@
+@2@1@0@
+Internt fel: %1
+@2@2@0@
+%1
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CodeUnit    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  Codeunits                                              ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@103@0@
+@2@1@0@
+Kodmodulen %1.2818 anropades med en %2-post. Det ska vara en %3-post.
+@2@2@0@
+Kodmodulen %1.2818 m†ste anropas med en %3-post.
+@2@3@0@
+Kodmodulen %1.2818 anropades med en %2-post. Den ska inte anropas med n†gra parametrar.
+@2@4@0@
+Objektet %4 „r av en ogiltig version.
+@2@5@0@
+Testkodenhet %1.2818 anropades med en %2-post. Testkodenheter har inte st”d f”r registerparametrar.
+@2@6@0@
+Testkodenhet %1.2818 utformades med tabell %1.26370. Testkodenheter har inte st”d f”r tabeller, d.v.s. TabelNo m†ste vara <odefinierad>.
+@2@7@0@
+Testkodenhet %1.2818 anropades fr†n en annan testkodenhet. Testkodenheter har inte st”d f”r kapsling.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  C/AL_Edit ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Compiler and Editors                                ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@102@0@
+@2@6@0@
+Det finns h„ndelseutl”sare kopplade till kontrollen %6. N„r ControlAddin „ndras tas h„ndelseutl”sarna och deras kod bort.
+
+Vill du „ndra ControlAddin-v„rdet?
+@2@7@0@
+Raden kommer att vara f”r l†ng.
+@2@8@0@
+Det finns event-triggers kopplade till den globala variabeln %6. Radering av variabeln kommer att ta bort event-triggers och deras kod.
+
+r du s„ker p† att du vill ta bort den globala variabeln?
+@2@9@0@
+ndring av v„rden i f„lten f”r DataType eller Subtype f”r den globala variabeln %6 tar bort alla kopplade event-triggers och deras kod.
+
+r du s„ker p† att du vill g”ra dessa „ndringar p† den globala variabeln?
+@2@198@0@
+Du f†r inte g”ra en tilldelning till en variabel med egenskapen WithEvents=Yes.
+@2@199@0@
+L„ngden p† variabeln m†ste vara mellan 1 och %1.
+@2@200@0@
+Det m†ste finnas ett 'TRUE/FALSE'-uttryck i IF, WHILE eller REPEAT-satsen. Det aktuella uttrycket „r av typen Boolean type array.
+
+V„lj ett individuellt 'TRUE/FALSE'-v„rde med ett uttryck som:
+
+BooleanArray[...]
+@2@201@0@
+Uttrycket „r %10.1. Det m†ste finnas ett 'TRUE/FALSE'-uttryck i IF, WHILE eller REPEAT-satsen. T.ex.:
+
+TRUE
+FALSE
+Kund.Sp„rrad
+Kund.Saldo > 100
+... AND ...
+... OR ...
+@2@202@0@
+Denna prefixoperator kan inte anv„ndas p† %10.1.
+@2@203@0@
+Ett f„lt fr†n en postvariabel f”rv„ntades. T.ex.:
+
+Post.F„lt
+Kund.Namn
+@2@204@0@
+En variabel f”rv„ntades. T.ex.:
+
+MinVar
+Kund.Namn
+@2@205@0@
+%3 kan inte utf”ras p† flerdimensionella arrays.
+
+V„lj en endimensionell array i ett uttryck som t.ex.:
+
+MinArray[...]
+@2@206@0@
+Det g†r inte att anv„nda typen som argument.
+@2@207@0@
+N„r funktionen anropas, ska minimiantalet parametrar anv„ndas. T.ex.:
+
+MinFunk( .. , .. , .. )
+ROUND(MinVar)
+ROUND(MinVar,0.05)
+@2@210@0@
+Maximalt %7 parametrar f†r anv„ndas n„r funktionen anropas. T.ex.:
+
+MinFunk( .. , .. , .. )
+ROUND(MinVar)
+ROUND(MinVar,0.05)
+@2@212@0@
+F”r m†nga dimensioner har angivits. Variabeln „r definierad med f„rre dimensioner. T.ex.:
+
+MinVar
+MinArray[MyVar]
+MinArray[1,2]
+MinArray[1][2]
+@2@214@0@
+Variabeln „r inte en post. 'Variabel.F„lt' „r inte till†tet.
+@2@215@0@
+Det m†ste finnas en '[' d„rf”r att variabeln „r en array. T.ex.:
+
+MinArray[...]
+MinArray[MyVar]
+MinArray[1,2]
+MinArray[1][2]
+@2@216@0@
+Typkonvertering „r inte m”jlig eftersom en av operatorerna inneh†ller en ogiltig typ.
+
+%10.1 %3 %11.1
+@2@217@0@
+Ett v„rde eller ett uttryck f”rv„ntades. T.ex.:
+
+100
+MinVar
+MinVar + 100
+MinVar = 100
+@2@223@0@
+Variabeln „r av typen %10.1. R„knaren i FOR-satsen m†ste vara en variabel av typen numeric, boolean, date, time, byte eller char. T.ex.:
+
+FOR R„knare := 1 TO 10 DO ... ;
+@2@224@0@
+R„knaren i FOR-satsen m†ste vara en numerisk variabel. T.ex.:
+
+FOR R„knare := 1 TO 10 DO ... ;
+@2@234@0@
+Detta f†r inte vara f”rsta ordet i en sats.
+@2@235@0@
+Det m†ste finnas ett ':=' i tilldelningssatsen. T.ex.:
+
+MinVar := ... ;
+MinVar := 100 + 10 ;
+@2@237@0@
+Det m†ste finnas en postvariabel i WITH-satsen. Den aktuella variabeln „r av en annan typ. T.ex.:
+
+WITH MinPost DO ... ;
+@2@238@0@
+Det m†ste finnas en postvariabel i WITH-satsen. T.ex.:
+
+WITH .. DO ... ;
+WITH .. DO BEGIN ... ; ... ; END ;
+WITH MinPost DO ... ;
+@2@244@0@
+Det finns f”r m†nga niv†er av inb„ddade WITH-satser.
+@2@249@0@
+Det m†ste finnas en IF-sats tillsammans med en ELSE-sats. T.ex.:
+
+IF ... THEN ... ELSE ... ;
+IF ... THEN IF ... ELSE ... ELSE ... ;
+IF ... THEN BEGIN ... ; ... ; END ELSE BEGIN ... ; END ;
+
+Detta fel beror ofta p† att det finns ett semikolon (;) precis f”re ELSE-satsen.
+@2@250@0@
+Det m†ste finnas en REPEAT-sats tillsammans med en UNTIL-sats. T.ex.:
+
+REPEAT ... ; ... ; UNTIL ... ;
+@2@251@0@
+Det m†ste finnas en BEGIN-sats tillsammans med en END-sats. T.ex.:
+
+BEGIN ... ; ... ; END ;
+@2@254@0@
+Variabeln %10.1 m†ste tillh”ra %10.5 och inte %11.5.
+@2@256@0@
+Matrisdimensionerna m†ste vara identiska.
+@2@262@0@
+En WITH-sats kan inte anv„ndas f”r en array av poster.
+@2@263@0@
+Returv„rdet ska anv„ndas f”r denna funktion.
+@2@264@0@
+Ett alternativ m†ste anges efter '::'.
+@2@266@0@
+Inte ett till†tet alternativ.
+@2@268@0@
+Tilldelningar „r inte till†tna f”r den h„r variabeln.
+@2@269@0@
+'%9' „r ett reserverat ord.
+@2@270@0@
+Samma importerades tv† g†nger.
+@2@272@0@
+Det maximala antalet element i en array „r 1000000.
+@2@273@0@
+En dimension m†ste vara ett positivt tal.
+@2@274@0@
+Funktionens ID saknas. Alla anv„ndardefinierade funktioner m†ste ha ett kopplat ID.
+
+MinFunktion@23();
+@2@275@0@
+Funktionens ID %1 anv„nds av b†de funktionen %2 och funktionen %3.
+@2@276@0@
+MESSAGE-funktionen med datatypen variant „r ogiltig d„rf”r att FORMAT-funktionen saknas.
+@2@277@0@
+Variabel-ID %1 anv„nds b†de av variabeln %2 och variabeln %3.
+@2@278@0@
+Parameter-ID %1 anv„nds b†de av parameter %2 och parameter %3 i trigger %4.
+@2@279@0@
+Det lokala variabel-ID %1 anv„nds b†de av den lokala variabeln %2 och den lokala variabeln %3 i trigger %4.
+@2@280@0@
+Variabel-ID %1 f”r variabeln %2 „r reserverad f”r endast C/SIDE-definierade variabler. Minsta till†tna ID-nr „r %3.
+@2@281@0@
+ID %1 f”r variabeln %2 ligger inte i intervallet. Maximum till†tet ID-nr „r %3.
+@2@282@0@
+ID %1 f”r funktionen %2 ligger utanf”r intervallet. Maximalt till†tet ID-nr „r %3.
+@2@283@0@
+Egenskaperna FunctionType och HandlerFunctions har tagits bort.
+@2@284@0@
+Den text som kompileras ”verstiger den maximala nyckelstorleken p† 64 KB.
+@2@285@0@
+B†de RunOnClient och WithEvents kan inte ha v„rdet Yes i DotNet-variabeln %1.
+@2@286@0@
+Kolumntilldelningar i en fr†ga till†ts inte.
+@2@287@0@
+Det g†r inte att ”verf”ra en kolumn i en fr†ga till en VAR-parameter.
+@2@288@0@
+En kolumn fr†n en fr†gevariabel f”rv„ntades. Exempel:
+
+Fr†ga.Kolumn
+Kund.Namn
+@2@289@0@
+Typen %1 st”ds inte. Anv„nd typen %2 i st„llet.
+@2@290@0@
+Egenskaperna f”r funktionen Uppgradera har tagits bort.
+@2@291@0@
+Funktionsattributet [%6] „r ogiltigt i denna kontext.
+@2@302@0@
+F”ljande fel uppstod n„r filen f”r fels”kningsbrytpunkt skulle sparas.
+
+%1
+V„rde: %2
+@2@303@0@
+Det har redan definierats en brytpunkt f”r objektet utanf”r redigeraren i %6 p† rad %4. Det g†r inte att st„lla in brytpunkten.
+@2@304@0@
+Ingen anv„ndare matchar det aktuella anv„ndar-ID:t. Du kan inte ange brytpunkten om du anv„nder databasautentisering f”r att logga in i Microsoft Dynamics NAV Development Environment och inget anv„ndar-ID f”r Microsoft Dynamics NAV har mappats till databasinloggningen.
+@2@400@0@
+Ogiltig testmetodsignatur f”r funktion %1.
+
+Funktioner som „r markerade som TestMethod kan inte ha ett returv„rde eller parametrar.
+@2@401@0@
+Ogiltig MESSAGE-hanterarsignatur f”r funktion %1.
+
+MESSAGE-hanterarfunktioner m†ste ha denna signatur (parameternamn kan v„ljas fritt):
+<funktionsnamn>(Message : Text[1024])
+@2@402@0@
+Ogiltig CONFIRM-hanterarsignatur f”r funktion %1.
+
+CONFIRM-hanterarfunktioner m†ste ha denna signatur (parameternamn kan v„ljas fritt):
+<funktionsnamn>(Question : Text[1024];VAR Reply : Boolean)
+@2@403@0@
+Ogiltig STRMENU-hanterarsignatur f”r funktion %1.
+
+STRMENU-hanterarfunktioner m†ste ha denna signatur (parameternamn kan v„ljas fritt):
+<funktionsnamn>(Options : Text[1024];VAR Choice : Integer;Instruction : Text[1024])
+@2@404@0@
+Ogiltig PAGE.RUN-hanterarsignatur f”r funktionen %1.
+
+PAGE.RUN-hanterarfunktioner m†ste ha den h„r signaturen, men du kan v„lja valfria parameternamn:
+
+<funktionsnamn>(VAR <variabelnamn> : Page <id>)
+or
+<funktionsnamn>(VAR <variabelnamn> : TestPage <id>)
+@2@405@0@
+Ogiltig PAGE.RUNMODAL-hanterarsignatur f”r funktionen %1.
+
+PAGE.RUNMODAL-hanterarfunktioner m†ste ha den h„r signaturen, men du kan v„lja valfria parameternamn:
+
+<funktionsnamn>(VAR <variabelnamn> : Page <id>;VAR Response : Action)
+or
+<funktionsnamn>(VAR <variabelnamn> : TestPage <id>)
+@2@406@0@
+Ogiltig REPORT-hanterarsignatur f”r funktion %1.
+
+REPORT-hanterarfunktioner m†ste ha denna signatur (parameternamn kan v„ljas fritt):
+<funktionsnamn>(VAR <report name> : Report <report id>)
+@2@407@0@
+Ogiltig REQUESTPAGE-hanterarsignatur f”r funktion %1.
+
+REQUESTPAGE-hanterarfunktioner m†ste ha den h„r signaturen (parameternamn kan v„ljas fritt):
+<funktionsnamn>(VAR <rapportnamn>: TestRequestPage <rapport-id>)
+@2@413@0@
+Ogiltig signatur f”r utl”saren OnBeforeTestRun
+
+Den h„r utl”saren anropas innan varje testmetod f”r en testkodenhet k”rs och den m†ste ha f”ljande signatur d„r du kan ange egna parameternamn men m†ste anv„nda funktionsnamnet OnBeforeTestRun och f”ljande parametertyper: 
+OnBeforeTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128]) : Boolean 
+Parametrarna anger funktionen. Returv„rdet anger om funktionen ska inkluderas i testk”rningen. Om FALSE returneras hoppas funktionen ”ver.
+@2@414@0@
+Ogiltig utl”sarsignatur f”r OnAfterTestRun
+
+Utl”saren anropas efter att varje testfunktion i en testkodenhet k”rts. Den m†ste ha f”ljande signatur d„r du kan ange egna parameternamn men m†ste anv„nda funktionsnamnet OnAfterTestRun och f”ljande parametertyper: 
+OnAfterTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128];Success : Boolean) 
+De f”rsta tre parametrarna anger funktionen. Parametern Success „r TRUE om k”rningen lyckats och FALSE om den misslyckats.
+@2@415@0@
+Gr„nssnittshanterare %1 saknas (f”r objekt-ID: %2).
+@2@416@0@
+F”ljande gr„nssnittshanterare har inte k”rts.
+
+%1
+@2@420@0@
+Funktionen %1 f†r inte vara lokal.
+
+Funktioner av uppgraderingskodenheter m†ste vara icke-lokala f”r att kunna k”ras av servern under uppgraderingen.
+@2@421@0@
+Ogiltig signatur f”r funktionen %1.
+
+Uppgraderings- och kontrollfunktionerna m†ste ha denna signatur eftersom de inte accepterar parametrar och inte returnerar v„rden:
+<function name>()
+@2@422@0@
+Ogiltig signatur f”r funktion %1.
+
+TableSyncSetup-funktionerna m†ste ha denna signatur (funktionen och parameternamn kan v„ljas fritt):
+<function name>(VAR <record name> : Record "Table Synch. Setup")
+@2@503@0@
+Anv„nd specialtecknet { f”r att b”rja en kommentar. T.ex.: {Vanlig kommentar}.
+@2@504@0@
+Anv„nd specialtecknet } f”r att avsluta kommentaren. T.ex.: {Vanlig kommentar}.
+@2@505@0@
+Det finns ett fel i en konstant.
+@2@506@0@
+Det finns ett syntaxfel.
+@2@507@0@
+Minska komplexiteten i uttrycket.
+@2@509@0@
+Du har angivit en ok„nd variabel.
+
+%6
+
+Definiera variabeln under 'Global C/AL symbols'.
+@2@510@0@
+Variabeln %6 „r definierad mer „n en g†ng.
+
+Ett exempel skulle kunna vara: 'File' f”rekommer som b†de en datatyp och en global variabel.
+@2@511@0@
+'%9' ska f”lja h„r.
+@2@512@0@
+%6 „r inte en funktion, och endast funktioner kan anropas med '(....'.
+@2@513@0@
+Anropet „r tvetydigt mellan f”ljande metoder:
+'%1'
+och
+'%2'
+@2@514@0@
+Funktionsanropet var tvetydigt. Det gick inte att hitta en matchande metod.
+@2@515@0@
+Det finns ingen ”verlagring f”r metoden %1 som tar %2-argument.
+@2@516@0@
+Kommentarraden ”verskrider den maximala storleken p† %2 tecken.
+@2@602@0@
+Din programlicens till†ter inte anv„ndning av datatypen %6.
+@2@700@0@
+Du har uppn†tt det till†tna antalet beh”righeter.
+@2@701@0@
+Du har ”verskridit det till†tna antalet beh”righeter. Den sista posten %1 kommer inte att sparas.
+@2@702@0@
+Den interna buffertstorleken har ”verskridits. Ta bort ett spr†k eller f”rkorta textkonstanten %1. 
+Observera att du f”rlorar information om du sparar objektet.
+@2@703@0@
+Egenskaper Dimensioner m†ste vara tom innan du kan ange egenskapen IncludeInDataset i variabeln %1.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Run   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Stack Machine Interpreter                            ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@101@0@
+@2@1@0@
+Matrisdimensionerna ska vara identiska.
+@2@2@0@
+%3 kan inte anv„ndas som operator.
+
+%10.1 %3 %11.1
+@2@3@0@
+V„rdet p† %6-parametern %7 ligger utanf”r det till†tna intervallet.
+
+Det aktuella v„rdet „r: %11.20.
+Det till†tna intervallet „r: fr†n %1 till %2.
+@2@4@0@
+Indexv„rdet %11.20 i en array ligger utanf”r det till†tna intervallet.
+@2@6@0@
+Decimalspill (overflow) har intr„ffat vid ber„kningen av %10.20 %3 %11.20.
+@2@7@0@
+Division med noll.
+@2@9@0@
+Spill (overflow) vid typkonvertering av %11.1 till %10.1.
+
+V„rde: %11.20
+@2@10@0@
+Det finns inte tillr„ckligt med utrymme i stackminnet f”r C/AL f”r att utf”ra den beg„rda funktionen.
+
+Det finns f”r m†nga samtidiga aktiviteter i programmet, beroende p† det s„tt p† vilket rekursiva funktionsanrop anv„nds. Problemet kan tillf„lligt l”sas genom att du avslutar n†gra av de p†g†ende aktiviteterna (men funktionen kan fortfarande inte utf”ras).
+@2@14@0@
+Funktionen %6 st”ds inte l„ngre.
+
+Ta bort funktionsanropet och kompilera om C/AL-objektet.
+@2@16@0@
+Uttrycket %11.1 kan inte typkonverteras till ett v„rde av typen %10.1.
+@2@21@0@
+Referens till medlemmen %6 i variabeln %20 kunde inte g”ras.
+@2@22@0@
+V„rdet '%11.20' i %6-parameter nr %7 „r ogiltigt.
+@2@23@0@
+Funktionen %6 anropades med %11.1 i parametern %7.
+
+Det skulle ha varit %10.1.
+@2@24@0@
+En variabel f†r inta ta upp mer utrymme „n 2 MB.
+@2@27@0@
+Definitionen av f„ltet %6 „ndrades efter det att objektet sparades.
+
+Gammal typ: %10.1
+Ny typ: %11.1
+@2@31@0@
+%6
+@2@32@0@
+Det g†r inte att spara C/AL-objektet i kompilerad form.
+@2@34@0@
+STRCHECKSUM f”rv„ntar sig att tal mellan 0 och 9 anv„nds i parameter nr %7. '%11.20'
+@2@35@0@
+CONVERTSTR f”rv„ntar sig att de tv† str„ngarna som refereras i konverteringen „r lika l†nga:
+
+Konvertering fr†n : '%10.20' till: '%11.20'
+@2@55@0@
+Texten '%11.20' i %6-parameter nr %7 „r f”r l†ng.
+@2@69@0@
+Kan inte hitta den anv„ndardefinierade C/AL-funktionen %1.
+@2@70@0@
+Den anv„ndardefinierade C/AL-funktionen %1 som f”rv„ntar sig %3 parametrar, anropades med %2 parametrar.
+@2@71@0@
+Du anv„nder en ogiltig datatyp f”r funktionen.
+@2@72@0@
+Du kan inte anropa C/AL-funktionen %6 n„r du k”r Application Server f”r Microsoft Dynamics NAV.
+@2@73@0@
+Du kan inte anv„nda C/AL-variabler av typen %6 n„r du k”r Application Server f”r Microsoft Dynamics NAV.
+@2@75@0@
+Funktionen VARIANT2TIME tog emot en parameter som inte kan konverteras.
+Anv„nd antingen variant eller time som parameter.
+@2@76@0@
+Funktionen VARIANT2DATE tog emot en parameter som inte kan konverteras.
+Anv„nd antingen variant eller date som parameter.
+@2@77@0@
+Ett fel f”rv„ntades inuti ett ASSERTERROR-utdrag.
+@2@78@0@
+St”d f”r kapsling av ASSERTERROR-satser i samma omf†ng saknas.
+@2@79@0@
+Detta meddelande g„ller C/AL-programmerare:
+
+Du kan inte k”ra %1 objekt-ID:t %2 n„r du ”ppnar en rapport fr†n den rollbaserade klienten.
+@2@80@0@
+Detta meddelande g„ller C/AL-programmerare:
+
+K”rningstid f”r objektet %6 st”ds inte i utvecklingsmilj”n C/SIDE.
+@2@90@0@
+Filen „r inte ”ppen.
+@2@91@0@
+Filen „r redan ”ppen.
+@2@92@0@
+En variabel av denna typ kan inte l„sas eller skrivas i bin„r form.
+@2@93@0@
+Ett fel uppstod vid str”mning av filen.
+@2@94@0@
+Typen av .NET-samarbete kan inte anv„ndas i kod f”r C/SIDE-k”rningen.
+@2@96@0@
+Funktionen CURRENTEXECUTIONMODE kan inte anv„ndas i kod f”r C/SIDE-k”rningen.
+@2@97@0@
+Du kan inte ”ppna rapportfunktioner och egenskaper f”r C/SIDE-k”rningen.
+@2@120@0@
+Dialogf”nstret „r inte ”ppet.
+@2@130@0@
+Du kan inte exportera ett tomt BLOB-objekt (%6).
+@2@131@0@
+Du kan inte str”mma en tom BLOB (%6).
+@2@132@0@
+Du kunde inte str”mma till BLOB.
+@2@140@0@
+Du kan inte anropa CONFIRM i Application Server. 
+ Meddelandet „r: 
+ 
+%12
+@2@141@0@
+Du kan inte anropa STRMENU i Application Server.
+Menyalternativen „r:
+
+%13
+@2@142@0@
+Du kan inte anropa DIALOG.INPUT i Application Server.
+@2@150@0@
+Str”mmen returnerade ett l„sfel.
+@2@151@0@
+Du kan inte str”mma ett tomt str”minterface (%6).
+@2@152@0@
+Str”mmen har returnerat ett skrivfel.
+@2@200@0@
+Det gick inte att byta namn p† %1.1, beroende p† att f”r m†nga nyckelf„lt angavs. Antalet f„lt i prim„rnyckeln „r %4.
+@2@201@0@
+Ingen relation har kopplats till f„ltet %2.1 i %1.1.
+@2@301@0@
+En CONFIRM med f”ljande meddelande har hittats:
+
+%10
+
+Systemet svarade %11 p† fr†gan.
+@2@400@0@
+Du „r p† v„g ”ppna f”ljande k”rbara fil f”r f”rsta g†ngen:
+
+K”rbar fil: %1
+Parameter: %2
+
+T„nk p† att du kan ”ppna en k”rbar fil som kan vara 
+skadlig f”r datorn.
+
+Anser du den h„r k”rbara filen och dess parameter som betrodda?
+@2@401@0@
+Av s„kerhetssk„l kan du inte ”ppna f”ljande
+k”rbara fil i SHELL-funktionen n„r den skickas som en variabel:
+
+K”rbar fil: %1
+Parameter: %2
+
+F”r AL-utvecklare: Anv„nd i st„llet en textkonstant som inneh†ller 
+s”kv„gen till den k”rbara filen.
+@2@1101@0@
+%2.1 %3 i %1.1 %5.
+@2@1102@0@
+%2.1 f†r inte vara %2.5 i %1.1 %5.
+@2@1103@0@
+%2.1 m†ste vara %2.5 i %1.1 %5.
+@2@1104@0@
+%6 har tagits bort fr†n tabell %1.1.
+@2@1105@0@
+F„lt %2.1 i tabell %1.1 har inte aktiverats.
+@2@1106@0@
+Funktionen LOCKTABLE p† tabellen %1.1 kan inte anv„ndas, n„r Wait parameterns v„rde „r FALSE eller n„r VersionCheck parameterns v„rde „r TRUE, vid en uppkoppling till en SQL Server.
+@2@1107@0@
+Om b†da posterna „r tempor„ra m†ste argumentet shareTable vara sant f”r att funktionen KOPIA ska kunna anv„ndas.
+@2@1112@0@
+Du m†ste ange %2.1 i %1.1, %5.
+@2@1113@0@
+Du f†r inte ange %2.1 i %1.1, %5.
+@2@1122@0@
+%2.1 f†r inte vara %2.5 i %1.1, %5.
+@2@1123@0@
+%2.1 m†ste vara %2.5 i %1.1, %5.
+@2@1132@0@
+%2.1 f†r inte vara %2.5 i %1.1, %5.
+@2@1133@0@
+%2.1 m†ste vara %2.5 i %1.1, %5.
+@2@1134@0@
+Textkonstanten %4 i rapporten ”verskrider den till†tna gr„nsen med %5 tecken.
+
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Streams   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Streams Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@120@0@
+@2@1@0@
+Ett str”mningsfel har uppst†tt.
+@2@2@0@
+Meddelande till C/AL-programmeraren:
+
+L„sstorleken korresponderar inte till variabelstorleken eller beg„rd l„ngd.
+@2@3@0@
+Meddelande till C/AL-programmeraren:
+
+Skrivstorlek korresponderar inte till variabelstorlek eller beg„rd l„ngd.
+@2@4@0@
+Meddelande till C/AL-programmeraren:
+
+Str”mmen inneh†ller data som inte kan tolkas p† ett korrekt s„tt.
+@2@5@0@
+Meddelande till C/AL-programmeraren:
+
+Str”mmen kan inte hitta en noll-avslutad str„ng.
+Str”mmen kan vara felaktig eller (variabelns eller beg„rd) storlek kan vara f”r liten.
+@2@6@0@
+Meddelande till C/AL-programmeraren:
+
+Beg„rd storlek i str”mmen korresponderar inte till variabelstorleken.
+@2@7@0@
+Meddelande till C/AL programmeraren:
+
+Str”mmen „r antingen utanf”r sin ram (utrymme) eller har inte initierats.
+@2@8@0@
+Meddelande till C/AL-programmeraren:
+
+Skrivstorleken i str”mmen korresponderar inte till variabelstorlek eller beg„rd l„ngd.
+@2@9@0@
+Ett fel uppstod n„r du f”rs”kte skriva till str”mmen.
+
+@2@10@0@
+Du kan inte anv„nda COPYSTREAM n„r du kopierar data mellan tv† str”mmar som baseras p† samma datak„lla.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Variant   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Variant Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@121@0@
+@2@1@0@
+Ett variantfel uppstod.
+@2@2@0@
+Meddelande till C/AL-programmeraren:
+
+Varianten „r tom eller ett ok„nt v„rde har tilldelats den.
+@2@3@0@
+Meddelande till C/AL-programmeraren:
+
+Varianten har f†tt en inkompatibel datatyp.
+@2@4@0@
+VARIANT2TIME-funktionen har f†tt ett argument som programmet inte kan konvertera.
+Anv„nd antingen variant eller tid som argument.
+@2@5@0@
+VARIANT2DATE-funktionen har f†tt ett argument som programmet inte kan konvertera.
+Anv„nd antingen variant eller datum som argument.
+@2@6@0@
+Du kan inte kopiera varianten.
+@2@7@0@
+Du kan inte tilldela en annan typ „n %1 n„r den „r i en variant med VAR.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Bigstr   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Bigstr Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@148@0@
+@2@1@0@
+Det h„r meddelandet avser C/AL-programmerare:
+
+Du kan inte allokera en str„ng som „r st”rre „n 2 147 483 647 byte till en BigText-variabel.
+@2@2@0@
+Detta meddelande „r till C/AL programmerare:
+
+Du kan inte ange en negativ position i en BigText-variabel.
+@2@3@0@
+Det h„r meddelandet avser C/AL-programmerare:
+
+Du kan inte ange en negativ l„ngd i en BigText-variabel.
+@2@4@0@
+Det h„r meddelandet avser C/AL-programmerare:
+
+M†lf„ltet ”verskrids om du kopierar fr†n variabeln BigText.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_NCLTypeConv    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL to NCL type convertion Errors                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@109@0@
+@2@1@0@
+Typen %1 st”ds inte av Microsoft Dynamics NAV Development Environment-klassbiblioteket.
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  Module_AL_2Cs    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  AL 2 C# and Metadata generation errors                     ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@108@0@
+@2@1@0@
+Det gick inte att ladda MSXML
+@2@2@0@
+Skadade metadata
+@2@END@0@

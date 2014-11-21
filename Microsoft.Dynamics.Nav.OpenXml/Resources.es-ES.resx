@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="WorksheetAlreadyExistError" xml:space="preserve">
+    <value>La hoja de trabajo ya existe.</value>
+  </data>
+  <data name="RangeAlreadyExistError" xml:space="preserve">
+    <value>El intervalo ya existe.</value>
+  </data>
+  <data name="FilenameTypeError" xml:space="preserve">
+    <value>El tipo de documento no es válido. Compruebe la extensión del archivo.</value>
+  </data>
+  <data name="UriArgumentError" xml:space="preserve">
+    <value>Es necesario un hipervínculo válido.</value>
+  </data>
+  <data name="FilenameAlreadyExistError" xml:space="preserve">
+    <value>El nombre de archivo ya existe.</value>
+  </data>
+  <data name="CustomPropertiesArgumentError" xml:space="preserve">
+    <value>La colección de propiedades personalizadas no puede ser nula.</value>
+  </data>
+  <data name="RangeNameNotFoundError" xml:space="preserve">
+    <value>No se encontró el nombre del intervalo.</value>
+  </data>
+  <data name="DataElementPathCouldNotBeFound" xml:space="preserve">
+    <value>{0} tiene una ruta de acceso no válida. Es posible que falten elementos o secciones obligatorios del esquema XML.</value>
+  </data>
+  <data name="EnumeratorOutOfRangeError" xml:space="preserve">
+    <value>El enumerador está fuera del intervalo.</value>
+  </data>
+  <data name="CustomXmlPartWithNoRoot" xml:space="preserve">
+    <value>El elemento XML personalizado no contiene un elemento raíz.</value>
+  </data>
+  <data name="PathArgumentError" xml:space="preserve">
+    <value>Se requiere una ruta de acceso válida.</value>
+  </data>
+  <data name="CustomXmlInvalidNamespaceBinding" xml:space="preserve">
+    <value>{0} tiene un espacio de nombres no válido {1}.</value>
+  </data>
+  <data name="RangeValueNotSpecifiedError" xml:space="preserve">
+    <value>Especifique un valor de intervalo.</value>
+  </data>
+  <data name="FilenameNotSpecifiedError" xml:space="preserve">
+    <value>Especifique un nombre de archivo.</value>
+  </data>
+  <data name="WorksheetNotFoundError" xml:space="preserve">
+    <value>No se encontró la hoja de trabajo.</value>
+  </data>
+  <data name="WorksheetPartNotFoundError" xml:space="preserve">
+    <value>No se encontró WorksheetPart.</value>
+  </data>
+  <data name="NumberingFormatsError" xml:space="preserve">
+    <value>El formato del id. de numeración personalizado debe empezar en {0} y debe enumerarse en orden consecutivo.</value>
+  </data>
+  <data name="ColumnNameSizeError" xml:space="preserve">
+    <value>La etiqueta de columna debe tener una anchura de 1 como mínimo.</value>
+  </data>
+  <data name="ColumnLetterError" xml:space="preserve">
+    <value>El encabezado de columna {0} debe ser una letra de la 'A' a la 'Z'.</value>
+  </data>
+  <data name="CustomXmlElementRemovedInDesign" xml:space="preserve">
+    <value>El elemento XML personalizado en el documento de diseño de Word tiene una referencia a un campo o DataItem con la ruta {0}. Este elemento se ha eliminado del conjunto de datos del informe.</value>
+  </data>
+  <data name="IncompatibleWorkbookError" xml:space="preserve">
+    <value>El libro de Microsoft Excel no se puede abrir. Esto puede deberse a uno de los siguientes motivos:
+1. La ruta de acceso al archivo es una dirección web. Debe ir al archivo mediante el cuadro de diálogo Abrir archivo o puede guardar el archivo localmente y, a continuación, abrirlo.
+2. El libro no está guardado en el formato de archivo Open XML. En Microsoft Excel, guarde el libro como libro de Excel (archivo .xlsx) y vuelva a intentar la solicitud.
+Se produjo el siguiente error: {0}.</value>
+  </data>
+  <data name="CorruptSpreadsheetDocumentError" xml:space="preserve">
+    <value>El libro está dañado. Se produjo el error siguiente: {0}.</value>
+  </data>
+  <data name="ColumnNameNotSpecifiedError" xml:space="preserve">
+    <value>Especifique una etiqueta de columna.</value>
+  </data>
+  <data name="DataValidationFormulaNotSpecifiedError" xml:space="preserve">
+    <value>Especifique un valor de validación de datos.</value>
+  </data>
+  <data name="RangeNameNotSpecifiedError" xml:space="preserve">
+    <value>Especifique un nombre de intervalo.</value>
+  </data>
+</root>

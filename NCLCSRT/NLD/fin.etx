@@ -1,0 +1,4841 @@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  OS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Operating System                                                        ³
+// ³                                                                          ³
+// ³  All texts should be based on the operating system documentation in      ³
+// ³  your language to ensure correct translation.                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@1@0@
+@2@2@0@
+Het besturingssysteem kan het bestand niet vinden: %1 %2
+
+Controleer de stationsaanduiding, het pad en de bestandsnaam.
+@2@3@0@
+Het besturingssysteem kan het pad niet vinden voor het bestand: %1 %2.
+
+Controleer de stationsaanduiding en het pad.
+@2@4@0@
+Er kunnen geen bestanden meer worden geopend door het besturingssysteem. Het volgende bestand kon niet worden geopend: %1 %2.
+
+Als u met DOS of OS/2 werkt, verhoog dan de instructie 'FILES=' in het bestand CONFIG.SYS.
+@2@5@0@
+Het besturingssysteem heeft geen toegang tot het bestand %1 %2.
+
+Controleer het type en de attributen van het bestand.
+@2@8@0@
+Er is onvoldoende geheugen beschikbaar om deze taak uit te voeren.
+
+Wanneer u werkt in een single-userinstallatie, kunt u proberen de 'CACHE=' waarden te verlagen. Raadpleeg tevens de documentatie van het besturingssysteem om uw systeem te optimaliseren.
+@2@14@0@
+Er is onvoldoende geheugen op de Microsoft Dynamics NAV Server-computer om de huidige activiteit uit te voeren.
+@2@15@0@
+Het besturingssysteem kan het opgegeven station niet vinden voor het bestand %1 %2.
+
+Controleer de stationsaanduiding.
+@2@17@0@
+Een bestand kan geen andere naam worden gegeven of naar een ander station worden verplaatst.
+
+Dit bericht heeft betrekking op de bestanden %1 en %2.
+
+Beide bestanden moeten zich op hetzelfde station bevinden.
+@2@19@0@
+De schijf is tegen schrijven beveiligd.
+
+Bestand: %1 %2.
+
+Controleer of de juiste schijf is geplaatst en verwijder de schrijfbeveiliging. Raadpleeg de documentatie van het besturingssysteem voor meer informatie.
+@2@20@0@
+Het besturingssysteem kan het randapparaat niet vinden: %1 %2.
+
+Controleer het huidige pad en de spelling van het randapparaat.
+@2@21@0@
+Het station is niet gereed.
+
+Bestand: %1 %2.
+
+Controleer of de schijf correct is geplaatst, en het station niet door een ander programma wordt gebruikt.
+@2@23@0@
+Het besturingssysteem heeft een beschadiging gevonden op de schijf. Om verlies van belangrijke gegevens te voorkomen, MOET u dit probleem oplossen v¢¢r u doorgaat. Gebruik geen schijfhulpprogramma's om de database te herstellen.
+
+Bestand: %1 %2.
+
+Als de fout zich voordoet op een andere schijf dan de vaste schijf, controleert u of deze schijf is geformatteerd. Doet de fout zich voor op de vaste schijf, dan controleert u deze schijf en corrigeert u alle fouten. Mogelijk moet u de schijf formatteren en een reservekopie terugzetten. 
+Raadpleeg de documentatie van het besturingssysteem voor meer informatie. Controleer de database met de startparameter DBTEST=MIN wanneer u het programma opnieuw start. Neem contact op met uw systeembeheerder.
+@2@25@0@
+Let op: het besturingssysteem kan een bepaalde sector niet vinden op de schijf. De schijf is mogelijk niet geformatteerd, beschadigd of niet compatibel met het besturingssysteem. Om verlies van belangrijke gegevens te voorkomen, MOET u dit probleem oplossen v¢¢r u doorgaat. Gebruik geen schijfhulpprogramma's om de database te herstellen.
+
+Bestand: %1 %2.
+
+Als de fout zich voordoet op een andere schijf dan de vaste schijf, controleert u of deze schijf is geformatteerd. Doet de fout zich voor op de vaste schijf, dan controleert u deze schijf en corrigeert u alle fouten. Mogelijk moet u de schijf formatteren en een reservekopie terugzetten. 
+Raadpleeg de documentatie van het besturingssysteem voor meer informatie. Controleer de database met de startparameter DBTEST=MIN wanneer u het programma opnieuw start. Neem contact op met uw systeembeheerder.
+@2@26@0@
+Het besturingssysteem kan de schijf niet lezen.
+
+Bestand: %1 %2
+
+De schijf is beschadigd of niet geformatteerd voor dit besturingssysteem, of het benodigde stuurprogramma voor het bestandssysteem is niet ge‹nstalleerd. Neem contact op met de systeembeheerder voor meer informatie.
+@2@27@0@
+Let op: het besturingssysteem kan de gevraagde sector niet vinden op de schijf. De schijf is mogelijk niet geformatteerd, beschadigd of niet compatibel met het besturingssysteem. Om verlies van belangrijke gegevens te voorkomen, MOET u dit probleem oplossen v¢¢r u doorgaat. Gebruik geen schijfhulpprogramma's om de database te herstellen.
+
+Bestand: %1 %2.
+
+Als de fout zich voordoet op een andere schijf dan de vaste schijf, controleert u of deze schijf is geformatteerd. Doet de fout zich voor op de vaste schijf, dan controleert u deze schijf en corrigeert u alle fouten. Mogelijk moet u de schijf formatteren en een reservekopie terugzetten. 
+Raadpleeg de documentatie van het besturingssysteem voor meer informatie. Controleer de database met de startparameter DBTEST=MIN wanneer u het programma opnieuw start. Neem contact op met uw systeembeheerder.
+@2@28@0@
+Het besturingssysteem kan de printopdracht niet voltooien.
+
+Controleer of de printer is aangesloten en ingeschakeld, en voldoende papier heeft. Wanneer een netwerk-printerserver wordt gebruikt moet voldoende ruimte beschikbaar zijn in de spool-map.
+@2@29@0@
+Het besturingssysteem kan niet schrijven naar  %1 %2.
+
+Controleer of het apparaat is aangesloten en ingeschakeld, klaar is om gegevens te ontvangen en (in het geval het een schijf betreft) is geformatteerd.
+@2@30@0@
+Het besturingssysteem kan niet lezen van  %1 %2.
+
+Controleer of het apparaat is ge‹nstalleerd, aangesloten en ingeschakeld. Controleer ook of het klaar is om gegevens te verzenden en (als het een schijf betreft) of het is geformatteerd.
+@2@31@0@
+Het randapparaat functioneert niet correct: %1 %2.
+
+Controleer of het apparaat is ge‹nstalleerd, aangesloten en ingeschakeld. Controleer ook of het klaar is om gegevens te verzenden en (als het een schijf betreft) of het is geformatteerd.
+Als het een schijfstation betreft, controleer dan of de schijf van het juiste type is, geformatteerd is en op de juiste wijze in het schijfstation is geplaatst.
+@2@32@0@
+Er kan geen toegang worden verleend tot het bestand %1 %2 omdat het reeds in gebruik is.
+@2@33@0@
+Er kan geen toegang worden verleend tot het bestand %1 %2 omdat het reeds gebruikt wordt door een ander proces.
+@2@34@0@
+Het besturingssysteem heeft een foutieve schijf gedetecteerd.
+
+Bestand: %1 %2.
+
+Plaats de juiste schijf.
+@2@53@0@
+Het netwerkpad kan niet worden gevonden.
+
+Bestand: %1 %2
+
+De netwerkserver kan uit de lucht zijn, of het pad is ongeldig.
+@2@80@0@
+Het volgende bestand bestaat reeds: %1 %2.
+@2@82@0@
+Het besturingssysteem kan de volgende bestanden of mappen niet maken: %1 %2. Dit kan een van de volgende oorzaken hebben:
+
+* De map of het bestand bestaat reeds.
+* Het pad kan niet worden gevonden.
+* De hoofdmap is vol of de schijf is vol.
+* De map- of bestandsnaam is ongeldig of is gereserveerd.
+* De schijf is niet correct geformatteerd.
+@2@100@0@
+Het besturingssysteem kan niet meer semaforen cre‰ren.
+
+Configureer het besturingssysteem zodanig dat meer semafooridentificaties toegestaan zijn. In Unix kunt u de SEMMNI-waarde verhogen en een nieuwe Unix-kernel cre‰ren. Raadpleeg de documentatie van het besturingssysteem voor meer informatie.
+Neem contact op met uw systeembeheerder. 
+@2@108@0@
+Het station wordt gebruikt door een ander programma.
+
+Bestand: %1 %2
+
+Wacht tot dit andere programma gereed is.
+@2@112@0@
+Er is onvoldoende ruimte vrij op de schijf.
+
+Bestand: %1 %2.
+
+Gebruik een andere schijf of verwijder een deel van de bestanden.
+@2@123@0@
+De volgende bestandsnaam bevat een teken dat niet kan worden gebruikt: %1 %2.
+
+Controleer de bestandsnaam en raadpleeg de documentatie van het besturingssysteem voor meer informatie over geldige bestandsnamen.
+@2@126@0@
+Het besturingssysteem kan de DLL-module niet laden: %1.
+
+Controleer of deze DLL-module bestaat. Controleer tevens of de andere gebruikte DLL-modules bestaan.
+@2@127@0@
+Het besturingssysteem kan de gevraagde DLL-functie niet vinden: %1.
+@2@166@0@
+Deze opdracht kan niet worden uitgevoerd omdat geen netwerk is ge‹nstalleerd.
+
+Bestand: %1 %2
+
+Controleer of het netwerk juist is ge‹nstalleerd en correct functioneert.
+@2@190@0@
+Het besturingssysteem kan het volgende programma niet uitvoeren: %1 %2.
+
+Dit komt voor wanneer het besturingssysteem een DLL-module als een programma probeert uit te voeren, of als u een programma als een DLL-module probeert uit te voeren. Verder kan het programma een niet verwachte structuur hebben. Controleer de aanroep en structuur van het programma.
+@2@191@0@
+Uw besturingssysteem kan het volgende programma niet uitvoeren: %1 %2.
+
+Controleer of het programma correct is ge‹nstalleerd en door uw besturingssysteem kan worden uitgevoerd.
+@2@192@0@
+Het besturingssysteem kan het volgende programma niet uitvoeren: %1 %2.
+
+Controleer of het programma correct is ge‹nstalleerd.
+@2@193@0@
+Uw besturingssysteem kan het volgende programma niet uitvoeren: %1 %2.
+
+Controleer of het programma correct is ge‹nstalleerd en door uw besturingssysteem kan worden uitgevoerd.
+@2@203@0@
+Het besturingssysteem kan de volgende omgevingsvariabele niet vinden: %1.
+@2@206@0@
+De map- of bestandsnaam is te lang: %1 %2
+
+Raadpleeg de documentatie van uw besturingssysteem voor meer informatie.
+@2@700@0@
+OLE kon niet ge‹nitialiseerd worden.
+@2@800@0@
+Bestand %1 kan niet geopend worden op een netwerkbestandssysteem (NFS, Network File System) omdat de demon "statd" niet gestart is op de NFS-client.
+
+Raadpleeg de documentatie van uw besturingssysteem voor meer informatie."
+@2@801@0@
+Bestand %1 kan niet geopend worden op een netwerkbestandssysteem (NFS, Network File System) omdat de demon "lockd" niet gestart is op de NFS-client.
+
+Raadpleeg de documentatie van uw besturingssysteem voor meer informatie.
+
+@2@802@0@
+Bestand %1 kan niet geopend worden op een netwerkbestandssysteem (NFS, Network File System) omdat de demon "lockd" niet gestart is op de NFS-client.
+
+Raadpleeg de documentatie van uw besturingssysteem voor meer informatie.
+
+@2@899@0@
+Het programma kan geen verbinding met het proces op de server tot stand brengen.
+
+De reden daarvoor is dat de server als een service is opgestart en een systeem-account gebruikt. Gebruik een werkstation dat van het netwerk gebruikt maakt.
+@2@951@0@
+Het besturingssysteem kan niet meer semaforen cre‰ren.
+
+U moet het besturingssysteem opnieuw configureren om meer semaforen te kunnen gebruiken. Raadpleeg het bestand readme.txt en de documentatie van het besturingssysteem voor meer informatie.
+@2@952@0@
+Het besturingssysteem kan de hoeveelheid gedeeld geheugen ("shared memory") niet verhogen.
+
+U moet het besturingssysteem opnieuw configureren om meer gedeeld geheugen te kunnen gebruiken. Raadpleeg het bestand readme.txt en de documentatie van het besturingssysteem voor meer informatie.
+@2@953@0@
+Het besturingssysteem kan de gevraagde hoeveelheid gedeeld geheugen niet cre‰ren.
+
+U moet het besturingssysteem opnieuw configureren om meer (of minder) gedeeld geheugen te gebruiken. Raadpleeg het bestand readme.txt en de documentatie van het besturingssysteem voor meer informatie.
+@2@958@0@
+Het besturingssysteem ondersteunt geen bestanden die groter dan 2 GB zijn.
+@2@995@0@
+Het besturingssysteem gaf foutcode (%18):
+
+%99
+@2@998@0@
+Deze menu-opdracht of functie kan niet worden gebruikt met het huidige besturingssysteem.
+@2@999@0@
+De opdracht om het externe programma %1 op te starten is te lang.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ Lang ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Multilanguage							      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@7@0@
+@2@3@0@
+Er is een onbekende taal ('%1') geselecteerd.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  UT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Usertypes                                                               ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@9@0@
+@2@002@0@
+Type '%1' werd niet gedefinieerd voor de functie.
+@2@6@0@
+De waarden zijn niet compatibel:
+
+De waarde %4 van het type %1
+
+is niet compatibel met
+
+de waarde %104 van het type %101.
+@2@7@0@
+De minimale toegestane waarde is %4.
+@2@8@0@
+De maximale toegestane waarde is %4.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  STACK  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÙ                                                              ³
+// ³                                                                          ³
+// ³  Stack Manager                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@15@0@
+@2@1@0@
+Er is onvoldoende geheugen vrij om deze taak uit te voeren.
+
+Dit kan worden veroorzaakt door (niet correct) gebruik van recursieve functies in het programma. Neem contact op met de systeembeheerder.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  FILE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  File                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@17@0@
+@2@1006@0@
+Er kunnen maximum 255 tekens worden gebruikt voor de bestandsnaam en het pad.
+
+Bestand: %1
+@2@1009@0@
+Het bestand %1 bevat een record dat niet volledig kan worden gelezen.
+@2@1010@0@
+Het bestand %1 bevat een regel die te lang is voor de interne variabele.
+@2@1014@0@
+Het randapparaat is alleen sequentieel te benaderen.
+
+Bestand: %1
+@2@1015@0@
+Het bestand %1 bevat een bestandspositie die niet langer bestaat.
+@2@1016@0@
+Een bestand kan niet naar een bestand met dezelfde naam worden gekopieerd.
+
+Bestand: %1
+@2@1017@0@
+Een bestand kan niet naar een bestand met dezelfde naam worden gekopieerd.
+
+Bestand: %1
+@2@1018@0@
+Het gecomprimeerde bestand %1 heeft een niet toegestaan formaat.
+@2@2100@0@
+Het bestand %1 te groot.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EVAL  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Evaluation                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@41@0@
+@2@100@0@
+%5 mag niet leeg zijn.
+
+%5 ontbreekt of is ongeldig in de expressie.
+@2@101@0@
+De tekst '%10' is te lang. %5 kan maximaal %3 tekens lang zijn.
+@2@104@0@
+De tekst '%10' is te lang. De lijst met keuzes kan maximaal %3 tekens lang zijn.
+@2@111@0@
+%5 mag niet %10 zijn.
+
+%5 moet liggen tussen %1 en %2.
+@2@112@0@
+%10 kan niet worden ingevoerd in %5.
+@2@113@0@
+%10 kan niet worden ingevoerd in %5.
+@2@120@0@
+'%10' is te groot voor de interne variabele '%5'.
+@2@141@0@
+Optie '%10' is niet toegestaan.
+
+Geldige keuzemogelijkheden zijn:
+
+%4
+@2@142@0@
+Optie '%10' is niet toegestaan.
+
+Geldige keuzemogelijkheden zijn:
+
+%4
+@2@151@0@
+De tekst '%10' is te lang. De tekst in codevelden kan maximaal %3 tekens lang zijn.
+@2@161@0@
+%10 is geen geldige datum.
+@2@162@0@
+%10 is geen geldige datum.
+@2@171@0@
+%10 is geen geldige tijd.
+@2@172@0@
+%10 is geen geldige tijd.
+@2@175@0@
+%10 is geen geldige datum/tijd.
+@2@180@0@
+'%5' mag '%7' slechts ‚‚n keer bevatten.
+
+%10
+@2@181@0@
+'%5' mag '%7' slechts ‚‚n keer bevatten.
+
+%10
+@2@182@0@
+Het type '%5' is niet volledig.
+
+%10
+@2@183@0@
+Er is een ongeldig veld of attribuut opgegeven voor de eigenschap 'Format'.
+
+%10
+
+@2@184@0@
+'%10' bevat ongeldige tekens.
+
+@2@185@0@
+'%1' geen prototypisch DataItem. Voer een prototypisch DataItem in.
+@2@186@0@
+U kunt "%1" niet invoeren omdat het geen geldige kolom in deze query is.
+@2@187@0@
+Voor DataItemLink is geen 'Veld' ingeschakeld.
+@2@188@0@
+Voor DataItemLink is geen 'DataItem waarnaar wordt verwezen' ingeschakeld.
+@2@189@0@
+Voor DataItemLink is geen 'Veld waarnaar wordt verwezen' ingeschakeld.
+@2@190@0@
+Een FlowField kan niet in een DataItem-koppeling worden gebruikt.
+@2@191@0@
+Een FlowFilter kan alleen aan een normaal veld worden gekoppeld.
+@2@300@0@
+Een '%5' werd hier verwacht.
+
+%10
+@2@301@0@
+De fout deed zich voor in het volgende bestand:
+
+Bestand: %50
+Regelnummer: %51
+Regel: %10
+Kolom: %11
+@2@500@0@
+Interne fout:
+
+het type %5 is onbekend.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  FMT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Format                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@42@0@
+@2@2@0@
+Het standaardformaatnummer %1 bestaat niet voor type '%2'.
+@2@4@0@
+De lengte van de bron overschrijdt de omvang van de doelbuffer.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  RecConv  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Conversion Utility                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@43@0@
+@2@1@0@
+De ingevoerde waarde in het veld Naam van het gegevensitem mag niet langer zijn dan 30 tekens.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  STR  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  String                                                                  ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@45@0@
+@2@6@0@
+Tekenreeks %3 is te klein om %# velden in te voegen.
+
+Deze fout trad op vanwege:
+Nummer: %1
+Waarde: %2
+@2@7@0@
+De volgende tekst mag in totaal maximaal %1 tekens bevatten.
+
+'%2' +
+'%3'
+@2@5@0@
+De alfavariabele kan in totaal niet meer dan %1 tekens bevatten.
+
+'%2'
+@2@11@0@
+De tekst is te lang voor de tekstbuffer.
+@2@300@0@
+Indexbereik wordt volledig opgevuld bij het openen van de tekenreeks.
+
+Tekenreeks: %3
+Lengte van tekenreeks: %1
+Index: %5
+@2@301@0@
+%6 kan niet %3 zijn.
+@2@302@0@
+U moet een %6 opgeven.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DATE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Date                                                                    ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@46@0@
+@2@1@0@
+Een ongedefinieerde datum kan niet worden gebruikt in datumberekeningen.
+@2@2@0@
+De datum is ongeldig.
+@2@3@0@
+Een ultimodatum kan niet worden gebruikt in datumberekeningen.
+@2@4@0@
+Een ongedefinieerde tijd kan niet worden gebruikt in tijdsberekeningen.
+@2@5@0@
+De tijd is ongeldig.
+@2@8@0@
+De datumformule overschrijdt de toegestane grootte.
+@2@201@0@
+De datumformule '%10' moet een plus (+) of min (-) bevatten.
+@2@202@0@
+De datumformule '%10' moet een getal bevatten.
+@2@203@0@
+De datumformule '%10' moet een tijdseenheid bevatten.
+
+Voorbeelden van tijdseenheden: D,WD,W,M,K of J.
+L, lopende tijdseenheid, kan als prefix worden opgegeven bij een tijdseenheid.
+@2@204@0@
+De datumformule '%10' moet een getal bevatten.
+@2@205@0@
+De datumformule %10 bevat een te groot getal.
+
+Het getal moet liggen tussen %1 en %2.
+@2@206@0@
+De berekening van de datumformule %10 resulteerde in een ongeldige datum: %1.
+
+Geldige datums liggen tussen 1 januari 0000 en 31 december 9999.
+@2@207@0@
+Evaluatiefout (ongeldige eenheidstekenreeks, %4, voor datumexpressies in het .stx bestand).
+
+Interne fout: 41-%0
+
+@2@208@0@
+Een ongedefinieerde datum kan niet als basis dienen voor een datumberekening.
+
+Datum: 0D
+Formule: %10
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  TEXTCONV  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ³                                                                          ³
+// ³  Text Conversion                                                         ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@47@0@
+@2@1@0@
+Fouten in de tekstconversie omdat tekstnr. %1-%2 niet bestaat in het .stx-bestand.
+
+Interne fout: 47-%0
+@2@2@0@
+Fouten in de tekstconversie omdat tekstnr. %1-%2 te lang is voor de interne buffer.
+
+Interne fout: 47-%0
+@2@3@0@
+Fouten in de tekstconversie vanwege foutieve interne bufferlengte mbt. tekstnr. %1-%2.
+
+Interne fout: 47-%0
+@2@5@0@
+Het volgende bestand of de volgende bestanden zijn met succes verzegeld:
+
+%1
+@2@7@0@
+Kan verzegeling niet uitvoeren.
+
+Uw licentie laat niet toe het bestand fin.stx te wijzigen.
+
+Neem contact op met uw systeembeheerder voor assistentie.
+@2@101@0@
+Fouten in de tekstconversie. Fout in bestand %11, regel %12, tekst '%13'.
+
+De syntaxis van het .stx-bestand is ongeldig. De correcte syntaxis is:
+<ModuleNr.>-<TekstNr.>-<MaximumLengte>-<Vertalen>: <Tekst>
+
+Het aantal cijfers in de syntaxis:
+
+ModuleNr.: 5 cijfers
+TextNr.: 5 cijfers
+MaximumLengte: 3 cijfers
+Vertalen: 1 cijfer
+
+Bijvoorbeeld:
+
+00040-01003-256-1: Maandag,Dinsdag,Woensdag,...
+Interne fout: 47-%0
+@2@102@0@
+Er zijn fouten in de tekstconversie omdat de regel te lang is.
+
+De fout is opgetreden in het bestand %11 op regel %12 in de tekst '%13'.
+
+Interne fout: 47-%0 
+@2@103@0@
+Fouten in de tekstconversie omdat dezelfde tekst meerdere keren is gedefinieerd.
+
+Fout in bestand %11, regel %12, tekst '%13'.
+
+Interne fout: 47-%0 
+@2@104@0@
+Fouten in de tekstconversie omdat de tekst te lang is.
+
+Fout in bestand %11, regel %12, tekst '%13'.
+
+Interne fout: 47-%0
+@2@105@0@
+Fouten in de tekstconversie vanwege ongeldige .stx-syntaxis.
+
+Fout in bestand %11, regel %12, tekst '%13'.
+
+Interne fout: 47-%0 
+@2@106@0@
+Er is een controlesomfout gedetecteerd in het bestand fin.stx. Dit bestand is veranderd of beschadigd nadat het is ge‹nstalleerd.
+
+Neem contact op met de systeembeheerder voor assistentie.
+@2@109@0@
+Fouten in de tekstconversie vanwege onjuist bestandsniveau op eerste regel van fin.stx.
+
+Fout in bestand %11, regel %12, tekst '%13'.
+
+Interne fout: 47-%0 
+@2@110@0@
+Er is een controlesomfout gedetecteerd in het bestand fin.stx. Dit bestand is veranderd of beschadigd nadat het is ge‹nstalleerd.
+
+Fout in bestand %11.
+
+Neem contact op met de systeembeheerder.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  BCD  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³                                                                          ³
+// ³  Binary Coded Decimal (Decimal No.)                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@50@0@
+@2@1@0@
+Deling door nul.
+
+%2 / %3
+@2@2@0@
+De volgende operatie resulteerde in een te groot decimaal getal.
+
+%1
+@2@4@0@
+De volgende operatie resulteerde in een te groot decimaal getal.
+
+%1
+@2@5@0@
+Er is een te groot geheel getal.
+
+%2
+@2@6@0@
+Een van de volgende fouten is opgetreden:
+
+* Een negatief getal is verheven met een decimale macht.
+* Nul is verheven met een negatieve macht.
+
+POWER(%2,%4)
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  EXEC  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ³                                                                          ³
+// ³  Execute External Program                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@80@0@
+@2@1@0@
+Het externe programma %1 stuurde foutcode %0.
+
+Raadpleeg de technische documentatie van het externe programma voor meer informatie.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ATT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Attributes                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@11@0@
+@2@1@0@
+De eigenschap is te groot voor de buffer.
+@2@100@0@
+Interne fout:
+De eigenschap %1 is niet gedefinieerd in het eigenschappenoverzicht.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  MT  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  MiniTree                                                                ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@24@0@
+@2@3@0@
+Onbekende fout in bestand %2. Om verder te gaan moet het bestand worden verwijderd of worden hernoemd.
+@2@8@0@
+De tekst in de lijst is %11 tekens langer dan is toegestaan.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´  HELP ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Help Lookup Subsystem                                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@25@0@
+@2@001@0@
+Het Help-systeem is beschadigd.
+Zorg ervoor dat de .hh-bestanden correct ge‹nstalleerd zijn.
+@2@002@0@
+Regel (%4) in Helpbestand %1 is te lang. Regels kunnen maximaal 1023 tekens lang zijn.
+@2@003@0@
+Syntaxisfout in Helpbestand %1 op regel %2, positie %3.
+
+%4
+@2@004@0@
+Syntaxisfout in Helpbestand %1 op regel %2, positie %3. Verwacht werd een #define.
+
+%4
+@2@005@0@
+Syntaxisfout in Helpbestand %1 op regel %2, positie %3. Verwacht werd een identificatie.
+
+%4
+@2@006@0@
+Syntaxisfout in Helpbestand %1 op regel %2, positie %3. Verwacht werd een getal.
+
+%4
+@2@007@0@
+Ongeldige inhoud gevonden in Helpbestand %1.
+
+%4
+@2@008@0@
+Onverwachte tag gevonden in Helpbestand %1.
+
+%4
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´RUNTIME ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ                                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@40@0@
+@2@001@0@
+%1 is niet ge‹mplementeerd.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´Assert        ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@255@0@
+@2@027@0@
+Interne fout: %1
+
+%2 regel %3
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  L4    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ  License File                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@160@0@
+@2@200@0@
+Ongeldige bestandsindeling. Het bestand is geen geldig licentiebestand.
+@2@201@0@
+Bitsgewijze operaties kunnen alleen worden uitgevoerd op data van gelijke grootte.
+@2@204@0@
+De dataretourbuffer is niet groot genoeg.
+@2@205@0@
+De data bestaan reeds.
+@2@206@0@
+Er werd een ongeldige parameter gebruikt.
+@2@208@0@
+Een .dll-bestand in de Windows-API is beschadigd.
+
+Interne fout: 160-%0
+
+Neem contact op met de systeembeheerder.
+@2@210@0@
+Data kunnen niet worden ge‹nterpreteerd als %18.
+@2@211@0@
+Datatype %18 kan hier niet worden gebruikt.
+@2@220@0@
+Er is niet voldoende ruimte.
+@2@242@0@
+Het licentiebestand kan niet worden gebruikt met deze versie van het programma.
+@2@248@0@
+De landcode in de licentie komt niet overeen met de landcode (%1) van het product.
+@2@END@0@
+ 
+//   ÚÄÄÄÄÄÄÄ¿
+// ÚÄ´ BCMIA ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÙ                                                                ³
+// ³  Large Fixed Decimal Numbers                                             ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@18@0@
+@2@1@0@
+Overflow in decimaal.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´ DB ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Database System                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@19@0@
+@2@1@0@
+Waarschuwing: Fout in de databasestructuur. Dit gebeurt als het databasebestand wordt gewijzigd door een ander programma of als een apparaatstuurprogramma niet juist werkt.
+
+U moet deze fout corrigeren voor u uw werk voortzet. De fout (%18 in module %23) kan zijn veroorzaakt door de computer of een programma.
+
+Tabel: %1.1
+Bedrijf: %1.9
+Sleutelvelden: %6
+
+Controleer eerst de database met de opdracht Bestand, Database, Testen, Maximum. Wanneer dezelfde fout optreedt, doet u het volgende:
+
+1) Maak een reservekopie van de database door de databasebestanden te kopi‰ren.
+
+2) Gebruik de ingebouwde functie om een reservekopie te maken.
+
+3) Als dit lukt, maakt u een nieuwe database zonder de database met de fout(en) te verwijderen.
+Zet de reservekopie (gemaakt met de ingebouwde functie) terug in de nieuwe database, en test deze met de opdracht Bestand, Database, Testen, Maximum.
+
+Als deze procedure niet werkt, zijn alle wijzigingen in de database sinds de laatst gemaakte reservekopie verloren gegaan. Zet de meest recente reservekopie (gemaakt met de ingebouwde functie) terug, en test deze database.
+Veiligheidshalve kunt u de oude database het beste bewaren tot u de nieuwe database reeds enige tijd zonder problemen heeft gebruikt.
+
+Neem contact op met de systeembeheerder voor hulp.
+@2@3@0@
+Er is onvoldoende ruimte vrij in de database om deze taak uit te voeren. Om ruimte vrij te maken kunt u:
+
+* de database te vergroten.
+* overbodige gegevens uit de database verwijderen.
+* oude gegevens comprimeren.
+* de database optimaliseren.
+@2@4@0@
+Andere gelijktijdige activiteiten hebben de beschikbare ruimte in de database gebruikt. Deze situatie komt vooral voor als tijdrovende taken worden uitgevoerd, zoals bijvoorbeeld het afdrukken van lijsten of het maken van een reservekopie. 
+Wacht tot er minder taken actief zijn die gegevens schrijven in de database, en probeer dan opnieuw deze taak uit te voeren.
+
+Treedt dit probleem regelmatig op, dan kan de beschikbare ruimte in de database worden vergroot door:
+
+* de database te vergroten
+* overbodige gegevens uit de database verwijderen
+* oude gegevens comprimeren
+* de database optimaliseren
+@2@5@0@
+Tabel %1.1 bestaat niet.
+@2@7@0@
+Er kunnen pas veranderingen in de database worden gemaakt als er een transactie is gestart.
+@2@9@0@
+Het veldtype is niet gedefinieerd voor veld %2.2 in tabel %1.1.
+@2@13@0@
+Het is niet mogelijk om velden te verwijderen die als SumIndexField aan een actieve sleutel gekoppeld zijn :
+
+Veld: %2.2
+Tabel: %1.1
+SumIndexFields: %6
+@2@14@0@
+Velden die deel uitmaken van een actieve sleutel kunnen niet worden verwijderd.
+
+Veld: %2.2
+Tabel: %1.1
+Sleutelvelden: %6
+@2@15@0@
+Het type van SumIndexField moet decimaal zijn.
+
+Veld: %2.1
+Tabel: %1.1
+SumIndexFields: %6
+@2@17@0@
+De %1.1 tabel kan niet worden vergrendeld of gewijzigd omdat deze reeds vergrendeld is door de gebruiker met gebruikers-id: %13
+
+Wacht tot deze gebruiker klaar is en probeer het daarna opnieuw.
+@2@20@0@
+De objecttypen Form en Dataport worden niet ondersteund. Verwijder deze objecttypen uit de database met de vorige versie van de Microsoft Dynamics NAV-ontwikkelomgeving.
+@2@1000@0@
+%1.3 %1.2 bestaat reeds.
+@2@1001@0@
+%1.3 %1.2 bestaat niet.
+@2@1002@0@
+%1.1 %6.1.1 '%6.1.5' bestaat niet. %12
+@2@1003@0@
+De actieve velden van een record kunnen niet meer geheugen in beslag nemen dan %8 bytes. De actieve velden in tabel %1.1 nemen nu %7 bytes in beslag.
+
+Verminder het aantal actieve velden of verklein de grootte van de actieve velden.
+@2@1004@0@
+Veld %2.2 is meerdere malen gedefinieerd in tabel %1.1.
+@2@1005@0@
+Veldnummer %2.2 is niet gedefinieerd in tabel %1.1.
+@2@1007@0@
+Tabel %1.1 heeft geen actieve sleutel die begint met het volgende veld of de volgende velden: %6.
+@2@1008@0@
+%1.1 bestaat niet.%12
+
+Velden en waarden:
+
+%6
+
+%1.10
+@2@1009@0@
+%1.1 is reeds aanwezig.
+
+Velden en waarden:
+
+%6
+@2@1010@0@
+Veld %2.1 in tabel %1.1 moet een FlowFilter zijn.
+@2@1011@0@
+De som van de waarden in veld %2.1 kan niet worden berekend.
+
+Definieer, activeer en selecteer een sleutel met volgende velden in willekeurige volgorde. Het veld %2.1 moet aan de sleutel worden gekoppeld als SumIndexField.
+
+Tabel: %1.1
+Sleutelvelden: %1.6
+@2@1013@0@
+Veldnaam '%2.1' in tabel %1.1 is te lang (%7). De maximumlengte is %8.
+@2@1014@0@
+%1.1 %6.1.1 '%6.1.5' is reeds aanwezig.
+@2@1015@0@
+De sleutel is reeds aanwezig.
+
+Velden van de primaire sleutel worden automatisch aan alle secundaire sleutels gekoppeld.
+
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1018@0@
+Een sleutel kan maximaal %8 velden bevatten.
+
+Velden van de primaire sleutel worden automatisch aan alle secundaire sleutels gekoppeld.
+
+Velden: %7
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1019@0@
+Aan een sleutel kunnen maximaal %8 SumIndexFields worden gekoppeld.
+
+Velden: %7
+Tabel: %1.1
+SumIndexFields: %6
+@2@1020@0@
+Een tabel kan maximaal %8 sleutels bevatten.
+
+Sleutels: %7
+Tabel: %1.1
+@2@1021@0@
+Een andere gebruiker heeft de definitie van tabel %1.1 gewijzigd nadat deze activiteit is gestart.
+
+Start uw activiteit opnieuw.
+@2@1022@0@
+Een andere gebruiker heeft het record van deze %1.1 gewijzigd nadat werd gelezen uit de database.
+
+Voer uw veranderingen opnieuw in of herstart de onderbroken activiteit.
+
+Velden en waarden:
+
+%6
+@2@1023@0@
+Veld %2.1 in tabel %1.1 kan geen FlowFilter zijn.
+@2@1024@0@
+Ongeldig teken in de Find-expressie '%12'.
+
+In een Find-expressie kunt u de tekens =, > en < in combinaties waarbij elk teken slechts ‚‚nmaal voorkomt, en tevens - en + gebruiken.
+@2@1027@0@
+De som van de waarden in veld %2.1 kan niet worden berekend omdat de huidige sleutel niet alle velden bevat waarop gefilterd wordt.
+
+U moet een sleutel selecteren die alle velden in willekeurige volgorde in het filter bevat.
+
+Filters: %1.10
+Tabel: %1.1
+Sleutelvelden: %1.6
+@2@1029@0@
+De som van de waarden in veld %2.1 kan niet worden berekend omdat het filter vraagtekens (%19), sterretjes (%20) of 'at' symbolen (%21) bevat.
+
+Filters: %1.10
+Tabel: %1.1
+@2@1030@0@
+Veld %2.1 in tabel %1.1 moet een FlowField zijn.
+@2@1031@0@
+Het filter op tabel %1.1 is te lang (%7 bytes). Het maximum is %8 bytes.
+@2@1032@0@
+Het filter '%2.10' voor veld %2.1 in tabel %1.1 moet een minimumwaarde bevatten.
+
+U kunt drie mogelijke notaties gebruiken voor filters met een minimumwaarde voor A:
+
+* A    Selecteert waarden gelijk aan A
+* A..  Selecteert waarden groter dan of gelijk aan A
+* A..Z Selecteert waarden tussen A en Z (inclusief).
+@2@1033@0@
+Het filter '%2.10' voor veld %2.1 in tabel %1.1 moet een maximumwaarde bevatten.
+
+U kunt drie mogelijke notaties gebruiken voor filters met een maximumwaarde voor Z:
+
+* Z    Selecteert waarden gelijk aan Z
+* ..Z  Selecteert waarden kleiner dan of gelijk aan Z
+* A..Z Selecteert waarden tussen A en Z (inclusief).
+@2@1034@0@
+Het filter '%2.10' voor veld %2.1 in tabel %1.1 moet een interval bevatten.
+
+U kunt twee mogelijke notaties gebruiken voor filters met een interval:
+
+* A    Selecteert waarden gelijk aan A
+* A..Z Selecteert waarden tussen A en Z (inclusief).
+@2@1035@0@
+Geef een filter op voor veld %2.1 in tabel %1.1.
+
+Raadpleeg de online Help voor het invoeren van filters.
+@2@1036@0@
+Veld %2.2 in tabel %1.1 moet een naam hebben.
+@2@1037@0@
+De lengte van de filterreeks %7 overschrijdt de maximumlengte %8.
+
+Tabel: %1.1
+@2@1038@0@
+Tabel %1.1 is leeg.
+@2@1039@0@
+Het FlowField kan niet worden berekend.
+
+Definieer en activeer een sleutel die volgende velden bevat in willekeurige volgorde, en koppel hieraan het SumIndexField.
+
+Sleutelvelden: %6
+SumIndexField: %2.1
+Tabel: %1.1
+@2@1040@0@
+Veld %2.1 in tabel %1.1 moet geactiveerd zijn.
+@2@1041@0@
+Veld %2.1 in tabel %1.1 mag geen FlowField zijn.
+@2@1042@0@
+Een andere gebruiker heeft het record voor %1.1 %6.1.1 '%6.1.5' gewijzigd nadat werd gelezen uit de database.
+
+Voer de wijzigingen opnieuw in of herstart de activiteit.
+@2@1043@0@
+De twee onderstaande velden moeten van hetzelfde type zijn:
+
+Veld: %2.1 <-- %92.1
+Tabel: %1.1 <-- %91.1
+Type: %2.3 <-- %92.3
+@2@1044@0@
+Waarschuwing: Beschadiging in de database. Dit gebeurt als het databasebestand door een ander programma wordt gewijzigd of als een apparaatstuurprogramma niet juist werkt.
+
+U moet deze fout corrigeren voor u uw werk voortzet. Gebruik geen enkel disk-utility programma op de database.
+
+Controleer de database met de opdracht Bestand, Database, Testen, Maximum. Wanneer dezelfde fout optreedt, doet u het volgende:
+
+1) Maak een reservekopie van de database door de databasebestanden te kopi‰ren.
+
+2) Gebruik de ingebouwde functie om een reservekopie te maken.
+
+3) Als dit lukt, maakt u een nieuwe database zonder de database met de fout(en) te verwijderen.
+Zet de reservekopie (gemaakt met de ingebouwde functie) terug in de nieuwe database, en test deze met de opdracht Bestand, Database, Testen, Maximum.
+
+Als deze procedure niet werkt, zijn alle wijzigingen in de database sinds de laatst gemaakte reservekopie verloren gegaan. Zet de meest recente reservekopie (gemaakt met de ingebouwde functie) terug, en test deze database.
+Veiligheidshalve kunt u de oude database het beste bewaren tot u de nieuwe database reeds enige tijd zonder problemen heeft gebruikt.
+
+Neem contact op met de systeembeheerder voor hulp.
+@2@1046@0@
+U hebt geen database geselecteerd.
+@2@1047@0@
+Het bestand is geen database.
+@2@1048@0@
+De database kan niet worden geopend met deze versie van Microsoft Dynamics NAV Development Environment. De database is al geconverteerd met een nieuwere versie.
+
+U moet Microsoft Dynamics NAV Development Environment bijwerken naar de laatste versie om de database te kunnen openen.
+@2@1049@0@
+De databasebestanden behoren niet tot dezelfde database.
+@2@1050@0@
+De bestanden van de database passen niet bij elkaar.
+
+De tijdsstempels zijn niet gelijk. E‚n of meer bestanden zijn op een later tijdstip gebruikt, dan de andere bestanden. Dit kan bijvoorbeeld gebeuren als u slechts een deel van een reservekopie terugzet. Zoek databasebestanden die dezelfde datum en tijd hebben.
+@2@1051@0@
+De databasebestanden komen niet in de juiste volgorde voor. Dit kan op de volgende manier zijn veroorzaakt :
+
+* het geselecteerde bestand is niet het eerste bestand uit de database
+* de volgorde in 'database=bestand1+bestand2+bestand3' is foutief.
+@2@1052@0@
+Een database kan uit maximaal 16 bestanden bestaan.
+@2@1055@0@
+U kunt deze opdracht niet uitvoeren terwijl andere gebruikers ook toegang tot de database hebben.
+@2@1075@0@
+Het is niet mogelijk om een tabeldefinitie te verwijderen (tabel %1.1) als er records aanwezig zijn.
+
+Verwijder eerst alle records van alle bedrijven uit de tabel en verwijder daarna de definitie.
+@2@1077@0@
+Tekst, Code en Binaire variabelen kunnen maximaal %8 tekens bevatten.
+
+Veld %2.1 in %1.1 tabel is %7 tekens groot.
+@2@1078@0@
+De velden van een actieve sleutel kunnen niet groter zijn dan %8 bytes. De grootte van de %6 sleutelvelden  in tabel %1.1 is %7 bytes.
+
+Verminder het aantal of de grootte van de actieve velden.
+@2@1079@0@
+Veld %2.1 in tabel %1.1 is twee keer in dezelfde sleutel gebruikt (de sleutelvelden zijn %6).
+@2@1080@0@
+Veld %2.1 is tweemaal in dezelfde sleutel gekoppeld als SumIndexField.
+
+Tabel: %1.1
+SumIndexFields: %6
+@2@1081@0@
+De initi‰le waarde van het veld %2.1 in tabel %1.1 is te groot voor het veldtype (%2.3).
+@2@1082@0@
+De actieve sleutels in bestand %1.1 zijn te complex of te veel, of beide. Verminder het:
+
+* aantal actieve sleutels
+* aantal velden in de sleutels of
+* aantal gekoppelde SumIndexFields
+@2@1083@0@
+U moet een bedrijf selecteren, voor u de tabel %1.1 kunt gebruiken.
+@2@1087@0@
+U kunt het type van veld %2.1 (tabel %1.1) niet verwijderen of veranderen, zolang de waarde van het veld niet op nul (0) of ''(blank) is gezet in alle records. Het gevonden record met niet lege velden was %6 in bedrijf %1.9.
+@2@1088@0@
+De primaire sleutel werd zodanig veranderd, dat er nu twee records met dezelfde primaire-sleutelwaarde bestaan.
+
+De primaire sleutel is de eerste van de lijst met sleutels.
+
+Tabel: %1.1
+Bedrijf: %1.9
+Record: %6
+@2@1090@0@
+Het filter kan niet op het veld %2.1 worden gezet, omdat filter- en veldtype niet overeenkomen.
+
+Tabel: %1.1
+@2@1092@0@
+De waarde in het filter '%2.10' voor veld %2.1 in tabel %1.1 is te groot voor het veldtype.
+
+Type: %2.3
+@2@1093@0@
+De constante moet hetzelfde type en grootte hebben als veld %2.1.
+
+Type: %2.3 <-- %3
+Veld: %2.1 <-- %5
+Tabel: %1.1
+@2@1094@0@
+Definieer een berekeningsformule voor het FlowField %2.1 in tabel %1.1.
+@2@1095@0@
+Geen %1.1 in het filter.
+
+Filters: %1.10
+@2@1097@0@
+Filter '%10' is ongeldig.
+
+Ongeldige expressie in het filter op veld %2.1 in tabel %1.1.
+@2@1098@0@
+Filter '%10' is ongeldig.
+
+Er ontbreekt een ')' in het filter op veld %2.1 in tabel %1.1.
+@2@1100@0@
+Filter '%10' is ongeldig.
+
+Er ontbreekt een waarde in het filter op veld %2.1 in tabel %1.1.
+@2@1101@0@
+Filter '%10' is ongeldig.
+
+Er ontbreekt een waarde of interval in het filter op veld %2.1 in tabel %1.1.
+@2@1102@0@
+Het filter '%10' is ongeldig.
+
+Het filter op veld %2.1 in tabel %1.1 is te groot.
+@2@1103@0@
+Filter '%10' is ongeldig.
+
+Er ontbreekt een aanhalingsteken (') in het filter op veld %2.1 in tabel %1.1.
+@2@1104@0@
+Vul de eigenschap OptionString voor het veld %2.1 in.
+
+Type: %2.3
+Tabel: %1.1
+@2@1107@0@
+De primaire sleutel (de eerste in de lijst met sleutels) moet actief zijn.
+
+Tabel: %1.1
+@2@1108@0@
+De transactie kan niet volledig worden uitgevoerd omdat tabel %1.1 daarmee inconsistent wordt.
+
+Controleer het gebruik van de functie CONSISTENT in de code om de oorzaak van dit probleem op te sporen. 
+
+Tabellen kunnen als inconsistent worden aangemerkt gedurende complexe activiteiten zoals bijvoorbeeld het boeken. Dit voorkomt dat data incorrect wordt weggeschreven.
+
+Neem contact op met de systeembeheerder.
+@2@1109@0@
+Veldnummers moeten groter dan nul zijn.
+
+Tabel: %1.1
+
+Ken aan alle velden een correct veldnummer toe, of verwijder lege regels.
+@2@1111@0@
+De server en het werkstation hebben niet hetzelfde versienummer.
+@2@1112@0@
+Uw programmalicentie staat niet meer gelijktijdige gebruikers toe.
+
+Wacht tot een andere NAVISION-gebruiker de toepassing stopt.
+
+Neem contact op met uw systeembeheerder voor meer gebruikers tegelijk in uw systeem.
+@2@1115@0@
+De verbinding met de server is verbroken als gevolg van een communicatiefout.
+
+Start het werkstation opnieuw.
+@2@1117@0@
+Er zijn geen velden gedefinieerd in tabel %1.1.
+@2@1118@0@
+De sleutel moet uit tenminste ‚‚n veld bestaan.
+@2@1119@0@
+De veldnaam kan slechts eenmaal in het bestand worden gebruikt:
+
+Veld: %2.1
+Tabel: %1.1
+@2@1123@0@
+U hebt geen toestemming om tabel %1.1 te lezen.
+
+Neem contact op met de systeembeheerder om uw rechten aan te passen.
+@2@1126@0@
+Deze programmalicentie verleent geen toestemming om grote databases te maken.
+
+Neem contact op met uw systeembeheerder als u de database wilt vergroten.
+@2@1133@0@
+Deze programmalicentie is niet geldig voor dit besturingssysteem.
+
+Neem contact op met uw systeembeheerder als u onder dit besturingssysteem wilt werken.
+@2@1134@0@
+Het gebruik van de onderstaande C/AL-functies is beperkt gedurende schrijftransacties (omdat 1 of meer tabellen zijn gelockt).
+
+Form.RunModal() is niet toegestaan tijdens schrijftransacties.
+
+CodeUnit.Run() is alleen toegestaan tijdens schrijftransacties als de retourwaarde niet wordt gebruikt. Bijvoorbeeld: 'OK := CodeUnit.Run()' is niet toegestaan. 
+
+Report.RunModal() is alleen toegestaan tijdens schrijftransacties als 'RequestForm = FALSE'. Bijvoorbeeld: 'Report.RunModal(...,FALSE)' is toegestaan.
+
+DataPort.RunModal() is alleen toegestaan tijdens schrijftransacties als 'RequestForm = FALSE'. Bijvoorbeeld: 'DataPort.RunModal(...,FALSE)' is toegestaan.
+
+Gebruik de COMMIT-functie om de wijzigingen op te slaan voor deze aanroep, of verander de structuur van uw code.
+@2@1141@0@
+Tabeldata kunnen niet worden gewijzigd in de objecttabel. Wijzig de tabeldefinitie.
+
+Tabel: %1.1
+@2@1143@0@
+Als alle filters in een keer worden gekopieerd, moeten de records tot dezelfde tabel behoren.
+
+Tabel: %91.1 <-- %1.1
+
+Kopieer de filters ‚‚n voor ‚‚n.
+@2@1145@0@
+%1.3 '%1.1' is leeg.
+@2@1146@0@
+Het attribuut 'DataPerCompany' kan niet worden gewijzigd als er nog records in de tabel %1.1 aanwezig zijn. Volg deze regels:
+
+* Exporteer alle records van de tabel naar een bestand
+* Verwijder alle records uit de tabel
+* Verander de definitie van de tabel
+* Importeer daarna alle records uit het bestand.
+@2@1163@0@
+De inhoud van veld %92.1 kan niet worden gekopieerd naar veld %2.1 omdat de grootte van veld %2.1 te klein is.
+
+Type: %2.3 <-- %92.3
+Veld: %2.1 <-- %92.1
+Tabel: %1.1 <-- %91.1
+@2@1168@0@
+Dit bestand is geen databasebestand.
+@2@1172@0@
+Er kan niets worden gewijzigd omdat het programma met de parameter 'DBREADONLY' (alleen-lezen) werd opgestart.
+
+Neem contact op met de systeembeheerder.
+@2@1174@0@
+De som van de waarden in veld %2.1 kan niet worden berekend, omdat de tabel met de opdracht 'Alleen gemarkeerde weergeven' is gefilterd.
+
+Tabel: %1.1
+@2@1175@0@
+Het veld %2.1 in tabel %1.1 is als SumIndexField gekoppeld, en moet daarom actief zijn.
+
+Sleutelvelden: %6
+@2@1176@0@
+Het volgende veld moet actief zijn omdat het deel uitmaakt van een actieve sleutel.
+
+Veld: %2.1
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1177@0@
+Een FlowField mag geen SumIndexField zijn.
+
+Veld: %2.1
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1178@0@
+Een FlowField kan geen deel van een sleutel zijn.
+
+Veld: %2.1
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1179@0@
+Een FlowFilter mag geen SumIndexField zijn.
+
+Veld: %2.1
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1180@0@
+Een FlowFilter kan geen deel van een sleutel zijn.
+
+Veld: %2.1
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1214@0@
+De server stuurde de volgende boodschap.
+@2@1215@0@
+De grootte van het databasebestand die is opgeslagen in het bestand zelf, verschilt van de door het besturingssysteem gedetecteerde grootte. Het databasebestand is door een ander programma gewijzigd, of een stuurprogramma werkt niet correct.
+
+Maak een nieuw databasebestand, en zet de laatste reservekopie terug. Controleer vervolgens de database met de opdracht Bestand, Database, Testen, Maximum.
+
+Neem contact op met uw systeembeheerder.
+@2@1224@0@
+Er wordt reeds een andere versie van het programma uitgevoerd op deze computer.
+
+U kunt niet meerdere versies van het programma tegelijkertijd uitvoeren.
+@2@1226@0@
+De tekst '%2.5' is te lang om in het volgende veld te worden gekopieerd:
+
+Veld: %2.1
+Type: %2.3
+Tabel: %1.1
+@2@1232@0@
+Er is een fout gedetecteerd in het netwerk. Een pakket is naar het verkeerde adres verstuurd.
+
+Deze fout geeft aan dat het netwerk niet volledig betrouwbaar functioneert. Controleer hoe vaak deze fout zich voordoet. Neem contact op met de systeembeheerder.
+@2@1233@0@
+Er is een fout gedetecteerd in het netwerk. Een pakket is beschadigd en er is een controlesomfout geretourneerd.
+
+Deze fout geeft aan dat het netwerk niet volledig betrouwbaar functioneert. Controleer hoe vaak deze fout zich voordoet. Neem contact op met de systeembeheerder.
+@2@1237@0@
+De gebruikers-id en het wachtwoord zijn ongeldig. Probeer opnieuw.
+@2@1243@0@
+Kan veld niet kopi‰ren. Het bronveld is niet opgegeven:
+
+Tabel: %91.1 <-- %1
+Veld: %92.1 <-- %2
+@2@1244@0@
+Het volgende veld moet van het type 'code' of 'tekst' zijn.
+
+Veld: %2.1
+Type: %2.3
+Tabel: %1.1
+@2@1263@0@
+Tabel %1.1 is alleen-lezen.
+@2@1266@0@
+In tabel %1.1 moet het veld %2.1 tenminste 1 teken groot zijn.
+@2@1267@0@
+Een '=' ontbreekt in %3.
+
+%5
+@2@1269@0@
+Een ')' ontbreekt in %3.
+
+%5
+@2@1270@0@
+Syntaxisfout in %3.
+
+%5
+@2@1272@0@
+Een '(' ontbreekt in %3.
+
+%5
+@2@1273@0@
+Een '.' ontbreekt in %3.
+
+%5
+@2@1274@0@
+De som van de waarden van veld %2.1 in tabel %1.1 kan niet worden berekend. Alleen decimale getallen kunnen worden opgeteld.
+@2@1275@0@
+FlowField %2.1 in tabel %1.1 is geen Boolean-veld. Als de berekeningsformule van een FlowField start met 'Exist(...', moet het FlowField van het type Boolean zijn.
+@2@1276@0@
+FlowField %2.1 in tabel %1.1 is geen Integer-veld. Als de berekeningsformule van een FlowField start met 'Count(...', moet het FlowField van het type Integer zijn.
+@2@1277@0@
+Veld %2.1 in tabel %1.1 heeft een berekeningsformule, maar het veld is geen FlowField.
+@2@1279@0@
+De som van de waarden van veld %2.1 in tabel %1.1 kan niet worden berekend. Alleen velden met veldklasse 'Normaal' kunnen worden opgeteld.
+@2@1281@0@
+Het volgende veld moet worden opgenomen in de primaire sleutel.
+
+Veld: %2.1
+Tabel: %1.1
+@2@1286@0@
+De volgende veldlengte ontbreekt in het onderstaande veld.
+
+Veld: %2.1
+Tabel: %1.1
+@2@1290@0@
+Het type van InitValue en het veldtype zijn niet gelijk voor het volgende veld.
+
+Veld: %2.1
+Tabel: %1.1
+@2@1291@0@
+U hebt een waarde ingevoerd die langer is dan de maximumgrootte van %3.
+@2@1292@0@
+Het onderstaande veld kan geen SumIndexField zijn, omdat het veldtype BLOB is.
+
+Veld: %2.1
+Tabel: %1.1
+Sleutelvelden: %6
+@2@1293@0@
+Het veld %2.1 in tabel %1.1 mag geen deel zijn van een sleutel, omdat het type BLOB is.
+
+Sleutelvelden: %6
+@2@1294@0@
+Er kunnen geen secundaire sleutels worden gedefinieerd voor tijdelijke tabellen.
+
+Tabel: %1.1
+@2@1295@0@
+U hebt geen invoegrechten voor tabel %1.1.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1296@0@
+U hebt geen verwijderingsrechten voor tabel %1.1.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1297@0@
+U heeft geen wijzigingsrechten voor tabel %1.1.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1298@0@
+Geen rechten om tabel %1.1 uit te voeren.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1299@0@
+U heeft geen leesrechten voor '%1.1' %1.3.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1300@0@
+U heeft geen invoegrechten voor '%1.1' %1.3.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1301@0@
+U heeft geen verwijderingsrechten voor '%1.1' %1.3.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1302@0@
+U heeft geen wijzigingsrechten voor '%1.1' %1.3.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1303@0@
+U heeft geen uitvoeringsrechten voor '%1.1' %1.3.
+
+Neem contact op met uw systeembeheerder om uw rechten aan te passen.
+@2@1304@0@
+Gebruikers-id %13 kan niet worden verwijderd of veranderd, omdat deze gebruiker extra machtigingen heeft.
+@2@1305@0@
+U kunt de aanmelding niet wijzigen of verwijderen omdat deze extra machtigingen heeft.
+@2@1306@0@
+De functie 'MODIFYALL' mag niet worden gebruikt omdat het veld deel uit maakt van de primaire sleutel.
+
+Veld: %2.1
+Tabel: %1.1
+@2@1307@0@
+De functie 'MODIFY' mag niet worden gebruikt omdat hierdoor de primaire sleutel wordt veranderd.
+
+Record voor: %6
+Record na: %96
+Tabel: %1.1
+@2@1308@0@
+De record kan niet worden hernoemd omdat '%2.5' de nieuwe waarde is voor het volgende veld.
+
+Veld: %2.1
+Tabel: %1.1
+@2@1309@0@
+De record kan niet worden hernoemd omdat '%2.5' de oude waarde is voor het volgende veld.
+
+Veld: %2.1
+Tabel: %1.1
+@2@1311@0@
+'%91.1' bestaat niet. %91.9
+
+%91.10
+
+Het veld %2.1 in tabel %1.1 heeft een tabelrelatie met veld %92.1 in tabel %91.1.
+
+'%1.1' heeft de volgende velden en waarden:
+
+%6
+@2@1313@0@
+De databasecache is te klein. De cache moet ten minste 0,012 % van de grootte van de database bedragen.
+In dit geval moet de cache ten minste 7 percent zijn.
+@2@1314@0@
+Uw gebruikers-id is vervallen.
+@2@1315@0@
+Het veldnummer is ongeldig. Een veldnummer ligt tussen 1 en 999999999.
+
+Veld: %2.1
+Veldnr.: %2.2
+Tabel: %1.1
+@2@1317@0@
+Tabel %1.1 is gemaakt in een nieuwere versie van het programma, en kan niet worden gebruikt met deze programmaversie.
+@2@1318@0@
+Veldnaam '%2.1' in tabel %1.1 bevat ongeldige tekens.
+@2@1319@0@
+De som van de waarden in veld %2.1 kan niet worden berekend omdat er een filter is geplaatst op het volgende FlowField.
+
+Veld: %92.1
+Tabel: %1.1
+@2@1320@0@
+Deze eigenschap van de database kan niet worden veranderd.
+@2@1322@0@
+Let op: de licentie voor module %15 verloopt over %16 dagen.
+
+Neem contact op met de systeembeheerder om deze module te blijven gebruiken.
+@2@1323@0@
+De licentie voor module %15 is verlopen.
+
+Neem contact op met de systeembeheerder wanneer u deze module wilt blijven gebruiken.
+@2@1324@0@
+De programmalicentie staat niet meer gebruikers toe om Microsoft Windows te gebruiken om gelijktijdig te werken.
+
+Wacht totdat een andere gebruiker het programma heeft gestopt. Neem contact op met de systeembeheerder om meer gebruikers tegelijk met het systeem te verbinden.
+@2@1325@0@
+De programmalicentie staat niet meer gebruikers toe om Microsoft Windows NT te gebruiken om gelijktijdig te werken.
+
+Wacht totdat een andere gebruiker het programma heeft gestopt. Neem contact op met de systeembeheerder om meer gebruikers tegelijk met het systeem te verbinden.
+@2@1326@0@
+De programmalicentie staat niet meer C/ODBC-gebruikers toe om gelijktijdig te werken.
+
+Neem contact op met de systeembeheerder om meer gebruikers tegelijk met het systeem te verbinden.
+@2@1327@0@
+De programmalicentie staat niet meer C/FRONT-gebruikers toe om gelijktijdig te werken.
+
+Neem contact op met de systeembeheerder om meer gebruikers tegelijk met het systeem te verbinden.
+@2@1328@0@
+Uw programmalicentie staat maximaal %8 niet-demonstratiebedrijven toe.
+Neem contact op met de systeembeheerder om meer bedrijven toe te voegen.
+
+U kunt een onbeperkt aantal demonstratiebedrijven maken.
+De namen van deze bedrijven moeten beginnen met "CRONUS".
+@2@1329@0@
+Met deze programmalicentie kunt u alleen werken met bedrijven die beginnen met %10.
+@2@1330@0@
+Deze programmalicentie kan niet worden gebruikt.
+@2@1331@0@
+Er kan geen andere database worden geopend of gemaakt omdat de database op de server is geopend met de programma-eigenschap database=<databasenaam>.
+Om een andere database te kiezen moet de server opnieuw worden gestart met dezelfde programma-eigenschap en een andere databasenaam opgeven.
+@2@1332@0@
+Tabel %1.1 is niet gecompileerd.
+@2@1335@0@
+De rechten voor de groep '%14' kunnen niet veranderd worden.
+@2@1336@0@
+Ten minste ‚‚n gebruiker moet lid zijn van groep '%14'.
+@2@1337@0@
+Ten minste ‚‚n gebruiker moet lid zijn van groep '%14' in alle bedrijven.
+@2@1341@0@
+Tabeldata kunnen niet worden ingevoerd in de objecttabel.
+@2@1342@0@
+Let op: de licentie voor %1.3 %1.2 vervalt over %16 dagen.
+
+Neem contact op met de systeembeheerder om %1.3 %1.2 te blijven gebruiken.
+@2@1343@0@
+De licentie voor %1.3 %1.2 is vervallen.
+
+Neem contact op met de systeembeheerder wanneer u %1.3 %1.2 weer wilt gebruiken.
+@2@1344@0@
+Er kunnen geen rechten worden verleend om objecten van type Tabelgegevens uit te voeren.
+@2@1345@0@
+Rechten om objecten te kunnen uitvoeren zijn alleen mogelijk voor de volgende soorten objecten:
+
+Tabel, Scherm, Lijst, Codeunit, Systeem, XMLport en Dataport.
+@2@1346@0@
+Commitcache kan niet worden gebruikt met het Windows-besturingssysteem.
+@2@1347@0@
+De berekeningsformule voor FlowField %2.1 in tabel %1.1 moet beginnen met 'Sum(...'.
+@2@1348@0@
+Het type van FlowField %2.1 in tabel %1.1 moet Decimaal zijn.
+@2@1349@0@
+De veldklasse voor het veld %2.1 in tabel %1.1 moet 'Normaal' zijn.
+@2@1350@0@
+Het type van veld %2.1 in tabel %1.1 moet Decimaal zijn.
+@2@1351@0@
+De primaire sleutel in tabel %1.1 mag maximaal ‚‚n veld bevatten, en het type moet Integer zijn.
+@2@1352@0@
+Met deze programmalicentie kan veld %2.1 in tabel %1.1 niet worden gemaakt.
+
+Neem contact op met de systeembeheerder om de licentie bij te werken.
+@2@1353@0@
+Met deze programmalicentie kan veld %2.1 in tabel %1.1 niet worden verwijderd.
+
+Neem contact op met de systeembeheerder om de licentie bij te werken.
+@2@1354@0@
+Met deze programmalicentie kan veld %2.1 in tabel %1.1 niet worden gewijzigd.
+
+Neem contact op met de systeembeheerder om de licentie bij te werken.
+@2@1356@0@
+Deze programmalicentie staat niet meer schrijftransacties toe.
+
+Neem contact op met de systeembeheerder om de limiet te verhogen.
+@2@1358@0@
+'%22' verwacht in %3.
+
+%5
+%25
+@2@1360@0@
+U kunt de databasegrootte minimaal uitbreiden met 16 kB.
+@2@1361@0@
+De doelbuffer is te klein.
+
+Doelbuffergrootte: %8
+Brongrootte: %7
+Bronwaarde: %5
+@2@1362@0@
+De database moet worden geconverteerd voordat u deze versie kunt gebruiken van Microsoft Dynamics NAV Development Environment kunt gebruiken.
+
+Als u de database converteert, kan deze niet worden geopend door oudere versies.
+
+We raden u het volgende aan:
+
+* Maak een database-backup voor de conversie.
+* Zorg ervoor dat u de enige gebruiker bent die tijdens de conversie met de database werkt.
+* Zorg ervoor dat er minstens 50 MB vrije ruimte in de database is.
+
+Klik op de knop OK om de database te converteren, of klik op Annuleren om af te sluiten.
+@2@1363@0@
+Let op: de programmalicentie vervalt over %16 dagen.
+@2@1364@0@
+De programmalicentie is vervallen.
+@2@1365@0@
+Dit apparaat bevat reeds een databasepartitie.
+
+Als u doorgaat, kan deze databasepartitie niet meer gebruikt worden.
+
+Weet u zeker dat u wilt doorgaan?
+@2@1366@0@
+Let op: Deze optie geldt alleen als het serverbesturingssysteem ondersteuning biedt voor Windows Authentication.
+Als u centrale aanmelding ondersteunt voor deze database, laat de server het verifi‰ren van Microsoft Dynamics NAV Development Environment-databasegebruikers over aan Windows-verificatie.
+Als de geverifieerde gebruikers-id voorkomt in de gebruikerstabel in de Microsoft Dynamics NAV Development Environment-database, wordt het wachtwoord in de gebruikerstabel genegeerd.
+Als de gebruikers-id niet voorkomt in de gebruikerstabel, moet de gebruiker de normale aanmeldprocedure voor Microsoft Dynamics NAV Development Environment volgen.
+@2@1367@0@
+De tabel is niet opgegeven.
+@2@1369@0@
+%1
+@2@1370@0@
+U kunt het objecttype niet wijzigen.
+
+Objectrecord voor: %6
+Objectrecord na: %96
+Tabel: %1.1
+@2@1371@0@
+De tabellen zijn niet compatibel.
+
+Tabel 1: %1
+Tabel 2: %91
+@2@1372@0@
+Schrijfbewerkingen in de database (INSERT, DELETE en MODIFY) zijn niet toegestaan voor het gekozen transactietype.
+@2@1373@0@
+De veldeigenschap moet '%5' zijn.
+
+Eigenschap: %3
+Veld: %2.1
+Tabel: %1.1
+@2@1374@0@
+Uw programmalicentie staat het gebruik van deze versie van Microsoft Dynamics NAV Development Environment niet toe.
+
+Neem contact op met uw systeembeheerder om uw licentie bij te werken.
+@2@1375@0@
+Uw upgrade-programma voor Microsoft Dynamics NAV Development Environment is verlopen.
+
+Neem contact op met uw Microsoft Business Solutions-partner voor hulp.
+@2@1376@0@
+Uw licentie geeft geen toegang tot de taal %24. Selecteer een andere taal met de opdracht Extra, Taal.
+@2@1377@0@
+Sleuteleigenschap moet '%5' zijn voor de primaire sleutel.
+
+Eigenschap: %3
+Tabel: %1.1
+@2@1378@0@
+De objectnaam bestaat reeds.
+
+Object: %1
+@2@1379@0@
+U kunt de transactiesoort niet wijzigen nadat de transactie gestart is.
+
+Een transactie begint bij de uitvoering van de eerste databasebewerking, zoals FIND, NEXT, INSERT, DELETE, MODIFY, SUM en COUNT.
+
+De fout werd veroorzaakt doordat u de transactiesoort wilde wijzigen van %8 naar %7.
+@2@1380@0@
+Uw programmalicentie staat het gebruik van Microsoft Dynamics NAV Development Environment voor Microsoft SQL Server niet toe.
+@2@1381@0@
+De huidige activiteit is gestopt omdat Windows probeert over te gaan in de slaapstand, in de sluimerstand, of stand-by.
+@2@1382@0@
+Windows-aanmelding is niet beschikbaar op deze computer.
+@2@1384@0@
+Windows-aanmelding is niet beschikbaar op de geselecteerde server.
+@2@1385@0@
+De eigenschap %3 moet '%5' zijn.
+
+Object: %1
+@2@1386@0@
+Een ':' ontbreekt in %3.
+
+%5
+@2@1387@0@
+De filters zijn te groot om naar het type '%3' gekopieerd te worden.
+
+Filters: %1.10
+@2@1388@0@
+Uw programmalicentie laat niet toe om meerdere of bijkomende Application Servers gelijktijdig te laten draaien.
+
+Neem contact op met de systeembeheerder om meer Application Servers tegelijk met het systeem te verbinden.
+@2@1389@0@
+Er wordt al een back-up gemaakt. Wacht tot de back-up is voltooid.
+@2@1394@0@
+Een AutoIncrement-veld kan slechts ‚‚n keer voorkomen in een tabel.
+
+Veld: %2.1
+Tabel: %1.1
+@2@1395@0@
+Een AutoIncrement-veld moet van het type Integer of BigInteger zijn.
+
+Veld: %2.1
+Tabel: %1.1
+
+Veldtype:%2.3
+@2@1396@0@
+U kunt de waarde van een AutoNummering-veld niet wijzigen.
+
+Veld: %2.1
+Tabel: %1.1
+
+Identificatievelden en waarden:
+
+%6
+@2@1397@0@
+U kunt de veldeigenschap AutoNummering niet toevoegen, omdat het veld nulwaarden bevat.
+
+Veld: %2.1
+Tabel: %1.1
+
+Identificatievelden en waarden:
+
+%6
+@2@1398@0@
+Overflow bij de berekening van %7 %26 %8.
+
+@2@1401@0@
+De transactie is geannuleerd vanwege een vorige fout.
+@2@1402@0@
+U kunt een sessie niet verwijderen wanneer u niet met een server bent verbonden.
+@2@1403@0@
+U kunt sessie %7 niet verwijderen, omdat deze niet met dezelfde server is verbonden.
+@2@1404@0@
+U kunt sessie %7 niet verwijderen, omdat deze sessie uw eigen sessie is.
+@2@1406@0@
+Aanroep is verouderd. Gebruik in plaats hiervan DBL_ConnectServerAndOpenDatabase.
+@2@1407@0@
+U hebt geen toestemming om tabel %1.1 te lezen.
+@2@1408@0@
+U hebt geen invoegrechten voor tabel %1.1.
+@2@1409@0@
+U hebt geen verwijderingsrechten voor tabel %1.1.
+@2@1410@0@
+U hebt geen toestemming om records te wijzigen in tabel %1.1.
+@2@1411@0@
+Een gegroepeerde sleutel kan slechts ‚‚n keer voorkomen in een tabel.
+
+Tabel: %1.1
+@2@1412@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@1413@0@
+Bevestig dat u de database wilt converteren.
+
+Klik op OK om de database te converteren of op Annuleren om af te breken.
+@2@1414@0@
+U kunt de functie FINDSET alleen gebruiken met oplopende sleutelsortering.
+
+Tabel: %1.1
+@2@1415@0@
+U kunt de parameter UpdateKey van de functie FINDSET alleen op TRUE instellen als de parameter ForUpdate ook TRUE is.
+
+Tabel: %1.1
+@2@1416@0@
+U hebt geen toegangsrechten voor de %1.3 %1.2. Er is geen handtekening en dit is geen geldig toepassingsobject.
+@2@1417@0@
+De database moet worden geconverteerd voordat u deze kunt gebruiken met deze versie van Microsoft Dynamics NAV Development Environment.
+
+Schakel de instelling alleen-lezen uit en open de database opnieuw.
+@2@1418@0@
+Een SQLIndex voor de primaire sleutel moet dezelfde velden als de sleutel bevatten.
+
+Tabel: %1.1
+SQLIndex-velden: %6
+
+@2@1419@0@
+De tekenreeks van de URL is te lang. De maximum lengte is %8 tekens.
+@2@1421@0@
+De waarde van een %3 kan niet groter zijn dan %7 bytes.
+
+Tabel: %1.1
+@2@1422@0@
+Er bestaat al een %1.1 met een standaardrolcentrum.
+
+Velden en waarden:
+
+%6
+@2@1423@0@
+U kunt Microsoft Dynamics NAV Development Environment niet starten omdat u niet over de machtiging VIEW SERVER STATE op SQL Server beschikt.
+
+Neem contact op met de systeembeheerder.
+@2@1424@0@
+Zowel de doeltabel als de brontabel moet naar dezelfde tabel verwijzen.
+@2@1425@0@
+De waarde van het veld %2.1 moet leeg zijn.
+
+Object: %1
+@2@1426@0@
+Het object is door '%22' vergrendeld en kan niet worden gewijzigd of verwijderd.
+
+Object: %1
+@2@1427@0@
+De waarde van het veld %2.1 kan voor een vergrendeld object niet worden aangepast.
+
+Object: %1
+@2@1428@0@
+U moet een systeembeheerder zijn als u deze activiteit wilt uitvoeren.
+@2@1429@0@
+U kunt het record %6 in de tabel %1.1 niet hernoemen omdat hierdoor het record %96 in de tabel %91.1 wordt gewijzigd en uw toepassing is ingesteld om wijzigingen bij te houden in %91.1. 
+U kunt handmatig koppelingen verbreken van elk record in de tabel %91.1 naar %1.1 %6, het record hernoemen en vervolgens de koppelingen weer maken. 
+@2@1431@0@
+Er zijn een aantal objecten in de database vergrendeld. U moet deze objecten ontgrendelen voordat u de database bijwerkt.
+@2@1432@0@
+Zoals u ziet hebt u %5 lijsten die niet opnieuw gecompileerd kunnen worden tijdens de conversie van de database.
+@2@1433@0@
+Tabel %1 bevat ‚‚n of meer waarden van het type Binair die in Microsoft Dynamics NAV Development Environment niet kunnen worden bijgewerkt. 
+
+Wijzig de indeling van de tabel voordat u gaat upgraden.
+@2@1434@0@
+U kunt de object-id van een tabel niet wijzigen.
+
+Object record voor: %6
+Object record na: %96
+@2@1435@0@
+Kan de tabel niet hernoemen. 
+@2@END@0@
+@1@93@0@
+@2@50001@0@
+Er is een ODBC-fout opgetreden. Er is echter geen foutinformatie beschikbaar.
+
+Raadpleeg uw systeembeheerder.
+@2@50002@0@
+Omgeving voor ODBC-stuurprogramma kon niet ge‹nitialiseerd worden.
+
+Raadpleeg uw systeembeheerder.
+@2@50003@0@
+Volgende ODBC-fout is opgetreden:
+
+%101.151
+@2@50004@0@
+Volgende ODBC-fout is opgetreden:
+
+Status-id: %101.152
+@2@50005@0@
+Volgende ODBC-fout is opgetreden:
+
+Fout: %101.151
+Status-id: %101.152
+@2@50006@0@
+De volgende SQL Server-fout(en) is (zijn) opgetreden:
+
+%103
+@2@50007@0@
+De volgende SQL Server-fout(en) is (zijn) opgetreden bij het openen van de tabel %1.1:
+
+%103
+@2@50008@0@
+Er is een NEXT-functieoproep gedetecteerd op een zonder bijbehorende FIND/FINDSET-oproep.
+@2@51002@0@
+Er is reeds een verbinding gemaakt met de database %102.155 op server %102.154.
+@2@51003@0@
+Er is geen verbinding met een server en database gemaakt.
+@2@51004@0@
+Er is reeds een transactie gestart. Geneste transacties worden niet ondersteund.
+@2@51005@0@
+De huidige activiteit kan niet uitgevoerd worden in een transactie.
+@2@51008@0@
+Er wordt een poging ondernomen om meerdere records bij te werken of te verwijderen buiten de vereiste transactie.
+@2@51009@0@
+De huidige activiteit kan enkel uitgevoerd worden in een transactie van het type Update of UpdateNoLocks.
+@2@51010@0@
+De huidige activiteit kan enkel uitgevoerd worden in een transactie van het type Snapshot.
+@2@51011@0@
+De huidige activiteit kan enkel uitgevoerd worden in een transactie van het type Browse.
+@2@51012@0@
+De aanvraag om tabel %1.1 te vergrendelen met parameter Wait = FALSE wordt niet ondersteund.
+@2@51013@0@
+De huidige activiteit kan enkel uitgevoerd worden in een transactie van het type Update of Snapshot.
+@2@52001@0@
+Database %102.155 bestaat niet op server %102.154.
+@2@52002@0@
+Database %102.155 bestaat reeds op server %102.154.
+@2@52003@0@
+Met deze versie van Microsoft Dynamics NAV Classic kunt u database %102.155 op server %102.154 niet openen.
+
+U moet eerst de database upgraden naar Microsoft Dynamics NAV 2013 voordat u deze met deze versie van Microsoft Dynamics NAV Development Environment opent.
+@2@52004@0@
+Het databasecompatibiliteitsniveau %102.161 is te laag voor deze versie van Microsoft Dynamics NAV Development Environment. 
+
+Wijzig het compatibiliteitsniveau in %102.162 voordat u de database opnieuw opent. 
+@2@52005@0@
+Server %102.154 bevat geen licentie-informatie van Microsoft Dynamics NAV Development Environment Deze informatie is echter vereist om toegang krijgen tot de server.
+
+Om een licentiebestand naar de server te uploaden, moet u lid van de databaserol db_owner in de masterdatabase zijn.
+
+Klik op OK om een licentiebestand te selecteren en te uploaden; klik op Annuleren om de huidige activiteit af te breken.
+@2@52006@0@
+Database %102.155 op server %102.154 kan niet geopend worden met deze versie van Microsoft Dynamics NAV Development Environment. De database is al geconverteerd naar een nieuwere versie van het programma.
+
+Upgrade naar de laatste versie van Microsoft Dynamics NAV Development Environment om de database te openen.
+@2@52007@0@
+Database %102.155 op server %102.154 bevat geen systeemobjecten van Microsoft Dynamics NAV Development Environment en kan niet worden geopend.
+@2@52008@0@
+De server %102.154 is niet gevonden. Probeer het later opnieuw of neem contact op met de systeembeheerder.
+@2@52009@0@
+De versie van SQL Server op server %102.154 wordt niet ondersteund.
+
+Om deze server te kunnen gebruiken in combinatie met Microsoft Dynamics NAV Development Environment, moet u de server upgraden naar ten minste %1 versie %22 of hoger.
+@2@52010@0@
+De waarde %102.160 is geen geldig netwerktype. Beschikbare netwerktypes zijn : %22.
+@2@52011@0@
+Het SQL Server ODBC-stuurprogramma op uw computer wordt niet ondersteund.
+
+Als u het stuurprogramma wilt gebruiken met de Microsoft Dynamics NAV-ontwikkelomgeving, moet u het stuurprogramma bijwerken naar versie %22 of hoger.
+@2@52012@0@
+De verbinding met de server %102.154 reageert niet meer. Mogelijke oorzaken zijn:
+
+* De server is handmatig of als gevolg van een fout afgesloten.
+* De sessie is gestopt door een beheerder.
+* Er is een netwerkfout opgetreden.
+* Er is een hardwarefout opgetreden op de server of op uw computer.
+
+Probeer het opnieuw of neem contact op met de systeembeheerder.
+@2@52014@0@
+Er is geen systeemcodetabel op de Microsoft Dynamics NAV Server-computer die overeenkomt met de codetabel %7 van de sortering %22 voor de database %102.155.
+
+De systeemcodetabellen van Microsoft Dynamics NAV Server zijn: %1.
+
+Zorg dat in Landinstellingen op de Microsoft Dynamics NAV Server-computer de juiste systeemtaal en locatie zijn ingesteld zodat de codetabellen overeenkomen.
+
+U kunt deze foutmelding voorkomen door een systeembeheerder te vragen de instelling Codetabel valideren in het venster Database wijzigen uit te schakelen met behulp van Microsoft Dynamics NAV Development Environment.
+@2@52015@0@
+Er is geen systeemcodetabel op uw computer die overeenkomt met de codetabel %7 van de sortering %22 voor de database %102.155.
+
+De systeemcodetabellen zijn: %1.
+
+Zorg dat in Landinstellingen op de computer de juiste systeemtaal en locatie zijn ingesteld zodat de codetabellen overeenkomen.
+
+U kunt deze foutmelding voorkomen door een systeembeheerder te vragen de instelling Codetabel valideren in het venster Database wijzigen uit te schakelen met behulp van Microsoft Dynamics NAV Development Environment.
+@2@52016@0@
+Sortering %22 wordt niet ondersteund door Microsoft Dynamics NAV Development Environment.
+@2@52017@0@
+De database %102.155 op server %102.154 moet worden geconverteerd voordat u deze met deze versie van de Microsoft Dynamics NAV-ontwikkelomgeving kunt gebruiken.
+
+Als u de database converteert, kunt u deze niet meer openen met oudere versies van de Microsoft Dynamics NAV-ontwikkelomgeving.
+
+Het wordt ook sterk aangeraden een reservekopie van de database of de transactielogbestanden in SQL Server te maken voor de conversie.
+
+Klik op OK om de database te converteren of klik op Annuleren om af te sluiten.
+@2@52018@0@
+Database %102.155 op server %102.154 moet worden geconverteerd voordat u deze met deze versie van de Microsoft Dynamics NAV-ontwikkelomgeving kunt gebruiken.
+
+Als u de database converteert, wordt deze geconverteerd naar Unicode en wordt de sortering bijgewerkt naar de best overeenkomende Windows-sortering. U kunt de database niet meer openen met oudere versies van de Microsoft Dynamics NAV-ontwikkelomgeving.
+
+Het wordt ook sterk aangeraden een reservekopie van de database of de transactielogbestanden in SQL Server te maken voor de conversie.
+
+Klik op OK om de database te converteren of klik op Annuleren om af te sluiten.
+@2@52020@0@
+The database was successfully converted. You must now run schema synchronization to finalize the conversion. Connect Microsoft Dynamics NAV Server to the database, and then, in the 'Tools' menu, point to 'Sync. Schema For All Tables', and then choose 'With Validation'.
+@2@52021@0@
+Voor het converteren van de database %102.155 moet de databaseoptie Identificaties converteren zijn ingeschakeld.
+
+Gebruik de vorige versie van de Microsoft Dynamics NAV-ontwikkelomgeving om deze optie in te schakelen en voer de conversie opnieuw uit.
+@2@52022@0@
+Volgende tekens kunnen niet uit identificaties verwijderd worden: [%22].
+@2@52023@0@
+U hebt ervoor gekozen identificaties te converteren als onderdeel van de databasewijziging.
+
+Klik op OK om de database te wijzigen of klik op Annuleren om af te sluiten.
+@2@52024@0@
+U kunt de instellingen 'Views bijwerken', 'Relaties bijwerken' of 'Standaardwaarden bijwerken' niet wijzigen tijdens de conversie van identificaties.
+@2@52025@0@
+De identificatie [%1] bevat ‚‚n van de volgende ongeldige tekens: [%22].
+@2@52026@0@
+U kunt de databasesortering niet wijzigen wanneer u Integratie-instellingen wijzigt.
+@2@52027@0@
+U hebt ervoor gekozen de databasesorteringsinstellingen te wijzigen als onderdeel van de databasewijziging.
+
+Klik op om door te gaan met het wijzigen van de database of klik op Annuleren om af te breken.
+@2@52028@0@
+Om de geselecteerde databasewijzigingen door te voeren, moet u ervoor zorgen dat u de enige gebruiker bent die toegang heeft tot database %102.155 en moet u de instelling 'Single user' selecteren.
+@2@52029@0@
+De databasewijziging is voltooid.
+
+U moet nu de database sluiten en opnieuw openen voordat de instellingen van kracht worden. Schakel de instelling 'Single user' uit zodat ook andere gebruikers de database kunnen gebruiken.
+@2@52030@0@
+Object/kolomnaam '%1' in database %102.155 bevat ‚‚n van de volgende tekens:
+
+[%22]
+
+Deze tekens kunnen niet correct geconverteerd worden tijdens de wijziging naar de nieuwe sortering.
+
+U moet ofwel een andere sortering kiezen die het teken of de tekens in dit object kan weergeven, ofwel het object hernoemen.
+@2@52031@0@
+%1
+@2@52032@0@
+%1
+@2@52034@0@
+De %102.154-server is niet ge‹nitialiseerd met een licentie door Microsoft Dynamics NAV Development Environment.
+@2@52035@0@
+De %102.155-database op de %102.154-server moet voor gebruik worden geconverteerd door Microsoft Dynamics NAV Development Environment voordat u de database met Microsoft Dynamics NAV Server kunt gebruiken.
+@2@52036@0@
+Voordat u deze database kunt converteren, moet u een oudere versie van Microsoft Dynamics NAV Development Environment gebruiken om de database-integratie-instellingen voor View bijwerken, Relaties bijwerken en Standaardwaarden bijwerken uit te schakelen. Klik in het menu Bestand op Database en klik op Wijzigen om deze instellingen te openen.
+@2@52037@0@
+U hebt ervoor gekozen om de instellingen voor de databasesortering te wijzigen als onderdeel van de databasewijziging.
+
+U kunt de sortering alleen wijzigen als de instelling Sortering valideren al was ingeschakeld voordat de database werd gewijzigd.
+@2@52040@0@
+De huidige activiteit is gestopt omdat Windows probeert over te gaan in de slaapstand, in de sluimerstand, of stand-by.
+@2@52041@0@
+Er is geen systeemcodetabel op uw computer die overeenkomt met de codetabel %7 van de sortering %22 voor de database %102.155.
+
+Uw systeemcodetabellen zijn:%1
+
+Zorg dat in Landinstellingen op de computer de juiste systeemtaal en locatie zijn ingesteld zodat de codetabellen overeenkomen.
+
+U kunt ook de instelling Codetabel valideren uitschakelen voor deze database. Mogelijk worden bepaalde tekstgegevens niet juist geconverteerd wanneer deze in de database worden opgeslagen.
+
+Klik op OK om de instelling Codetabel valideren uit te schakelen en door te gaan met het gebruiken van de database of klik op Annuleren om af te sluiten.
+@2@52042@0@
+U hebt aangegeven dat u de databasesortering niet wilt valideren als onderdeel van de databasewijziging.
+
+De database kan vervolgens worden gebruikt door computers met een codetabel die niet overeenkomt met de sortering. Mogelijk worden bepaalde tekstgegevens niet juist geconverteerd wanneer deze door dergelijke computers in de database worden opgeslagen.
+
+Klik op OK om door te gaan met het wijzigen van de database of klik op Annuleren om af te sluiten.
+@2@52043@0@
+Voor de database %102.155 op server %102.154 moet een licentie Per-database worden geopend op %22.
+@2@52044@0@
+De database %102.155 op server %102.154 moet worden geconverteerd voordat u deze met deze versie van de Microsoft Dynamics NAV-ontwikkelomgeving kunt gebruiken.
+
+U moet de database converteren voordat deze wordt ge‹nstalleerd naar een %22-server.
+@2@52045@0@
+Er kan geen database worden gemaakt op de %102.154 %22-server.
+@2@52046@0@
+De optie E‚n gebruiker kan niet worden ingesteld voor de database %102.155 op de server %102.154.
+
+Controleer of de database niet door andere SQL Server-sessies wordt gebruikt.
+@2@52047@0@
+De database %102.155 op server %102.154 moet worden geconverteerd voordat u deze met deze versie van de Microsoft Dynamics NAV-ontwikkelomgeving kunt gebruiken.
+
+De databaseconversie kan niet worden voortgezet omdat de database door andere SQL Server-sessies wordt gebruikt.
+
+Sluit alle andere sessies en probeer het opnieuw.
+@2@52048@0@
+U hebt %1 lijsten die gecompileerd werden v¢¢r de conversie van de database. Deze kunnen nu echter niet gecompileerd worden.
+@2@53003@0@
+U heeft niet de vereiste SQL Server-machtigingen om de huidige beveiligingsactiviteit uit te voeren.
+@2@53011@0@
+Database %102.155 op server %102.154 moet worden geconverteerd voordat u deze kunt gebruiken met deze versie van Microsoft Dynamics NAV Development Environment.
+
+U moet lid zijn van de databasegroep db_owner in deze database om deze te kunnen converteren.
+@2@53015@0@
+Aanmelden mislukt bij verbinden met SQL Server %102.154.
+@2@54001@0@
+Het veld %2.1 in tabel %1.1 bestaat niet in de SQL Server-tabel of -weergave.
+@2@54002@0@
+De primaire sleutel van tabel %1.1 overschrijdt het maximum van %22 kolommen in een SQL Server-index.
+
+Sleutelvelden: %6
+@2@54003@0@
+Tabel %1.2 heeft geen naam.
+@2@54004@0@
+Tabel %1.1 bestaat niet als vereiste objectnaam van %1.157 in deze database.
+@2@54005@0@
+Tabel %1.1 is een tijdelijke SQL Server-tabel. U kunt de naam van de tabel en van de velden niet wijzigen.
+@2@54006@0@
+Tabel %1.1 is een tijdelijke SQL Server-tabel. Microsoft Dynamics NAV Development Environment ondersteunt geen tijdelijke SQL Server-tabellen.
+@2@54007@0@
+Tabel %1.1 heeft geen primaire sleutelbeperking in de SQL Server-tabelbeschrijving.
+@2@54008@0@
+Tabel %1.1 heeft geen ROWVERSION-kolom in de SQL Server-tabelbeschrijving.
+@2@54010@0@
+Tabel %1.1 heeft meerdere ROWVERSION-kolommen in de SQL Server-weergavebeschrijving. Weergaven kunnen maximaal ‚‚n tijdstempelkolom bevatten.
+@2@54012@0@
+Tabelnaam %1.1 conflicteert met een bestaand SQL Server-object %1.157.
+@2@54013@0@
+Tabelnaam %1.1 conflicteert met een bestaand SQL Server-object %1.157.
+
+Kies een andere tabelnaam of zet de tabeleigenschap LinkedObject op Ja/Yes om dit object tabel te koppelen.
+@2@54014@0@
+Tabel %1.1 verwijst naar het SQL Server-object %1.157. U kunt gekoppelde objecten niet wijzigen.
+@2@54016@0@
+Tabel %1.1 verwijst naar een SQL Server-object. U kunt gekoppelde objecten niet wijzigen.
+@2@54017@0@
+Tabel %1.1 verwijst naar het SQL Server-object %1.157. Een koppeling met het object is niet mogelijk wanneer er SumIndexFields gedefinieerd zijn.
+@2@54018@0@
+Tabel %1.1 verwijst naar het SQL Server-object %1.157. U kunt geen koppeling maken met een tijdelijke SQL Server-tabel.
+@2@54019@0@
+Het SQL Server-object %1.157 waar tabel %1.1 naar verwijst, bestaat niet.
+@2@54020@0@
+Tabel %1.1 verwijst naar het SQL Server-object %1.157. Het object is een systeemtabel of een weergave. Bij deze objecttypes kunt u de tabeleigenschap LinkedObject niet op Nee/No zetten.
+@2@54021@0@
+Tabel %1.1 heeft geen ROWVERSION-kolom in de SQL Server-weergavebeschrijving. Een ROWVERSION-kolom is vereist indien er BLOB-velden gedefinieerd zijn.
+@2@54022@0@
+Tabel %1.1 bevat een BLOB-veld met ongeldig gecomprimeerde gegevens:
+
+Record: %6
+Veld: %2.1
+@2@54023@0@
+De eigenschap TableRelation in Microsoft Dynamics NAV Development Environment en de refererende sleutels in SQL Server zijn niet met elkaar gesynchroniseerd.
+
+Tabel %1.1 verwijst naar een tabel in de eigenschap TableRelation van veld %2.1 die niet bestaat.
+@2@54024@0@
+De SumIndexField-sleutel van tabel %1.1 overschrijdt het maximum toegelaten aantal van %22 kolommen.
+
+Sleutelvelden: %6
+@2@54025@0@
+Een andere gebruiker heeft tabel %1.1 gewijzigd, waardoor een deadlock is opgetreden tijdens uw activiteit.
+
+Start opnieuw.
+@2@54026@0@
+The %1.1 table cannot be changed because it is locked by another user. This can be caused by one of the following tasks:
+
+* Objects are being compiled.
+* Table schema is synchronizing.
+* Objects are being imported.
+
+Wait until the user is finished and then try again.
+@2@56001@0@
+Tabel %1.1 bevat een veld met een SQL Server-datatype dat niet kan worden bewerkt door Microsoft Dynamics NAV Development Environment binnen de huidige activiteit:
+
+Veld: %2.1
+SQL-type: %104.159
+@2@56003@0@
+Tabel %1.1 bevat een veld met een SQL Server-waarde die buiten het door Microsoft Dynamics NAV Development Environment toegestane bereik valt:
+
+Veld: %2.1
+Type: %2.3
+@2@56004@0@
+Tabel %1.1 bevat een veld met een datumwaarde die niet door SQL Server kan gebruikt worden:
+
+Record: %6
+Veld: %2
+@2@56005@0@
+Tabel %1.1 bevat een Microsoft Dynamics NAV Development Environment-gegevenstype dat niet compatibel is met het SQL Server-gegevenstype:
+
+Veld: %2.1
+Type: %2.3
+SQL-type: %104.159
+@2@56006@0@
+Tabel %1.1 bevat een waarde in een numeriek codeveld die niet door SQL Server kan gebruikt worden:
+
+Record: %6
+Veld: %2
+@2@56007@0@
+Tabel %1.1 bevat een waarde in een codeveld die niet in Microsoft Dynamics NAV Development Environment kan worden gebruikt:
+
+Veld: %2.1
+Waarde: %22
+@2@56008@0@
+Tabel %1.1 bevat een waarde in een numeriek codeveld die niet door Microsoft Dynamics NAV Development Environment kan worden gebruikt:
+
+Veld: %2.1
+Waarde: %22
+@2@56009@0@
+De geleverde waarde kan niet in een numeriek codeveld gebruikt worden:
+
+Tabel: %1.1
+Veld: %2.1
+Waarde: %22
+@2@56010@0@
+Tabel %1.1 bevat een veldwaarde die niet kan geconverteerd worden:
+
+Record: %6
+Veld: %2.1
+@2@56011@0@
+De tabel %1.1 bevat een veld met een waarde voor code, tekst of WideText die te groot is voor het SQL Server-gegevenstype:
+Record: %6
+Veld: %2
+SQL-type: %104.159
+@2@56012@0@
+Tabel %1.1 bevat een veld van het type Integer, Option of Boolean, dat gebruik maakt van het SQL Server-gegevenstype DECIMAL of FLOAT. Er is een ongeldige waarde gevonden in dit veld:
+
+Veld: %2.1
+SQL-type: %104.159
+Waarde: %22
+@2@56014@0@
+Tabel %1.1 bevat een tijdsveld dat ongeldige data bevat voor het datumgedeelte van de waarde DATETIME.
+
+Veld: %2.1
+Waarde: %22
+@2@56015@0@
+Tabel %1.1 bevat een datumveld dat ongeldige data bevat voor het tijdsgedeelte van de waarde DATETIME.
+
+Veld: %2.1
+Waarde: %22
+@2@56016@0@
+Tabel %1.1 bevat een veld van het type Boolean dat geen gebruik maakt van het SQL Server-datatype BIT. Een waarde verschillend van 0 of 1 werd gevonden in het veld:
+
+Veld: %2.1
+SQL-type: %104.159
+Waarde: %22
+@2@56017@0@
+Tabel %1.1 vertoont inconsistente SumIndexField-waarden:
+
+Sleutelvelden: %6
+SumIndexField-tabel: %22
+
+Raadpleeg uw systeembeheerder.
+@2@56018@0@
+Tabel %1.1 bevat een veld met een AutoNummering-waarde die niet overeenstemt met de SQL Server IDENTITY-status:
+
+Veld: %2.1
+@2@56019@0@
+Tabel %1.1 bevat een veld met datatype Variant SQL dat enkel naar het datatype Varchar SQL kan geconverteerd worden:
+
+Veld: %2.1
+@2@END@0@
+@1@30@0@
+@2@1@0@
+%1.1-id (%1.3) wordt gebruikt door %1.2 '%1.4'.
+@2@2@0@
+%1.1-Naam ('%1.4') wordt gebruikt door %1.2 met id %1.3.
+@2@4@0@
+Eigenschap '%3' kan niet worden toegepast op %1.2.
+@2@5@0@
+%1.2 kan niet worden geactiveerd.
+@2@6@0@
+%1.2 kan niet worden bijgewerkt (alleen gegevensbesturingselementen kunnen worden bijgewerkt).
+@2@7@0@
+Eigenschap '%3' kan niet worden veranderd voor een %1.2 terwijl deze is geopend.
+(%3 is aangeroepen voor %1.2 '%1.4'.)
+@2@8@0@
+Eigenschap '%3' is niet dynamisch op een %1.2.
+(%3 is aangeroepen voor %1.2 '%1.4'.)
+@2@9@0@
+De id van een %1.2 mag niet leeg zijn.
+@2@10@0@
+De %1.2 '%1.4' heeft een niet-bestaande id (%5) als parent.
+@2@11@0@
+De %1.2 '%1.4' kan geen %2.2 '%2.4' bevatten.
+@2@12@0@
+Er is geprobeerd control '%2.4' in de kop van de tabel of het matrixvak '%1.4' toe te voegen terwijl geen corresponderende kolom aanwezig is.
+@2@13@0@
+Er is geprobeerd control '%2.4' in de kop van het matrixvak '%1.4' toe te voegen terwijl het matrixgedeelte leeg is.
+@2@14@0@
+Ongeldig paginanummer (%5) voor het tabbladbesturingselement '%1.4'.
+(%3 stond op %4 op de %2.2 '%2.4').
+@2@15@0@
+Het besturingselement '%2.4' kan niet worden toegevoegd in het matrixgedeelte van het matrixvak '%1.4', omdat het besturingselement '%6.4' al aanwezig is.
+@2@16@0@
+Besturingselement '%2.4' kan niet worden toegevoegd in de kop van het matrixvak '%1.4' omdat het besturingselement '%6.4' al aanwezig is in de kop.
+@2@17@0@
+Besturingselement '%2.4' kan niet worden toegevoegd in de kop van het tabelvak '%1.4' omdat het besturingselement '%6.4' al aanwezig is in de kop.
+@2@18@0@
+'%8' is geen apparaatonafhankelijk bitmapbestand.
+@2@19@0@
+Dit is een ongeldig apparaatonafhankelijk bitmapbestand.
+@2@20@0@
+'%8' is geen pictogrambestand.
+@2@21@0@
+'%8' is een ongeldig pictogrambestand.
+@2@22@0@
+Eigenschap '%3' is verplicht voor een %1.2.
+Poging om '%3' te verwijderen van %1.2 '%1.4'.
+@2@23@0@
+Besturingselement '%2.4' kan niet worden toegevoegd als matrixgedeelte van '%1.4' omdat '%1.4' geen matrixvak is.
+@2@24@0@
+Besturingselement '%2.4' kan niet worden toegevoegd als kop van een lijst-, tabel- of matrixvak '%1.4' omdat opgegeven is dat '%1.4' geen kop moet bevatten.
+@2@25@0@
+De dynamische eigenschap '%3' kan in deze context niet worden veranderd.
+
+Er is geprobeerd '%3' te veranderen in %4 op %1.2 '%1.4'.
+@2@26@0@
+Eigenschap '%3' kan niet %4 worden op %1.2 '%1.4'.
+@2@28@0@
+Bitmap %5 is niet opgenomen in het programma.
+
+Het programma bevat bitmaps met de nummers 1 t/m 53.
+@2@29@0@
+De laatste bewerkings-actie (meestal 'plakken') is genegeerd omdat daarmee het maximum aantal tekens (%5) voor het tekstvak %1.4 zou worden overschreden.
+@2@30@0@
+'%1.5' kan niet worden gesloten omdat deze wordt geblokkeerd door '%2.5'.
+
+Sluit eerst '%2.5' af.
+@2@31@0@
+Eigenschap '%3' op %1.2 '%1.4' valt buiten het bereik (maximum %4).
+@2@32@0@
+De %3 mag niet %8 zijn.
+
+Toegestane waarden zijn: 'infinite', 'default', of integers van 0 tot %5.
+@2@33@0@
+De grootte van de kolom %1.5 werd gewijzigd maar daarna automatisch vergroot om de lege plaats die daardoor zou ontstaan op te vullen
+@2@34@0@
+De %3 mag niet %8 zijn.
+
+Voer een geldige toetscombinatie in zoals Ctrl+F5.
+@2@35@0@
+%4 kan niet worden gebruikt als id omdat het al wordt gebruikt door een menuoptie.
+@2@36@0@
+%3 kan geen %8 bevatten.
+
+De maximumgrootte van %3 (inclusief bestandsnaam en pad) is 32 K (32756 bytes).
+@2@37@0@
+%3 kan geen %8 bevatten.
+
+De maximumgrootte van de gehele lijst met bitmaps in %3 (inclusief bestandsnaam en pad) is 32 K (32756 bytes).
+@2@38@0@
+'%1.5' kan niet worden gesloten omdat het systeem nog bezig is.
+@2@39@0@
+%3 van %1.2 '%1.4' mag niet %4 zijn, omdat dit zou resulteren in een cyclische parent-verbinding (%1.2 '%1.4' als 'parent' van %2.2 '%2.4').
+@2@43@0@
+%3 van %1.2 '%1.4' kan niet handmatig worden gewijzigd of verwijderd.
+
+Verplaats '%1.4' met de muis om van container te veranderen.
+@2@44@0@
+%3 van %2.2 '%2.4' kan niet worden gewijzigd of verwijderd, omdat het opgenomen is in %1.2 '%1.4'.
+@2@45@0@
+In Windows 16-bit kan er maximaal 1 sessie van Microsoft Dynamics NAV Development Environment tegelijkertijd actief zijn. 
+@2@47@0@
+C/SIDE Hyperlinking mislukt.
+
+Het doel van deze hyperlink was :
+%8
+
+Wilt u deze hyperlink op het klembord plaatsen?
+@2@49@0@
+C/SIDE kon een Windows-resource niet laden.
+
+Er kan een tekort aan Windows-resources zijn.
+Sluit enkele vensters en probeer opnieuw.
+@2@50@0@
+De %3 kan niet %4 zijn.
+
+Toegestane waarden zijn integers tussen 220 en %5.
+@2@52@0@
+Het pad is te lang. De lengte van een pad mag niet groter dan %5 bytes zijn.
+@2@53@0@
+U kunt een subform niet activeren zonder het actieve hoofdform.
+@2@54@0@
+U kunt een subform niet activeren zonder het actieve hoofdform.
+Hoofdform-id=%1.
+@2@55@0@
+Het aantal records in de tabel overschrijdt het maximum aantal van %1.
+
+Stel een filter in om het aantal records in de tabel te verlagen, of klik op Extra.
+Opties en verhoog vervolgens het maximum aantal records voor de export.
+
+De export van veel records tegelijk doet mogelijk de systeemprestaties afnemen.
+@2@56@0@
+Fatale interne fout.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÙ The Connection between the Database and Forms                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@60@0@
+@2@1@0@
+Het scherm herkent besturingselement %6 niet.
+@2@2@0@
+%1 kan niet worden toegevoegd aan dit scherm.
+@2@3@0@
+%1 kan niet worden gewijzigd in dit scherm.
+@2@4@0@
+%1 kan niet worden verwijderd uit dit scherm.
+@2@5@0@
+Drop-down kan hier niet worden gebruikt omdat er geen keuzes zijn.
+@2@6@0@
+CurrForm.UPDATE kan hier vandaan niet worden aangeroepen.
+@2@7@0@
+Timer triggers zijn niet beschikbaar.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  UA_Control  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ Controls used in the Connection between                 ³
+// ³                  the Database and Forms                                  ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@61@0@
+@2@1@0@
+'%3' is geen geldige waarde.
+@2@2@0@
+Besturingselement %9(%6) heeft een ongeldig gegevenstype %7. Geldige gegevenstypen zijn: %8.
+@2@3@0@
+'%3' is geen geldige waarde. De volgende waarden kunnen worden gebruikt: %5.
+@2@4@0@
+Het veld mag niet leeg zijn. Voer een waarde in.
+@2@5@0@
+Het veld bevat een ongeldig teken (%1). De volgende tekens kunnen worden gebruikt: %4.
+@2@6@0@
+In dit veld moet een getal worden ingevoerd.
+@2@7@0@
+U kunt hier geen ultimodatum invoeren.
+@2@10@0@
+Voer een decimaal getal of berekening in.
+@2@11@0@
+Het veld kan maximaal %5 decimale posities bevatten.
+@2@13@0@
+Besturingselement %9(%6) kan niet worden gewijzigd omdat het onderliggende databaseveld niet mag worden gewijzigd.
+@2@14@0@
+'CharAllowed' moet tekenparen bevatten. Het eerste teken van een paar moet kleiner of gelijk zijn aan het tweede.
+@2@15@0@
+Het wachtwoord bevat een ongeldig teken.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´ ADSI ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Active Directory Services Interface                                     ³
+// ³                                                                          ³
+// ³  ID values:    1- 199   General errors                                   ³
+// ³              200- 249   AD Schema errors                                 ³
+// ³              250- 269   Service Connection Point errors                  ³
+// ³                                                                          ³
+// ³             1xxx        Information (success) message corresponding to   ³
+// ³                                               the xxx error message      ³
+// ³                                                                          ³
+// ³  Symbol   Substitution   Explanation/Examples                            ³
+// ³  ------   ------------   --------------------                            ³
+// ³                                                                          ³
+// ³    %1     Text           Error text retrieved from ADSI                  ³
+// ³                                                                          ³
+// ³    %2     Text           Error context                                   ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@142@0@
+@2@1@0@
+Active Directory Service kon niet worden ge‹nitialiseerd.
+@2@2@0@
+Aanroep van Active Directory Service Interface is mislukt.
+
+De volgende fout is geretourneerd:
+%1
+Neem contact op met de systeembeheerder.
+@2@3@0@
+Kan het object %2 niet ophalen van de Active Directory.
+
+Het systeem heeft volgende fout geretourneerd:
+%1
+Raadpleeg uw systeembeheerder of uw leverancier voor assistentie.
+@2@4@0@
+Kan de globale catalogus niet ophalen uit de Active Directory.
+Dit kan worden veroorzaakt door netwerkproblemen of door het ontbreken van Active Directory-functionaliteit op uw computer of in het netwerk.
+
+Het systeem heeft volgende fout geretourneerd:
+%1
+
+Active Directory-functionaliteit is niet beschikbaar.
+Raadpleeg uw systeembeheerder of uw leverancier voor assistentie.
+@2@5@0@
+Kan de globale catalogus niet ophalen uit de Active Directory.
+Dit kan worden veroorzaakt door netwerkproblemen of door het ontbreken van Active Directory-functionaliteit op uw computer of in het netwerk.
+
+Active Directory-functionaliteit is niet beschikbaar.
+Raadpleeg uw systeembeheerder of uw leverancier voor assistentie.
+@2@250@0@
+Het systeem kan het Service Connection Point van de Database Server voor Microsoft Dynamics NAV Classic niet publiceren of bijwerken in Active Directory.
+
+Het systeem heeft de volgende fout geretourneerd:
+%1
+Neem voor ondersteuning contact op met uw systeembeheerder of uw leverancier.
+@2@251@0@
+Kan de Service Connection Point-GUID van Microsoft Dynamics NAV Classic niet naar het register schrijven.
+De server kan het Service Connection Point niet bijwerken.
+@2@252@0@
+Kan het Service Connection Point van Database Server voor Microsoft Dynamics NAV Classic niet publiceren in Active Directory.
+
+Om een Service Connection Point te publiceren met Database Server voor Microsoft Dynamics NAV Classic moet u het Active Directory-schema op de netwerkdomeincontroller uitbreiden. Raadpleeg uw netwerkbeheerder voor meer informatie.
+
+Gebruik het hulpprogramma SchemaXt op de installatiemedia om deze functionaliteit aan Active Directory toe te voegen.
+
+Opmerking: Database Server voor Microsoft Dynamics NAV Classic kan ook werken zonder Service Connection Point. Clients kunnen echter de servers in het netwerk niet bekijken.
+@2@253@0@
+Kan het Service Connection Point van de Database Server voor Microsoft Dynamics NAV Classic niet bijwerken in Active Directory.
+De registervermelding bestaat niet.
+@2@254@0@
+Kan het Service Connection Point van de Database Server voor Microsoft Dynamics NAV Classic niet publiceren in Active Directory.
+Het besturingssysteem ondersteunt het publiceren van services niet. Het besturingssysteem moet minimaal Microsoft Windows 2000 zijn.
+Dit heeft geen invloed op de prestaties van de Database Server voor Microsoft Dynamics NAV Classic. Clients kunnen echter niet navigeren naar deze server.
+@2@260@0@
+Kan het Service Connection Point van de Database Server voor Microsoft Dynamics NAV Classic niet uit Active Directory verwijderen.
+
+Het systeem heeft de volgende fout geretourneerd:
+%1
+Raadpleeg uw systeembeheerder of leverancier voor ondersteuning.
+@2@261@0@
+Kan het Service Connection Point van de Database Server voor Microsoft Dynamics NAV Classic niet uit Active Directory verwijderen.
+De registervermelding bestaat niet.
+@2@1250@0@
+Het Service Connection Point van de Database Server voor Microsoft Dynamics NAV Classic is door het systeem gepubliceerd in Active Directory.
+@2@1260@0@
+Het Service Connection Point van de Database Server voor Microsoft Dynamics NAV Classic is door het systeem verwijderd uit Active Directory.
+@2@END@0@
+//   ÚÄÄÄÄÄ¿
+// ÚÄ´ OIO ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÙ                                                                  ³
+// ³                                                                          ³
+// ³  Module_OIO                                                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@27@0@
+@2@2@0@
+Het identificatieblok is te groot voor de schijf waarop u de reservekopie wilt plaatsen. Kies een medium met meer ruimte.
+@2@3@0@
+Er is geen ruimte meer op schijf. Gebruik een schijf met een grotere capaciteit.
+@2@4@0@
+De reservekopie is beschadigd (incorrecte controlesom).
+@2@6@0@
+De reservekopie is beschadigd (onverwacht gegevenstype).
+@2@8@0@
+Het maken of het terugzetten van een reservekopie is onderbroken.
+@2@16@0@
+De reservekopie is geen reservekopie van Microsoft Dynamics NAV Development Environment.
+@2@17@0@
+De reservekopie en het programma hebben verschillende versienummers.
+@2@18@0@
+De bestandsindeling van %1 wordt niet ondersteund door deze versie van de Microsoft Dynamics NAV-ontwikkelomgeving.
+@2@20@0@
+De reservekopie is geen reservekopie van Microsoft Dynamics NAV Development Environment.
+@2@21@0@
+Dit .fob-bestand is een oude versie die niet werkt met Microsoft Dynamics NAV Development Environment. Importeer het bestand met behulp van Microsoft Dynamics NAV 2013 Development Environment in een database van Microsoft Dynamics NAV 2013 en exporteer vervolgens de bijgewerkte toepassingsobjecten naar een nieuw .fob-bestand.
+@2@100@0@
+Het terugzetten van de reservekopie is afgebroken omdat bedrijf '%10' al in de database aanwezig is.
+@2@101@0@
+Het systeem voor het maken van reservekopie‰n kan het bestand %1 niet vinden. Controleer of de juiste schijf wordt gebruikt.
+@2@102@0@
+De titel van de reservekopie is te groot voor de schijf waarop u de reservekopie wilt plaatsen. Kies een medium met meer ruimte.
+@2@103@0@
+Het terugzetten van de reservekopie is afgebroken omdat er reeds data in de database aanwezig zijn die voor alle bedrijven gelden.
+@2@200@0@
+Een of meer objecten die u wilt importeren, is niet voorzien van een handtekening
+en is derhalve geen geldig toepassingsobject. De import wordt geannuleerd.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  IE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Binary Object Import/Export                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@169@0@
+@2@1@0@
+Alleen nieuwe objecten kunnen worden gemaakt.
+@2@2@0@
+Nieuwe objecten kunnen niet worden overschreven.
+@2@3@0@
+Alleen tabellen kunnen worden samengevoegd.
+@2@4@0@
+Alleen lege objecten kunnen worden verwijderd.
+@2@5@0@
+Lege objecten kunnen alleen worden gebruikt om andere objecten te verwijderen.
+
+Kies Overslaan of Verwijderen.
+@2@101@0@
+Alle objecten zijn gecontroleerd, en er zijn geen conflicten gevonden.
+
+Kies Ja om alle objecten te importeren, Nee om het Import-werkblad te openen, of Annuleren om de import af te breken.
+@2@102@0@
+De objecten in %1 konden niet worden ge‹mporteerd omdat de werkbladinstellingen in het importbestand niet konden worden toegepast op de objecten in de database en/of op de objecten die worden ge‹mporteerd.
+
+Kies OK om het Import-werkblad te openen, of Annuleren om de import af te breken.
+@2@103@0@
+De objecten in %1 konden niet worden ge‹mporteerd omdat er reeds objecten in de database aanwezig zijn met conflicterende versies.
+
+Kies OK om het Import-werkblad te openen, of Annuleren om de import af te breken.
+@2@400@0@
+De reservekopie '%1' is met succes be‰indigd.
+@2@401@0@
+De reservekopie '%1' is met succes teruggezet.
+@2@404@0@
+De back-up %1 is teruggezet.
+
+Er kan geen gebruikersinformatie worden opgehaald (Windows-foutcode %2). Een Windows-aanmelding moet handmatig worden toegevoegd om het beveiligingssysteem te activeren.
+@2@600@0@
+Er is niet voldoende ruimte op de schijf om het identificatieblok te bevatten. Kies een medium dat meer ruimte bevat.
+@2@602@0@
+Het bestand is beschadigd (incorrecte controlesom).
+@2@603@0@
+Het bestand is beschadigd (onverwacht gegevenstype).
+@2@604@0@
+Het proces is afgebroken.
+@2@605@0@
+Het bestand is geen objectbestand van Microsoft Dynamics NAV Development Environment.
+@2@606@0@
+Het objectenbestand en het programma hebben verschillende versienummers.
+@2@607@0@
+Het objectenbestand kan niet worden gebruikt met deze versie van het programma.
+@2@608@0@
+Het bestand is geen objectbestand van Microsoft Dynamics NAV Development Environment.
+@2@609@0@
+Kan het bestand %1 niet vinden. Controleer of de juiste schijf wordt gebruikt.
+@2@610@0@
+Er is niet voldoende ruimte op de schijf om de gehele titel van het objectenbestand te bevatten. Kies een medium dat meer ruimte bevat.
+@2@700@0@
+Kan geen objecten importeren in de database. De volgende conflicten zijn aangetroffen:
+
+%1
+@2@END@0@
+
+
+//   ÚÄÄÄÄ¿
+// ÚÄ´ WZ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                   ³
+// ³  Wizards                                                                 ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@111@0@
+@2@1@0@
+Er moet een tabel worden opgegeven oom een wizard te kunnen gebruiken.
+@2@2@0@
+De tabel-id %1 bestaat niet. 
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  DM  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Data Manager                                                            ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@110@0@
+@2@1@0@
+Te veel FlowFields in het venster. U kunt maximaal %1 FlowFields in het venster weergeven.
+
+Verwijder enkele velden uit het formulier.
+@2@4@0@
+Het record is reeds aanwezig.
+@2@6@0@
+In het voorbeeldbedrijf kunt u uitsluitend datums in de maanden november, december, januari en februari invoeren. Dit wordt bepaald door het filter %1 in het licentiebestand.
+@2@7@0@
+%1 moet worden ingevuld.
+@2@8@0@
+Er kan geen record van een andere tabel worden ingevoegd.
+@2@9@0@
+Plakken is niet toegestaan in deze tabel.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  AO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Object                                                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@70@0@
+@2@001@0@
+Het objecttype '%6' wordt niet ondersteund.
+@2@021@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+Een '{' (ListBegin) wordt hier verwacht.
+@2@022@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+Een '}' (ListEnd) wordt hier verwacht.
+@2@023@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+Een '=' (EqualSign) wordt hier verwacht.
+@2@024@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+Een '{' (ElemBegin) wordt hier verwacht.
+@2@025@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+Een '}' (ElemEnd) wordt hier verwacht.
+@2@026@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+Het bestand mag hier niet eindigen.
+@2@027@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+De C/AL-code is niet hetzelfde aantal posities ingesprongen als de eerste regel.
+@2@028@0@
+Syntaxisfout in de import op regel %3 op positie %2 : %1.
+
+Hier moet een nieuw object starten.
+@2@029@0@
+Er staat een syntaxisfout in de import op regel %3, op positie %2: %1. 
+
+De component ControlAddIn moet worden ge‹nstalleerd om de bijbehorende gebeurtenistriggers te importeren.
+
+@2@030@0@
+Er staat een fout in de import op regel %3, op positie %2: %1. 
+
+Word-lay-out is te groot.
+
+@2@031@0@
+Specificeer een object-id.
+@2@032@0@
+Specificeer een objectnaam.
+@2@041@0@
+Syntaxisfout in 'Translation Import'. Er mogen geen blanco regels voorkomen.
+@2@042@0@
+Syntaxisfout in 'Translation Import'. Er moet een minteken in de tekenreeks voorkomen.
+
+%5
+@2@043@0@
+Syntaxisfout in 'Translation Import'. Er moet een dubbele punt in de tekenreeks voorkomen
+
+%5
+@2@045@0@
+Syntaxisfout in 'Translation Import'. De tekst is te lang.
+
+%5
+@2@051@0@
+'%7' is geen geldig taalmodulebestand.
+@2@052@0@
+Versie van taalmodulebestand '%7' is niet compatibel.
+@2@053@0@
+Controlesom fout in taalmodulebestand '%7'.
+@2@400@0@
+De exportindeling wordt niet ondersteund: %1. Ondersteunde indelingen zijn 0: txt en 1: xml.
+@2@401@0@
+De record die aan EXPORTOBJECTS is doorgegeven, moet een objecttabelrecord zijn.
+@2@420@0@
+De importindeling wordt niet ondersteund: %1. Ondersteunde indelingen: 0: txt en 1: xml.
+@2@421@0@
+Import is gestopt bij regel %1 met foutmelding:
+
+%2
+@2@423@0@
+De import is gestopt bij regel %1 (onbekende fout).
+@2@500@0@
+Het uitvoerbestand is niet geopend.
+@2@800@0@
+Kan XML-document %7 niet laden.
+@2@801@0@
+MSXML kan niet worden geladen.
+@2@802@0@
+Onverwacht element %1. Het verwachte element is %2.
+@2@803@0@
+Het XML-document %7 kan niet worden opgeslagen.
+@2@900@0@
+U kunt %1 niet vergrendelen omdat het object momenteel is vergrendeld door '%22'.
+@2@902@0@
+U kunt %1 niet vergrendelen omdat u het object al hebt vergrendeld.
+@2@903@0@
+U kunt %1 niet ontgrendelen omdat dit object niet is vergrendeld.
+@2@904@0@
+U kunt %1 niet ontgrendelen, omdat dit object momenteel is vergrendeld door '%22'.  
+
+Neem contact op met uw systeembeheerder als u een door een andere gebruiker vergrendeld object wilt ontgrendelen.
+@2@905@0@
+U kunt het object niet opslaan omdat het alleen-lezen is.
+@2@906@0@
+U kunt het object van deze id niet opslaan.
+@2@907@0@
+Het objecttype Form wordt niet ondersteund.
+@2@908@0@
+Het objecttype Dataport wordt niet ondersteund.
+@2@909@0@
+Het uitvoeren van AL-code wordt in deze context niet ondersteund.
+@2@910@0@
+Het object %1 moet in gecompileerde vorm worden opgeslagen voordat dit kan worden uitgevoerd.
+@2@915@0@
+The FOB file contains table objects.\
+\
+Some changes in the table objects may require data upgrade instructions. In this case, if this FOB file contains the upgrade toolkit objects, such as upgrade codeunits and upgrade tables, then you can choose to synchronize schema now. If the upgrade toolkit objects are included in a separate FOB file, then you can choose to synchronize schema later, after you have imported that FOB file.\
+\
+We recommend that you make a backup of all of your application objects by exporting all your current objects in the FOB format before you proceed.\
+\
+Select the option for synchronizing the schema changes after the table objects are imported into the application.
+@2@END@0@
+//   ÚÄÄÄÄ¿
+// ÚÄ´COMCÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÙ                                                                                          ³
+// ³  COMponent Controller                                                                           ³
+// ³                                                                                                 ³
+// ³  This section provides a short explanation of the %x symbols used below.                        ³
+// ³                                                                                                 ³
+// ³  Symbol   Substitution   Explanation/Examples                                                   ³
+// ³  ------   ------------   --------------------                                                   ³
+// ³                                                                                                 ³
+// ³  %1.1     Name.                                                                                 ³
+// ³  %1.2     GUID.          This is a Global Unique ID.                                            ³
+// ³                          Example:{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}                         ³
+// ³   2       Filename                                                                              ³
+// ³   3       Symbolname     The name of a method or a property.                                    ³
+// ³                          Examples: CTERM, PV or Caption                                         ³
+// ³   4       Number         A numeric value (integer).                                             ³
+// ³   5       MaxArgs        A numeric value. The maximum number of allowed                         ³
+// ³                          arguments when calling methods or properties in                        ³
+// ³                          an OLE control or Automation server.                                   ³
+// ³   6       CLSID          This is a Class ID path.                                               ³
+// ³                          Example: HKEY_CLASSES_ROOT\CLSID\{FCCE8CE5-CC0E-11CE-9EA2-08005A4478D8}³
+// ³   7       Text           A text string.                                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@35@0@
+@2@1@0@
+OLE kon niet worden ge‹nitialiseerd.
+
+Controleer of de OLE-systeem-dll's correct zijn ge‹nstalleerd.
+@2@2@0@
+Er is geen subtype (een GUID) voor de OCX- of Automation-variabele opgegeven.
+
+Geef een GUID op door het veld Subtype in te vullen bij de Lokale of de Globale C/AL-variabelen.
+@2@4@0@
+De typebibliotheek voor het OLE-besturingselement of de automatiseringsserver met verwijzing %1.1 kan niet worden geladen.
+%1.2
+
+De typebibliotheek is mogelijk verwijderd of verplaatst naar een andere locatie.
+Registreer het OLE-besturingselement of de automatiseringsserver opnieuw.
+@2@7@0@
+Ongeldige notatie van GUID-tekenreeks. De juiste notatie van een GUID-tekenreeks is
+
+{CDEF7890-ABCD-0123-1234-567890ABCDEF}
+
+waarbij 0-9, A-F hexadecimale cijfers zijn.
+@2@8@0@
+Het programma kan geen type-informatie van de typebibliotheek verkrijgen.
+
+De typebibliotheek is mogelijk beschadigd of heeft een ongeldige indeling. 
+Registreer het OLE-besturingselement of de automatiseringsserver opnieuw.
+@2@10@0@
+Het programma kan geen informatie over de eigenschappen van de typebibliotheek lezen.
+
+Registreer het OLE-besturingselement of de automatiseringsserver opnieuw.
+@2@12@0@
+Het programma kan geen informatie over de beschrijving van de eigenschappen in de typebibliotheek lezen.
+
+Registreer het OLE-besturingselement of de automatiseringsserver opnieuw.
+@2@13@0@
+Het programma kan geen informatie over de beschrijving van de methoden in de typebibliotheek verkrijgen.
+
+Registreer het OLE-besturingselement of de automatiseringsserver opnieuw.
+@2@14@0@
+Het programma kan geen syntaxisbeschrijving lezen van de typebibliotheek.
+
+Registreer het OLE-besturingselement of de automatiseringsserver opnieuw.
+@2@16@0@
+Tijdens de compilatie kon er geen informatie met
+ betrekking tot symbool %3 uit de typebibliotheek gelezen worden.
+
+De typebibliotheek is mogelijk beschadigd. Registreer het OLE-besturingselement
+of de automatiseringsserver opnieuw.
+@2@17@0@
+De typebibliotheek kent geen methode of eigenschap %3. 
+
+Gebruik het C/AL Symbol Menu om de methoden en eigenschappen te doorbladeren die door het
+OLE-besturingselement of de automatiseringsserver gedefinieerd zijn.
+@2@18@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Het maximale aantal parameters is overschreden. %3 vereist %4
+parameters. C/SIDE ondersteunt maximaal %5 parameters.
+@2@19@0@
+Het OLE-besturingselement of de automatiseringsserver kent geen methode of eigenschap %3. 
+
+Gebruik het C/AL Symbol Menu om de methoden en eigenschappen te doorbladeren die door
+het OLE-besturingselement of de automatiseringsserver gedefinieerd zijn.
+@2@20@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Dit datatype wordt niet ondersteund door C/SIDE. Alleen gegevens van
+de volgende typen kunnen worden gebruikt:
+VT_VOID, VT_I2, VT_I4, VT_R4, VT_R8, VT_CY, VT_DATE, VT_BSTR and VT_BOOL
+@2@21@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Het OLE-besturingselement of de automatiseringsserver heeft een ongeldig gegevenstype verstrekt.
+@2@26@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Id's van namen voor het OLE-besturingselement of de automatiseringsserver konden niet worden verkregen.
+@2@27@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De waarde van eigenschap %3 kan niet worden verkregen.
+@2@28@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+Het aantal opgegeven elementen verschilt van het aantal argumenten
+dat door de methode of eigenschap wordt geaccepteerd.
+@2@30@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Er kan geen instance van het OLE-besturingselement of de automatiseringsserver met identificatie GUID=%3 worden gemaakt (Could not create an instance of the OLE control or Automation Server identified by
+GUID=%3).
+Controleer of het OLE-besturingselement of de automatiseringsserver correct ge‹nstalleerd en geregistreerd is.
+@2@34@0@
+Sleutel HKEY_CLASSES_ROOT\%6 kon
+niet worden geopend in de registratie.
+@2@35@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De retourwaarde van het OLE-besturingselement of de automatiseringsserver (gegevenstype float)
+heeft een ongeldige indeling.
+Het OLE-besturingselement of de automatiseringsserver kan de opgegeven invoerparameters niet verwerken.
+Deze ongeldige retourwaarde wordt zeer waarschijnlijk door een deling door nul of een overloop veroorzaakt.
+@2@36@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De retourwaarde van het OLE-besturingselement of de automatiseringsserver (gegevenstype double)
+heeft een ongeldige indeling.
+Het OLE-besturingselement of de automatiseringsserver kan de opgegeven invoerparameters niet verwerken.
+Deze ongeldige retourwaarde wordt zeer waarschijnlijk door een deling door nul of een overflow veroorzaakt.
+@2@37@0@
+De methode AboutBox (Info) kon niet worden aangeroepen voor het OLE-besturingselement.
+
+GUID: %6
+@2@38@0@
+Het OLE-besturingselement kon niet worden geregistreerd.
+
+Pad: %2
+@2@39@0@
+Informatie over het OLE-besturingselement is met succes
+toegevoegd aan de systeemregistratie.
+
+Pad: %2
+@2@40@0@
+Het OLE-besturingselement kon niet worden verwijderd.
+
+Pad: %2
+@2@41@0@
+Informatie over het OLE-besturingselement is met succes
+verwijderd uit de systeemregistratie.
+
+Pad: %2
+@2@42@0@
+Het OLE-besturingselement kon niet worden geladen.
+
+Pad: %2
+@2@44@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+Een van de argumenten is een ongeldig VARIANT-type.
+@2@45@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De aanroep van functie %3 is mislukt. %2 gaf de volgende melding:
+%7
+@2@46@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+De gevraagde functie bestaat niet of de aanroep probeert de waarde
+aan te passen van een eigenschap die alleen-lezen is.
+@2@47@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+Deze implementatie van IDispatch ondersteunt geen benoemde argumenten.
+@2@48@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+Voor een van de argumenten kon het opgegeven type niet worden afgedwongen
+of er trad een overflow op.
+@2@49@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+Een van de parameterdispatch-id's correspondeert niet met een parameter
+van de methode.
+@2@50@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+Een of meerdere argumenten konden niet worden afgedwongen.
+@2@51@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+De in riid doorgegeven interface-id is niet IID_NULL.
+@2@52@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+De aangeroepen functie interpreteert tekenreeksargumenten volgens de
+locale-id (LCID), en de LCID is niet herkend.
+@2@53@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf de volgende
+melding:
+Een vereiste parameter is weggelaten.
+@2@54@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Functie %3 kan niet worden aangeroepen (Could not invoke the member %3). Het OLE-besturingselement of de automatiseringsserver gaf een onbekende
+foutmelding.
+@2@56@0@
+De opgegeven interface werd niet gevonden in de typebibliotheek.
+@2@57@0@
+De geselecteerde typebibliotheek kon niet geladen worden.
+@2@58@0@
+De typebibliotheek omvat meerdere interfaces met de opgegeven naam.
+Klik op de AssistEdit-knop om de juiste interface te selecteren.
+@2@59@0@
+Typebibliotheek %7 blijkt beschadigd te zijn.
+
+De desbetreffende toepassing opnieuw installeren kan het probleem mogelijk oplossen.
+@2@60@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Een leeg object kan niet toegekend worden.
+@2@61@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Ongeldige toekenning. Een %9 kan niet aan %8 toegekend worden.
+@2@62@0@
+Het OLE-control (GUID: %6) kon niet gecompileerd worden omdat het niet correct geregistreerd is.
+
+Registreer het OLE-besturingselement opnieuw met de menu-opdracht Extra, Aangepaste besturingselementen, Bladeren.
+@2@63@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Variabele is reeds gemaakt.
+@2@64@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Er is geen instance van de Automation-variabele gemaakt.
+U kunt een instance maken door de variabele te maken of toe te kennen.
+@2@65@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De tekenreeks
+"%7"
+is te lang en kan in C/AL niet gebruikt worden.
+@2@66@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Het OLE-besturingselement of de automatiseringsserver met identificatie
+%3
+eist een design time licentie. Deze licentie kan niet worden verkregen.
+Zorg ervoor dat het OLE-besturingselement of de automatiseringsserver correct en met de juiste licentie ge‹nstalleerd en geregistreerd wordt.
+@2@67@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De externe component leverde geen IID_IStream- of IID_ISequentialStream-interface voor de IUnknown-interface.
+@2@68@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De variant is leeg, u kunt geen waarde doorgeven.
+@2@69@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Er heeft zich een uitzondering voorgedaan in methode %3. Het OLE-besturingselement of de automatiseringsserver heeft fout (HRESULT) %7 geretourneerd.
+De component leverde verder geen omschrijving van de uitzondering.
+@2@70@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Kan %11.20 niet naar %10.20 converteren.
+De retourwaarde van parameter %7 in trigger
+'%6' valt mogelijk buiten het toegestane bereik van
+het OLE-besturingselement of de automatiseringsserver.
+@2@71@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+Typeconversie van %1 is niet mogelijk. Waarschijnlijk was %2 het doeltype.
+@2@END@0@
+
+
+// OCX_Type ---------------------------------------------------
+
+@1@36@0@
+@2@1@0@
+Het is mogelijk om de naam %3 om te zetten naar %4 GUID's.
+C/SIDE heeft %6 geselecteerd.
+@2@2@0@
+%3 wordt niet herkend als een GUID of als de naam van een OLE-besturingselement of automatiseringsserver.
+Controleer de schrijfwijze.
+@2@7@0@
+%3 wordt niet herkend als een GUID of als de naam van een automatiseringsserver.
+Controleer de schrijfwijze.
+@2@END@0@
+@1@165@0@
+@2@1@0@
+Het veldnummer is ongeldig. Een veldnummer moet liggen tussen %1 en %2.
+@2@2@0@
+Object %3 heeft een ongeldig versienummer.
+@2@3@0@
+Ongeldig datatype teruggekregen van %4. Datatype moet Integer zijn.
+@2@4@0@
+FIELDREF-variabele niet ge‹nitialiseerd.
+@2@5@0@
+RECORDREF-variabele niet ge‹nitialiseerd.
+@2@6@0@
+KEYREF-variabele niet ge‹nitialiseerd.
+@2@7@0@
+RECORDID-variabele niet ge‹nitialiseerd.
+@2@8@0@
+RECORDREF-variabele gebruikt tabel %1 - kan niet toegekend worden aan een RECORD-variabele van tabel %2.
+@2@9@0@
+Veldindex '%1' is buiten bereik (moet tussen %2 en %3 zijn).
+@2@10@0@
+Sleutelindex '%1' is buiten bereik (moet tussen %2 en %3 zijn).
+@2@11@0@
+Ongeldige tabelingang. De recordparameter is niet correct ge‹nitialiseerd.
+@2@12@0@
+De variabele RECORDREF is niet gesloten. U moet de variabele RECORDREF sluiten met CLOSE voordat u een nieuwe tabel opent.
+@2@13@0@
+Ongeldig gegevenstype voor veld als de eigenschap ExtendedDatatype is ingesteld op %1.
+
+Geldige datatypen zijn Integer, BigInteger en Decimal.
+@2@14@0@
+De variabele RECORDREF maakt gebruik van de tabel %1 - de functie GET kan niet worden gebruikt met een RecordID voor de tabel %2.
+@2@15@0@
+Het gegevenstype %20 is ongeldig wanneer de eigenschap Breedte is ingesteld.
+
+Geldige gegevenstypen zijn Tekst, Code, Geheel getal, BigInteger en Decimaal.
+@2@50@0@
+De naam van veldgroep %1 bevat spaties.
+@2@51@0@
+Er is in de veldgroepen meer dan ‚‚n definitie van id-nr. %1 aanwezig.
+@2@52@0@
+Er is in de veldgroepen meer dan ‚‚n definitie van Naam %1 aanwezig.
+@2@53@0@
+De naam van de veldgroep kan niet leeg zijn.
+@2@54@0@
+Kan geen tabelwijzigingen verwerken omdat de Microsoft Dynamics NAV Development Environment geen verbinding kan maken met het opgegeven Microsoft Dynamics NAV Server-exemplaar:
+
+Servernaam: %1
+Serverexemplaar: %2
+Beheerpoort: %3
+
+Microsoft Dynamics NAV Development Environment detecteert automatisch een actieve server.
+
+Controleer of:
+1. Microsoft Dynamics NAV Server wordt uitgevoerd;
+2. De beheerservice is geconfigureerd;
+3. De firewall is geopend voor de beheerpoort indien extern;
+4. De server actief is met slechts ‚‚n tenant;
+5. Microsoft Dynamics NAV Development Environment wordt uitgevoerd als beheerder, of
+6. UAC is uitgeschakeld.
+@2@55@0@
+De objecten uit het .fob-bestand zijn ge‹mporteerd, maar bevatten schemawijzigingen die niet naar de database kunnen worden gesynchroniseerd met het Microsoft Dynamics NAV Server-exemplaar.
+Neem contact met uw systeembeheerder op met de volgende gegevens:
+
+Servernaam: %1
+Serverexemplaar: %2
+Beheerpoort: %3
+
+Microsoft Dynamics NAV Development Environment detecteert automatisch een actieve server.
+
+Controleer of:
+1. Microsoft Dynamics NAV Server wordt uitgevoerd;
+2. De beheerservice is geconfigureerd;
+3. De firewall geopend is voor de beheerpoort indien extern;
+4. Microsoft Dynamics NAV Development Environment wordt uitgevoerd als beheerder, of
+5. UAC is uitgeschakeld.
+@2@56@0@
+De tabelwijzigingen zijn opgeslagen, maar bevatten schemawijzigingen die niet naar de database kunnen worden gesynchroniseerd met het Microsoft Dynamics NAV Server-exemplaar.
+Neem contact met uw systeembeheerder op met de volgende gegevens:
+
+Servernaam: %1
+Serverexemplaar: %2
+Beheerpoort: %3
+
+Microsoft Dynamics NAV Development Environment detecteert automatisch een actieve server.
+
+Controleer of:
+1. Microsoft Dynamics NAV Server wordt uitgevoerd;
+2. De beheerservice is geconfigureerd;
+3. De firewall geopend is voor de beheerpoort indien extern;
+4. Microsoft Dynamics NAV Development Environment wordt uitgevoerd als beheerder, of
+5. UAC is uitgeschakeld.
+@2@57@0@
+Kan geen tabelwijzigingen verwerken, omdat de aanvraag niet kan worden verwerkt door het opgegeven Microsoft Dynamics NAV Server-exemplaar:
+
+Servernaam: %1
+Serverexemplaar: %2
+Beheerpoort: %3
+
+Controleer of:
+1. Microsoft Dynamics NAV Server wordt uitgevoerd;
+2. Er slechts ‚‚n tenant op de server is ge‹nstalleerd.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  FO  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Form Object                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@81@0@
+@2@005@0@
+Het object %1 moet worden gecompileerd voordat dit kan worden uitgevoerd.
+@2@101@0@
+Dit is een ongeldig datatype voor 'Expression' in 'MenuItem'. Dit zou 'Boolean' moeten zijn.
+@2@102@0@
+Dit is een ongeldig datatype voor 'DataCaption'. Dit zou 'Text' moeten zijn.
+@2@103@0@
+Gegevensbesturingselementen moeten een expressie hebben.
+@2@104@0@
+Eigenschap '%10' moet aanwezig zijn.
+@2@105@0@
+Dit is een ongeldig datatype voor '%10'. Het datatype moet 'Text' zijn.
+@2@120@0@
+Dit is een ongeldig type van de primaire sleutel voor de autosplitkey-faciliteit. Dit zou 'Integer/BigInteger/Decimal/GUID' moeten zijn.
+@2@121@0@
+De autosplitkey-faciliteit kan geen sleutelwaarde vinden tussen het huidige en het vorige record.
+@2@130@0@
+De opgegeven tabel (%3) verschilt van de tabel die door het scherm wordt gebruikt (%4).
+@2@131@0@
+Er kan geen subform binnen een subform worden geopend.
+@2@132@0@
+Het scherm is al uitgevoerd. Gebruik de functie CLEAR(Scherm).
+@2@133@0@
+Het scherm is niet open.
+@2@134@0@
+Het scherm kan niet worden geactiveerd.
+@2@135@0@
+Er is niet opgegeven welk object uitgevoerd moet worden (als de 'RunObject' actie wordt gebruikt, moet u ook een object opgeven).
+@2@136@0@
+Een subform kan niet worden uitgevoerd.
+@2@137@0@
+Eigenschap RunFormOnRec is alleen toegestaan als de SourceTable en DestTable identiek zijn.
+In dit geval is SourceTable: %7 en DestTable: %8.
+@2@138@0@
+U kunt een formulier (form) niet uitvoeren vanaf de Application Server.
+
+Formulier: %2
+@2@200@0@
+Het schermobject %1 heeft een ongeldige versie.
+@2@400@0@
+%5 is een ongeldig MenuLevel (moet liggen tussen 0 en 9).
+@2@401@0@
+MenuLevel moet slechts 1 groter zijn dan de voorgaande.
+
+In dit geval is het nieuwe MenuLevel '%5' terwijl het oude MenuLevel '%6' was.
+@2@402@0@
+De besturingselement-id %9 is gebruikt.
+@2@403@0@
+De breedte en hoogte van het scherm moet liggen tussen 0 en 100,000 [1/100 mm].
+@2@404@0@
+Het eerste MenuLevel is 0.
+@2@500@0@
+Er is geen standaard opmaakmodel voor het programma waar u naartoe exporteert.
+
+Neem contact op met de systeembeheerder.
+@2@501@0@
+Het te starten programma is niet gedefinieerd in de tabel '%1'.
+
+Neem contact op met de systeembeheerder.
+@2@502@0@
+De parametertekenreeks '%1' voor het programma '%2' is ongeldig. 
+
+Neem contact op met de systeembeheerder.
+@2@503@0@
+Het programma '%1' kan niet op uw computer worden gevonden. 
+
+Neem contact op met de systeembeheerder.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  RE  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Report Object                                                           ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@71@0@
+@2@200@0@
+Dit is een ongeldige versie van rapportobject %1.
+@2@203@0@
+Eigenschap '%4' moet worden opgegeven.
+@2@300@0@
+Het rapport %5 heeft geen DataItem dat tabel (%2) gebruikt zoals opgegeven is in de functie SetTableView.
+@2@301@0@
+Het rapport is al uitgevoerd. Gebruik de functie CLEAR(Rapport).
+@2@302@0@
+Voor het eerste DataItem moet gelden DataItemIndent=0.
+@2@303@0@
+Eigenschap DataItemIndent voor een DataItem mag slechts 1 groter zijn dan op de voorgaande DataItem.
+@2@304@0@
+Er is geen DataItem genaamd '%6'.
+@2@305@0@
+Besturingselement-id %7 is reeds gebruikt.
+@2@306@0@
+De waarde %10 voor de Control-eigenschap DataSetFieldName wordt al gebruikt.
+@2@307@0@
+De eigenschap DataItemIndent voor een DataItem-object kan geen negatieve waarde bevatten.
+@2@308@0@
+De eigeschap MaxIteration voor een DataItem-object kan geen negatieve waarde bevatten.
+@2@309@0@
+De padlengte van DataItems heeft de grootte van de toegewezen buffer overschreden als gevolg van de niveaus van geneste DataItems. Ontwerp de gegevensset opnieuw en reduceer de complexiteit ervan en het aantal geneste DataItems.
+@2@310@0@
+Alle DataItems in het ontwerp moeten een naam hebben wanneer het rapport een Word-lay-out heeft.
+@2@311@0@
+Er is een lege Word-lay-out in het rapport gemaakt met een XML-onderdeel voor de huidige gegevensset.
+@2@312@0@
+De eigenschap WordMergeDataItem is ingesteld op DataItem '%6'. Alleen gegevensitems met DataItemIndent=0 kunnen worden opgegeven in WordMergeDataItem.
+@2@313@0@
+De eigenschap WordMergeDataItem is ingesteld op DataItem '%6', maar deze bestaat niet.
+@2@400@0@
+Er kunnen slechts %3 FlowFields worden toegevoegd.
+@2@402@0@
+Een rapport met de eigenschap 'ProcessingOnly=Ja' kan niet worden afgedrukt.
+@2@403@0@
+De aangeroepen functie kan alleen worden aangeroepen vanaf een DataItem trigger.
+@2@404@0@
+De aangeroepen functie kan alleen worden aangeroepen vanaf een Sectie trigger.
+@2@405@0@
+De aangeroepen functie kan alleen worden aangeroepen vanaf een DataItem of Sectie trigger.
+@2@406@0@
+Velden die zijn opgegeven in de TotalFields eigenschap moeten van het type decimaal zijn. Veld %2.1 in tabel %1.1 is geen decimaal.
+@2@502@0@
+De breedte van een sectie kan niet kleiner zijn dan het kader rondom alle besturingselementen in alle secties.
+@2@503@0@
+De hoogte van een sectie kan niet kleiner zijn dan het kader rondom alle besturingselementen in die sectie.
+@2@600@0@
+Deze lijst kan niet afgedrukt worden vanuit het Afdrukvoorbeeld. Sluit het Afdrukvoorbeeld af en start de lijst opnieuw.
+@2@601@0@
+Wijziging van de printer, het papierformaat of de afdrukstand heeft gevolgen voor het afdrukbare gebied van de lijst.
+Dat kan ook gevolgen hebben voor de visuele weergave van de lijst.
+
+Wilt u doorgaan met afdrukken?
+@2@602@0@
+U kunt pas afdrukken vanuit het Afdrukvoorbeeld als het rapport is aangemaakt.
+@2@603@0@
+U kunt geen lijsten met een Request Form op Application Server uitvoeren vanuit Microsoft Dynamics NAV.
+@2@604@0@
+U kunt geen verschillende brontabellen gebruiken voor het aanvraagformulier en de aanvraagpagina.
+@2@700@0@
+Ongeldige XML-rapportaanvraag
+@2@701@0@
+U kunt geen indelingen (RDLC-bestanden) importeren die groter zijn dan %8 byte.
+@2@703@0@
+Interne fout: %1
+@2@704@0@
+Het is niet mogelijk om Microsoft.Dynamics.Nav.DotNetBridge.dll te instanti‰ren.
+@2@705@0@
+Het RDLC-bestand is geen goed gevormd XML-document. 
+
+Gedetailleerde omschrijving: %9
+@2@706@0@
+Het is niet mogelijk het rapport te openen voor bewerken. 
+
+Gedetailleerde omschrijving: %9
+@2@707@0@
+Kan de map ReportLayout niet kopi‰ren. 
+
+Uitgebreide beschrijving: %9
+@2@708@0@
+Het is niet mogelijk de indeling te bewerken met de Report Designer.
+
+Gedetailleerde omschrijving: %9
+@2@709@0@
+De opgegeven metagegevens zijn ongeldig.
+@2@710@0@
+Kan geen gegevensset maken met de opgegeven metagegevens.
+@2@711@0@
+De tijdelijke lijstmap is niet geleegd.
+@2@712@0@
+Het RDLC-bestand valideert het eigen schema niet. De bewerking is mislukt.
+@2@713@0@
+Het RDLC-bestand heeft niet de juiste indeling.
+@2@714@0@
+Kan de huidige tijdelijke lijstoplossingsmap niet legen.
+@2@715@0@
+Fout bij het maken van een nieuw tijdelijk bestand.
+@2@716@0@
+Fout bij het verwijderen van een tijdelijk bestand.
+@2@717@0@
+Kan het aanvraagformulier niet transformeren: %9
+@2@718@0@
+Een fout verscheen bij aanroepen van Microsoft.Dynamics.Nav.DotNetBridge.dll.
+@2@719@0@
+Er is een fout opgetreden bij het transformeren van het aanvraagformulier.
+@2@720@0@
+De lijst bevat geen besturingselementen en kan niet worden getransformeerd.
+@2@721@0@
+Fout bij valideren van RDL-inhoud:
+%9
+@2@722@0@
+Er is een fout verschenen bij het openen van Report Designer. Er is geen ondersteunde versie van Visual Studio gevonden.
+@2@723@0@
+Lijsten van het type ProcessingOnly mogen geen lay-out bevatten, zoals een RDL-gegevensonderdeel.
+@2@724@0@
+Deze lijst heeft een verwijzing naar een veld dat niet in de gegevensset bestaat.%9
+U kunt de gegevensset opnieuw maken door de lijstlay-out te openen en op te slaan en de lijst opnieuw te compileren in C/SIDE.
+@2@725@0@
+De RDLC-lijstafbeelding %9 is als extern gedefinieerd. De eigenschap EnableExternalImages is niet ingesteld.
+@2@726@0@
+Het RDLC-lijstbesturingselement %9 bevat een externe koppeling. De eigenschap EnableHyperlinks is niet ingesteld.
+@2@727@0@
+Een lijst-RDLC %9 bevat een externe koppeling. De eigenschap EnableHyperlinks is niet ingesteld.
+@2@728@0@
+Kan de map ReportLayout niet vinden: %9
+@2@729@0@
+Microsoft Dynamics NAV-ontwikkelomgeving en de Report Designer moeten worden uitgevoerd met dezelfde rechten: %9
+@2@730@0@
+De rapportindeling is momenteel geopend in de Report Designer. U moet het venster Report Designer sluiten voordat u het rapportobject sluit.
+@2@731@0@
+U kunt geen DataSet-rapport uitvoeren zonder indeling.
+@2@732@0@
+Kan standaard-RDL niet ophalen: %9
+@2@733@0@
+De rapportindeling is reeds geopend in de Report Designer.
+@2@734@0@
+De lijst bevat een referentie naar een externe assemblage. Schakel de eigenschap EnableExternalAssemblies in voor het lijstobject of verwijder de referentie naar de externe assemblage in de lay-out.
+@2@735@0@
+Het bestand dat u probeert te importeren is niet gebaseerd op het RDL 2010-schema. U moet het upgraden naar het RDL 2010-schema.
+@2@736@0@
+Het rapport wordt niet ondersteund en u moet het upgraden voordat u het kunt wijzigen of weergeven.
+@2@737@0@
+Rapporten van het type ProcessingOnly mogen geen Word-lay-out bevatten.
+@2@738@0@
+Als u rapporten wilt upgraden, moet u Microsoft SQL Server 2014 Report Builder 3.0 hebben ge‹nstalleerd.
+@2@739@0@
+Kan Microsoft SQL Server 2014 Report Builder 3.0 niet initialiseren: %9
+Controleer of Report Builder 3.0 juist is ge‹nstalleerd.
+@2@740@0@
+Kan geen upgrade van RDL uitvoeren op %1.
+%9
+@2@741@0@
+Kan geen RDL op %1 maken.
+%9
+@2@742@0@
+%1 moet worden gecompileerd voordat er een upgrade kan worden uitgevoerd
+@2@743@0@
+Lijst RDLC '%9' BackgroundImage is als extern gedefinieerd. De eigenschap EnableExternalImages is niet ingesteld.
+@2@744@0@
+Er is een fout verschenen bij het openen van de Report Designer. Er is geen ondersteunde versie van Report Builder gevonden.
+@2@745@0@
+DefaultLayout is ingesteld op Word, maar er is geen Word-lay-out gedefinieerd voor het rapport.
+@2@800@0@
+De eerste regel moet een DataItem zijn.
+@2@801@0@
+De eerste regel moet een inspringing hebben die gelijk is aan 0.
+@2@802@0@
+De hoofdregel moet een DataItem zijn.
+@2@804@0@
+De naamwaarde moet uniek zijn. Er bestaat al een andere kolom of een ander label met Naam '%6'.
+@2@805@0@
+Gegevensbron of SourceExpr mag niet leeg zijn.
+@2@807@0@
+De id-waarde moet uniek zijn. Er bestaat al een ander DataItem, andere Column of ander Label met id '%7'.
+@2@808@0@
+Gegevensbron of SourceTable mag niet leeg zijn.
+@2@809@0@
+De naam %6 bevat een of meer tekens die niet kunnen worden gebruikt omdat deze niet voldoet aan de Common Language Specification. Het eerste teken moet een letter zijn. Volgende tekens kunnen elke combinatie van letters, gehele getallen en onderstrepingstekens zijn. 
+@2@810@0@
+'%11' is geen geldig kolomtype.
+@2@812@0@
+Maximaal inspringniveau voor DataItems is %12.
+@2@813@0@
+Het veld Naam '%6' is te lang.
+
+De maximale lengte voor het veld Naam is %13 tekens.
+@2@814@0@
+Voor kolom is ingesteld dat een bijschrift moet worden opgenomen, maar de kolom heeft geen bron die een benoemd veld is. Een bijschrift voor deze kolom kan met de labelontwerper worden gemaakt.
+@2@816@0@
+Met ParentDataItem wordt geen geldig DataItem aangewezen.
+@2@817@0@
+Met ParentColumn wordt geen geldige kolom aangewezen.
+@2@818@0@
+Het Word-lay-outdocument is leeg.
+@2@819@0@
+Het Word-lay-outdocument is te groot.
+@2@820@0@
+Het Word-lay-outdocument is verkeerd gevormd. Kan het document niet lezen.
+@2@821@0@
+Kan geen nieuw Word-lay-outdocument maken voor de huidige rapport-lay-out.
+@2@822@0@
+Kan gegevensbindingen in het Word-lay-outdocument niet hernoemen of bijwerken.
+@2@823@0@
+Update van Word-lay-outdocument mislukt met de volgende fout:
+
+%9
+@2@824@0@
+Validatie van Word-lay-outdocument mislukt met de volgende fout:
+
+%9
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	AB  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Application Base                                                        ³
+// ³                                                                          ³
+// ³  NOTE: Message 1004 is intended for use in the event viewer,             ³
+// ³        message 1005 for use in the console.                              ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@205@0@
+@2@100@0@
+U moet opgeven met welke server en/of database u een verbinding wilt maken wanneer u Application Server for Microsoft Dynamics NAV opstart.
+
+De handleiding Installation and System Management bevat een overzicht van de correcte programma-eigenschappen.
+@2@101@0@
+U moet opgeven met welke SQL-server en/of database u een verbinding wilt maken wanneer u Application Server for Microsoft Dynamics NAV opstart.
+
+De handleiding Installation and System Management bevat een overzicht van de correcte programma-eigenschappen.
+@2@102@0@
+U moet opgeven welk bedrijf u wilt openen wanneer u Application Server for Microsoft Dynamics NAV opstart.
+
+De handleiding Installation and System Management bevat een overzicht van de correcte programma-eigenschappen.
+@2@103@0@
+U moet een parameter voor Codeunit 1 Trigger 99 opgeven. Deze trigger wordt uitgevoerd bij het opstarten van Application Server for Microsoft Dynamics NAV.
+
+De handleiding Installation and System Management bevat een overzicht van de correcte programma-eigenschappen.
+@2@110@0@
+Trigger 99 in Codeunit 1 bestaat niet.
+
+Deze trigger moet uitgevoerd worden om verbinding met de Message Bus te maken.
+@2@120@0@
+Het programma kon Application Server for Microsoft Dynamics NAV niet afsluiten.
+@2@121@0@
+Application Server for Microsoft Dynamics NAV %1 kan niet worden ge‹nitialiseerd.
+De server probeert het iedere %2 seconden opnieuw, totdat de initialisering slaagt.
+
+@2@122@0@
+Application Server for Microsoft Dynamics NAV %1 wordt afgesloten.
+Wijziging van de configuratie naar de volgende nieuwe instellingen was niet mogelijk:
+  Servernaam = %2
+  Database = %3
+  Bedrijf = %4
+  Opstartparameter = %5
+@2@130@0@
+Deze computer heeft %2 processor. U bent enkel gemachtigd om VIP Application Server voor Microsoft Dynamics NAV uit te voeren op een computer met %1 processor.
+@2@200@0@
+Kan doel "%1" niet vinden.
+@2@201@0@
+URL te lang:
+"%1%2..."
+@2@202@0@
+Dit is geen hyperlink van Microsoft Dynamics NAV Development Environment:
+"%1".
+@2@203@0@
+De context van de hyperlink stemt niet overeen met de huidige context van Microsoft Dynamics NAV Development Environment.
+URL-context:
+ Servernaam = %1
+ Database = %2
+ Bedrijf = %3
+ Servertype = %4
+Huidige context:
+ Servernaam = %5
+ Database = %6
+ Bedrijf = %7
+ Servertype = %8
+@2@204@0@
+U kunt het Navision-protocol niet gebruiken om schermen uit te voeren.
+@2@300@0@
+Microsoft Dynamics NAV Development Environment wordt niet ondersteund in dit besturingssysteem.
+@2@1000@0@
+De installatie van Application Server for Microsoft Dynamics NAV %1 als service is geslaagd.
+
+@2@1001@0@
+De bestaande service, Application Server for Microsoft Dynamics NAV %1, is verwijderd.
+
+@2@1003@0@
+Application Server for Microsoft Dynamics NAV version 8.00 (Build 38206)
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+@2@1004@0@
+Application Server for Microsoft Dynamics NAV %1 is opgestart met de volgende configuratie:
+  Databaseservernaam = %2
+  Database = %3
+  Bedrijf = %4
+  Opstartparameter = %5
+@2@1005@0@
+Application Server for Microsoft Dynamics NAV %1 is opgestart met de volgende configuratie:
+  Databaseservernaam = %2
+  Database =  %3
+  Bedrijf = %4
+  Opstartparameter = %5
+
+Druk op ESC om Application Server for Microsoft Dynamics NAV %1 af te sluiten.
+
+@2@1006@0@
+De vorige %1 gerapporteerde events waren identiek.
+
+Om het logsysteem niet te overbelasten, worden identieke events nog enkel geregistreerd, indien er een verschillend event aan voorafgaat.
+@2@1007@0@
+Application Server for Microsoft Dynamics NAV wordt afgesloten zodra de huidige aanvraag volledig verwerkt is.
+
+@2@1020@0@
+Application Server for Microsoft Dynamics NAV %1 is afgesloten.
+
+@2@1021@0@
+Application Server for Microsoft Dynamics NAV %1 is hersteld met de volgende configuratie en is nu volledig operationeel.
+  Databaseservernaam = %2
+  Database = %3
+  Bedrijf = %4
+  Opstartparameter = %5
+@2@1022@0@
+Verwerken van aanvraag om Application Server for Microsoft Dynamics NAV %1 opnieuw te configureren...
+
+@2@1023@0@
+De configuratie van Application Server for Microsoft Dynamics NAV %1 werd gewijzigd naar de volgende instellingen:
+  Databaseservernaam = %2
+  Database = %3
+  Bedrijf = %4
+  Opstartparameter = %5
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´	DS -> AB ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ                                                            ³
+// ³                                                                          ³
+// ³  Texts moved from DS to AB             						                      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@1@0@
+De programmaparameter '%1' is onbekend.
+
+De handleiding Installation and System Management bevat een overzicht van de correcte programmaparameters.
+@2@2@0@
+Er moet een waarde voor de programmaparameter '%1' worden opgegeven.
+
+De handleiding Installation and System Management bevat een overzicht van de correcte programmaparameters.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´	DS  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Development System						      ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@200@0@
+@2@20@0@
+Code: '%1' -> Verdeler -> Distributeur -> Producent -> Wachtwoord: '%2'.
+
+Neem contact op met uw verdeler en geef hem/haar bovenstaande code. U ontvangt dan een wachtwoord dat eenmalig kan worden gebruikt.
+
+Belangrijk! Verlaat het aanmeldingsvenster NIET voordat het nieuwe wachtwoord is ingevoerd. De volgende poging vereist een ander wachtwoord.
+@2@21@0@
+Ongeldig wachtwoord.
+@2@80@0@
+De logische naam %1 bestaat reeds. U dient unieke namen voor de logische data- en transactielogbestanden op te geven.
+@2@81@0@
+U kunt het primaire data- of transactielogbestand %1 niet uit de database verwijderen.
+@2@83@0@
+Er is geen licentiebestand geladen.
+@2@84@0@
+U moet een logische naam voor alle data- en transactielogbestanden opgeven.
+@2@85@0@
+U moet een sorteringsomschrijving opgeven voor de database op het tabblad Sortering.
+@2@110@0@
+Onbekende Windows-gebruiker.
+@2@111@0@
+Gebruiker bestaat reeds.
+@2@120@0@
+Uw licentie laat niet toe de User Portal Application Server te starten. Neem contact op met de systeembeheerder.
+@2@121@0@
+User Portal Application Server kan de beveiligingsdescriptor voor de named pipe-gebruiker niet toewijzen.
+@2@122@0@
+User Portal Application Server kan de beveiligingsdescriptor voor de named pipe-gebruiker niet initialiseren.
+@2@123@0@
+User Portal Application Server kan de beveiligingsdescriptor voor de named pipe-gebruiker niet instellen.
+@2@124@0@
+User Portal Application Server kan de named pipe niet maken.
+@2@125@0@
+User Portal Application Server kan de named pipe-gebruiker niet imiteren.
+@2@126@0@
+User Portal Application Server kan niet terugkeren van de imitatie van de named pipe-gebruiker.
+@2@130@0@
+De update wordt nu be‰indigd.
+
+Het updatebestand voor update-id '%1' is niet geldig, of u hebt de update geannuleerd.
+@2@131@0@
+De installatie van update-id '%1' is mislukt. De update wordt nu be‰indigd.
+@2@132@0@
+Er kan geen reservekopie van de database worden gemaakt. De update wordt gestopt omdat u  de update pas kunt installeren als er een reservekopie van de database is gemaakt.
+
+Start Microsoft Dynamics NAV Development Environment opnieuw als u een reservekopie wilt maken en de update wilt installeren.
+@2@301@0@
+Copyright (c) Microsoft Corporation. Alle rechten voorbehouden.
+@2@400@0@
+Dit is de eerste keer dat u een koppeling activeert naar de volgende bestemming:
+
+Server: %1
+Database: %2
+
+Houd er rekening mee dat u toegang zou kunnen krijgen tot code die uw computer mogelijk zou kunnen 
+beschadigen.
+
+Vertrouwt u deze bestemming?
+@2@600@0@
+De Microsoft Dynamics NAV Development Environment-client is geopend vanuit een onbetrouwbare component.
+
+Neem contact op met de systeembeheerder.
+@2@701@0@
+Er zijn geen %1 exemplaren beschikbaar voor deze database. U moet ervoor zorgen dat een %1 exemplaar actief is en is geconfigureerd om de database te gebruiken voordat deze activiteit wordt uitgevoerd.
+@2@702@0@
+U moet een URL van een Azure-instantie opgeven in de eigenschap Server Instance voordat u deze activiteit uitvoert. Ga hiertoe naar het menu Extra en kies Opties.
+@2@703@0@
+De URL voor het exemplaar moet de notatie <servernaam>:<poort>/<serverexemplaar> hebben. Klik in het menu Extra op Opties.
+@2@800@0@
+De opdracht "%1" is niet geldig.
+@2@801@0@
+U moet de parameter '%22' opgeven voor de opdracht '%1'.
+@2@802@0@
+Parameter "%1" is niet geldig.
+@2@803@0@
+Het bestand %1 moet de bestandsextensie .fob of .txt hebben.
+@2@804@0@
+U moet het filter '%1' als volgt defini‰ren: field1=expression; ... fieldn=expression.
+@2@805@0@
+De parameter "%1" moet worden opgegeven en een waarde van "Nee" hebben als u de parameters "%13" en "%22" wilt gebruiken.
+@2@806@0@
+U moet de parameter "%1" opgeven als de parameter "%22" "Nee" is.
+@2@807@0@
+Er heeft zich een fout voorgedaan tijdens de analysefase voorafgaand aan de database-upgrade. 
+
+Corrigeer voordat u doorgaat met upgraden met behulp van Microsoft Dynamics NAV 2013 Development Environment de fouten die voorkomen op de foutenlijst.
+@2@808@0@
+Het bestand .fob kan niet worden ge‹mporteerd. Lijst-id %2 moet worden geconverteerd naar een gegevenssetrapport voordat deze kan worden ge‹mporteerd.
+
+Converteer de lijst met behulp van Microsoft Dynamics NAV 2013 Development Environment voordat u deze opnieuw gaat importeren.
+@2@809@0@
+Lijst %1 is geen gegevenssetrapport.
+@2@810@0@
+XMLport ID %2 kan niet worden gecompileerd na de upgrade.
+@2@900@0@
+Servertoepassingsobjecten zijn gemaakt.
+@2@901@0@
+Servertoepassingsobjecten zijn gemaakt met fouten in sommige objecten. Gebruik het foutenoverzicht om alle fouten te bekijken.
+@2@902@0@
+Er is op het moment geen gegevensupgrade bezig.
+@2@903@0@
+U kunt de gegevensupgrade niet hervatten, omdat het huidige proces niet is opgeheven.
+@2@904@0@
+Er is momenteel een gegevensupgrade bezig. Stop het huidige proces voordat u een nieuw proces start.
+@2@1000@0@
+Er zijn geen tabelwijzigingen waarvoor synchronisatie is vereist.
+@2@1001@0@
+Met Microsoft Dynamics NAV-server wordt de validatie van alle tabelwijzigingen uitgevoerd zonder deze toe te passen op de bijbehorende SQL-tabellen. Als tijdens de validatie wordt gedetecteerd dat enkele wijzigingen niet kunnen worden toegepast zonder gegevens te verwijderen in de betrokken velden of tabellen, wordt een foutbericht weergegeven. 
+
+Als u niet wilt doorgaan, blijven de tabelwijzigingen ongesynchroniseerd en kunnen de gebruikers er niet mee werken. Afhankelijk van het aantal en de grootte van de gewijzigde tabellen, kan dit proces enkele minuten duren.   
+
+Wilt u doorgaan?
+@2@1002@0@
+Met Microsoft Dynamics NAV-server wordt de validatie van alle tabelwijzigingen uitgevoerd en gesynchroniseerd met de bijbehorende SQL-tabellen. Als tijdens de validatie wordt gedetecteerd dat enkele wijzigingen niet kunnen worden toegepast zonder gegevens te verwijderen in de betrokken velden of tabellen, wordt een foutbericht weergegeven en wordt geen enkele wijziging gesynchroniseerd. 
+
+Als u niet wilt doorgaan, blijven de tabelwijzigingen ongesynchroniseerd en kunnen de gebruikers er niet mee werken. Afhankelijk van het aantal en de grootte van de gewijzigde tabellen, kan dit proces enkele minuten tot enkele uren duren.   
+
+Wilt u doorgaan?
+@2@1003@0@
+Met Microsoft Dynamics NAV-server wordt alle tabelwijzigingen geforceerd gesynchroniseerd met de bijbehorende SQL-tabellen. Omdat geen validatie van de wijzigingen wordt uitgevoerd, kan voor het synchroniseren ervan gegevens worden verwijderd uit de betrokken velden of tabellen. 
+
+Als u niet wilt doorgaan, blijven de tabelwijzigingen ongesynchroniseerd en kunnen de gebruikers er niet mee werken. Afhankelijk van het aantal en de grootte van de gewijzigde tabellen, kan dit proces enkele minuten tot enkele uren duren.   
+
+Wilt u doorgaan?
+@2@1004@0@
+All table schema changes validated correctly. You can synchronize changes with no risk of deleting data.
+@2@1005@0@
+All table schema changes synchronized with force.
+@2@END@0@
+// Module XMLPort
+
+@1@210@0@
+@2@1@0@
+Ongeldige versie van XMLport-object: %1.
+@2@2@0@
+Ongeldige MagicNo van XMLport-object: %1.
+@2@3@0@
+Het object %1 moet worden gecompileerd voordat dit kan worden uitgevoerd.
+@2@8@0@
+Codering %13 wordt niet ondersteund.
+@2@9@0@
+Id-nummer %12 van Tag '%6' wordt gebruikt door Regel %7. Dit moet uniek zijn.
+@2@10@0@
+Inspringing van hoofdelement moet 0 zijn.
+@2@11@0@
+Het verschil in inspringing tussen Tag '%6' en de bovenliggende tag is meer dan 1.
+@2@12@0@
+Gegevenstype %10 van SourceExpr kan niet worden ge‰valueerd als tekenreeks.
+@2@13@0@
+Tabel %5 bestaat niet.
+@2@14@0@
+Veld is niet toegewezen aan een geldige TableVariableName.
+@2@15@0@
+De opgegeven tabelnaam %14 moet hetzelfde zijn als de bovenliggende tabelnaam %5.
+@2@16@0@
+Prefix voor naamruimte %16 is al gedeclareerd.
+@2@17@0@
+'%24' wordt verwacht in %21 op positie %23.
+@2@18@0@
+'%24' is een gereserveerd woord in %21 op positie %23.
+@2@19@0@
+Ongeldig beginteken naamruimte.
+%21
+@2@20@0@
+Ongeldig naamruimteteken op positie %22.
+%21
+@2@21@0@
+Aanhalingstekens kloppen niet op positie %22 in %23.
+%21
+@2@22@0@
+Aanhalingstekens ontbreken op positie %22 in %23.
+%21
+@2@23@0@
+Het teken ':' ontbreekt in %23.
+%21
+@2@24@0@
+Het teken '=' ontbreekt in %23.
+%21
+@2@25@0@
+Het enkele aanhalingsteken ' kan niet in %21 worden weergegeven.
+De tekst staat tussen enkele aanhalingstekens.
+@2@26@0@
+Het dubbele aanhalingsteken " kan niet in %21 worden weergegeven.
+De tekst staat tussen dubbele aanhalingstekens.
+@2@27@0@
+Bestemmingsbuffer is te klein.
+@2@28@0@
+Linkerhaakje '(' ontbreekt in %21 op positie %22.
+@2@29@0@
+Rechterhaakje ')' ontbreekt in %21 op positie %22.
+@2@30@0@
+Veld %15 is geen geldig veld van Tabel %14.
+@2@31@0@
+NamespacePrefix %16 is niet gedeclareerd.
+@2@32@0@
+Min Occurs kan alleen 0 of 1 zijn.
+Waarde %26.
+@2@33@0@
+Max Occurs moet groter zijn dan 1.
+Waarde %25.
+@2@34@0@
+Max Occurs van Veld kan alleen 0 of 1 zijn.
+Waarde %25.
+@2@35@0@
+Tabel SourceType voor Tag <%6> kan alleen worden toegewezen aan het element TagType.
+@2@36@0@
+Geen brontabel gedefinieerd voor Tag <%6>.
+@2@37@0@
+Geen XML TagName gedefinieerd.
+@2@38@0@
+Attribuut '%6' moet zijn ingesprongen onder het bovenliggende element.
+@2@39@0@
+Attribuut '%6' moet dezelfde inspringing hebben als het voorgaande attribuut.
+@2@40@0@
+Inspringing moet tussen 0 en %7 liggen.
+@2@41@0@
+Alleen het hoofdelement kan de inspringing 0 hebben.
+@2@42@0@
+Geen gegevensbron gedefinieerd voor Tag <%6>
+@2@43@0@
+U moet een tabelgegevensbron opgeven voordat u een veldgegevensbron kunt selecteren.
+@2@44@0@
+Ongeldige codenaam.
+@2@45@0@
+De naam van de XML-code mag geen spaties bevatten.
+@2@46@0@
+Voor tag <%6> zijn zowel AutoReplace- als AutoUpdate-eigenschappen ingeschakeld. Schakel beide eigenschappen uit of kies AutoUpdate of AutoReplace.
+@2@51@0@
+Element <%6> kan niet worden gevonden via objectbeschrijving.
+@2@52@0@
+Vernietiging van onderliggend element mislukt.
+@2@53@0@
+Naamruimte %17 is niet gedefinieerd bij object.
+@2@54@0@
+Gegevens conflicteren met de instelling LinkTable en LinkFields van Tabel %14.
+@2@55@0@
+XML-parser retourneert de volgende fout:
+%21
+@2@56@0@
+XML-parser retourneert de volgende onherstelbare fout:
+%21
+@2@57@0@
+Installatie van XML-parser is mislukt.
+%21
+@2@58@0@
+Attribuut <%6> verboden in objectbeschrijving.
+@2@59@0@
+Attribuut <%21> is vereist en komt niet overeen met Attribuut <%6>.
+@2@60@0@
+Het element <%6> kwam meerdere keren voor.
+@2@61@0@
+Element <%21> wordt verwacht door de waarde Min Occurs: %26.
+Element ontvangen: <%6>. 
+@2@62@0@
+Element <%6> wordt niet verwacht.
+@2@63@0@
+Attribuut <%6> wordt niet verwacht.
+@2@64@0@
+Onbekende bronsoort voor Element <%6>.
+@2@65@0@
+%4 XMLport heeft geen XMLItem dat de tabel (%2) gebruikt die is opgegeven in de functie SetTableView.
+@2@66@0@
+Waarde "%21" heeft de lengte %27. Dit is langer dan de max. grootte van het soort bestemming %20.
+@2@67@0@
+XMLport "%4" is uitsluitend voor export ontworpen.
+@2@68@0@
+XMLport "%4" is uitsluitend voor import ontworpen.
+@2@69@0@
+Onderliggende elementen worden hier niet ondersteund.
+@2@70@0@
+Een element met brontype Tabel kan geen onderliggende elementen van het type Tabel hebben.
+@2@71@0@
+Als het hoofdelement het brontype Tekst heeft, moeten alle andere elementen het brontype Tabel hebben.
+@2@72@0@
+Als de XMLport-indeling Fixed Text is gekozen, moet de eigenschap Width groter zijn dan 0 op alle Veld- en Tekst-elementen.
+@2@73@0@
+Als een element het brontype Tabel heeft, kan het geen onderliggende elementen hebben.
+@2@74@0@
+Als u de XMLport-indeling Fixed Text of Variable Text kiest, moet het hoofdelement het brontype Tekst hebben.
+@2@75@0@
+MinOccurs moet groter dan nul zijn voor een element als UseLax is ingeschakeld.
+@2@76@0@
+Het element <%6> heeft een onverwacht onderliggend element.
+@2@77@0@
+De eigenschap ïUnboundï kan alleen worden ingesteld op het laatste knooppunt van de XMLPort.
+@2@END@0@
+// Module MenuSuite
+
+@1@220@0@
+@2@1@0@
+Bestemmingsbuffer is te klein.
+@2@200@0@
+Dit is een ongeldige MenuSuite van rapportobject %1.
+@2@201@0@
+Ongeldig MagicNo van MenuSuite-object: %1.
+@2@202@0@
+Voor een MenuSuite voor de Classic-client worden de volgende typen ondersteund:
+
+Tabel, Scherm, Lijst, Datapoort en Codeunit.
+@2@203@0@
+Voor een MenuSuite voor de Rolgerichte client worden de volgende typen ondersteund:
+
+Tabel, Lijst, Codeunit, XMLport en Pagina.
+@2@204@0@
+MenuItem %1 voor de rolgerichte client moet een afdelingscategorie hebben.
+@2@END@0@
+//   ÚÄÄÄÄÄÄ¿
+// ÚÄ´  Page  ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÙ                                                                 ³
+// ³                                                                          ³
+// ³  Module Page                                                             ³
+// ³                                                                          ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@214@0@
+@2@10@0@
+Inspringing moet tussen 0 en %4 liggen.
+@2@11@0@
+De Container-inspringing moet 0 zijn.
+@2@12@0@
+Het eerste besturingselement moet een Container zijn.
+@2@13@0@
+Het inspringverschil tussen besturingselement '%6' en het bovenliggende element is meer dan 1.
+@2@14@0@
+Een inspringing na het besturingselement '%6' is niet toegestaan.
+@2@15@0@
+Het besturingselement %6 kan niet op hetzelfde niveau als de container worden geplaatst.
+@2@20@0@
+De ActionContainer-inspringing moet 0 zijn.
+@2@21@0@
+Een inspringing na de actie '%6' is niet toegestaan.
+@2@22@0@
+Action en ActionGroup kunnen zich niet op hetzelfde niveau als ActivityButton bevinden.
+@2@23@0@
+ActionContainers voor CueGroups zijn niet toegestaan.
+@2@24@0@
+Actions voor CueGroups moeten zich op het hoofdniveau bevinden.
+@2@25@0@
+De actie %6, die zich onder een actiegroep in een activiteitsknop bevindt, kan alleen de paginatypewaarde Overzicht hebben voor de eigenschap RunObject.
+@2@26@0@
+De actie '%6', die zich in een HomeItem-container bevindt, kan alleen de paginatypewaarde Overzicht hebben voor de eigenschap RunObject.
+@2@27@0@
+De inspringing voor de eerste Action of ActionGroup moet 0 zijn.
+@2@30@0@
+U hebt een waarde ingevoerd die langer is dan de maximumgrootte van %20.
+@2@40@0@
+Besturingselement-id %40 wordt al gebruikt.
+@2@41@0@
+De eigenschap RunObject Action ondersteunt alleen de volgende typen:
+
+Page, Report, XMLport, Codeunit
+@2@42@0@
+De besturingselement-id kan niet leeg zijn.
+@2@43@0@
+Besturingselementnaam '%6' wordt al gebruikt. Besturingselementnamen moeten uniek zijn.
+@2@44@0@
+Actienaam '%6' wordt al gebruikt. Actienamen moeten uniek zijn.
+@2@45@0@
+Besturingselement '%6' gebruikt dezelfde naam als een globale variabele. Kies een unieke besturingselementnaam.
+@2@46@0@
+Actie-id %40 wordt al gebruikt.
+@2@50@0@
+Kan de clientassemblage Visual Page Preview of bepaalde bijbehorende afhankelijkheden niet laden.
+@2@101@0@
+Dit is een ongeldig datatype voor '%10'. Het datatype moet 'Text' zijn.
+@2@102@0@
+Voor onderdeelbesturingselementen met PartType Page moet PagePartID zijn opgegeven.
+@2@103@0@
+Voor UIPart-besturingselementen met PartType System kan 'Geen' niet worden opgegeven bij SystemPartID.
+@2@104@0@
+UIPart-besturingselement Chart kan niet None hebben als ChartPartID.
+@2@105@0@
+Onderdeelbesturingselementen met PartType Page moeten verwijzen naar pagina's van het type CardPart of ListPart.
+@2@106@0@
+Een container moet een subtype hebben.
+@2@107@0@
+Een pagina van het type CardPart of ListPart kan geen FactBoxArea-container bevatten.
+@2@108@0@
+Een pagina kan slechts ‚‚n FactBoxArea-container bevatten.
+@2@109@0@
+Een pagina kan slechts ‚‚n RoleCenterArea-container bevatten.
+@2@110@0@
+Een RoleCenterArea-container kan alleen deel uitmaken van een pagina van het type RoleCenter.
+@2@111@0@
+Een pagina kan slechts ‚‚n ContentArea-container bevatten.
+@2@112@0@
+Een FactBoxArea-container kan alleen onderdelen bevatten.
+@2@113@0@
+Een RoleCenterArea-container kan alleen groepen en onderdelen bevatten.
+@2@114@0@
+IndentationColumnName moet verwijzen naar een veld of variabele van het type int.
+@2@115@0@
+HomeItems en ActivityButtons kunnen alleen deel uitmaken van Rolcentrumpagina's.
+@2@117@0@
+Pagina's van het type CardPart of ListPart kunnen alleen ActionItems-containers bevatten.
+@2@118@0@
+FreezeColumnID kan alleen worden opgegeven voor een Repeater.
+@2@119@0@
+ShowAsTree kan alleen worden opgegeven voor een repeater.
+@2@120@0@
+Als ShowAsTree is ingesteld, moet IndentationColumnName worden opgegeven.
+@2@121@0@
+MinValue kan niet groter zijn dan MaxValue.
+@2@122@0@
+MaxValue kan niet groter zijn dan MaxValue voor het tabelveld.
+@2@123@0@
+MinValue kan niet kleiner zijn dan MinValue voor het tabelveld.
+@2@124@0@
+Het besturingselement kan niet worden bewerkt als het tabelveld dat niet is.
+@2@125@0@
+Als voor een tabelveld NotBlank is ingesteld, kan het besturingselement geen lege waarden hebben.
+@2@126@0@
+DecimalPlaces moet kleiner zijn dan DecimalPlaces voor het tabelveld.
+@2@127@0@
+IndentationColumnName kan alleen worden opgegeven voor een Repeater.
+@2@128@0@
+SystemPardIDs Notes en RecordLinks kunnen niet worden gebruikt op pagina's waarbij LinksAllowed is ingesteld op Nee.
+@2@129@0@
+IndentationControls kan alleen worden opgegeven voor een Repeater.
+@2@130@0@
+Een pagina kan slechts ‚‚n ActivityButtons-container bevatten.
+@2@131@0@
+Een pagina kan slechts ‚‚n ActivityItems-container bevatten.
+@2@132@0@
+Een pagina kan slechts ‚‚n HomeItems-container bevatten.
+@2@133@0@
+Een pagina kan slechts ‚‚n NewDocumentItems-container bevatten.
+@2@134@0@
+Een pagina kan slechts ‚‚n RelatedInformation-container bevatten.
+@2@135@0@
+De ActionGroup Image-eigenschap kan alleen worden ingesteld voor een ActionContainer met het SubType ActivityButtons.
+@2@136@0@
+De Action Image-eigenschap kan niet worden ingesteld voor een ActionContainer met het SubType ActivityButtons of HomeItems.
+@2@137@0@
+Een pagina kan slechts ‚‚n Reports-container bevatten.
+@2@138@0@
+Besturingselementen kunnen niet worden gekoppeld aan velden waarbij FieldClass is ingesteld op FlowFilter.
+@2@139@0@
+Pagina's van het type CardPart of ListPart kunnen geen Part-besturingselement bevatten.
+@2@140@0@
+Er is geen triggercode toegestaan voor pagina's van het type Rolcentrum.
+@2@141@0@
+De waarde moet van het type Boolean zijn.
+@2@143@0@
+Een MultiLine-eigenschap die is ingesteld op "Ja" en een ExtendedDatatype-eigenschap die is ingesteld op "Masked", zijn niet toegestaan.
+@2@144@0@
+Velden van het type 'Char' waarbij ExtendedDatatype is ingesteld op 'Ratio', zijn niet toegestaan.
+@2@145@0@
+Het gegevenstype %20 is ongeldig wanneer de eigenschap Breedte is ingesteld.
+
+Geldige gegevenstypen zijn Tekst, Code, Geheel getal, BigInteger en Decimaal.
+@2@146@0@
+Gegevenstype %20 is niet geldig voor de eigenschap StyleExpr.
+
+Geldige gegevenstypen zijn Boolean, Tekst of Code.
+@2@1000@0@
+Geen metagegevenstoewijzing.
+@2@END@0@
+
+@1@224@0@
+@2@1@0@
+Ongeldige versie van Query-object: %1.
+@2@2@0@
+Ongeldige MagicNo van Query-object: %1.
+@2@3@0@
+Het object %1 moet worden gecompileerd voordat dit kan worden uitgevoerd.
+@2@4@0@
+U kunt geen velden selecteren met een Blob-gegevenstype als de gegevensbronwaarde voor Column-rijen. Selecteer een ander veld.
+@2@5@0@
+'%4' is geen veld in tabel '%6'.
+@2@6@0@
+'%24' wordt verwacht in %21 op positie %23.
+@2@7@0@
+Bestemmingsbuffer is te klein.
+@2@8@0@
+Een brontabel voor DataItem <%4> is niet gedefinieerd.
+@2@9@0@
+Een gegevensbron is niet gedefinieerd voor kolom <%6>
+@2@10@0@
+De kolom is onbekend.
+@2@11@0@
+De eerste regel moet een DataItem zijn.
+@2@12@0@
+De eerste regel moet een inspringing hebben die gelijk is aan 0.
+@2@13@0@
+De hoofdregel moet een DataItem zijn.
+@2@14@0@
+De eigenschap Indentation voor een DataItem kan geen negatieve waarde bevatten.
+@2@15@0@
+Eigenschap DataItemIndent voor een DataItem mag slechts 1 groter zijn dan op de voorgaande DataItem.
+@2@16@0@
+Maximaal inspringniveau voor DataItems is %28.
+@2@17@0@
+Er moet een Column of DataItem komen na een kolom met dezelfde inspringing of een DataItem met inspringing - 1.
+@2@18@0@
+De naamwaarde kan niet leeg zijn.
+@2@19@0@
+Er bestaat al een andere DataItem- of Column-rij met de naam '%4'. Alle DataItem- en Column-rijen moeten unieke namen hebben.
+@2@20@0@
+De naam %4 bevat een of meer tekens die niet kunnen worden gebruikt omdat deze niet voldoet aan de Common Language Specification. Het eerste teken moet een letter zijn. Volgende tekens kunnen elke combinatie van letters, gehele getallen en onderstrepingstekens zijn. 
+@2@21@0@
+De id-waarde moet positief zijn.
+@2@22@0@
+Er bestaat al een andere DataItem- of Column-rij met de id '%12'. Alle DataItem- en Column-rijen moeten unieke idïs hebben.
+@2@23@0@
+U kunt geen virtuele tabel selecteren als de gegevensbronwaarde van een DataItem. Selecteer een andere tabel.
+@2@24@0@
+Query moet ten minste ‚‚n gegevenskolom bevatten.
+@2@42@0@
+Het hoogste aantal rijen kan niet negatief zijn.
+@2@43@0@
+Alleen van velden met een numeriek gegevenstype kunt u het teken omkeren.
+@2@25@0@
+U kunt alleen samentellingsmethoden gebruiken in velden die een gegevenstype van Decimal hebben. Selecteer een veld dat als gegevenstype Decimal heeft.
+@2@26@0@
+U kunt slechts maximaal %29 kolommen voor samentelling opgeven in ‚‚n query. Kies minder kolommen om samen te tellen.
+@2@27@0@
+U kunt slechts maximaal %29 kolommen opgeven die niet worden samengeteld in ‚‚n query die samentelling omvat. Kies minder kolommen die niet worden samengeteld.
+@2@28@0@
+U kunt een specifiek veld in een query niet tellen. Als u alle rijen in de queryresultaten wilt tellen, laat u het veld Gegevensbron leeg.
+@2@29@0@
+U kunt geen veld selecteren met een FlowFilter-gegevenstype als de gegevensbronwaarde voor Column-rijen. Selecteer een ander veld.
+@2@30@0@
+U kunt geen velden selecteren met een Binary-gegevenstype als de gegevensbronwaarde voor Column-rijen. Selecteer een ander veld.
+@2@31@0@
+Een andere samentellingskolom heeft dezelfde naam. Alle kolommen moeten unieke namen hebben.
+@2@33@0@
+U kunt niet twee DataItems op hetzelfde niveau combineren, omdat samenvoegingen niet worden ondersteund.
+@2@37@0@
+Het veld Groeperen op is alleen-lezen. Het wordt automatisch berekend op basis van gedefinieerde kolommen. Alle kolommen waarbij het methodetype niet Totalen is, worden gebruikt voor het groeperen. 
+@2@38@0@
+U kunt een kolom slechts eenmaal selecteren wanneer u de volgorde van de resulterende gegevensset van de query definieert.  Verwijder de geselecteerde dubbele kolommen en sla nogmaals op.
+@2@39@0@
+De eigenschap DataItemLink kan niet leeg zijn.
+@2@40@0@
+De eigenschap DataItemLink moet leeg zijn wanneer de eigenschap SQLJoinType is ingesteld op Cross Join.
+@2@41@0@
+U kunt geen methode instellen voor kolommen waarvan het gegevensbronveldtype FlowField is. Wijzig het methodetype in Geen en sla opnieuw op.
+@2@44@0@
+U kunt alleen de methoden Dag, Maand en Jaar gebruiken in velden die het gegevenstype Datetime hebben. Selecteer een veld met het gegevenstype Datetime.
+@2@45@0@
+U kunt geen object importeren dat geen sectie %4 bevat.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  DotNet InteropÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  DotNet Interop                                               ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+@1@226@0@
+@2@1@0@
+Dit bericht is bestemd voor C/AL-programmeurs:
+
+Dit DotNet-gegevenstype wordt niet ondersteund door C/SIDE. U kunt gegevens opvragen van de volgende gegevenstypen:
+object, bool, char, sbyte, byte, short,
+ushort, int, uint, long, ulong, float,
+double, decimal, DateTime, TimeSpan,
+string, Guid, Stream
+@2@2@0@
+.NET-interop: interne fout opgetreden. De buffer is te klein.
+@2@3@0@
+Type '%1' kan niet worden geladen.
+@2@4@0@
+Het soort '%1' is onbekend.
+@2@5@0@
+Er zijn te veel overbelaste methoden.
+@2@7@0@
+Er is geen subtype voor de DotNet-variabele opgegeven.
+
+Geef een type op door een waarde op te geven in het veld Subtype in het venster C/AL Locals of C/AL Globals.
+@2@8@0@
+Kan assemblage '%1' niet vinden.
+@2@9@0@
+.NET-interop: interne fout, ongeldige id '%1'.
+@2@10@0@
+.NET-interop: uitzondering opgetreden, '%1'.
+@2@11@0@
+%1 wordt niet herkend als de naam van een .NET-type.
+De juiste indeling is: 'Volledige naam van assembly'.typenaam
+Controleer de spelling van de invoer.
+@2@12@0@
+.NET-interop: De typenaam is te lang (overschrijdt 128 tekens): '%1'.
+@2@13@0@
+.NET interop: kan .NET versie 4 niet laden.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CSDotNet  ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ                                                           ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@228@0@
+@2@1@0@
+Interne fout: %1
+@2@2@0@
+%1
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  CodeUnit    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ  Codeunits                                              ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@103@0@
+@2@1@0@
+De codeunit %1.2818 is aangeroepen met een %2 record. Dit moet een %3 record zijn.
+@2@2@0@
+De codeunit %1.2818 moet worden aangeroepen met een %3 record.
+@2@3@0@
+De codeunit %1.2818 is aangeroepen met een %2 record. Er zijn geen parameters.
+@2@4@0@
+Object %4 heeft een ongeldig versienummer.
+@2@5@0@
+Controlecodeunit %1.2818 is aangeroepen met een %2-record. Controlecodeunits bieden geen ondersteuning voor recordparameters.
+@2@6@0@
+Controlecodeunit %1.2818 is ontworpen met tabel %1.26370. Controlecodeunits bieden geen ondersteuning voor tabellen, d.w.z. TableNo moet <Niet gedefinieerd> zijn.
+@2@7@0@
+Controlecodeunit %1.2818 is aangeroepen vanuit een andere controlecodeunit. Controlecodeunits bieden geen ondersteuning voor nesten.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  C/AL_Edit ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Compiler and Editors                                ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@102@0@
+@2@6@0@
+Er zijn gebeurtenistriggers gekoppeld aan het besturingselement %6. Door ControlAddin te wijzigen worden de gebeurtenistriggers en de bijbehorende code verwijderd.
+
+Weet u zeker dat u de waarde ControlAddin wilt verwijderen?
+@2@7@0@
+De regel is te lang.
+@2@8@0@
+Er zijn gebeurtenistriggers gekoppeld aan de globale variabele %6. De variabele verwijderen betekent eveneens de triggers en hun code verwijderen.
+
+Weet u zeker dat u de globale variabele wilt verwijderen?
+@2@9@0@
+Indien u de waarden van de velden DataType of Subtype voor de globale variabele %6 wijzigt, worden alle gekoppelde gebeurtenistriggers en hun code verwijderd.
+
+Weet u zeker dat u de globale variabele wilt wijzigen?
+@2@198@0@
+Gelijkstelling aan een variabele met eigenschap WithEvents=Yes is niet mogelijk.
+@2@199@0@
+De lengte van de variabele moet tussen 1 en %1 zijn.
+@2@200@0@
+Een 'TRUE/FALSE' expressie wordt verwacht in de IF-, WHILE- of REPEAT-instructie. De huidige expressie is een array van het type Boolean.
+
+Selecteer een enkele Ja/Nee-waarde, bijvoorbeeld:
+
+JaNeeArray[...]
+@2@201@0@
+De expressie is %10.1. Een 'T/F' expressie wordt verwacht in de IF-, WHILE- of REPEAT-instructie. Bijvoorbeeld:
+
+TRUE
+FALSE
+Klant.Blokkeren
+Klant.Saldo > 100
+... AND ...
+... OR ...
+@2@202@0@
+Deze prefixoperator kan niet worden gebruikt voor %10.1.
+@2@203@0@
+Een veld van een recordvariabele wordt verwacht. Bijvoorbeeld:
+
+Record.Veld
+Klant.Naam
+@2@204@0@
+Een variabele wordt verwacht. Bijvoorbeeld:
+
+MijnVariabele
+Klant.Naam
+@2@205@0@
+%3 kan niet op arrays worden uitgevoerd.
+
+Selecteer een array-element door gebruik te maken van een expressie als:
+
+MijnArray[...]
+@2@206@0@
+Het type kan niet als een argument worden gebruikt.
+@2@207@0@
+Bij de aanroep van de functie moet tenminste het minimale aantal parameters worden gebruikt. Bijvoorbeeld:  
+
+MijnFunctie( .. , .. , .. )
+ROUND(MijnVariabele)
+ROUND(MijnVariabele,0.05)
+@2@210@0@
+Maximaal %7 parameters kunnen worden gebruikt bij de aanroep van de functie. Bijvoorbeeld:   
+
+MijnFunctie( .. , .. , .. )
+ROUND(MijnVariabele)
+ROUND(MijnVariabele,0.05)
+@2@212@0@
+Het aantal dimensies is te groot. De variabele is gedefinieerd met minder dimensies. Bijvoorbeeld:
+
+MijnVariabele
+MijnArray[MijnVariabele]
+MijnArray[1,2]
+MijnArray[1][2]
+@2@214@0@
+De variabele is geen record. 'Variabele.Veld' is ongeldig.
+@2@215@0@
+Een '[' wordt verwacht omdat de variabele een array is. Bijvoorbeeld:
+
+MijnArray[...]
+MijnArray[MijnVariabele]
+MijnArray[1,2]
+MijnArray[1][2]
+@2@216@0@
+Typeconversie is niet mogelijk omdat een van de zijden van een niet toegestaan type is.
+
+%10.1 %3 %11.1
+@2@217@0@
+Een waarde of expressie wordt verwacht. Bijvoorbeeld:
+
+100
+MijnVariabele
+MijnVariabele + 100
+MijnVariabele = 100
+@2@223@0@
+De variabele is van het type %10.1. De teller in de FOR-instructie moet van het type numeriek, boole, datum, tijd, byte  of tekst zijn. Bijvoorbeeld:
+
+FOR Teller := 1 TOT 10 DO ... ;
+@2@224@0@
+De teller in de FOR-instructie moet numeriek zijn. Bijvoorbeeld:
+
+FOR Teller := 1 TOT 10 DO ... ;
+@2@234@0@
+Dit kan niet het eerste woord in de instructie zijn.
+@2@235@0@
+Een ':=' moet deel uitmaken van een toekenningsinstructie. Bijvoorbeeld:
+
+MijnVariabele := ... ;
+MijnVariabele := 100 + 10 ;
+@2@237@0@
+Een recordvariabele wordt verwacht in de WITH-instructie. De huidige variabele is van een ander type. Bijvoorbeeld:
+
+WITH MijnRecord DO ... ;
+@2@238@0@
+Een recordvariabele wordt verwacht in de WITH-instructie. Bijvoorbeeld:
+
+WITH .. DO ... ;
+WITH .. DO BEGIN ... ; ... ; END ;
+WITH MijnRecord DO ... ;
+@2@244@0@
+Er zijn te veel geneste WITH-instructies in gebruik.
+@2@249@0@
+Een IF wordt verwacht bij de ELSE-instructie. Bijvoorbeeld:
+
+IF ... THEN ... ELSE ... ;
+IF ... THEN IF ... ELSE ... ELSE ... ;
+IF ... THEN BEGIN ... ; ... ; END ELSE BEGIN ... ; END ;
+
+Deze fout wordt vaak veroorzaakt door een puntkomma (;) die direct voor een ELSE-instructie is geplaatst.
+@2@250@0@
+Een REPEAT wordt verwacht bij een UNTIL-instructie. Bijvoorbeeld:
+
+REPEAT ... ; ... ; UNTIL ... ;
+@2@251@0@
+Een BEGIN wordt verwacht bij een END-instructie. Bijvoorbeeld:
+
+BEGIN ... ; ... ; END ;
+@2@254@0@
+De %10.1 variabele moet behoren tot %10.5 en niet tot %11.5.
+@2@256@0@
+De arraydimensies moeten identiek zijn.
+@2@262@0@
+Een WITH-instructie kan niet gebruikt worden voor een array van records.
+@2@263@0@
+De retourwaarde moet voor deze functie gebruikt worden.
+@2@264@0@
+Er moet een optie worden gespecificeerd na '::'.
+@2@266@0@
+Geen toegestane optie.
+@2@268@0@
+Een toekenning is niet toegestaan voor deze variabele.
+@2@269@0@
+Keyword '%9' is gereserveerd.
+@2@270@0@
+Een trigger is tweemaal ge‹mporteerd.
+@2@272@0@
+Het maximale aantal elementen in een array is 1000000.
+@2@273@0@
+Een dimensie moet een positief getal zijn.
+@2@274@0@
+De functie-id is niet opgegeven. Voor alle door de gebruiker gedefinieerde functies moet een id zijn opgegeven.
+
+MijnFunctie@23();
+@2@275@0@
+De functie-id %1 wordt zowel door functie %2 als functie %3 gebruikt.
+@2@276@0@
+De functie MESSAGE met het datatype Variant is ongeldig omdat de functie FORMAT ontbreekt.
+@2@277@0@
+Variabele-id %1 wordt gebruikt door de variabele %2 en de variabele %3.
+@2@278@0@
+Parameter-id %1 wordt gebruikt door parameter %2 en parameter %3 in trigger %4.
+@2@279@0@
+Lokale variabele-id %1 wordt gebruikt door lokale variabele %2 en lokale variabele %3 in trigger %4.
+@2@280@0@
+Variabele-id %1 van variabele %2 is exclusief gereserveerd voor C/SIDE-gedefinieerde variabelen. Minimale waarde voor een id is %3.
+@2@281@0@
+Id %1 voor functie %2 valt buiten het toegestane bereik. De maximale waarde voor de id is %3.
+@2@282@0@
+Id %1 voor functie %2 valt buiten het toegestane bereik. De maximale waarde voor de id is %3.
+@2@283@0@
+De eigenschappen FunctionType en HandlerFunctions zijn verwijderd.
+@2@284@0@
+De gecompileerde tekst is langer dan de maximumtokengrootte van 64 kB.
+@2@285@0@
+Voor de DotNet-variabele %1 kan niet zowel RunOnClient als WithEvents zijn ingesteld op "Ja".
+@2@286@0@
+Toewijzing aan een kolom in een query is niet toegestaan.
+@2@287@0@
+Een kolom in een query kan niet worden doorgegeven aan een VAR-parameter.
+@2@288@0@
+Een kolom van een queryvariabele wordt verwacht. Bijvoorbeeld:
+
+Query.Kolom
+Klant.Naam
+@2@289@0@
+Het type %1 wordt niet ondersteund. Gebruik in plaats daarvan het type %2.
+@2@290@0@
+De eigenschappen van de functie Upgrade zijn verwijderd.
+@2@291@0@
+Het functiekenmerk [%6] is ongeldig in deze context.
+@2@302@0@
+De volgende fout is opgetreden tijdens het opslaan van het onderbrekingspuntbestand van het foutopsporingsprogramma.
+
+%1
+Waarde: %2
+@2@303@0@
+Er is al een onderbrekingspunt gedefinieerd voor dit object buiten de editor, in '%6' op regel %4. Het onderbrekingspunt kan niet worden ingesteld.
+@2@304@0@
+Er zijn geen gebruikers die overeenkomen met de huidige gebruikers-ID. U kunt het onderbrekingspunt niet instellen als u databaseverificatie gebruikt voor het aanmelden bij de Microsoft Dynamics NAV-ontwikkelomgeving en er geen Microsoft Dynamics NAV-gebruikers-id is toegewezen aan de databaseaanmelding.
+@2@400@0@
+Ongeldige testmethodehandtekening van functie %1.
+
+Functies die als TestMethod zijn gemarkeerd, mogen geen retourwaarde of parameters hebben.
+@2@401@0@
+Ongeldige MESSAGE-handlerhandtekening van functie %1.
+
+MESSAGE-handlerfuncties moeten deze handtekening hebben (er geldt geen beperking voor parameternamen):
+<functienaam>(Message : Text[1024])
+@2@402@0@
+Ongeldige CONFIRM-handlerhandtekening van functie %1.
+
+CONFIRM-handlerfuncties moeten deze handtekening hebben (er geldt geen beperking voor parameternamen):
+<functienaam>(Question : Text[1024];VAR Reply : Boolean)
+@2@403@0@
+Ongeldige STRMENU-handlerhandtekening van functie %1.
+
+STRMENU-handlerfuncties moeten deze handtekening hebben (er geldt geen beperking voor parameternamen):
+<functienaam>(Options : Text[1024];VAR Choice : Integer;Instruction : Text[1024])
+@2@404@0@
+Ongeldige PAGE.RUN-handlerhandtekening van functie %1.
+
+PAGE.RUN-handlerfuncties moeten deze handtekening hebben, maar u kunt alle parameternamen kiezen:
+
+<functienaam>(VAR <variabelenaam> : Pagina) <id>)
+of
+<functienaam>(VAR <variabelenaam> : TestPage <id>)
+@2@405@0@
+Ongeldige PAGE.RUNMODAL-handlerhandtekening van functie %1.
+
+PAGE.RUNMODAL-handlerfuncties moeten deze handtekening hebben, maar u kunt willekeurige parameternamen kiezen:
+
+<functienaam>(VAR <variabelenaam> : Pagina <id>;VAR Response : Action)
+of
+<functienaam>(VAR <variabelenaam> : TestPage <id>)
+@2@406@0@
+Ongeldige REPORT-handlerhandtekening van functie %1.
+
+REPORT-handlerfuncties moeten deze handtekening hebben (er geldt geen beperking voor parameternamen):
+<functienaam>(VAR <report name> : Report <report id>)
+@2@407@0@
+Ongeldige REQUESTPAGE-handlerhandtekening van functie %1.
+
+REQUESTPAGE-handlerfuncties moeten deze handtekening hebben (er geldt geen beperking voor parameternamen):
+<functienaam>(VAR <rapportnaam> : TestRequestPage <rapport-id>)
+@2@413@0@
+De OnBeforeTestRun-triggersignature is niet geldig. 
+
+Deze trigger wordt aangeroepen voordat elke testfunctie van een test-codeunit wordt uitgevoerd. Deze moet de volgende signature hebben waarbij u uw eigen parameternamen kunt specificeren maar de OnBeforeTestRun-functienamen en de volgende parametertypes moet gebruiken: 
+OnBeforeTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128]) : Boolean 
+De parameters specificeren de functie. De retourwaarde bepaalt of de functie moet worden opgenomen in de testrun. Bij FALSE wordt de functie overgeslagen.
+@2@414@0@
+De OnAfterTestRun-triggersignature is niet geldig. 
+
+Deze trigger wordt aangeroepen nadat elke testfunctie van een test-codeunit wordt uitgevoerd. Deze moet de volgende signature hebben waarbij u uw eigen parameternamen kunt specificeren maar de OnAfterTestRun-functienamen en de volgende parametertypes moet gebruiken: 
+OnAfterTestRun(CodeUnitId : Integer;CodeUnitName : Text[30];FunctionName : Text[128];Success : Boolean) 
+De eerste drie parameters specificeren de functie. De Success-paramter is TRUE als de testrun met succes is uitgevoerd, en FALSE als deze is milsukt.
+@2@415@0@
+Ontbrekende %1 UI-handler (voor object-id: %2).
+@2@416@0@
+De volgende UI-handlers zijn niet uitgevoerd.
+
+%1
+@2@420@0@
+De functie %1 kan niet lokaal zijn.
+
+Functies van upgrade-codeunits moeten niet-lokaal zijn om tijdens de upgrade door de server te worden uitgevoerd.
+@2@421@0@
+Ongeldige handtekening van functie %1.
+
+De functies Upgrade en Check moeten deze handtekening hebben omdat ze geen parameters accepteren en geen waarden retourneren:
+<function name>()
+@2@422@0@
+Ongeldige handtekening van functie %1.
+
+TableSyncSetup-functies moeten deze handtekening hebben (er geldt geen beperking voor functie- en parameternamen):
+<function name>(VAR <record name> : Record "Table Synch. Setup")
+@2@503@0@
+Gebruik het symbool { om commentaar te beginnen. Bijvoorbeeld: {Gewone opmerking}.
+@2@504@0@
+Gebruik het symbool } om commentaar af te sluiten. Bijvoorbeeld: {Gewone opmerking}.
+@2@505@0@
+Syntaxisfout in constante.
+@2@506@0@
+Syntaxisfout.
+@2@507@0@
+Reduceer de expressie zodat deze minder complex wordt.
+@2@509@0@
+Onbekende variabele.
+
+%6
+
+Definieer de variabele onder 'Globale C/AL variabelen'.
+@2@510@0@
+De variabele %6 is meerdere keren gedefinieerd.
+
+Bijvoorbeeld: 'File' bestaat zowel als datatype en als globale variabele.
+@2@511@0@
+'%9' wordt hier verwacht.
+@2@512@0@
+%6 is geen functie, en alleen functies kunnen worden aangeroepen met '(....'.
+@2@513@0@
+De aanroep is dubbelzinnig tussen de volgende methoden:
+'%1'
+en
+'%2'
+@2@514@0@
+De functieaanroep is dubbelzinnig. Er is geen overeenkomende methode gevonden.
+@2@515@0@
+Er is geen overbelasting voor methode '%1' waarin '%2' argumenten worden gebruikt.
+@2@516@0@
+De opmerkingsregel is langer dan de maximumgrootte van %2 tekens.
+@2@602@0@
+De programmalicentie staat het gebruik van datatype %6 niet toe.
+@2@700@0@
+U hebt het toegestane aantal toegangsrechten bereikt.
+@2@701@0@
+U hebt het toegestane aantal toegangsrechten overschreden. De laatste %1 toegangsrechten worden niet opgeslagen.
+@2@702@0@
+De interne buffer is te groot. Verwijder een taal of kort de tekstconstante %1 in. 
+Als u het object opslaat, gaan er gegevens verloren.
+@2@703@0@
+De eigenschap Dimensions moet leeg zijn voordat u de eigenschap "IncludeInDataset" kunt instellen op de variabele %1.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Run   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Stack Machine Interpreter                            ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@101@0@
+@2@1@0@
+Arraydimensies moeten identiek zijn.
+@2@2@0@
+%3 kan niet worden gebruikt als operator.
+
+%10.1 %3 %11.1
+@2@3@0@
+De waarde van %6 parameter %7 valt buiten het toegestane bereik.
+
+De huidige waarde is: %11.20.
+Het toegestane bereik is: van %1 tot %2.
+@2@4@0@
+De array-index %11.20 valt buiten het toegestane bereik.
+@2@6@0@
+Overflow tijdens berekening van %10.20 %3 %11.20.
+@2@7@0@
+Deling door nul.
+@2@9@0@
+Overflow tijdens typeconversie van %11.1 naar %10.1.
+
+Waarde: %11.20
+@2@10@0@
+Er is niet genoeg ruimte vrij in het C/AL-stackgeheugen om deze taak uit te voeren.
+
+Er zijn teveel gelijktijdige activiteiten ten gevolge van (onjuist) gebruik van recursieve functies in het programma. Het probleem kan tijdelijk worden opgelost door enkele open activiteiten af te sluiten (de functie kan echter nog steeds niet worden uitgevoerd).
+@2@14@0@
+De functie %6 wordt niet langer ondersteund.
+
+Verwijder de functieaanroep en compileer het C/AL-object opnieuw.
+@2@16@0@
+Voor de expressie %11.1 kan geen typeconversie worden uitgevoerd naar een %10.1 waarde.
+@2@21@0@
+Referentie naar deel %6 van de variabele %20 kon niet worden gevonden.
+@2@22@0@
+De inhoud '%11.20' van %6 parameternr. %7 is ongeldig.
+@2@23@0@
+De functie %6 is aangeroepen met %11.1 in de parameter %7.
+
+Dit zou %10.1 moeten zijn.
+@2@24@0@
+De totale grootte van een variabele kan maximaal 2 MB bedragen.
+@2@27@0@
+De definitie van veld %6 is veranderd nadat het object werd opgeslagen.
+
+Oud type: %10.1
+Nieuw type: %11.1
+@2@31@0@
+%6
+@2@32@0@
+Het C/AL-object kan niet in gecompileerde vorm worden opgeslagen.
+@2@34@0@
+STRCHECKSUM verwacht alleen getallen tussen 0 en 9 in parameternr. %7. '%11.20'
+@2@35@0@
+CONVERTSTR verwacht dat de te converteren tekenreeksen even lang zijn:
+
+Conversie van: '%10.20' naar: '%11.20'
+@2@55@0@
+De tekst '%11.20' in %6 parameternr. %7 is te lang.
+@2@69@0@
+De door de gebruiker gedefinieerde C/AL-functie %1 kan niet worden gevonden.
+@2@70@0@
+De door de gebruiker gedefinieerde C/AL-functie %1 met %3 parameters, is aangeroepen met %2 parameters.
+@2@71@0@
+U gebruikt een ongeldig datatype voor deze functie.
+@2@72@0@
+U kunt de functie C/AL %6 niet aanroepen wanneer de Application Server for Microsoft Dynamics NAV wordt uitgevoerd.
+@2@73@0@
+U kunt geen C/AL-variabelen van het soort %6 gebruiken wanneer Application Server for Microsoft Dynamics NAV wordt uitgevoerd.
+@2@75@0@
+De functie VARIANT2TIME heeft een parameter gevonden die niet kan geconverteerd worden.
+Gebruik ofwel een variant ofwel een tijd als argument.
+@2@76@0@
+De functie VARIANT2DATE heeft een parameter gevonden die niet kan geconverteerd worden.
+Gebruik ofwel een variant ofwel een datum als argument.
+@2@77@0@
+Er werd een fout verwacht binnen een ASSERTERROR-instructie.
+@2@78@0@
+Het nesten van ASSERTERROR-instructies binnen hetzelfde bereik wordt niet ondersteund.
+@2@79@0@
+Dit bericht is bestemd voor C/AL-programmeurs:
+
+U kunt de object-id %1 niet %2 uitvoeren wanneer u een lijst uitvoert vanuit de rolgerichte client.
+@2@80@0@
+Dit bericht is bestemd voor C/AL-programmeurs:
+
+%6 objectruntime wordt niet ondersteund in de C/SIDE-ontwikkelomgeving.
+@2@90@0@
+Het bestand is niet open.
+@2@91@0@
+Het bestand is reeds open.
+@2@92@0@
+Een variabele van dit type kan niet worden gelezen of geschreven in binaire vorm.
+@2@93@0@
+Fout bij streamen van het bestand.
+@2@94@0@
+Het .NET-interop-type kan niet worden gebruikt in programmacode voor de C/SIDE-runtime.
+@2@96@0@
+De functie CURRENTEXECUTIONMODE kan niet worden gebruikt in programmacode voor de C/SIDE-runtime.
+@2@97@0@
+U kunt geen toegang krijgen tot lijstfuncties en -eigenschappen voor de C/SIDE-runtime.
+@2@120@0@
+Het dialoogvenster is niet open.
+@2@130@0@
+Een lege BLOB kan niet worden ge‰xporteerd (%6).
+@2@131@0@
+U kunt een lege BLOB (%6) niet streamen.
+@2@132@0@
+U kunt niet streamen naar BLOB.
+@2@140@0@
+U kunt CONFIRM niet aanroepen op de Application Server.
+ De boodschap was:
+ 
+%12
+@2@141@0@
+U kunt STRMENU niet aanroepen op de Application Server.
+De menuopdrachten waren:
+
+%13
+@2@142@0@
+U kunt DIALOG.INPUT niet aanroepen op de Application Server.
+@2@150@0@
+Stream heeft een leesfout geretourneerd.
+@2@151@0@
+U kunt een lege stream-interface (%6) niet streamen.
+@2@152@0@
+Stream heeft een schrijffout geretourneerd.
+@2@200@0@
+Er zijn te veel sleutelvelden gedefinieerd, zodat %1.1 niet kon worden opgehaald. Het aantal velden in de primaire sleutel is %4.
+@2@201@0@
+Er is geen koppeling gedefinieerd met veld %2.1 in %1.1.
+@2@301@0@
+Een CONFIRM-statement met volgende boodschap werd gevonden:
+
+%10
+
+Het systeem heeft op de vraag %11 geantwoord.
+@2@400@0@
+U staat op het punt het volgende uitvoerbare bestand voor de eerste keer uit te voeren:
+
+Uitvoerbaar bestand: %1
+Parameter: %2
+
+Let erop dat u mogelijk een uitvoerbaar bestand uitvoert dat schadelijk kan zijn 
+voor uw computer.
+
+Vertrouwt u dit uitvoerbare bestand en de bijbehorende parameter?
+@2@401@0@
+Om beveiligingsredenen mag u het volgende uitvoerbare bestand niet uitvoeren
+in de SHELL-functie wanneer deze wordt doorgegeven als een variabele:
+
+Uitvoerbaar bestand: %1
+Parameter: %2
+
+Voor AL-ontwikkelaars: gebruik in plaats hiervan een tekstconstante die 
+het pad naar het uitvoerbare bestand bevat.
+@2@1101@0@
+%2.1 %3 in %1.1 %5.
+@2@1102@0@
+%2.1 mag niet %2.5 zijn in %1.1 %5.
+@2@1103@0@
+%2.1 moet %2.5 zijn in %1.1 %5.
+@2@1104@0@
+%6 is verwijderd uit tabel %1.1.
+@2@1105@0@
+Veld %2.1 in tabel %1.1 is niet ingeschakeld.
+@2@1106@0@
+De functie LOCKTABLE op tabel %1.1 kan niet gebruikt worden met Wait-parameterwaarde FALSE of VersionCheck-parameterwaarde TRUE als u verbonden bent met een SQL-server.
+@2@1107@0@
+De functie COPY kan alleen worden gebruikt wanneer het argument shareTable is ingesteld op true als beide records tijdelijk zijn.
+@2@1112@0@
+%2.1 moet worden opgegeven in %1.1 %5.
+@2@1113@0@
+%2.1 mag niet worden opgegeven in %1.1 %5.
+@2@1122@0@
+%2.1 mag niet %2.5 zijn in %1.1 %5.
+@2@1123@0@
+%2.1 moet %2.5 zijn in %1.1 %5.
+@2@1132@0@
+%2.1 mag niet %2.5 zijn in %1.1 %5.
+@2@1133@0@
+%2.1 moet %2.5 zijn in %1.1 %5.
+@2@1134@0@
+De tekstconstante %4 in de lijst overschrijdt de toegestane limiet met %5 tekens.
+
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Streams   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Streams Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@120@0@
+@2@1@0@
+Er heeft zich een stream-fout voorgedaan.
+@2@2@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De leesgrootte (Read Size) stemt niet overeen met de grootte van de variable of de vereiste lengte.
+@2@3@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De schrijfgrootte (Written Size) stemt niet overeen met de grootte van de variable of de vereiste lengte.
+@2@4@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De stream bevat gegevens die niet correct konden ge‹nterpreteerd worden.
+@2@5@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De stream kan geen door nul afgesloten tekenreeks vinden.
+De stream kan ongeldig zijn, of de (variabele of vereiste) grootte is mogelijk te klein.
+@2@6@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De vereiste grootte in de stream stemt niet overeen met de variabele grootte.
+@2@7@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De stream is buiten bereik of is niet ge‹nitialiseerd.
+@2@8@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De schrijfgrootte in de stream stemt niet overeen met de variabele of de vereiste grootte.
+@2@9@0@
+Fout bij het proberen te schrijven naar de stream.
+
+@2@10@0@
+U kunt COPYSTREAM niet gebruiken om gegevens te kopi‰ren tussen twee stromen op basis van dezelfde gegevensbron.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Variant   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Variant Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@121@0@
+@2@1@0@
+Er heeft zich een fout met een variant voorgedaan.
+@2@2@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De variant is leeg of er is een onbekende waarde aan toegekend.
+@2@3@0@
+Deze boodschap is bestemd voor C/AL-programmeurs:
+
+De variant heeft een incompatibel datatype aangetroffen.
+@2@4@0@
+De functie VARIANT2TIME heeft een argument gevonden dat het programma niet kan converteren.
+Gebruik ofwel een variant ofwel een tijd als argument.
+@2@5@0@
+De functie VARIANT2DATE heeft een argument gevonden dat het programma niet kan converteren.
+Gebruik ofwel een variant ofwel een datum als argument.
+@2@6@0@
+U kunt de variant niet kopi‰ren.
+@2@7@0@
+U kunt geen ander type dan %1 toekennen wanneer het in een variant by VAR is opgenomen.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_Bigstr   ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL Bigstr Errors                                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@148@0@
+@2@1@0@
+Dit bericht is voor C/AL-programmeurs:
+
+U kunt geen reeks die groter is dan 2147483647 Bytes toewijzen voor een BigText-variabele.
+@2@2@0@
+Dit bericht is bestemd voor C/AL-programmeurs:
+
+U kunt geen negatieve positie opgeven in een BigText-variabele.
+@2@3@0@
+Dit bericht is voor C/AL-programmeurs:
+
+U kunt geen negatieve lengte opgeven in een BigText-variabele.
+@2@4@0@
+Dit bericht is voor C/AL-programmeurs:
+
+Bij kopi‰ren vanuit BigText-variabele treedt een overflow op in het doelveld.
+@2@END@0@
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  AL_NCLTypeConv    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  C/AL to NCL type convertion Errors                         ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@109@0@
+@2@1@0@
+Het type %1 wordt niet ondersteund door de Microsoft Dynamics NAV Development Environment-klassebibliotheek.
+@2@END@0@
+
+//   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ÚÄ´  Module_AL_2Cs    ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+// ³ ÀÄÄÄÄÄÄÄÄÄÄÄÙ  AL 2 C# and Metadata generation errors                     ³
+// ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+@1@108@0@
+@2@1@0@
+MSXML kan niet worden geladen.
+@2@2@0@
+Metagegevens zijn beschadigd
+@2@END@0@

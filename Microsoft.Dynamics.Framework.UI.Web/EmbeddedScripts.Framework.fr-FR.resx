@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AuthenticationPage_HeaderText" xml:space="preserve">
+    <value>Bienvenue !</value>
+  </data>
+  <data name="ContinuousScrollingBusyText" xml:space="preserve">
+    <value>Extractions de davantage de lignes</value>
+  </data>
+  <data name="OpenContextMenuTitle" xml:space="preserve">
+    <value>Menu Ouvrir</value>
+  </data>
+  <data name="Validation_MessageWarnings" xml:space="preserve">
+    <value>La page comporte un ou plusieurs avertissements.</value>
+  </data>
+  <data name="Validation_MessageOneError_Desktop" xml:space="preserve">
+    <value>La page comporte une erreur. Corrigez l'erreur ou tentez d'[[[annuler la modification]]].</value>
+  </data>
+  <data name="Validation_MessageOneError_Mobile" xml:space="preserve">
+    <value>La page comporte une erreur. Corrigez l'erreur ou tentez d'annuler la modification.[[[[Annuler]]]]</value>
+  </data>
+  <data name="DatePickerDateFormat" xml:space="preserve">
+    <value>jj/mm/aa</value>
+  </data>
+  <data name="Expander_Expand" xml:space="preserve">
+    <value>Développer</value>
+  </data>
+  <data name="FileUploadWrongFile" xml:space="preserve">
+    <value>Sélectionnez un fichier présentant l'une des extensions suivantes : {0}</value>
+  </data>
+  <data name="Restart" xml:space="preserve">
+    <value>Redémarrer</value>
+  </data>
+  <data name="Filter_ExecuteButtonToolTip" xml:space="preserve">
+    <value>Appliquer filtre</value>
+  </data>
+  <data name="DatePickerCloseText" xml:space="preserve">
+    <value>Terminée</value>
+  </data>
+  <data name="DatePickerDayNamesMin" xml:space="preserve">
+    <value>Di,Lu,Ma,Me,Je,Ve,Sa</value>
+  </data>
+  <data name="NavigationPane_AllHeading" xml:space="preserve">
+    <value>Tous</value>
+  </data>
+  <data name="LongOperationTitle" xml:space="preserve">
+    <value>Travail en cours...</value>
+  </data>
+  <data name="DrillDown_TooltipTitle" xml:space="preserve">
+    <value>Zoom avant</value>
+  </data>
+  <data name="Lookup_TooltipTitle" xml:space="preserve">
+    <value>Valeur de recherche</value>
+  </data>
+  <data name="BusinessGrid_SelectRowToolTip" xml:space="preserve">
+    <value>Sélectionner ligne</value>
+  </data>
+  <data name="Filter_ColumnChooserToolTipFormat" xml:space="preserve">
+    <value>Colonne Filtre : {0}</value>
+  </data>
+  <data name="Expander_Collapse" xml:space="preserve">
+    <value>Réduire</value>
+  </data>
+  <data name="Message_CommunicationErrorTimedOut" xml:space="preserve">
+    <value>La communication avec le serveur a échoué car la connexion a expiré ; le contenu n'a pas pu être affiché. {0}</value>
+  </data>
+  <data name="Validation_MessageMultipleErrors_Desktop" xml:space="preserve">
+    <value>La page comporte {0} erreurs. Corrigez les erreurs ou tentez d'[[[annuler les modifications]]].</value>
+  </data>
+  <data name="FileUpload_FileTooBig" xml:space="preserve">
+    <value>Impossible de charger le fichier car il est trop volumineux.</value>
+  </data>
+  <data name="DatePickerWeekHeader" xml:space="preserve">
+    <value>Sem</value>
+  </data>
+  <data name="ControlAddInMethodNotFound" xml:space="preserve">
+    <value>Méthode « {0} » introuvable dans la macro complémentaire de contrôle.</value>
+  </data>
+  <data name="AriaLookupDescription" xml:space="preserve">
+    <value>Pour rechercher une valeur, appuyez sur la touche Alt + flèche bas.</value>
+  </data>
+  <data name="OpenContextMenuTooltip" xml:space="preserve">
+    <value>Menu Ouvrir</value>
+  </data>
+  <data name="Validation_TooltipTitle" xml:space="preserve">
+    <value>Résultats validation</value>
+  </data>
+  <data name="Message_AadAuthenticationError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la connexion à votre compte Azure Active Directory. Vérifiez que vous êtes bien connecté à Internet et réessayez. Sinon, contactez votre administrateur système.</value>
+  </data>
+  <data name="NavigationPane_ShowList" xml:space="preserve">
+    <value>Afficher liste</value>
+  </data>
+  <data name="JsonRPC_TimeoutError" xml:space="preserve">
+    <value>Expiration de la connexion au serveur.</value>
+  </data>
+  <data name="CallbackServiceProxy_WebServiceFailed" xml:space="preserve">
+    <value>Échec de la méthode du serveur.</value>
+  </data>
+  <data name="AuthenticationPage_EnterNewServerName" xml:space="preserve">
+    <value>Entrez le nom du nouveau service...</value>
+  </data>
+  <data name="AuthenticationPage_ClearServerLIst" xml:space="preserve">
+    <value>Effacer liste serveurs</value>
+  </data>
+  <data name="DatePickerYearSuffix" xml:space="preserve">
+    <value />
+  </data>
+  <data name="AuthenticationPage_Username" xml:space="preserve">
+    <value>Nom de l'utilisateur</value>
+  </data>
+  <data name="DatePickerDayNames" xml:space="preserve">
+    <value>Dimanche,Lundi,Mardi,Mercredi,Jeudi,Vendredi,Samedi</value>
+  </data>
+  <data name="ServerNotCompatible" xml:space="preserve">
+    <value>Le serveur n'est pas compatible et devra être mis à niveau vers la nouvelle version. Contactez votre administrateur système.</value>
+  </data>
+  <data name="SynchronizationIcon_Tooltip" xml:space="preserve">
+    <value>Les modifications apportées au champ sont en cours d'enregistrement.</value>
+  </data>
+  <data name="Back_Title" xml:space="preserve">
+    <value>Précédent</value>
+  </data>
+  <data name="EditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Ouvrir l'enregistrement « {0} » dans une nouvelle fenêtre</value>
+  </data>
+  <data name="DatePickerDayNamesShort" xml:space="preserve">
+    <value>Dim,Lun,Ma,Me,Jeu,Ven,Sam</value>
+  </data>
+  <data name="DatePickerNextText" xml:space="preserve">
+    <value>Suivant</value>
+  </data>
+  <data name="DatePickerPreviousText" xml:space="preserve">
+    <value>Précédent</value>
+  </data>
+  <data name="FocusOnContent_Tooltip" xml:space="preserve">
+    <value>Se concentrer sur le contenu</value>
+  </data>
+  <data name="Validation_MessageNotification" xml:space="preserve">
+    <value>La page comporte une ou plusieurs notifications.</value>
+  </data>
+  <data name="LongOperationMessage" xml:space="preserve">
+    <value>Veuillez patienter lors de l'exécution de l'opération.</value>
+  </data>
+  <data name="BusinessGrid_EmptyRowDefaultMessage" xml:space="preserve">
+    <value>(Il n'y a rien à afficher dans cette vue)</value>
+  </data>
+  <data name="Message_ScriptError" xml:space="preserve">
+    <value>Une erreur de script s'est produite et le contenu n'a pas pu être affiché. {0}</value>
+  </data>
+  <data name="LongOperationPleaseWait" xml:space="preserve">
+    <value>Veuillez patienter. Cette opération prend plus longtemps que prévu.</value>
+  </data>
+  <data name="Network_Unavailable" xml:space="preserve">
+    <value>Le réseau est actuellement indisponible. La connexion sera rétablie une fois l'accès au réseau rétabli.</value>
+  </data>
+  <data name="Validation_MessageMultipleErrors_Mobile" xml:space="preserve">
+    <value>La page comporte {0} erreurs. Corrigez les erreurs ou tentez d'annuler les modifications.[[[[Annuler]]]]</value>
+  </data>
+  <data name="ErrorPage_SendByMail" xml:space="preserve">
+    <value>Cliquez ici pour envoyer cette erreur par e-mail.</value>
+  </data>
+  <data name="AuthenticationPage_Password" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="Message_CommunicationError" xml:space="preserve">
+    <value>La communication avec le serveur a échoué et le contenu ne peut pas être affiché. {0}</value>
+  </data>
+  <data name="JsonRPC_GenericConnectionError" xml:space="preserve">
+    <value>Impossible de se connecter au serveur.</value>
+  </data>
+  <data name="DatePickerMonthNamesShort" xml:space="preserve">
+    <value>Jan,Fév,Mar,Avr,Mai,Jun,Jul,Aoû,Sept,Oct,Nov,Déc</value>
+  </data>
+  <data name="ErrorPage_ErrorHasOcurred" xml:space="preserve">
+    <value>Une erreur s'est produite.</value>
+  </data>
+  <data name="ConfirmNewServer" xml:space="preserve">
+    <value>Vous êtes sur le point de vous connecter à « {0} », ce qui n'est pas votre paramètre de connexion par défaut actuel. Voulez-vous continuer ?</value>
+  </data>
+  <data name="Message_ErrorsExists" xml:space="preserve">
+    <value>La page comporte des changements non enregistrés. Souhaitez-vous annuler ces changements ?</value>
+  </data>
+  <data name="ConfirmNo" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="Tooltip_ValidationItemDescriptionHeadlineFormat" xml:space="preserve">
+    <value>({0} sur {1})</value>
+  </data>
+  <data name="Message_NavigateAway" xml:space="preserve">
+    <value>Si vous choisissez de continuer, toutes les boîtes de dialogue ouvertes se fermeront.</value>
+  </data>
+  <data name="ConfirmYes" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="MandatoryIcon_Tooltip" xml:space="preserve">
+    <value>La valeur de ce champ est obligatoire.</value>
+  </data>
+  <data name="EnterServerPage_UseExistingServer" xml:space="preserve">
+    <value>Utilisez un service existant.</value>
+  </data>
+  <data name="AssistEdit_TooltipTitle" xml:space="preserve">
+    <value>Assister la modification</value>
+  </data>
+  <data name="RestartPage" xml:space="preserve">
+    <value>Actualisez la page ou ouvrez une nouvelle fenêtre de navigateur.</value>
+  </data>
+  <data name="LookupEditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Sélectionner enregistrement « {0} »</value>
+  </data>
+  <data name="SelectServerPage_IntroText" xml:space="preserve">
+    <value>Pour démarrer, vous devez connecter cette app. à un service sur Internet.</value>
+  </data>
+  <data name="DatePickerCurrentText" xml:space="preserve">
+    <value>Aujourd'hui</value>
+  </data>
+  <data name="Filter_ClearButtonToolTip" xml:space="preserve">
+    <value>Effacer le filtre</value>
+  </data>
+  <data name="SelectServerControl_ServiceName" xml:space="preserve">
+    <value>Nom de service</value>
+  </data>
+  <data name="DatePickerMonthNames" xml:space="preserve">
+    <value>janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre</value>
+  </data>
+  <data name="Sorting_SortLinkTitle" xml:space="preserve">
+    <value>Effectuer un tri sur « {0} »</value>
+  </data>
+  <data name="DatePickerIsRTL" xml:space="preserve">
+    <value>False</value>
+  </data>
+  <data name="DatePickerFirstDay" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="DatePickerShowMonthAfterYear" xml:space="preserve">
+    <value>No</value>
+  </data>
+</root>

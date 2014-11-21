@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Include xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <?define Manufacturer="Microsoft Corporation"?>
+  <?define NavFolderName = "Microsoft Dynamics NAV"?>
+  <?define NavVersionFolderName = "80"?>
+  <?define ProductCodePrefix="00000000-0000-8000"?>
+  <?define UpgradeCodePrefix="00000000-0000-8000"?>
+
+  <!-- Argentina -->
+  <?define CountryRegionAR = "0600"?>
+  
+  <!-- Austria -->
+  <?define CountryRegionAT = "0B00"?>
+  
+  <!-- Australia -->
+  <?define CountryRegionAU = "1200"?>
+  
+  <!-- Belgium FR -->
+  <?define CountryRegionBE = "1800"?>
+
+  <!-- Belgium NL -->
+  <?define CountryRegionBE-nl = "0813"?>
+
+  <!-- Bulgaria -->
+  <?define CountryRegionBG = "1A00"?>
+  
+  <!-- Brazil -->
+  <?define CountryRegionBR = "1D00"?>
+  
+  <!-- Canada EN -->
+  <?define CountryRegionCA = "2400"?>
+
+  <!-- Canada FR -->
+  <?define CountryRegionCA-fr = "0C0C"?>
+
+  <!-- Catalonia -->
+  <?define CountryRegionCAT = "ACF7"?>
+
+  <!-- Switzerland DE -->
+  <?define CountryRegionCH = "2A00"?>
+
+  <!-- Switzerland FR -->
+  <?define CountryRegionCH-fr = "100C"?>
+
+  <!-- Switzerland IT -->
+  <?define CountryRegionCH-it = "0810"?>
+
+  <!-- Czech Republic -->
+  <?define CountryRegionCZ = "3000"?>
+  
+  <!-- Germany -->
+  <?define CountryRegionDE = "3600"?>
+  
+  <!-- Denmark -->
+  <?define CountryRegionDK = "3B00"?>
+  
+  <!-- Estonia -->
+  <?define CountryRegionEE = "4200"?>
+  
+  <!-- Spain -->
+  <?define CountryRegionES = "4800"?>
+  
+  <!-- Finland -->
+  <?define CountryRegionFI = "4D00"?>
+  
+  <!-- France -->
+  <?define CountryRegionFR = "5400"?>
+  
+  <!-- United Kingdom -->
+  <?define CountryRegionGB = "5A00"?>
+  
+  <!-- Greece -->
+  <?define CountryRegionGR = "5C00"?>
+  
+  <!-- Hungary -->
+  <?define CountryRegionHU = "5D00"?>
+  
+  <!-- Croatia -->
+  <?define CountryRegionHR = "6000"?>
+  
+  <!-- Indonesia -->
+  <?define CountryRegionID = "6500"?>
+  
+  <!-- Ireland -->
+  <?define CountryRegionIE = "6600"?>
+  
+  <!-- India -->
+  <?define CountryRegionIN = "6B00"?>
+  
+  <!-- Iceland -->
+  <?define CountryRegionIS = "7200"?>
+  
+  <!-- Italy -->
+  <?define CountryRegionIT = "7800"?>
+  
+  <!-- Lithuania -->
+  <?define CountryRegionLT = "7D00"?>
+  
+  <!-- Latvia -->
+  <?define CountryRegionLV = "8400"?>
+  
+  <!-- North Africa/Middle East -->
+  <?define CountryRegionME = "8A00"?>
+  
+  <!-- Macedonia -->
+  <?define CountryRegionMK = "8D00"?>
+  
+  <!-- Mexico -->
+  <?define CountryRegionMX = "9000"?>
+  
+  <!-- Malaysia -->
+  <?define CountryRegionMY = "9600"?>
+  
+  <!-- Netherlands -->
+  <?define CountryRegionNL = "9B00"?>
+  
+  <!-- Norway -->
+  <?define CountryRegionNO = "A200"?>
+  
+  <!-- New Zealand -->
+  <?define CountryRegionNZ = "A800"?>
+  
+  <!-- Philippines -->
+  <?define CountryRegionPH = "AB00"?>
+  
+  <!-- Poland -->
+  <?define CountryRegionPL = "AD00"?>
+  
+  <!-- Portugal -->
+  <?define CountryRegionPT = "B400"?>
+  
+  <!-- Romania -->
+  <?define CountryRegionRO = "B700"?>
+  
+  <!-- Russia -->
+  <?define CountryRegionRU = "BA00"?>
+  
+  <!-- Sweden -->
+  <?define CountryRegionSE = "C000"?>
+  
+  <!-- Singapore -->
+  <?define CountryRegionSG = "C600"?>
+  
+  <!-- Slovakia -->
+  <?define CountryRegionSK = "C800"?>
+  
+  <!-- Slovenia -->
+  <?define CountryRegionSI = "CB00"?>
+  
+  <!-- Thailand -->
+  <?define CountryRegionTH = "D200"?>
+  
+  <!-- Turkey -->
+  <?define CountryRegionTR = "D400"?>
+  
+  <!-- USA -->
+  <?define CountryRegionUS = "D800"?>
+  
+  <!-- Serbia -->
+  <?define CountryRegionCS = "DB00"?>
+  
+  <!-- South Africa -->
+  <?define CountryRegionZA = "DD00"?>
+
+  <!-- W1 -->
+  <?define CountryRegionW1 = "0000"?>
+
+</Include>

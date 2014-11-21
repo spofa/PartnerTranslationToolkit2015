@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ExpandingStateCannotBeChanged" xml:space="preserve">
+    <value>Dialogboksens udvidede tilstand kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="MessageManagerHandlerNotRegistered" xml:space="preserve">
+    <value>Den angivne hændelseshandler er ikke registreret.</value>
+  </data>
+  <data name="TaskDialogButtonTextEmpty" xml:space="preserve">
+    <value>Knapteksten må ikke være tom.</value>
+  </data>
+  <data name="CoreHelpersRunningOnVista" xml:space="preserve">
+    <value>Understøttes kun på Windows 7 eller Windows Vista.</value>
+  </data>
+  <data name="InvalidReferencePath" xml:space="preserve">
+    <value>Referencestien er ugyldig.</value>
+  </data>
+  <data name="PropertyKeyFormatString" xml:space="preserve">
+    <value>{0}, {1}</value>
+  </data>
+  <data name="PowerExecutionStateFailed" xml:space="preserve">
+    <value>SetThreadExecutionState-kald mislykkedes.</value>
+  </data>
+  <data name="NativeTaskDialogConfigurationError" xml:space="preserve">
+    <value>Der opstod en fejl i dialogboksens konfiguration.</value>
+  </data>
+  <data name="DialogCollectionCannotHaveDuplicateNames" xml:space="preserve">
+    <value>Dialogboksen kan ikke have mere end et kontrolelement med det samme navn.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToRegister" xml:space="preserve">
+    <value>Programmet kunne ikke registreres til genoprettelse.</value>
+  </data>
+  <data name="HyperlinksCannotBetSet" xml:space="preserve">
+    <value>Hyperlinks kan ikke aktiveres/deaktiveres, mens dialogboksen vises.</value>
+  </data>
+  <data name="ApplicationRecoveryBadParameters" xml:space="preserve">
+    <value>Programmet blev ikke registreret til genoprettelse på grund af ugyldige parametre.</value>
+  </data>
+  <data name="TaskDialogDefaultMainInstruction" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PowerInsufficientAccessCapabilities" xml:space="preserve">
+    <value>Brugeren havde ikke tilstrækkelige adgangsrettigheder til at hente systemets strømfunktioner.</value>
+  </data>
+  <data name="DialogCollectionControlAlreadyHosted" xml:space="preserve">
+    <value>Dialogboksens kontrolelementet skal først fjernes fra de aktuelle samlinger.</value>
+  </data>
+  <data name="TaskDialogCloseNonShowing" xml:space="preserve">
+    <value>Forsøger at lukke en dialogboks, som ikke vises.</value>
+  </data>
+  <data name="CancelableCannotBeChanged" xml:space="preserve">
+    <value>Annullerbar kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToUnregister" xml:space="preserve">
+    <value>Registreringen til genoprettelse kunne ikke fjernes.</value>
+  </data>
+  <data name="DialogControlNameCannotBeEmpty" xml:space="preserve">
+    <value>Dialogboksens kontrolelement må ikke være tomt eller null.</value>
+  </data>
+  <data name="ApplicationRecoveryMustBeCalledFromCallback" xml:space="preserve">
+    <value>Denne metode skal kaldes fra den registrerede tilbagekaldsmetode.</value>
+  </data>
+  <data name="PropVariantInitializationError" xml:space="preserve">
+    <value>PropVariant kan ikke initialiseres.</value>
+  </data>
+  <data name="PropVariantUnsupportedType" xml:space="preserve">
+    <value>Kan ikke ændres til ikke-understøttet type.</value>
+  </data>
+  <data name="PropVariantTypeNotSupported" xml:space="preserve">
+    <value>Denne værditype understøttes ikke.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToUnregisterForRestart" xml:space="preserve">
+    <value>Registreringen til genstart kunne ikke fjernes.</value>
+  </data>
+  <data name="ExpandedDetailsCannotBeChanged" xml:space="preserve">
+    <value>Udvidet oplysningstilstand kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="StartupLocationCannotBeChanged" xml:space="preserve">
+    <value>Startstedet kan ikke ændres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="OwnerCannotBeChanged" xml:space="preserve">
+    <value>Dialogboksens ejer kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="TaskDialogUnkownControl" xml:space="preserve">
+    <value>Denne type er et ukendt dialogbokskontrolelement.</value>
+  </data>
+  <data name="TaskDialogSupportedButtonsAndButtons" xml:space="preserve">
+    <value>Dialogboksen må ikke indeholde både ikke-standardknapper og standardknapper.</value>
+  </data>
+  <data name="TaskDialogSupportedButtonsAndLinks" xml:space="preserve">
+    <value>Dialogboksen må ikke indeholde både ikke-standardknapper og kommandolinks.</value>
+  </data>
+  <data name="CheckBoxCannotBeChanged" xml:space="preserve">
+    <value>Tekst i afkrydsningsfelter kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="DialogCollectionModifyShowingDialog" xml:space="preserve">
+    <value>Et kontrolelements samling kan ikke redigeres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="NativeTaskDialogInternalErrorComplex" xml:space="preserve">
+    <value>Dialogboksens indhold er for komplekst.</value>
+  </data>
+  <data name="NativeTaskDialogVersionError" xml:space="preserve">
+    <value>Funktionen TaskDialog skal indlæse version 6 af comctl32.dll, men en anden version er indlæst i øjeblikket.</value>
+  </data>
+  <data name="CaptionCannotBeChanged" xml:space="preserve">
+    <value>Et dialogboksnavn kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="CollapsedTextCannotBeChanged" xml:space="preserve">
+    <value>Skjult kontroltekst kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="DialogDefaultMainInstruction" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PowerManagerBatteryNotPresent" xml:space="preserve">
+    <value>Batteriet findes ikke på dette system.</value>
+  </data>
+  <data name="TaskDialogOnlyOneDefaultControl" xml:space="preserve">
+    <value>Der kan ikke være mere end en standardknap af en angiven type.</value>
+  </data>
+  <data name="PowerInsufficientAccessBatteryState" xml:space="preserve">
+    <value>Brugeren havde ikke tilstrækkelige adgangsrettigheder til at hente systemets batteritilstand.</value>
+  </data>
+  <data name="TaskDialogProgressBarValueInRange" xml:space="preserve">
+    <value>Den angivne værdi skal være større end eller lig med minimumværdien og mindre end maksimumværdien.</value>
+  </data>
+  <data name="TaskDialogBadButtonId" xml:space="preserve">
+    <value>Ugyldig knap-id ved lukning.</value>
+  </data>
+  <data name="ProgressBarCannotBeChanged" xml:space="preserve">
+    <value>En statuslinje kan ikke ændres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="ProgressBarCannotBeHostedInMultipleDialogs" xml:space="preserve">
+    <value>Det er ikke muligt at være vært for en statuslinje i flere dialogbokse.</value>
+  </data>
+  <data name="PropVariantMultiDimArray" xml:space="preserve">
+    <value>Multidimensionale SafeArrays understøttes ikke.</value>
+  </data>
+  <data name="CoreHelpersRunningOnXp" xml:space="preserve">
+    <value>Understøttes kun på Windows 7 eller Windows Vista.</value>
+  </data>
+  <data name="StandardButtonsCannotBeChanged" xml:space="preserve">
+    <value>StandardButtons kan ikke ændres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="PowerManagerActiveSchemeFailed" xml:space="preserve">
+    <value>Det var ikke muligt at hente en aktiv strømstyringsplan.</value>
+  </data>
+  <data name="DialogCollectionControlNameNull" xml:space="preserve">
+    <value>Kontrolelementets navn må ikke være null eller have en længde på nul.</value>
+  </data>
+  <data name="TaskDialogDefaultCaption" xml:space="preserve">
+    <value>Program</value>
+  </data>
+  <data name="DialogDefaultContent" xml:space="preserve">
+    <value />
+  </data>
+  <data name="CoreHelpersRunningOn7" xml:space="preserve">
+    <value>Understøttes kun på Windows 7.</value>
+  </data>
+  <data name="TaskDialogProgressBarMaxValueGreaterThanMin" xml:space="preserve">
+    <value>Maksimumværdien skal være større end minimumværdien.</value>
+  </data>
+  <data name="NativeTaskDialogInternalErrorArgs" xml:space="preserve">
+    <value>Ugyldige argumenter for Win32-kald.</value>
+  </data>
+  <data name="ExpandedLabelCannotBeChanged" xml:space="preserve">
+    <value>Udvidet tekst til kontrolelement kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="DialogControlsCannotBeRenamed" xml:space="preserve">
+    <value>Dialogbokskontrolelementer kan ikke omdøbes.</value>
+  </data>
+  <data name="TaskDialogProgressBarMinValueGreaterThanZero" xml:space="preserve">
+    <value>Minimumværdien skal være et positivt tal.</value>
+  </data>
+  <data name="PropVariantNullString" xml:space="preserve">
+    <value>Et strengargument må ikke være null eller tomt.</value>
+  </data>
+  <data name="TaskDialogCheckBoxTextRequiredToEnableCheckBox" xml:space="preserve">
+    <value>Afkrydsningsfeltets tekst skal angives for at aktivere afkrydsningsfeltet i dialogboksen.</value>
+  </data>
+  <data name="TaskDialogProgressBarMinValueLessThanMax" xml:space="preserve">
+    <value>Minimumværdien skal være mindre end maksimumværdien.</value>
+  </data>
+  <data name="ApplicationRecoveryFailedToRegisterForRestart" xml:space="preserve">
+    <value>Programmet kunne ikke registreres til genstart.</value>
+  </data>
+  <data name="TaskDialogDefaultContent" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ApplicationRecoverFailedToRegisterForRestartBadParameters" xml:space="preserve">
+    <value>Det var ikke muligt at registrere programmet til genstart på grund af ugyldige parametre.</value>
+  </data>
+  <data name="DialogDefaultCaption" xml:space="preserve">
+    <value>Program</value>
+  </data>
+</root>

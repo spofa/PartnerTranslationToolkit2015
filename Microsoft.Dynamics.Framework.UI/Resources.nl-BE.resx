@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BooleanFalse" xml:space="preserve">
+    <value>Onwaar</value>
+  </data>
+  <data name="MessageForm_YesPrompt" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="EmailValidationRule_NotValid" xml:space="preserve">
+    <value>De waarde geeft een ongeldig e-mailadres aan.</value>
+  </data>
+  <data name="PasteRowsColumnsMissing" xml:space="preserve">
+    <value>De laatste {0} zijn niet geplakt.</value>
+  </data>
+  <data name="FilterCouldNotBeExecuted" xml:space="preserve">
+    <value>Het filter kan niet worden uitgevoerd vanwege problemen op het formulier. Het filter is teruggedraaid naar de vorige versie van het filter.</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidGuid" xml:space="preserve">
+    <value>Parameter {0} is geen geldig GUID.</value>
+  </data>
+  <data name="ColumnFilterGreaterThan" xml:space="preserve">
+    <value>groter dan</value>
+  </data>
+  <data name="MessageForm_OKPrompt" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="UrlParserCommandBase_BadQueryParameter" xml:space="preserve">
+    <value>Een opgegeven parameter heeft niet zowel een naam als een waarde.</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Fout</value>
+  </data>
+  <data name="Paste_CannotPasteIfBadSelection" xml:space="preserve">
+    <value>U kunt niet in meer dan één gebied tegelijk plakken.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueNumber" xml:space="preserve">
+    <value>getal</value>
+  </data>
+  <data name="ValidationRule_GreaterThanMax" xml:space="preserve">
+    <value>De waarde moet kleiner dan of gelijk aan {1} zijn. Waarde: {0}.</value>
+  </data>
+  <data name="FilterControl_DatabaseException" xml:space="preserve">
+    <value>Het filter veroorzaakt een gegevensuitzondering.</value>
+  </data>
+  <data name="ColumnBinderNotSet" xml:space="preserve">
+    <value>Kolombinder niet ingesteld.</value>
+  </data>
+  <data name="ImageValidationRule_UnrecognizableFormat" xml:space="preserve">
+    <value>De gegevens zijn niet herkenbaar als een afbeelding.</value>
+  </data>
+  <data name="CopyCellAction_Caption" xml:space="preserve">
+    <value>Cel kopiëren</value>
+  </data>
+  <data name="PasteWarningMoreColumnsInDataThanInRepeater" xml:space="preserve">
+    <value>Er zijn meer kolommen in het Klembord dan in het doelraster. Niet alle kolommen worden geplakt. Weet u zeker dat u wilt doorgaan?</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValue" xml:space="preserve">
+    <value>De door u opgegeven '{0}' is geen acceptabele {1}-waarde.</value>
+  </data>
+  <data name="LogicalLookupForm_Caption" xml:space="preserve">
+    <value>{0} zoeken</value>
+  </data>
+  <data name="UrlParserCommandBase_RequiredParameterMissing" xml:space="preserve">
+    <value>Vereiste parameter is niet aanwezig.</value>
+  </data>
+  <data name="ValidationErrorTitle" xml:space="preserve">
+    <value>Foutresultaten</value>
+  </data>
+  <data name="PasteFailed_UnableToProceedToNextLine" xml:space="preserve">
+    <value>Plakken is mislukt en doorgaan naar de volgende regel is niet mogelijk.</value>
+  </data>
+  <data name="PropertyValue_MustBeNonNegative" xml:space="preserve">
+    <value>De waarde moet positief of nul zijn.</value>
+  </data>
+  <data name="ValidationInfoTitle" xml:space="preserve">
+    <value>Informatieresultaten</value>
+  </data>
+  <data name="PasteFailed_ValidationError" xml:space="preserve">
+    <value>Plakken is mislukt vanwege validatiefouten.</value>
+  </data>
+  <data name="UrlParserBase_ActionNotKnown" xml:space="preserve">
+    <value>Actie is niet bekend.</value>
+  </data>
+  <data name="PasteClipboardAction_PasteControl" xml:space="preserve">
+    <value>Rijen plakken</value>
+  </data>
+  <data name="BooleanExpressionNode_False" xml:space="preserve">
+    <value>onwaar</value>
+  </data>
+  <data name="PasteRows_OverrideWarning" xml:space="preserve">
+    <value>Hiermee worden de geselecteerde gegevens overschreven. Weet u zeker dat u wilt doorgaan?</value>
+  </data>
+  <data name="ColumnFilterNotEqual_Description" xml:space="preserve">
+    <value>niet gelijk aan</value>
+  </data>
+  <data name="LogicalLookupForm_CreateNewCaption" xml:space="preserve">
+    <value>&amp;Nieuwe maken</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidEnumeratedValue" xml:space="preserve">
+    <value>Parameter {0} wordt opgesomd en kan niet waarde {1} zijn.</value>
+  </data>
+  <data name="ColumnFilterLessThanOrEqual_Description" xml:space="preserve">
+    <value>kleiner dan of gelijk aan</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueCaption" xml:space="preserve">
+    <value>De door u opgegeven '{0}' is geen acceptabele waarde voor '{1}'.</value>
+  </data>
+  <data name="StringControl_InvalidUnicode" xml:space="preserve">
+    <value>De waarde bevat ongeldige Unicode-tekens.</value>
+  </data>
+  <data name="PasteRowsUnsuccesful" xml:space="preserve">
+    <value>Er is een probleem opgetreden bij het plakken van de rijen</value>
+  </data>
+  <data name="DateTimeValidationRule_DateNotAllowed" xml:space="preserve">
+    <value>Een niet-standaarddatumonderdeel is niet toegestaan.</value>
+  </data>
+  <data name="FindSelectionField" xml:space="preserve">
+    <value>Selectieveld zoeken</value>
+  </data>
+  <data name="DateTimeValidationRule_MustNotContainDays" xml:space="preserve">
+    <value>De waarde mag geen dagen bevatten.</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidRangedInteger" xml:space="preserve">
+    <value>Parameter {0} moet een geldig getal zijn tussen {1} en {2}.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueFormatCaption" xml:space="preserve">
+    <value>De door u opgegeven '{0}' is geen acceptabele waarde voor '{1}'. {2}</value>
+  </data>
+  <data name="ClipboardNotAvailableError" xml:space="preserve">
+    <value>Klembord is momenteel niet beschikbaar. Probeer het later opnieuw.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueString" xml:space="preserve">
+    <value>reeks</value>
+  </data>
+  <data name="UrlParserCommandBase_InvalidBoolean" xml:space="preserve">
+    <value>Met parameter {0} wordt geen geldige Boole-waarde vertegenwoordigd.</value>
+  </data>
+  <data name="CopyActionProgressBody" xml:space="preserve">
+    <value>Een ogenblik geduld. De rijen worden gekopieerd.</value>
+  </data>
+  <data name="Fatal" xml:space="preserve">
+    <value>Fataal</value>
+  </data>
+  <data name="StringValidationRule_StringTooShort" xml:space="preserve">
+    <value>De waarde is te kort. Minimale lengte: {1}. Waarde: {0}.</value>
+  </data>
+  <data name="ColumnFilterBeginsWithOperator_Description" xml:space="preserve">
+    <value>begint met</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueTimeSpan" xml:space="preserve">
+    <value>tijdsspanne</value>
+  </data>
+  <data name="Dialog_DefaultCaption" xml:space="preserve">
+    <value>Informatie</value>
+  </data>
+  <data name="SessionIsInvalidOrTimedout" xml:space="preserve">
+    <value>Er is een time-out opgetreden in de sessie of de sessie is niet gevonden.</value>
+  </data>
+  <data name="ValidationRule_ValueNotDivisibleByMinUnit" xml:space="preserve">
+    <value>De waarde moet deelbaar door {1} zijn.</value>
+  </data>
+  <data name="LogicalLookupForm_AdvancedLookupCaption" xml:space="preserve">
+    <value>Geavanceerd &amp;zoeken</value>
+  </data>
+  <data name="CopyPreviousErrorMessage" xml:space="preserve">
+    <value>De te kopiëren waarde is ongeldig.</value>
+  </data>
+  <data name="Message_DiscardChanges" xml:space="preserve">
+    <value>De pagina bevat niet-opgeslagen wijzigingen. Wilt u deze wijzigingen verwijderen?</value>
+  </data>
+  <data name="UrlParserBase_BadUrl" xml:space="preserve">
+    <value>Gegevens kunnen niet worden geïnterpreteerd als een URL.</value>
+  </data>
+  <data name="MessageForm_AbortPrompt" xml:space="preserve">
+    <value>Afbreken</value>
+  </data>
+  <data name="BooleanTrue" xml:space="preserve">
+    <value>Waar</value>
+  </data>
+  <data name="CopyAction_Caption" xml:space="preserve">
+    <value>&amp;Rijen kopiëren</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Informatie</value>
+  </data>
+  <data name="BooleanExpressionNode_True" xml:space="preserve">
+    <value>waar</value>
+  </data>
+  <data name="ColumnFilterLessThan" xml:space="preserve">
+    <value>kleiner dan</value>
+  </data>
+  <data name="MessageForm_NoPrompt" xml:space="preserve">
+    <value>Nee</value>
+  </data>
+  <data name="DateTimeValidationRule_TimeNotAllowed" xml:space="preserve">
+    <value>Een niet-standaardtijdonderdeel is niet toegestaan.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueStream" xml:space="preserve">
+    <value>stream</value>
+  </data>
+  <data name="RequiredFieldValidationRule_MustBeFilledIn" xml:space="preserve">
+    <value>Er moet een waarde worden opgegeven.</value>
+  </data>
+  <data name="ColumnFilterGreaterThanOrEqual_Description" xml:space="preserve">
+    <value>groter dan of gelijk aan</value>
+  </data>
+  <data name="ClipboardNotWorking" xml:space="preserve">
+    <value>Kan URL niet naar het Klembord kopiëren.</value>
+  </data>
+  <data name="ColumnFilterIsOperator_Description" xml:space="preserve">
+    <value>is</value>
+  </data>
+  <data name="UrlParserCommandBase_NotSingleValued" xml:space="preserve">
+    <value>Parameter {0} heeft meerdere waarden.</value>
+  </data>
+  <data name="Permission" xml:space="preserve">
+    <value>Toegangsrechten</value>
+  </data>
+  <data name="UrlParserBase_BadScheme" xml:space="preserve">
+    <value>Schema {0} wordt niet ondersteund.</value>
+  </data>
+  <data name="SelectionControlFormatter_InvalidValue" xml:space="preserve">
+    <value>{0} is geen geldige waarde.</value>
+  </data>
+  <data name="ValidationRule_LessThanMin" xml:space="preserve">
+    <value>De waarde moet groter dan of gelijk aan {1} zijn. Waarde: {0}.</value>
+  </data>
+  <data name="StringValidationRule_StringTooLong" xml:space="preserve">
+    <value>De waarde is te lang. Maximale lengte: {1}. Waarde: {0}.</value>
+  </data>
+  <data name="ResourceNoSaveAsFolderNotFound" xml:space="preserve">
+    <value>Kan de resources niet opslaan op de webserver omdat de map {0} niet bestaat. Maak de map, voeg de map toe aan de website als een virtuele map en start de website opnieuw.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueDateTime" xml:space="preserve">
+    <value>datum tijd</value>
+  </data>
+  <data name="ByteStreamValidationRule_MaxLenghtExceeded" xml:space="preserve">
+    <value>De waarde overschrijdt de maximale grootte. Maximale grootte: {0}. Werkelijke grootte: {1}</value>
+  </data>
+  <data name="RequiredFieldValidationRule_ControlMustBeFilledIn" xml:space="preserve">
+    <value>{0} moet worden ingevuld. Voer een waarde in.</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueFormat" xml:space="preserve">
+    <value>De door u opgegeven '{0}' is geen acceptabele {1}-waarde. {2}</value>
+  </data>
+  <data name="ValidationWarningTitle" xml:space="preserve">
+    <value>Waarschuwingsresultaten</value>
+  </data>
+  <data name="DataBindingException_ValidationFailed" xml:space="preserve">
+    <value>Gegevensverzoek is ongeldig.</value>
+  </data>
+  <data name="ColumnFilterContainsOperater_Description" xml:space="preserve">
+    <value>bevat</value>
+  </data>
+  <data name="MessageForm_CancelPrompt" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="CopyActionProgressHeader" xml:space="preserve">
+    <value>Kopiëren</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueEnumaration" xml:space="preserve">
+    <value>opsomming</value>
+  </data>
+  <data name="ColumnFilterEquals" xml:space="preserve">
+    <value>is gelijk aan</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueBoolean" xml:space="preserve">
+    <value>boolean</value>
+  </data>
+  <data name="PasteCannotPasteClipboardIntoSelection" xml:space="preserve">
+    <value>U kunt {0} rijen niet plakken in de geselecteerde {1} rijen.</value>
+  </data>
+  <data name="PasteColumnsHaveBeenTruncated" xml:space="preserve">
+    <value>Sommige waarden zijn afgekapt.</value>
+  </data>
+  <data name="FilterHelper_FilterTypeNotValid" xml:space="preserve">
+    <value>'{0}' met '{1}' is geen geldig gegevenstype voor '{2}'.</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Waarschuwing</value>
+  </data>
+  <data name="PasteWarningDataExceedColumnsPotentialTruncation" xml:space="preserve">
+    <value>U probeert gegevens te plakken die de maximale breedte van de doelkolom of doelkolommen overschrijden. Die gegevens worden afgekapt. Weet u zeker dat u wilt doorgaan?</value>
+  </data>
+  <data name="LogicalControl_IllegalDataValueDecimal" xml:space="preserve">
+    <value>decimaal getal</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value>Bevestigen</value>
+  </data>
+</root>

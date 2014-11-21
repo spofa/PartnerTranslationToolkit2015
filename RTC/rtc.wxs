@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?include ..\Globals.wxi?>
+<?include ..\Locals.wxi?>
+<?define ProductFolderName = "RoleTailored Client"?>
+<?define ProductName="$(var.ModuleLanguage) Module for Microsoft Dynamics NAV Role Tailored Client"?>
+<?define ProductDescription="Installs the $(var.ModuleLanguage) Language files for Microsoft Dynamics NAV Role Tailored Client."?>
+<?define ProductCode="$(var.ProductCodePrefix)-$(var.CountryRegion)-0CE90DA3512B"?>
+<?define UpgradeCode="$(var.UpgradeCodePrefix)-$(var.CountryRegion)-C92F6986D8DF"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="$(var.ProductCode)"
+           Name="$(var.ProductName)"
+           Language="1033"
+           Version="$(var.BuildVersion)"
+           Manufacturer="$(var.Manufacturer)"
+           UpgradeCode="$(var.UpgradeCode)">
+    <Package Manufacturer="$(var.Manufacturer)"
+             Description="$(var.ProductName)"
+             Comments="$(var.ProductDescription)"
+             InstallerVersion="200"
+             Compressed="no" />
+    
+    <MediaTemplate EmbedCab="yes" />
+    
+    <Icon Id="MainIcon" SourceFile="..\NAV.ico" />
+    <Property Id="ARPPRODUCTICON" Value="MainIcon" />
+    <Property Id="ALLUSERS" Value="1" />
+    <Feature Id="PlatformResources" Level="1" Title="Platform Resources">
+      <ComponentRef Id="MS_Dyn_Fx_UI_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Fx_UI_UX2006_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Fx_UI_UX2006_WinForms_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Fx_UI_Windows_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Fx_UI_WinForms_Controls_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Fx_UI_WinForms_DataVisualization_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Fx_UI_WinForms_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Nav_Language_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Nav_ExcelAddin_resources_dll" />
+      <ComponentRef Id="MS_Dyn_Nav_OpenXml_resources_dll" />
+    </Feature>
+    <Feature Id="ClassicPlatformResources" Level="1" Title="Classic Platform Resources">
+      <ComponentRef Id="fin_stx" />
+      <ComponentRef Id="fin_etx" />
+      <ComponentRef Id="enu_fin_stx" />
+      <ComponentRef Id="enu_fin_etx" />
+    </Feature>
+    <Feature Id="DemoLicenseFile" Level="1" Title="Cronus License">
+      <ComponentRef Id="Cronus_flf" />
+    </Feature>
+
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder" Name="PFiles">
+        <Directory Id="ProgramNavFolder" Name="Microsoft Dynamics NAV">
+          <Directory Id="ProgramNavVersionFolder" Name="$(var.NavVersionFolderName)">
+            <Directory Id="INSTALLDIR" Name="RoleTailored Client">
+              <Component Id="Cronus_flf">
+                <File Source="$(var.LocalTextFiles)\Cronus.flf" />
+              </Component>
+              <Directory Id="LocalLangFolder" Name="$(var.LocalLangFolder)" >
+                <Component Id="MS_Dyn_Fx_UI_resources_dll" >
+                  <File Source="$(var.Microsoft.Dynamics.Framework.UI.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Fx_UI_UX2006_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Framework.UI.UX2006.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.UX2006.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Fx_UI_UX2006_WinForms_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Framework.UI.UX2006.WinForms.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.UX2006.WinForms.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Fx_UI_Windows_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Framework.UI.Windows.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.Windows.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Fx_UI_WinForms_Controls_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Framework.UI.WinForms.Controls.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.WinForms.Controls.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Fx_UI_WinForms_DataVisualization_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Fx_UI_WinForms_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Framework.UI.WinForms.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Framework.UI.WinForms.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Nav_Language_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Nav.Language.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.Language.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Nav_ExcelAddin_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Nav.ExcelAddin.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.ExcelAddin.TargetName).resources.dll" />
+                </Component>
+                <Component Id="MS_Dyn_Nav_OpenXml_resources_dll">
+                  <File Source="$(var.Microsoft.Dynamics.Nav.OpenXml.TargetDir)$(var.LocalLangFolder)\$(var.Microsoft.Dynamics.Nav.OpenXml.TargetName).resources.dll" />
+                </Component>
+              </Directory>
+              <Directory Id="LocalIsoFolder" Name="$(var.LocalIsoFolder)">
+                <Component Id="fin_stx">
+                  <File Id="fin_stx" Source="$(var.LocalTextFiles)\fin.stx" />
+                </Component>
+                <Component Id="fin_etx">
+                  <File Id="fin_etx" Source="$(var.LocalTextFiles)\fin.etx" />
+                </Component>
+              </Directory>
+              <Directory Id="EnuFolder" Name="ENU">
+                <Component Id="enu_fin_stx">
+                  <File Source="$(var.GlobalTextFiles)\fin.stx" />
+                </Component>
+                <Component Id="enu_fin_etx">
+                  <File Source="$(var.GlobalTextFiles)\fin.etx" />
+                </Component>
+              </Directory>
+            </Directory>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Product>
+</Wix>

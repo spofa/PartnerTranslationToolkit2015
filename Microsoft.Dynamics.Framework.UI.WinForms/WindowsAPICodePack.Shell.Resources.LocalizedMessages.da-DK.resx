@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ShellPropertyValueTruncated" xml:space="preserve">
+    <value>Det var nødvendigt at afkorte en værdi i en streng eller afrunde en numerisk værdi. Angiv AllowTruncatedValue som sand for at forhindre denne undtagelse.</value>
+  </data>
+  <data name="FolderTypeCompressedFolder" xml:space="preserve">
+    <value>Komprimeret mappe</value>
+  </data>
+  <data name="FolderTypeGames" xml:space="preserve">
+    <value>Spil</value>
+  </data>
+  <data name="MessageListenerFilterUnableToRegister" xml:space="preserve">
+    <value>Meddelelsesfilteret kunne ikke registreres.</value>
+  </data>
+  <data name="RestoreDirectoryCannotBeChanged" xml:space="preserve">
+    <value>RestoreDirectory kan ikke ændres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="PropertyCollectionInvalidIndex" xml:space="preserve">
+    <value>Denne PropertyKey er ikke et gyldigt indeks.</value>
+  </data>
+  <data name="ShellThumbnailCurrentSizeRange" xml:space="preserve">
+    <value>CurrentSize (bredde eller højde) kan ikke være større end den maksimale størrelse: {0}.</value>
+  </data>
+  <data name="ShellHelperGetParsingNameFailed" xml:space="preserve">
+    <value>GetParsingName mislykkedes.</value>
+  </data>
+  <data name="ExplorerBrowserIconSize" xml:space="preserve">
+    <value>Kan ikke hente ikonstørrelse.</value>
+  </data>
+  <data name="FolderTypeVideos" xml:space="preserve">
+    <value>Videoer</value>
+  </data>
+  <data name="FolderTypeInvalid" xml:space="preserve">
+    <value>Ugyldigt</value>
+  </data>
+  <data name="ShowPlacesListCannotBeChanged" xml:space="preserve">
+    <value>Kan ikke vise listen med placeringer, mens en dialogboks er åben.</value>
+  </data>
+  <data name="ShellThumbnailNoHandler" xml:space="preserve">
+    <value>Det aktuelle ShellObject har ikke en gyldig miniaturehandler, eller der opstod et problem ved udpakning af miniaturen for dette specifikke shell-objekt.</value>
+  </data>
+  <data name="JumpListLinkTitleRequired" xml:space="preserve">
+    <value>JumpListLinks titel kræves og kan ikke være null.</value>
+  </data>
+  <data name="ShellLibraryInvalidFolderType" xml:space="preserve">
+    <value>Ugyldig FolderType-Guid.</value>
+  </data>
+  <data name="FolderTypeCommunications" xml:space="preserve">
+    <value>Kommunikation</value>
+  </data>
+  <data name="ShellObjectCollectionInsertReadOnly" xml:space="preserve">
+    <value>Elementer kan ikke indsættes i en skrivebeskyttet liste.</value>
+  </data>
+  <data name="DialogControlCollectionMenuItemControlsCannotBeAdded" xml:space="preserve">
+    <value>CommonFileDialogMenuItem-kontrolelementer kan kun føjes til CommonFileDialogMenu-kontrolelementer.</value>
+  </data>
+  <data name="NavigateToShortcutCannotBeChanged" xml:space="preserve">
+    <value>NavigateToShortcut kan ikke ændres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="FolderTypeGenericLibrary" xml:space="preserve">
+    <value>Generisk bibliotek</value>
+  </data>
+  <data name="ShellLibraryFolderNotFound" xml:space="preserve">
+    <value>Mappestien blev ikke fundet.</value>
+  </data>
+  <data name="ThumbnailManagerPreviewNotAdded" xml:space="preserve">
+    <value>Det angivne eksempel er ikke føjet til proceslinjen.</value>
+  </data>
+  <data name="FolderTypePrinters" xml:space="preserve">
+    <value>Printeroversigt</value>
+  </data>
+  <data name="FolderTypeUserFiles" xml:space="preserve">
+    <value>Brugerfiler</value>
+  </data>
+  <data name="ThumbnailToolbarManagerMaxButtons" xml:space="preserve">
+    <value>Det højeste tilladte antal knapper er 7.</value>
+  </data>
+  <data name="EnsureValidNamesCannotBeChanged" xml:space="preserve">
+    <value>EnsureValidNames kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="TabbedThumbnailZeroParentHandle" xml:space="preserve">
+    <value>Overordnedes vindues-handle må ikke være nul.</value>
+  </data>
+  <data name="CommonFileDialogMultipleFiles" xml:space="preserve">
+    <value>Der er valgt flere filer. Brug egenskaben FileNames i stedet.</value>
+  </data>
+  <data name="EnsurePathExistsCannotBeChanged" xml:space="preserve">
+    <value>EnsurePathExists kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="NavigationLogNullParent" xml:space="preserve">
+    <value>Overordnet må ikke være null.</value>
+  </data>
+  <data name="FolderTypePictures" xml:space="preserve">
+    <value>Billeder</value>
+  </data>
+  <data name="ShellObjectCollectionArrayTooSmall" xml:space="preserve">
+    <value>Destinationsmatrixen er for lille, eller arrayIndex er ugyldigt.</value>
+  </data>
+  <data name="FilePathNotExist" xml:space="preserve">
+    <value>Den angivne sti findes ikke ({0}).</value>
+  </data>
+  <data name="FolderTypeNotSpecified" xml:space="preserve">
+    <value>Ikke angivet</value>
+  </data>
+  <data name="EnsureReadonlyCannotBeChanged" xml:space="preserve">
+    <value>EnsurePathExists kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="ShellLibraryEmptyName" xml:space="preserve">
+    <value>LibraryName må ikke være tomt.</value>
+  </data>
+  <data name="ShellObjectWatcherRegisterFailed" xml:space="preserve">
+    <value>Registrering til meddelelse om ændringer mislykkedes.</value>
+  </data>
+  <data name="TasbarWindowProxyWindowSet" xml:space="preserve">
+    <value>TabbedThumbnailProxyWindow er ikke angivet.</value>
+  </data>
+  <data name="CommonFiltersText" xml:space="preserve">
+    <value>Tekstfiler</value>
+  </data>
+  <data name="ExplorerBrowserSelectedItemCount" xml:space="preserve">
+    <value>Der opstod en uventet fejl under hentning af det valgte antal elementer.</value>
+  </data>
+  <data name="JumpListLinkPathRequired" xml:space="preserve">
+    <value>JumpListLinks sti kræves og kan ikke være null.</value>
+  </data>
+  <data name="AlwaysAppendDefaultExtensionCannotBeChanged" xml:space="preserve">
+    <value>AlwaysAppendDefaultExtension kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="FolderTypeMusicIcons" xml:space="preserve">
+    <value>Musikikoner</value>
+  </data>
+  <data name="KnownFolderParsingName" xml:space="preserve">
+    <value>Parsingnavnet er ugyldigt.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetSortColumns" xml:space="preserve">
+    <value>Kan ikke angive liste over sorteringskolonner.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetVisibleColumns" xml:space="preserve">
+    <value>Kan ikke angive synlige kolonner.</value>
+  </data>
+  <data name="FolderTypeMusic" xml:space="preserve">
+    <value>Musik</value>
+  </data>
+  <data name="ComboBoxIndexOutsideBounds" xml:space="preserve">
+    <value>Indeks var uden for grænserne for CommonFileDialogComboBox.</value>
+  </data>
+  <data name="ShellObjectFactoryPlatformNotSupported" xml:space="preserve">
+    <value>Oprettelse af shell-objekter kræver Windows 7 eller Windows Vista.</value>
+  </data>
+  <data name="PropertyCollectionNullCanonicalName" xml:space="preserve">
+    <value>Argumentet CanonicalName må ikke være null eller tomt.</value>
+  </data>
+  <data name="ShellPropertyUnableToGetWritableProperty" xml:space="preserve">
+    <value>Det skrivbare egenskabslager for denne egenskab kan ikke hentes.</value>
+  </data>
+  <data name="TaskbarWindowValueSet" xml:space="preserve">
+    <value>Værdien er allerede angivet. Den kan ikke angives mere end en gang.</value>
+  </data>
+  <data name="ShellObjectCollectionRemoveReadOnly" xml:space="preserve">
+    <value>Elementer kan ikke fjernes fra en skrivebeskyttet liste.</value>
+  </data>
+  <data name="OverwritePromptCannotBeChanged" xml:space="preserve">
+    <value>Funktionen OverwritePrompt kan ikke ændres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="DialogControlCollectionRemoveControlFirst" xml:space="preserve">
+    <value>Dialogboksens kontrolelementet skal først fjernes fra de aktuelle samlinger.</value>
+  </data>
+  <data name="AddToMostRecentlyUsedListCannotBeChanged" xml:space="preserve">
+    <value>AddToMostRecentlyUsedList kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="CommonFiltersPicture" xml:space="preserve">
+    <value>Alle billedfiler</value>
+  </data>
+  <data name="TaskbarWindowEmptyButtonArray" xml:space="preserve">
+    <value>Matrixen af knapper skal indeholde mindst et element.</value>
+  </data>
+  <data name="DialogControlCollectionCannotRemoveControls" xml:space="preserve">
+    <value>Brugerdefinerede kontrolelementer kan ikke fjernes fra en fildialog, når de er tilføjet.</value>
+  </data>
+  <data name="CommonFiltersOffice" xml:space="preserve">
+    <value>Office-filer</value>
+  </data>
+  <data name="FolderTypeRecycleBin" xml:space="preserve">
+    <value>Papirkurv</value>
+  </data>
+  <data name="JumpListCustomCategoriesDisabled" xml:space="preserve">
+    <value>Brugerdefinerede kategorier kan ikke tilføjes, mens sporing af seneste dokumenter er slået fra.</value>
+  </data>
+  <data name="NotImplementedException" xml:space="preserve">
+    <value>Metoden eller operationen er ikke implementeret.</value>
+  </data>
+  <data name="ThumbnailToolbarManagerNullEmptyArray" xml:space="preserve">
+    <value>Null- eller tomme matrixer er ikke tilladt.</value>
+  </data>
+  <data name="SearchConditionFactoryInvalidProperty" xml:space="preserve">
+    <value>Angiven egenskabsnøgle er ugyldig.</value>
+  </data>
+  <data name="CommonFileDialogNotClosed" xml:space="preserve">
+    <value>Filnavn ikke disponibelt - dialogboksen er endnu ikke lukket.</value>
+  </data>
+  <data name="FolderTypeSearchResults" xml:space="preserve">
+    <value>Generiske søgeresultater</value>
+  </data>
+  <data name="DialogControlCollectionMoreThanOneControl" xml:space="preserve">
+    <value>Dialogboksen kan ikke have mere end et kontrolelement med det samme navn.</value>
+  </data>
+  <data name="ThumbnailManagerInvalidHandle" xml:space="preserve">
+    <value>Vindues-handlet er ugyldigt.</value>
+  </data>
+  <data name="ShellPropertySetValue" xml:space="preserve">
+    <value>Egenskaben kan ikke angives.</value>
+  </data>
+  <data name="ShellObjectWatcherUnableToChangeEvents" xml:space="preserve">
+    <value>Overvågede hændelser kan ikke ændres under lytning.</value>
+  </data>
+  <data name="SaveFileNullItem" xml:space="preserve">
+    <value>Hentede et null shell-element fra en dialogboks.</value>
+  </data>
+  <data name="KnownFolderInvalidGuid" xml:space="preserve">
+    <value>Det angivne kendte mappe-id er ugyldigt.</value>
+  </data>
+  <data name="CommonFileDialogCanceled" xml:space="preserve">
+    <value>Filnavn ikke disponibelt - dialogboksen blev annulleret.</value>
+  </data>
+  <data name="ShellInvalidCanonicalName" xml:space="preserve">
+    <value>Det angivne CanonicalName er ikke gyldigt.</value>
+  </data>
+  <data name="ShellObjectCreationFailed" xml:space="preserve">
+    <value>Shell-elementet kunne ikke oprettes.</value>
+  </data>
+  <data name="DialogControlCollectionModifyingControls" xml:space="preserve">
+    <value>Et kontrolelements samling kan ikke redigeres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="FolderTypeClassic" xml:space="preserve">
+    <value>ControlPanel Classic</value>
+  </data>
+  <data name="ShowHiddenItemsCannotBeChanged" xml:space="preserve">
+    <value>ShowHiddenItems kan ikke ændres, mens en dialogboks er åben.</value>
+  </data>
+  <data name="ShellObjectCollectionEmptyCollection" xml:space="preserve">
+    <value>Der skal være mindst et shell-objekt i samlingen.</value>
+  </data>
+  <data name="FolderTypeNetworkExplorer" xml:space="preserve">
+    <value>Netværksstifinder</value>
+  </data>
+  <data name="ThumbnailManagerPreviewAdded" xml:space="preserve">
+    <value>Dette eksempel er allerede tilføjet.</value>
+  </data>
+  <data name="FolderTypeOtherUsers" xml:space="preserve">
+    <value>Andre brugere</value>
+  </data>
+  <data name="FolderTypeOpenSearch" xml:space="preserve">
+    <value>Åbn søgning</value>
+  </data>
+  <data name="FolderIdsUnknownGuid" xml:space="preserve">
+    <value>Guid identificerer ikke en kendt mappe.</value>
+  </data>
+  <data name="ExplorerBrowserFailedToGetView" xml:space="preserve">
+    <value>ExplorerBrowser kunne ikke hente den aktuelle visning.</value>
+  </data>
+  <data name="ShellPropertyWindows7" xml:space="preserve">
+    <value>Denne egenskab er kun tilgængelig på Windows 7.</value>
+  </data>
+  <data name="ExplorerBrowserItemCount" xml:space="preserve">
+    <value>Der opstod en uventet fejl under hentning af antal elementer.</value>
+  </data>
+  <data name="CommonFileDialogMultipleItems" xml:space="preserve">
+    <value>Der er valgt flere filer. Brug egenskaben Items i stedet.</value>
+  </data>
+  <data name="TabbedThumbnailZeroChildHandle" xml:space="preserve">
+    <value>Underordnedes vindues-handle må ikke være nul.</value>
+  </data>
+  <data name="MessageListenerFilterUnknownListenerHandle" xml:space="preserve">
+    <value>Der er ikke registreret et handle til en lyttefunktion med denne værdi.</value>
+  </data>
+  <data name="ShellLibraryDefaultSaveFolderNotFound" xml:space="preserve">
+    <value>Stien DefaultSaveFolder blev ikke fundet.</value>
+  </data>
+  <data name="MessageListenerNoWindowHandle" xml:space="preserve">
+    <value>Der kunne ikke oprettes et vindue på lyttefunktionstråden, fordi der ikke er noget eksisterende vindue på lyttefunktionstråden.</value>
+  </data>
+  <data name="ExplorerBrowserUnexpectedError" xml:space="preserve">
+    <value>Der opstod en uventet fejl under hentning af det valgte.</value>
+  </data>
+  <data name="PropertyCollectionCanonicalInvalidIndex" xml:space="preserve">
+    <value>Dette CanonicalName er ikke et gyldigt indeks.</value>
+  </data>
+  <data name="EnsureFileExistsCannotBeChanged" xml:space="preserve">
+    <value>EnsureFileExists kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="JumpListNegativeOrdinalPosition" xml:space="preserve">
+    <value>Negative tal er ikke tilladt som ordenstal.</value>
+  </data>
+  <data name="ShellThumbnailDoesNotHaveThumbnail" xml:space="preserve">
+    <value>Det aktuelle ShellObject har ikke et miniaturebillede. Brug metoden ShellThumbnailFormatOption.Default til at hente ikonet til dette element.</value>
+  </data>
+  <data name="ThumbnailManagerControlNotAdded" xml:space="preserve">
+    <value>Det angivne kontrolelement er ikke føjet til proceslinjen.</value>
+  </data>
+  <data name="FolderTypeSavedGames" xml:space="preserve">
+    <value>Gemte spil</value>
+  </data>
+  <data name="ShellPropertyWrongType" xml:space="preserve">
+    <value>Denne egenskab accepterer kun en værdi af typen "{0}".</value>
+  </data>
+  <data name="ShellObjectCannotGetDisplayName" xml:space="preserve">
+    <value>Det viste navn kunne ikke hentes.</value>
+  </data>
+  <data name="CommonFileDialogRequiresVista" xml:space="preserve">
+    <value>Fælles fildialog kræver Windows Vista eller nyere.</value>
+  </data>
+  <data name="FolderTypeSearches" xml:space="preserve">
+    <value>Søgninger</value>
+  </data>
+  <data name="FolderTypeCategory" xml:space="preserve">
+    <value>Kategorien ControlPanel</value>
+  </data>
+  <data name="ShellThumbnailSizeCannotBe0" xml:space="preserve">
+    <value>CurrentSize (bredde eller højde) kan ikke være 0.</value>
+  </data>
+  <data name="FolderTypeUserLibraries" xml:space="preserve">
+    <value>Brugerbiblioteker</value>
+  </data>
+  <data name="MessageListenerClassNotRegistered" xml:space="preserve">
+    <value>Vinduesklassen kunne ikke registreres. Se flere oplysninger i den indre undtagelse.</value>
+  </data>
+  <data name="FolderTypeRecordedTV" xml:space="preserve">
+    <value>Optaget tv</value>
+  </data>
+  <data name="TaskbarWindowManagerButtonsAlreadyAdded" xml:space="preserve">
+    <value>Der er allerede tilføjet værktøjslinjeknapper for dette vindue. Yderligere oplysninger om opdatering af egenskaber eller skjulning af eksisterende knapper kan findes i afsnittet Kommentarer under metoden AddButtons.</value>
+  </data>
+  <data name="CreatePromptCannotBeChanged" xml:space="preserve">
+    <value>CreatePrompt kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="FolderTypeSearchConnector" xml:space="preserve">
+    <value>Søg i Connector</value>
+  </data>
+  <data name="MessageListenerCannotCreateWindow" xml:space="preserve">
+    <value>Oprettelse af vindue mislykkedes. Se flere oplysninger i den indre undtagelse.</value>
+  </data>
+  <data name="CommonFileDialogCannotCreateShellItem" xml:space="preserve">
+    <value>Shell-elementet kunne ikke oprettes.</value>
+  </data>
+  <data name="IsExpandedModeCannotBeChanged" xml:space="preserve">
+    <value>IsExpandedMode kan ikke ændres, mens dialogboksen vises.</value>
+  </data>
+  <data name="ExplorerBrowserViewItems" xml:space="preserve">
+    <value>Der opstod en uventet fejl under hentning af visningselementer.</value>
+  </data>
+  <data name="ShellPropertyFactoryConstructorNotFound" xml:space="preserve">
+    <value>Der blev ikke fundet en konstruktør, som svarer til de ønskede argumenttyper.</value>
+  </data>
+  <data name="ShellObjectFactoryUnableToCreateItem" xml:space="preserve">
+    <value>Kunne ikke oprette shell-element.</value>
+  </data>
+  <data name="ShellPropertyCannotSetProperty" xml:space="preserve">
+    <value>Værdien for denne egenskab kan ikke angives. Brug det ShellObject, som er knyttet til denne egenskab, til at angive egenskabens værdi.</value>
+  </data>
+  <data name="FolderTypeLibrary" xml:space="preserve">
+    <value>Bibliotek</value>
+  </data>
+  <data name="TaskbarManagerValidWindowRequired" xml:space="preserve">
+    <value>Der kræves et gyldigt aktivt vindue for at opdatere proceslinjen.</value>
+  </data>
+  <data name="DialogControlCollectionEmptyName" xml:space="preserve">
+    <value>Kontrolelementets navn må ikke være null eller have en længde på nul.</value>
+  </data>
+  <data name="FolderTypeDocuments" xml:space="preserve">
+    <value>Dokumenter</value>
+  </data>
+  <data name="ExplorerBrowserBrowseToObjectFailed" xml:space="preserve">
+    <value>Søgning efter objektet mislykkedes.</value>
+  </data>
+  <data name="CommonFileDialogInvalidHandle" xml:space="preserve">
+    <value>Det angivne handle må ikke være IntPtr.Zero.</value>
+  </data>
+  <data name="RadioButtonListIndexOutOfBounds" xml:space="preserve">
+    <value>Indeks var uden for grænserne for CommonFileDialogRadioButtonList.</value>
+  </data>
+  <data name="JumpListFileTypeNotRegistered" xml:space="preserve">
+    <value>Filtypen er ikke registreret til dette program.</value>
+  </data>
+  <data name="FolderTypeSoftwareExplorer" xml:space="preserve">
+    <value>Softwareundersøgelse</value>
+  </data>
+  <data name="FolderTypeContacts" xml:space="preserve">
+    <value>Kontakter</value>
+  </data>
+  <data name="ShellLibraryInvalidLibrary" xml:space="preserve">
+    <value>Den angivne kendte mappe er ikke et gyldigt bibliotek.</value>
+  </data>
+  <data name="ShellExceptionDefaultText" xml:space="preserve">
+    <value>Der opstod en shell-undtagelse. Du kan finde yderligere oplysninger i den indre undtagelse.</value>
+  </data>
+</root>

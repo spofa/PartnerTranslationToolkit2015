@@ -1,0 +1,358 @@
+OBJECT Codeunit 58888 RegisterTranslationUtil
+{
+  OBJECT-PROPERTIES
+  {
+    Date=;
+    Time=;
+    Version List=PartnerTranslations;
+  }
+  PROPERTIES
+  {
+    OnRun=VAR
+            AddInTable@1000 : Record 2000000069;
+          BEGIN
+            // Custom translations can be loaded with this one
+            // (replace with respective public key token)
+            RegisterPartnerLangToken('15e5b2499d4875c1');
+          END;
+
+  }
+  CODE
+  {
+
+    PROCEDURE RegisterPartnerLangToken@1170000000(token@1170000000 : Text[16]);
+    VAR
+      AddInTable@1170000001 : Record 2000000069;
+    BEGIN
+      AddInTable.RESET;
+      AddInTable."Public Key Token" := token;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.UX2006';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.UX2006.WinForms';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.Web';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.Web.WebClient';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.WebBase';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.Windows';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.WinForms';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.WinForms.Controls';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Framework.UI.WinForms.DataVisualization.Timeline';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Nav.Client.DynamicsOnlineConnect';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Nav.Client.TimelineVisualization';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Nav.Client.WebClient';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Nav.Client.WebCommon';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+
+      AddInTable."Control Add-in Name" := 'Microsoft.Dynamics.Nav.Language';
+      IF (NOT AddInTable.FIND) THEN
+        AddInTable.INSERT;
+    END;
+
+    BEGIN
+    END.
+  }
+}
+
+OBJECT Page 58885 PublicKeyTokenEditor
+{
+  OBJECT-PROPERTIES
+  {
+    Date=;
+    Time=;
+    Version List=PartnerTranslations;
+  }
+  PROPERTIES
+  {
+    PageType=StandardDialog;
+  }
+  CONTROLS
+  {
+    { 1   ;    ;Container ;
+                Name=root;
+                ContainerType=ContentArea }
+
+    { 2   ;1   ;Field     ;
+                Name=Public Key Token;
+                SourceExpr=keyToken }
+
+  }
+  CODE
+  {
+    VAR
+      keyToken@1000 : Text[16];
+
+    PROCEDURE GetKeyToken@1() : Text[16];
+    BEGIN
+      EXIT (keyToken);
+    END;
+
+    BEGIN
+    END.
+  }
+}
+
+OBJECT Page 58886 Partner Translation Tools
+{
+  OBJECT-PROPERTIES
+  {
+    Date=;
+    Time=;
+    Version List=PartnerTranslations;
+  }
+  PROPERTIES
+  {
+    PageType=Worksheet;
+  }
+  CONTROLS
+  {
+    { 1170000000;;Container;
+                Name=root;
+                ContainerType=ContentArea }
+
+    { 1170000001;1;Part   ;
+                Name=AddIns;
+                PagePartID=Page58887;
+                PartType=Page }
+
+    { 1170000002;1;Part   ;
+                Name=Languages;
+                PagePartID=Page58888;
+                PartType=Page }
+
+    { 1170000003;1;Part   ;
+                Name=Windows Languages;
+                PagePartID=Page58889;
+                PartType=Page }
+
+  }
+  CODE
+  {
+
+    BEGIN
+    END.
+  }
+}
+
+OBJECT Page 58887 Custom Translation List
+{
+  OBJECT-PROPERTIES
+  {
+    Date=;
+    Time=;
+    Version List=PartnerTranslations;
+  }
+  PROPERTIES
+  {
+    SourceTable=Table2000000069;
+    PageType=ListPart;
+    ActionList=ACTIONS
+    {
+      { 6       ;    ;ActionContainer;
+                      Name=actions;
+                      ActionContainerType=ActionItems }
+      { 7       ;1   ;Action    ;
+                      Name=NewCustomTranslation;
+                      CaptionML=ENU=New custom translation...;
+                      Image=New;
+                      OnAction=VAR
+                                 KeyTokenEditor@1000 : Page 58885;
+                                 util@1002 : Codeunit 58888;
+                               BEGIN
+                                 IF (KeyTokenEditor.RUNMODAL = ACTION::OK) THEN
+                                 BEGIN
+                                   util.RegisterPartnerLangToken(KeyTokenEditor.GetKeyToken);
+                                 END;
+                               END;
+                                }
+    }
+  }
+  CONTROLS
+  {
+    { 1   ;0   ;Container ;
+                ContainerType=ContentArea }
+
+    { 2   ;1   ;Group     ;
+                Name=Group;
+                GroupType=Repeater }
+
+    { 3   ;2   ;Field     ;
+                Name=Base Assmebly Name;
+                CaptionML=ENU=Base Assmebly Name;
+                SourceExpr="Control Add-in Name" }
+
+    { 4   ;2   ;Field     ;
+                SourceExpr="Public Key Token" }
+
+    { 5   ;2   ;Field     ;
+                SourceExpr=Version }
+
+  }
+  CODE
+  {
+
+    BEGIN
+    END.
+  }
+}
+
+OBJECT Page 58888 Language List
+{
+  OBJECT-PROPERTIES
+  {
+    Date=;
+    Time=;
+    Version List=PartnerTranslations;
+  }
+  PROPERTIES
+  {
+    SourceTable=Table8;
+    PageType=ListPart;
+  }
+  CONTROLS
+  {
+    { 1   ;0   ;Container ;
+                ContainerType=ContentArea }
+
+    { 2   ;1   ;Group     ;
+                Name=Group;
+                GroupType=Repeater }
+
+    { 3   ;2   ;Field     ;
+                SourceExpr=Code }
+
+    { 4   ;2   ;Field     ;
+                SourceExpr=Name }
+
+    { 5   ;2   ;Field     ;
+                SourceExpr="Windows Language ID" }
+
+    { 6   ;2   ;Field     ;
+                SourceExpr="Windows Language Name" }
+
+  }
+  CODE
+  {
+
+    BEGIN
+    END.
+  }
+}
+
+OBJECT Page 58889 Windows Languages List
+{
+  OBJECT-PROPERTIES
+  {
+    Date=;
+    Time=;
+    Version List=PartnerTranslations;
+  }
+  PROPERTIES
+  {
+    SourceTable=Table2000000045;
+    PageType=ListPart;
+  }
+  CONTROLS
+  {
+    { 1   ;0   ;Container ;
+                ContainerType=ContentArea }
+
+    { 2   ;1   ;Group     ;
+                Name=Group;
+                GroupType=Repeater }
+
+    { 3   ;2   ;Field     ;
+                SourceExpr="Language ID" }
+
+    { 4   ;2   ;Field     ;
+                SourceExpr="Primary Language ID" }
+
+    { 5   ;2   ;Field     ;
+                SourceExpr=Name }
+
+    { 6   ;2   ;Field     ;
+                CaptionML=DEU=AbkÅrzung;
+                SourceExpr="Abbreviated Name" }
+
+    { 7   ;2   ;Field     ;
+                SourceExpr=Enabled }
+
+    { 8   ;2   ;Field     ;
+                SourceExpr="Globally Enabled" }
+
+    { 9   ;2   ;Field     ;
+                SourceExpr="Form Enabled" }
+
+    { 10  ;2   ;Field     ;
+                SourceExpr="Report Enabled" }
+
+    { 11  ;2   ;Field     ;
+                SourceExpr="Dataport Enabled" }
+
+    { 12  ;2   ;Field     ;
+                SourceExpr="XMLport Enabled" }
+
+    { 13  ;2   ;Field     ;
+                SourceExpr="Primary CodePage" }
+
+    { 14  ;2   ;Field     ;
+                SourceExpr="STX File Exist" }
+
+    { 15  ;2   ;Field     ;
+                SourceExpr="ETX File Exist" }
+
+    { 16  ;2   ;Field     ;
+                SourceExpr="Help File Exist" }
+
+  }
+  CODE
+  {
+
+    BEGIN
+    END.
+  }
+}
+

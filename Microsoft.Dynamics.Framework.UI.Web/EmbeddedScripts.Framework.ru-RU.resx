@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AuthenticationPage_HeaderText" xml:space="preserve">
+    <value>Добро пожаловать!</value>
+  </data>
+  <data name="ContinuousScrollingBusyText" xml:space="preserve">
+    <value>Выборка дополнительных строк</value>
+  </data>
+  <data name="OpenContextMenuTitle" xml:space="preserve">
+    <value>Открыть меню</value>
+  </data>
+  <data name="Validation_MessageWarnings" xml:space="preserve">
+    <value>Страница содержит одно или несколько предупреждений.</value>
+  </data>
+  <data name="Validation_MessageOneError_Desktop" xml:space="preserve">
+    <value>Страница содержит ошибку. Исправьте ошибки или попробуйте [[[отменить изменения]]].</value>
+  </data>
+  <data name="Validation_MessageOneError_Mobile" xml:space="preserve">
+    <value>Страница содержит ошибку. Исправьте ошибки или попробуйте отменить изменения.[[[[Отменить]]]]</value>
+  </data>
+  <data name="DatePickerDateFormat" xml:space="preserve">
+    <value>мм/дд/гг</value>
+  </data>
+  <data name="Expander_Expand" xml:space="preserve">
+    <value>Раскрыть</value>
+  </data>
+  <data name="FileUploadWrongFile" xml:space="preserve">
+    <value>Выберите файл с одним из следующих расширений: {0}</value>
+  </data>
+  <data name="Restart" xml:space="preserve">
+    <value>Перезапустить</value>
+  </data>
+  <data name="Filter_ExecuteButtonToolTip" xml:space="preserve">
+    <value>Применить фильтр</value>
+  </data>
+  <data name="DatePickerCloseText" xml:space="preserve">
+    <value>Выполнена</value>
+  </data>
+  <data name="DatePickerDayNamesMin" xml:space="preserve">
+    <value>Вс,Пн,Вт,Ср,Чт,Пт,Сб</value>
+  </data>
+  <data name="NavigationPane_AllHeading" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="LongOperationTitle" xml:space="preserve">
+    <value>Обработка...</value>
+  </data>
+  <data name="DrillDown_TooltipTitle" xml:space="preserve">
+    <value>Детализировать</value>
+  </data>
+  <data name="Lookup_TooltipTitle" xml:space="preserve">
+    <value>Найти значение</value>
+  </data>
+  <data name="BusinessGrid_SelectRowToolTip" xml:space="preserve">
+    <value>Выберите строку</value>
+  </data>
+  <data name="Filter_ColumnChooserToolTipFormat" xml:space="preserve">
+    <value>Фильтрация столбца: {0}</value>
+  </data>
+  <data name="Expander_Collapse" xml:space="preserve">
+    <value>Свернуть</value>
+  </data>
+  <data name="Message_CommunicationErrorTimedOut" xml:space="preserve">
+    <value>Связь с сервером нарушена, так как истекло время ожидания соединения, поэтому невозможно отобразить содержимое. {0}</value>
+  </data>
+  <data name="Validation_MessageMultipleErrors_Desktop" xml:space="preserve">
+    <value>Ошибок на странице: {0}. Исправьте ошибки или попробуйте [[[отменить изменения]]].</value>
+  </data>
+  <data name="FileUpload_FileTooBig" xml:space="preserve">
+    <value>Не удалось отправить файл, так как он слишком велик.</value>
+  </data>
+  <data name="DatePickerWeekHeader" xml:space="preserve">
+    <value>нед.</value>
+  </data>
+  <data name="ControlAddInMethodNotFound" xml:space="preserve">
+    <value>Метод "{0}" не найден в надстройке элемента управления.</value>
+  </data>
+  <data name="AriaLookupDescription" xml:space="preserve">
+    <value>Для поиска значения нажмите сочетание клавиш Alt+Стрелка вниз.</value>
+  </data>
+  <data name="OpenContextMenuTooltip" xml:space="preserve">
+    <value>Открыть меню</value>
+  </data>
+  <data name="Validation_TooltipTitle" xml:space="preserve">
+    <value>Результаты проверки</value>
+  </data>
+  <data name="Message_AadAuthenticationError" xml:space="preserve">
+    <value>Произошла ошибка при подключении к вашей учетной записи Active Directory для Azure. Убедитесь, что имеется подключение к Интернету, и повторите попытку.</value>
+  </data>
+  <data name="NavigationPane_ShowList" xml:space="preserve">
+    <value>Показать список</value>
+  </data>
+  <data name="JsonRPC_TimeoutError" xml:space="preserve">
+    <value>Истекло время ожидания при подключении к серверу.</value>
+  </data>
+  <data name="CallbackServiceProxy_WebServiceFailed" xml:space="preserve">
+    <value>Сбой метода сервера.</value>
+  </data>
+  <data name="AuthenticationPage_EnterNewServerName" xml:space="preserve">
+    <value>Введите новое имя службы...</value>
+  </data>
+  <data name="AuthenticationPage_ClearServerLIst" xml:space="preserve">
+    <value>Очистить список серверов</value>
+  </data>
+  <data name="DatePickerYearSuffix" xml:space="preserve">
+    <value />
+  </data>
+  <data name="AuthenticationPage_Username" xml:space="preserve">
+    <value>Имя пользователя</value>
+  </data>
+  <data name="DatePickerDayNames" xml:space="preserve">
+    <value>Воскресенье,Понедельник,Вторник,Среда,Четверг,Пятница,Суббота</value>
+  </data>
+  <data name="ServerNotCompatible" xml:space="preserve">
+    <value>Сервер несовместим, потребуется его обновление до более новой версии. Обратитесь к системному администратору.</value>
+  </data>
+  <data name="SynchronizationIcon_Tooltip" xml:space="preserve">
+    <value>Изменения в поле сохраняются.</value>
+  </data>
+  <data name="Back_Title" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="EditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Открыть запись "{0}" в новом окне</value>
+  </data>
+  <data name="DatePickerDayNamesShort" xml:space="preserve">
+    <value>Вс, Пн, Вт, Ср, Чт, Пт, Сб</value>
+  </data>
+  <data name="DatePickerNextText" xml:space="preserve">
+    <value>Следующий</value>
+  </data>
+  <data name="DatePickerPreviousText" xml:space="preserve">
+    <value>Предыдущий</value>
+  </data>
+  <data name="FocusOnContent_Tooltip" xml:space="preserve">
+    <value>Фокус на содержимом</value>
+  </data>
+  <data name="Validation_MessageNotification" xml:space="preserve">
+    <value>Страница содержит одно или несколько уведомлений.</value>
+  </data>
+  <data name="LongOperationMessage" xml:space="preserve">
+    <value>Дождитесь завершения операции.</value>
+  </data>
+  <data name="BusinessGrid_EmptyRowDefaultMessage" xml:space="preserve">
+    <value>(Данные для отображения в этом представлении отсутствуют)</value>
+  </data>
+  <data name="Message_ScriptError" xml:space="preserve">
+    <value>Возникла ошибка сценария – невозможно отобразить содержимое. {0}</value>
+  </data>
+  <data name="LongOperationPleaseWait" xml:space="preserve">
+    <value>Подождите. Действие занимает больше времени, чем обычно.</value>
+  </data>
+  <data name="Network_Unavailable" xml:space="preserve">
+    <value>В настоящий момент сеть недоступна. Соединение восстановится при возобновлении доступа к сети.</value>
+  </data>
+  <data name="Validation_MessageMultipleErrors_Mobile" xml:space="preserve">
+    <value>Ошибок на странице: {0}. Исправьте ошибки или попробуйте отменить изменения.[[[[Отменить]]]]</value>
+  </data>
+  <data name="ErrorPage_SendByMail" xml:space="preserve">
+    <value>Щелкните здесь, чтобы отправить эту ошибку по электронной почте.</value>
+  </data>
+  <data name="AuthenticationPage_Password" xml:space="preserve">
+    <value>Пароль</value>
+  </data>
+  <data name="Message_CommunicationError" xml:space="preserve">
+    <value>Связь с сервером нарушена, невозможно отобразить содержимое. {0}</value>
+  </data>
+  <data name="JsonRPC_GenericConnectionError" xml:space="preserve">
+    <value>Не удалось подключиться к серверу.</value>
+  </data>
+  <data name="DatePickerMonthNamesShort" xml:space="preserve">
+    <value>Янв,Фев,Мар,Апр,Май,Июн,Июл,Авг,Сен,Окт,Ноя,Дек</value>
+  </data>
+  <data name="ErrorPage_ErrorHasOcurred" xml:space="preserve">
+    <value>Произошла ошибка.</value>
+  </data>
+  <data name="ConfirmNewServer" xml:space="preserve">
+    <value>Выполняется подключение к "{0}" – это не текущая настройка подключения по умолчанию. Продолжить?</value>
+  </data>
+  <data name="Message_ErrorsExists" xml:space="preserve">
+    <value>На странице имеются несохраненные изменения. Отменить эти изменения?</value>
+  </data>
+  <data name="ConfirmNo" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="Tooltip_ValidationItemDescriptionHeadlineFormat" xml:space="preserve">
+    <value>({0} из {1})</value>
+  </data>
+  <data name="Message_NavigateAway" xml:space="preserve">
+    <value>Если продолжить, все открытые диалоговые окна будут закрыты.</value>
+  </data>
+  <data name="ConfirmYes" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="MandatoryIcon_Tooltip" xml:space="preserve">
+    <value>Для этого поля обязательно требуется значение.</value>
+  </data>
+  <data name="EnterServerPage_UseExistingServer" xml:space="preserve">
+    <value>Использовать существующую службу.</value>
+  </data>
+  <data name="AssistEdit_TooltipTitle" xml:space="preserve">
+    <value>Помощь в редактировании</value>
+  </data>
+  <data name="RestartPage" xml:space="preserve">
+    <value>Обновите страницу или откройте новое окно браузера.</value>
+  </data>
+  <data name="LookupEditControlWithDefaultActionToolTip" xml:space="preserve">
+    <value>Выбрать запись "{0}"</value>
+  </data>
+  <data name="SelectServerPage_IntroText" xml:space="preserve">
+    <value>Для начала работы необходимо подключить это приложение к службе через Интернет.</value>
+  </data>
+  <data name="DatePickerCurrentText" xml:space="preserve">
+    <value>Сегодня</value>
+  </data>
+  <data name="Filter_ClearButtonToolTip" xml:space="preserve">
+    <value>Очистить фильтр</value>
+  </data>
+  <data name="SelectServerControl_ServiceName" xml:space="preserve">
+    <value>Имя службы</value>
+  </data>
+  <data name="DatePickerMonthNames" xml:space="preserve">
+    <value>Январь,Февраль,Март,Апрель,Май,Июнь,Июль,Август,Сентябрь,Октябрь,Ноябрь,Декабрь</value>
+  </data>
+  <data name="Sorting_SortLinkTitle" xml:space="preserve">
+    <value>Сортировка по "{0}"</value>
+  </data>
+  <data name="DatePickerIsRTL" xml:space="preserve">
+    <value>False</value>
+  </data>
+  <data name="DatePickerFirstDay" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="DatePickerShowMonthAfterYear" xml:space="preserve">
+    <value>No</value>
+  </data>
+</root>

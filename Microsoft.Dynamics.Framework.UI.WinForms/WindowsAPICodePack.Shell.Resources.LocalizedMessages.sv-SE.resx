@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ShellPropertyValueTruncated" xml:space="preserve">
+    <value>Ett värde behövde trunkeras i en sträng eller avrundas om det var ett numeriskt värde. Ange AllowTruncatedValue till sant för att förhindra det här undantaget.</value>
+  </data>
+  <data name="FolderTypeCompressedFolder" xml:space="preserve">
+    <value>Komprimerad mapp</value>
+  </data>
+  <data name="FolderTypeGames" xml:space="preserve">
+    <value>Spel</value>
+  </data>
+  <data name="MessageListenerFilterUnableToRegister" xml:space="preserve">
+    <value>Kunde inte registrera meddelandefiltret.</value>
+  </data>
+  <data name="RestoreDirectoryCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra RestoreDirectory när en dialogruta är öppen.</value>
+  </data>
+  <data name="PropertyCollectionInvalidIndex" xml:space="preserve">
+    <value>PropertyKey är inte ett giltigt index.</value>
+  </data>
+  <data name="ShellThumbnailCurrentSizeRange" xml:space="preserve">
+    <value>CurrentSize (bredd eller höjd) kan inte vara större än maxstorleken: {0}.</value>
+  </data>
+  <data name="ShellHelperGetParsingNameFailed" xml:space="preserve">
+    <value>GetParsingName har misslyckats.</value>
+  </data>
+  <data name="ExplorerBrowserIconSize" xml:space="preserve">
+    <value>Kan inte hämta ikonstorlek.</value>
+  </data>
+  <data name="FolderTypeVideos" xml:space="preserve">
+    <value>Videor</value>
+  </data>
+  <data name="FolderTypeInvalid" xml:space="preserve">
+    <value>Ogiltigt</value>
+  </data>
+  <data name="ShowPlacesListCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra listan Visa platser när en dialogruta är öppen.</value>
+  </data>
+  <data name="ShellThumbnailNoHandler" xml:space="preserve">
+    <value>Aktuellt ShellObject har ingen giltig miniatyrbildshanterare eller också inträffade det ett problem vid extrahering av miniatyrbilden för det här specifika gränssnittsobjektet.</value>
+  </data>
+  <data name="JumpListLinkTitleRequired" xml:space="preserve">
+    <value>Rubriken på JumpListLink måste anges och kan inte vara null.</value>
+  </data>
+  <data name="ShellLibraryInvalidFolderType" xml:space="preserve">
+    <value>Ogiltigt guid för FolderType.</value>
+  </data>
+  <data name="FolderTypeCommunications" xml:space="preserve">
+    <value>Kommunikationer</value>
+  </data>
+  <data name="ShellObjectCollectionInsertReadOnly" xml:space="preserve">
+    <value>Det går inte att infoga artiklar i en skrivskyddad lista.</value>
+  </data>
+  <data name="DialogControlCollectionMenuItemControlsCannotBeAdded" xml:space="preserve">
+    <value>CommonFileDialogMenuItem-kontroller kan bara läggas till CommonFileDialogMenu-kontroller.</value>
+  </data>
+  <data name="NavigateToShortcutCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra NavigateToShortcut när en dialogruta är öppen.</value>
+  </data>
+  <data name="FolderTypeGenericLibrary" xml:space="preserve">
+    <value>Allmänt bibliotek</value>
+  </data>
+  <data name="ShellLibraryFolderNotFound" xml:space="preserve">
+    <value>Mappsökvägen hittades inte.</value>
+  </data>
+  <data name="ThumbnailManagerPreviewNotAdded" xml:space="preserve">
+    <value>Den angivna förhandsgranskningen har inte lagts till i aktivitetsfältet.</value>
+  </data>
+  <data name="FolderTypePrinters" xml:space="preserve">
+    <value>Skrivare</value>
+  </data>
+  <data name="FolderTypeUserFiles" xml:space="preserve">
+    <value>Användarfiler</value>
+  </data>
+  <data name="ThumbnailToolbarManagerMaxButtons" xml:space="preserve">
+    <value>Det maximala antalet tillåtna knappar är 7.</value>
+  </data>
+  <data name="EnsureValidNamesCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra EnsureValidNames när dialogrutan visas.</value>
+  </data>
+  <data name="TabbedThumbnailZeroParentHandle" xml:space="preserve">
+    <value>Överordnad fönsterhanterare kan inte vara noll.</value>
+  </data>
+  <data name="CommonFileDialogMultipleFiles" xml:space="preserve">
+    <value>Flera filer har valts. Använd egenskapen FileNames i stället.</value>
+  </data>
+  <data name="EnsurePathExistsCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra EnsurePathExists när dialogrutan visas.</value>
+  </data>
+  <data name="NavigationLogNullParent" xml:space="preserve">
+    <value>Överordnat värde kan inte vara null.</value>
+  </data>
+  <data name="FolderTypePictures" xml:space="preserve">
+    <value>Bilder</value>
+  </data>
+  <data name="ShellObjectCollectionArrayTooSmall" xml:space="preserve">
+    <value>Målmatrisen är för liten eller också är arrayIndex ogiltigt.</value>
+  </data>
+  <data name="FilePathNotExist" xml:space="preserve">
+    <value>Den angivna sökvägen finns inte ({0}).</value>
+  </data>
+  <data name="FolderTypeNotSpecified" xml:space="preserve">
+    <value>Ej specificerat</value>
+  </data>
+  <data name="EnsureReadonlyCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra EnsureReadOnly när dialogrutan visas.</value>
+  </data>
+  <data name="ShellLibraryEmptyName" xml:space="preserve">
+    <value>LibraryName kan inte vara tomt.</value>
+  </data>
+  <data name="ShellObjectWatcherRegisterFailed" xml:space="preserve">
+    <value>Registrering för ändringsmeddelande misslyckades.</value>
+  </data>
+  <data name="TasbarWindowProxyWindowSet" xml:space="preserve">
+    <value>TabbedThumbnailProxyWindow har inte ställts in.</value>
+  </data>
+  <data name="CommonFiltersText" xml:space="preserve">
+    <value>Textfiler</value>
+  </data>
+  <data name="ExplorerBrowserSelectedItemCount" xml:space="preserve">
+    <value>Ett oväntat fel uppstod när det valda artikelantalet hämtades.</value>
+  </data>
+  <data name="JumpListLinkPathRequired" xml:space="preserve">
+    <value>Sökvägen till JumpListLink måste anges och kan inte vara null.</value>
+  </data>
+  <data name="AlwaysAppendDefaultExtensionCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra AlwaysAppendDefaultExtension när dialogrutan visas.</value>
+  </data>
+  <data name="FolderTypeMusicIcons" xml:space="preserve">
+    <value>Musikikoner</value>
+  </data>
+  <data name="KnownFolderParsingName" xml:space="preserve">
+    <value>Tolkningsnamnet är inte giltigt.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetSortColumns" xml:space="preserve">
+    <value>Det går inte att hämta en lista över sorteringskolumner.</value>
+  </data>
+  <data name="ShellSearchFolderUnableToSetVisibleColumns" xml:space="preserve">
+    <value>Det går inte att ställa in synliga kolumner.</value>
+  </data>
+  <data name="FolderTypeMusic" xml:space="preserve">
+    <value>Musik</value>
+  </data>
+  <data name="ComboBoxIndexOutsideBounds" xml:space="preserve">
+    <value>Indexet var utanför gränserna för CommonFileDialogComboBox.</value>
+  </data>
+  <data name="ShellObjectFactoryPlatformNotSupported" xml:space="preserve">
+    <value>Skapande av gränssnittsobjekt kräver Windows 7 eller Windows Vista.</value>
+  </data>
+  <data name="PropertyCollectionNullCanonicalName" xml:space="preserve">
+    <value>Argument CanonicalName får inte vara null eller tomt.</value>
+  </data>
+  <data name="ShellPropertyUnableToGetWritableProperty" xml:space="preserve">
+    <value>Det går inte att hämta en skrivbar egenskapslagring för den här egenskapen.</value>
+  </data>
+  <data name="TaskbarWindowValueSet" xml:space="preserve">
+    <value>Värdet har redan ställts in. Det kan inte ställas in mer än en gång.</value>
+  </data>
+  <data name="ShellObjectCollectionRemoveReadOnly" xml:space="preserve">
+    <value>Det går inte att ta bort artiklar från en skrivskyddad lista.</value>
+  </data>
+  <data name="OverwritePromptCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra funktionen OverwritePrompt när en dialogruta är öppen.</value>
+  </data>
+  <data name="DialogControlCollectionRemoveControlFirst" xml:space="preserve">
+    <value>Dialogrutan måste först tas bort från de aktuella samlingarna.</value>
+  </data>
+  <data name="AddToMostRecentlyUsedListCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra AddToMostRecentlyUsedList när dialogrutan visas.</value>
+  </data>
+  <data name="CommonFiltersPicture" xml:space="preserve">
+    <value>Alla bildfiler</value>
+  </data>
+  <data name="TaskbarWindowEmptyButtonArray" xml:space="preserve">
+    <value>En knappmatris måste innehålla åtminstone en artikel.</value>
+  </data>
+  <data name="DialogControlCollectionCannotRemoveControls" xml:space="preserve">
+    <value>Det går inte att ta bort OLE-kontroller från en fildialogruta när de har lagts till.</value>
+  </data>
+  <data name="CommonFiltersOffice" xml:space="preserve">
+    <value>Office-filer</value>
+  </data>
+  <data name="FolderTypeRecycleBin" xml:space="preserve">
+    <value>RecycleBin</value>
+  </data>
+  <data name="JumpListCustomCategoriesDisabled" xml:space="preserve">
+    <value>Det går inte att lägga till anpassade kategorier när spårningen av senaste dokument har stängts av.</value>
+  </data>
+  <data name="NotImplementedException" xml:space="preserve">
+    <value>Metoden eller operationen har inte implementerats.</value>
+  </data>
+  <data name="ThumbnailToolbarManagerNullEmptyArray" xml:space="preserve">
+    <value>Matriser med värdet null eller som är tomma tillåts inte.</value>
+  </data>
+  <data name="SearchConditionFactoryInvalidProperty" xml:space="preserve">
+    <value>Given egenskapsnyckel är ogiltig.</value>
+  </data>
+  <data name="CommonFileDialogNotClosed" xml:space="preserve">
+    <value>Filnamnet är inte tillgängligt - dialogrutan har inte stängts än.</value>
+  </data>
+  <data name="FolderTypeSearchResults" xml:space="preserve">
+    <value>Allmänna SearchResults</value>
+  </data>
+  <data name="DialogControlCollectionMoreThanOneControl" xml:space="preserve">
+    <value>Dialogrutan kan inte ha fler än en kontroll med samma namn.</value>
+  </data>
+  <data name="ThumbnailManagerInvalidHandle" xml:space="preserve">
+    <value>Fönsterhanteraren är ogiltig.</value>
+  </data>
+  <data name="ShellPropertySetValue" xml:space="preserve">
+    <value>Det går inte att ställa in egenskapen.</value>
+  </data>
+  <data name="ShellObjectWatcherUnableToChangeEvents" xml:space="preserve">
+    <value>Det går inte att ändra bevakade händelser vid lyssning.</value>
+  </data>
+  <data name="SaveFileNullItem" xml:space="preserve">
+    <value>Hämtade en gränssnittsartikel med värdet null från en dialogruta.</value>
+  </data>
+  <data name="KnownFolderInvalidGuid" xml:space="preserve">
+    <value>Givet känt mapp-ID är ogiltigt.</value>
+  </data>
+  <data name="CommonFileDialogCanceled" xml:space="preserve">
+    <value>Filnamnet är inte tillgängligt - dialogrutan har avbrutits.</value>
+  </data>
+  <data name="ShellInvalidCanonicalName" xml:space="preserve">
+    <value>Givet CanonicalName är inte ett giltigt.</value>
+  </data>
+  <data name="ShellObjectCreationFailed" xml:space="preserve">
+    <value>Det gick inte att skapa gränssnittsartikeln.</value>
+  </data>
+  <data name="DialogControlCollectionModifyingControls" xml:space="preserve">
+    <value>Det går inte att ändra en kontrollsamling när en dialogruta är öppen.</value>
+  </data>
+  <data name="FolderTypeClassic" xml:space="preserve">
+    <value>Classic för ControlPanel</value>
+  </data>
+  <data name="ShowHiddenItemsCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra ShowHiddenItems när en dialogruta är öppen.</value>
+  </data>
+  <data name="ShellObjectCollectionEmptyCollection" xml:space="preserve">
+    <value>Minst ett gränssnittsobjekt måste finnas i samlingen.</value>
+  </data>
+  <data name="FolderTypeNetworkExplorer" xml:space="preserve">
+    <value>Nätverksutforskaren</value>
+  </data>
+  <data name="ThumbnailManagerPreviewAdded" xml:space="preserve">
+    <value>Den här förhandsgranskningen har redan lagts till.</value>
+  </data>
+  <data name="FolderTypeOtherUsers" xml:space="preserve">
+    <value>Övriga användare</value>
+  </data>
+  <data name="FolderTypeOpenSearch" xml:space="preserve">
+    <value>Öppna sökning</value>
+  </data>
+  <data name="FolderIdsUnknownGuid" xml:space="preserve">
+    <value>Guid identifierar inte en känd mapp.</value>
+  </data>
+  <data name="ExplorerBrowserFailedToGetView" xml:space="preserve">
+    <value>ExplorerBrowser kunde inte hämta aktuell vy.</value>
+  </data>
+  <data name="ShellPropertyWindows7" xml:space="preserve">
+    <value>Den här egenskapen är bara tillgänglig i Windows 7.</value>
+  </data>
+  <data name="ExplorerBrowserItemCount" xml:space="preserve">
+    <value>Ett oväntat fel uppstod när artikelantalet hämtades.</value>
+  </data>
+  <data name="CommonFileDialogMultipleItems" xml:space="preserve">
+    <value>Flera filer har valts. Använd egenskapen Artiklar i stället.</value>
+  </data>
+  <data name="TabbedThumbnailZeroChildHandle" xml:space="preserve">
+    <value>Fönsterhanteraren för den underordnade kontrollen kan inte vara noll.</value>
+  </data>
+  <data name="MessageListenerFilterUnknownListenerHandle" xml:space="preserve">
+    <value>Ingen lyssnarhanterare med det värdet har registrerats.</value>
+  </data>
+  <data name="ShellLibraryDefaultSaveFolderNotFound" xml:space="preserve">
+    <value>Sökvägen DefaultSaveFolder hittades inte.</value>
+  </data>
+  <data name="MessageListenerNoWindowHandle" xml:space="preserve">
+    <value>Det går inte att skapa fönstret i lyssnartråden eftersom det inte finns något fönster i denna.</value>
+  </data>
+  <data name="ExplorerBrowserUnexpectedError" xml:space="preserve">
+    <value>Ett oväntat fel uppstod när urvalet hämtades.</value>
+  </data>
+  <data name="PropertyCollectionCanonicalInvalidIndex" xml:space="preserve">
+    <value>CanonicalName är inte ett giltigt index.</value>
+  </data>
+  <data name="EnsureFileExistsCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra EnsureFileExists när dialogrutan visas.</value>
+  </data>
+  <data name="JumpListNegativeOrdinalPosition" xml:space="preserve">
+    <value>Negativa nummer tillåts inte för ordningspositionen.</value>
+  </data>
+  <data name="ShellThumbnailDoesNotHaveThumbnail" xml:space="preserve">
+    <value>Aktuellt ShellObject har ingen miniatyrbild. Använd metoden ShellThumbnailFormatOption.Default för att hämta ikonen för den här artikeln.</value>
+  </data>
+  <data name="ThumbnailManagerControlNotAdded" xml:space="preserve">
+    <value>Den angivna kontrollen har inte lagts till i aktivitetsfältet.</value>
+  </data>
+  <data name="FolderTypeSavedGames" xml:space="preserve">
+    <value>Sparade spel</value>
+  </data>
+  <data name="ShellPropertyWrongType" xml:space="preserve">
+    <value>Den här egenskapen accepterar bara ett värde av typen "{0}".</value>
+  </data>
+  <data name="ShellObjectCannotGetDisplayName" xml:space="preserve">
+    <value>Kan inte hämta visningsnamnet.</value>
+  </data>
+  <data name="CommonFileDialogRequiresVista" xml:space="preserve">
+    <value>Dialogrutan Vanlig fil kräver Windows Vista eller senare.</value>
+  </data>
+  <data name="FolderTypeSearches" xml:space="preserve">
+    <value>Sökningar</value>
+  </data>
+  <data name="FolderTypeCategory" xml:space="preserve">
+    <value>Kategori för ControlPanel</value>
+  </data>
+  <data name="ShellThumbnailSizeCannotBe0" xml:space="preserve">
+    <value>CurrentSize (bredd eller höjd) kan inte vara 0.</value>
+  </data>
+  <data name="FolderTypeUserLibraries" xml:space="preserve">
+    <value>Användarbibliotek</value>
+  </data>
+  <data name="MessageListenerClassNotRegistered" xml:space="preserve">
+    <value>Det gick inte att registrera fönsterklassen. Läs det interna undantaget om du vill ha mer information.</value>
+  </data>
+  <data name="FolderTypeRecordedTV" xml:space="preserve">
+    <value>RecordedTV</value>
+  </data>
+  <data name="TaskbarWindowManagerButtonsAlreadyAdded" xml:space="preserve">
+    <value>Verktygsfältsknappar har redan lagts till för det här fönstret. Mer information om hur du uppdaterar egenskaper eller döljer befintliga knappar finns i avsnittet Anmärkningar i metoden AddButtons.</value>
+  </data>
+  <data name="CreatePromptCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra CreatePrompt när dialogrutan visas.</value>
+  </data>
+  <data name="FolderTypeSearchConnector" xml:space="preserve">
+    <value>Sök efter Connector</value>
+  </data>
+  <data name="MessageListenerCannotCreateWindow" xml:space="preserve">
+    <value>Skapandet av fönstret misslyckades. Mer information finns i det interna undantaget.</value>
+  </data>
+  <data name="CommonFileDialogCannotCreateShellItem" xml:space="preserve">
+    <value>Det gick inte att skapa gränssnittsartikeln.</value>
+  </data>
+  <data name="IsExpandedModeCannotBeChanged" xml:space="preserve">
+    <value>Det går inte att ändra IsExpandedMode när dialogrutan visas.</value>
+  </data>
+  <data name="ExplorerBrowserViewItems" xml:space="preserve">
+    <value>Ett oväntat fel uppstod när visningsartiklar hämtades.</value>
+  </data>
+  <data name="ShellPropertyFactoryConstructorNotFound" xml:space="preserve">
+    <value>Det gick inte att hitta en konstruktör som matchar de begärda argumenttyperna.</value>
+  </data>
+  <data name="ShellObjectFactoryUnableToCreateItem" xml:space="preserve">
+    <value>Det går inte att skapa gränssnittsartikeln.</value>
+  </data>
+  <data name="ShellPropertyCannotSetProperty" xml:space="preserve">
+    <value>Det går inte att ställa in värdet för den här egenskapen. Använd det ShellObject som är associerat med den här egenskapen om du vill ställa in egenskapsvärdet.</value>
+  </data>
+  <data name="FolderTypeLibrary" xml:space="preserve">
+    <value>Bibliotek</value>
+  </data>
+  <data name="TaskbarManagerValidWindowRequired" xml:space="preserve">
+    <value>Ett giltigt aktivt fönster krävs för att uppdatera aktivitetsfältet.</value>
+  </data>
+  <data name="DialogControlCollectionEmptyName" xml:space="preserve">
+    <value>Kontrollnamnet kan inte ha en längd som är null eller noll.</value>
+  </data>
+  <data name="FolderTypeDocuments" xml:space="preserve">
+    <value>Dokument</value>
+  </data>
+  <data name="ExplorerBrowserBrowseToObjectFailed" xml:space="preserve">
+    <value>Bläddring till objektet misslyckades.</value>
+  </data>
+  <data name="CommonFileDialogInvalidHandle" xml:space="preserve">
+    <value>Angiven hanterare kan inte vara IntPtr.Zero.</value>
+  </data>
+  <data name="RadioButtonListIndexOutOfBounds" xml:space="preserve">
+    <value>Indexet var utanför gränserna för CommonFileDialogRadioButtonList.</value>
+  </data>
+  <data name="JumpListFileTypeNotRegistered" xml:space="preserve">
+    <value>Filtypen har inte registrerats med det här programmet.</value>
+  </data>
+  <data name="FolderTypeSoftwareExplorer" xml:space="preserve">
+    <value>Programutforskaren</value>
+  </data>
+  <data name="FolderTypeContacts" xml:space="preserve">
+    <value>Kontakter</value>
+  </data>
+  <data name="ShellLibraryInvalidLibrary" xml:space="preserve">
+    <value>Den angivna kända mappen är inte ett giltigt bibliotek.</value>
+  </data>
+  <data name="ShellExceptionDefaultText" xml:space="preserve">
+    <value>Ett gränssnittsundantag har uppstått. Mer information finns i det interna undantaget.</value>
+  </data>
+</root>
