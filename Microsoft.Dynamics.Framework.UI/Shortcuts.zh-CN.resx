@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="F5" xml:space="preserve">
     <value>F5</value>
@@ -124,13 +124,13 @@
     <value>F1</value>
   </data>
   <data name="Shift" xml:space="preserve">
-    <value>转变</value>
+    <value>Shift</value>
   </data>
   <data name="F9" xml:space="preserve">
     <value>F9</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>德尔</value>
+    <value>删除</value>
   </data>
   <data name="KeysConverterInvalidKeyCombination" xml:space="preserve">
     <value>键组合是无效的。</value>
@@ -148,7 +148,7 @@
     <value>关键名称 {0} 不是有效的。</value>
   </data>
   <data name="Return" xml:space="preserve">
-    <value>输入</value>
+    <value>回车</value>
   </data>
   <data name="Alt" xml:space="preserve">
     <value>Alt 键</value>
@@ -181,7 +181,7 @@
     <value>F4</value>
   </data>
   <data name="Insert" xml:space="preserve">
-    <value>惯导系统</value>
+    <value>插入</value>
   </data>
   <data name="Next" xml:space="preserve">
     <value>下一页</value>
