@@ -47,8 +47,8 @@
   <ItemGroup>
     <!--<EmbeddedResource Include="Resources.xx-XX.resX" />-->
     <!--<EmbeddedResource Include="Shortcuts.xx-XX.resX" />-->
-    <EmbeddedResource Include="Resources.ca-ES.resX" />
-    <EmbeddedResource Include="Shortcuts.ca-ES.resX" />
+    <EmbeddedResource Include="Resources.zh-CN.resx" />
+    <EmbeddedResource Include="Shortcuts.zh-CN.resx" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
